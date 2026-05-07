@@ -1,0 +1,16 @@
+[
+  {
+    "country": "Multi-country",
+    "region": "Cruise ship travel",
+    "confirmed": 2,
+    "suspected": 5,
+    "total_identified": 7,
+    "deaths": 3,
+    "recovered": 0,
+    "active": 4,
+    "lat": 16.5388,
+    "lng": -23.0418,
+    "risk_level": "low",
+    "last_updated": "2026-05-07T20:34:49+00:00"
+  }
+]

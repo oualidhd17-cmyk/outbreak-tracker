@@ -1,0 +1,22 @@
+[
+  {
+    "date": "2026-05-04",
+    "confirmed": 2,
+    "suspected": 5,
+    "total_identified": 7,
+    "deaths": 3,
+    "recovered": 0,
+    "source": "World Health Organization",
+    "source_url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599"
+  },
+  {
+    "date": "2026-05-07",
+    "confirmed": 0,
+    "suspected": 0,
+    "total_identified": 0,
+    "deaths": 0,
+    "recovered": 0,
+    "source": "European Centre for Disease Prevention and Control",
+    "source_url": "https://www.ecdc.europa.eu/en/news-events/hantavirus-outbreak-cruise-ship-under-investigation-risk-europe-very-low"
+  }
+]

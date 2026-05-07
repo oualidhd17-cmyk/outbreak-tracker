@@ -1,0 +1,29 @@
+[
+  {
+    "id": "who",
+    "name": "World Health Organization",
+    "url": "https://www.who.int/emergencies/disease-outbreak-news",
+    "type": "official",
+    "last_checked_at": "2026-05-07T20:34:49+00:00",
+    "confidence": "high",
+    "usage": "current_outbreak"
+  },
+  {
+    "id": "ecdc",
+    "name": "European Centre for Disease Prevention and Control",
+    "url": "https://www.ecdc.europa.eu/en/news-events/hantavirus-outbreak-cruise-ship-under-investigation-risk-europe-very-low",
+    "type": "health-agency",
+    "last_checked_at": "2026-05-07T20:34:49+00:00",
+    "confidence": "high",
+    "usage": "current_outbreak_validation"
+  },
+  {
+    "id": "cdc",
+    "name": "Centers for Disease Control and Prevention",
+    "url": "https://www.cdc.gov/hantavirus/data-research/cases/index.html",
+    "type": "health-agency",
+    "last_checked_at": "2026-05-07T20:34:49+00:00",
+    "confidence": "high",
+    "usage": "historical_context_only"
+  }
+]

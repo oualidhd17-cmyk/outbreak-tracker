@@ -1,0 +1,16 @@
+[
+  {
+    "id": "multi-country-hantavirus-current",
+    "name": "Hantavirus cluster linked to cruise ship travel, Multi-country",
+    "country": "Multi-country",
+    "confirmed": 2,
+    "suspected": 5,
+    "total_identified": 7,
+    "deaths": 3,
+    "lat": 16.5388,
+    "lng": -23.0418,
+    "source": "World Health Organization",
+    "source_url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+    "risk_level": "low"
+  }
+]

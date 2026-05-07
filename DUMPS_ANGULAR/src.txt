@@ -1,0 +1,761 @@
+﻿DUMP: Angular Project
+ROOT: C:\Users\Oualid Dahdi\Documents\outbreak-tracker
+SOURCE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src
+EXTENSIONS: *.ts, *.html, *.scss, *.css, *.json, *.md
+EXCLUDE_SPECS: True
+FILES: 6
+============================================================
+
+
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\app\globals.css
+============================================================
+
+@import "tailwindcss";
+
+:root {
+  --background: #000000;
+  --foreground: #ffffff;
+  --panel: #111111;
+  --panel-soft: #171717;
+  --panel-muted: #1a1a1a;
+  --border-dark: #000000;
+  --border-soft: rgba(255, 255, 255, 0.1);
+  --text-muted: rgba(255, 255, 255, 0.55);
+  --text-soft: rgba(255, 255, 255, 0.72);
+  --danger: #ef4444;
+  --danger-dark: #b00000;
+  --warning: #facc15;
+  --success: #34d399;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  min-height: 100%;
+  background: var(--background);
+  color: var(--foreground);
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100%;
+  margin: 0;
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  text-rendering: geometricPrecision;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body,
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button,
+select {
+  cursor: pointer;
+}
+
+button:disabled,
+select:disabled {
+  cursor: not-allowed;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img,
+svg,
+video,
+canvas {
+  display: block;
+  max-width: 100%;
+}
+
+[dir="rtl"] body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Dashboard layout safety */
+
+main {
+  isolation: isolate;
+}
+
+@media (max-width: 1023px) {
+  body {
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    overflow: hidden;
+  }
+}
+
+/* Leaflet dark dashboard overrides */
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  background: #05080b !important;
+  font-family: inherit;
+  outline: none;
+}
+
+.leaflet-pane,
+.leaflet-map-pane,
+.leaflet-tile-pane,
+.leaflet-overlay-pane,
+.leaflet-shadow-pane,
+.leaflet-marker-pane,
+.leaflet-tooltip-pane,
+.leaflet-popup-pane {
+  z-index: auto;
+}
+
+.leaflet-control-container {
+  font-family: inherit;
+}
+
+.leaflet-control-zoom {
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+  border-radius: 0 !important;
+  background: rgba(0, 0, 0, 0.72) !important;
+  box-shadow: 0 18px 45px rgba(0, 0, 0, 0.45) !important;
+}
+
+.leaflet-control-zoom a {
+  width: 38px !important;
+  height: 34px !important;
+  border: 0 !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1) !important;
+  background: rgba(0, 0, 0, 0.72) !important;
+  color: rgba(255, 255, 255, 0.8) !important;
+  font-size: 22px !important;
+  font-weight: 400 !important;
+  line-height: 32px !important;
+  text-shadow: none !important;
+}
+
+.leaflet-control-zoom a:last-child {
+  border-bottom: 0 !important;
+}
+
+.leaflet-control-zoom a:hover {
+  background: rgba(255, 255, 255, 0.12) !important;
+  color: #ffffff !important;
+}
+
+.leaflet-control-attribution {
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  background: rgba(0, 0, 0, 0.68) !important;
+  color: rgba(255, 255, 255, 0.45) !important;
+  font-size: 10px !important;
+}
+
+.leaflet-control-attribution a {
+  color: rgba(255, 255, 255, 0.7) !important;
+}
+
+.leaflet-popup {
+  margin-bottom: 16px;
+}
+
+.leaflet-popup-content-wrapper {
+  overflow: hidden;
+  border-radius: 0 !important;
+  background: #ffffff !important;
+  color: #111111 !important;
+  box-shadow: 0 20px 55px rgba(0, 0, 0, 0.45) !important;
+}
+
+.leaflet-popup-content {
+  margin: 14px !important;
+  color: #111111 !important;
+  font-family: inherit !important;
+}
+
+.leaflet-popup-tip {
+  border-radius: 0 !important;
+  background: #ffffff !important;
+}
+
+.leaflet-popup-close-button {
+  color: #111111 !important;
+}
+
+.leaflet-popup-close-button:hover {
+  color: #ef4444 !important;
+}
+
+/* Form controls */
+
+select {
+  color-scheme: dark;
+}
+
+option {
+  background: #111111;
+  color: #ffffff;
+}
+
+/* Scrollbar */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #101010;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333333;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #444444;
+}
+
+/* Firefox scrollbar */
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #333333 #101010;
+}
+
+/* Selection */
+
+::selection {
+  background: rgba(239, 68, 68, 0.35);
+  color: #ffffff;
+}
+
+/* Mobile helpers */
+
+@media (max-width: 640px) {
+  .leaflet-control-zoom a {
+    width: 34px !important;
+    height: 32px !important;
+    line-height: 30px !important;
+  }
+
+  .leaflet-control-attribution {
+    display: none !important;
+  }
+}
+
+/* Print */
+
+@media print {
+  body {
+    overflow: visible;
+    background: #ffffff;
+    color: #000000;
+  }
+
+  .leaflet-control-container,
+  [id*="ad"],
+  [class*="ad"] {
+    display: none !important;
+  }
+}
+
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\i18n\messages.ts
+============================================================
+
+export type AppLocale = 'en' | 'ar' | 'fr' | 'es';
+
+export type TranslationKey =
+  | 'app.title'
+  | 'app.subtitle'
+  | 'stats.totalConfirmed'
+  | 'stats.deaths'
+  | 'stats.countries'
+  | 'stats.lastUpdate'
+  | 'stats.confirmedByCountry'
+  | 'map.title'
+  | 'map.subtitle'
+  | 'chart.title'
+  | 'chart.subtitle'
+  | 'chart.confirmed'
+  | 'chart.deaths'
+  | 'sources.verified'
+  | 'actions.refresh'
+  | 'status.title'
+  | 'status.officialUpdate'
+  | 'status.browserRefresh'
+  | 'status.mode'
+  | 'status.staticJson'
+  | 'ads.topBanner'
+  | 'ads.sidebar'
+  | 'ads.chartSide'
+  | 'ads.mobile'
+  | 'loading.dashboard'
+  | 'error.title'
+  | 'error.message'
+  | 'error.retry'
+  | 'language.label';
+
+export const LOCALES: Array<{
+  code: AppLocale;
+  label: string;
+  nativeName: string;
+  dir: 'ltr' | 'rtl';
+}> = [
+  {
+    code: 'en',
+    label: 'English',
+    nativeName: 'English',
+    dir: 'ltr',
+  },
+  {
+    code: 'ar',
+    label: 'Arabic',
+    nativeName: 'العربية',
+    dir: 'rtl',
+  },
+  {
+    code: 'fr',
+    label: 'French',
+    nativeName: 'Français',
+    dir: 'ltr',
+  },
+  {
+    code: 'es',
+    label: 'Spanish',
+    nativeName: 'Español',
+    dir: 'ltr',
+  },
+];
+
+export const DEFAULT_LOCALE: AppLocale = 'en';
+
+export const messages: Record<AppLocale, Record<TranslationKey, string>> = {
+  en: {
+    'app.title': 'Live Outbreak Tracker',
+    'app.subtitle': 'Official-source dashboard with delayed static updates.',
+    'stats.totalConfirmed': 'Total Confirmed',
+    'stats.deaths': 'Deaths',
+    'stats.countries': 'Countries',
+    'stats.lastUpdate': 'Last update',
+    'stats.confirmedByCountry': 'Confirmed Cases by Country/Region',
+    'map.title': 'Interactive Map',
+    'map.subtitle': 'Outbreak locations by confirmed cases',
+    'chart.title': 'Case Timeline',
+    'chart.subtitle': 'Total confirmed cases over time',
+    'chart.confirmed': 'Confirmed',
+    'chart.deaths': 'Deaths',
+    'sources.verified': 'Verified Sources',
+    'actions.refresh': 'Refresh',
+    'status.title': 'Data Status',
+    'status.officialUpdate': 'Official update',
+    'status.browserRefresh': 'Browser refresh',
+    'status.mode': 'Mode',
+    'status.staticJson': 'Static JSON',
+    'ads.topBanner': 'Top Banner Ad',
+    'ads.sidebar': 'Sidebar Ad',
+    'ads.chartSide': 'Chart Side Ad',
+    'ads.mobile': 'Mobile Ad',
+    'loading.dashboard': 'Loading outbreak dashboard',
+    'error.title': 'Unable to load data',
+    'error.message': 'The dashboard data is currently unavailable.',
+    'error.retry': 'Retry',
+    'language.label': 'Language',
+  },
+  ar: {
+    'app.title': 'منصة تتبع التفشي المباشر',
+    'app.subtitle': 'لوحة بيانات من مصادر رسمية مع تحديثات دورية مؤجلة.',
+    'stats.totalConfirmed': 'إجمالي الحالات المؤكدة',
+    'stats.deaths': 'الوفيات',
+    'stats.countries': 'الدول',
+    'stats.lastUpdate': 'آخر تحديث',
+    'stats.confirmedByCountry': 'الحالات المؤكدة حسب الدولة/المنطقة',
+    'map.title': 'الخريطة التفاعلية',
+    'map.subtitle': 'مواقع التفشي حسب الحالات المؤكدة',
+    'chart.title': 'الخط الزمني للحالات',
+    'chart.subtitle': 'إجمالي الحالات المؤكدة عبر الوقت',
+    'chart.confirmed': 'المؤكدة',
+    'chart.deaths': 'الوفيات',
+    'sources.verified': 'مصادر موثوقة',
+    'actions.refresh': 'تحديث',
+    'status.title': 'حالة البيانات',
+    'status.officialUpdate': 'التحديث الرسمي',
+    'status.browserRefresh': 'تحديث المتصفح',
+    'status.mode': 'الوضع',
+    'status.staticJson': 'JSON ثابت',
+    'ads.topBanner': 'إعلان علوي',
+    'ads.sidebar': 'إعلان جانبي',
+    'ads.chartSide': 'إعلان جانب الرسم',
+    'ads.mobile': 'إعلان الجوال',
+    'loading.dashboard': 'جاري تحميل لوحة التتبع',
+    'error.title': 'تعذر تحميل البيانات',
+    'error.message': 'بيانات اللوحة غير متوفرة حاليًا.',
+    'error.retry': 'إعادة المحاولة',
+    'language.label': 'اللغة',
+  },
+  fr: {
+    'app.title': 'Tableau de suivi des épidémies',
+    'app.subtitle': 'Tableau basé sur des sources officielles avec mises à jour différées.',
+    'stats.totalConfirmed': 'Total confirmé',
+    'stats.deaths': 'Décès',
+    'stats.countries': 'Pays',
+    'stats.lastUpdate': 'Dernière mise à jour',
+    'stats.confirmedByCountry': 'Cas confirmés par pays/région',
+    'map.title': 'Carte interactive',
+    'map.subtitle': 'Lieux de l’épidémie par cas confirmés',
+    'chart.title': 'Chronologie des cas',
+    'chart.subtitle': 'Total des cas confirmés dans le temps',
+    'chart.confirmed': 'Confirmés',
+    'chart.deaths': 'Décès',
+    'sources.verified': 'Sources vérifiées',
+    'actions.refresh': 'Actualiser',
+    'status.title': 'État des données',
+    'status.officialUpdate': 'Mise à jour officielle',
+    'status.browserRefresh': 'Actualisation navigateur',
+    'status.mode': 'Mode',
+    'status.staticJson': 'JSON statique',
+    'ads.topBanner': 'Annonce supérieure',
+    'ads.sidebar': 'Annonce latérale',
+    'ads.chartSide': 'Annonce graphique',
+    'ads.mobile': 'Annonce mobile',
+    'loading.dashboard': 'Chargement du tableau',
+    'error.title': 'Impossible de charger les données',
+    'error.message': 'Les données du tableau sont actuellement indisponibles.',
+    'error.retry': 'Réessayer',
+    'language.label': 'Langue',
+  },
+  es: {
+    'app.title': 'Panel de seguimiento de brotes',
+    'app.subtitle': 'Panel con fuentes oficiales y actualizaciones estáticas diferidas.',
+    'stats.totalConfirmed': 'Total confirmado',
+    'stats.deaths': 'Muertes',
+    'stats.countries': 'Países',
+    'stats.lastUpdate': 'Última actualización',
+    'stats.confirmedByCountry': 'Casos confirmados por país/región',
+    'map.title': 'Mapa interactivo',
+    'map.subtitle': 'Ubicaciones del brote por casos confirmados',
+    'chart.title': 'Línea temporal de casos',
+    'chart.subtitle': 'Total de casos confirmados en el tiempo',
+    'chart.confirmed': 'Confirmados',
+    'chart.deaths': 'Muertes',
+    'sources.verified': 'Fuentes verificadas',
+    'actions.refresh': 'Actualizar',
+    'status.title': 'Estado de datos',
+    'status.officialUpdate': 'Actualización oficial',
+    'status.browserRefresh': 'Actualización del navegador',
+    'status.mode': 'Modo',
+    'status.staticJson': 'JSON estático',
+    'ads.topBanner': 'Anuncio superior',
+    'ads.sidebar': 'Anuncio lateral',
+    'ads.chartSide': 'Anuncio del gráfico',
+    'ads.mobile': 'Anuncio móvil',
+    'loading.dashboard': 'Cargando panel de brotes',
+    'error.title': 'No se pueden cargar los datos',
+    'error.message': 'Los datos del panel no están disponibles actualmente.',
+    'error.retry': 'Reintentar',
+    'language.label': 'Idioma',
+  },
+};
+
+export function getLocaleDirection(locale: AppLocale): 'ltr' | 'rtl' {
+  return LOCALES.find((item) => item.code === locale)?.dir ?? 'ltr';
+}
+
+export function translate(locale: AppLocale, key: TranslationKey): string {
+  return messages[locale]?.[key] ?? messages[DEFAULT_LOCALE][key] ?? key;
+}
+
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\i18n\useI18n.ts
+============================================================
+
+'use client';
+
+import { useCallback, useEffect, useMemo, useSyncExternalStore } from 'react';
+
+import {
+  DEFAULT_LOCALE,
+  getLocaleDirection,
+  LOCALES,
+  translate,
+  type AppLocale,
+  type TranslationKey,
+} from '@/i18n/messages';
+
+const STORAGE_KEY = 'outbreak_tracker_locale';
+const LOCALE_CHANGE_EVENT = 'outbreak-tracker-locale-change';
+
+function isAppLocale(value: string | null): value is AppLocale {
+  return value === 'en' || value === 'ar' || value === 'fr' || value === 'es';
+}
+
+function getBrowserLocale(): AppLocale {
+  if (typeof window === 'undefined') {
+    return DEFAULT_LOCALE;
+  }
+
+  const savedLocale = window.localStorage.getItem(STORAGE_KEY);
+
+  if (isAppLocale(savedLocale)) {
+    return savedLocale;
+  }
+
+  const browserLocale = window.navigator.language.slice(0, 2);
+
+  if (isAppLocale(browserLocale)) {
+    return browserLocale;
+  }
+
+  return DEFAULT_LOCALE;
+}
+
+function getServerLocale(): AppLocale {
+  return DEFAULT_LOCALE;
+}
+
+function subscribeToLocaleChanges(callback: () => void): () => void {
+  if (typeof window === 'undefined') {
+    return () => {};
+  }
+
+  const handleStorage = (event: StorageEvent) => {
+    if (event.key === STORAGE_KEY) {
+      callback();
+    }
+  };
+
+  const handleCustomChange = () => {
+    callback();
+  };
+
+  window.addEventListener('storage', handleStorage);
+  window.addEventListener(LOCALE_CHANGE_EVENT, handleCustomChange);
+
+  return () => {
+    window.removeEventListener('storage', handleStorage);
+    window.removeEventListener(LOCALE_CHANGE_EVENT, handleCustomChange);
+  };
+}
+
+function syncDocumentLocale(locale: AppLocale): void {
+  if (typeof document === 'undefined') {
+    return;
+  }
+
+  document.documentElement.lang = locale;
+  document.documentElement.dir = getLocaleDirection(locale);
+}
+
+function saveLocale(locale: AppLocale): void {
+  if (typeof window === 'undefined') {
+    return;
+  }
+
+  window.localStorage.setItem(STORAGE_KEY, locale);
+  window.dispatchEvent(new Event(LOCALE_CHANGE_EVENT));
+}
+
+export function useI18n() {
+  const locale = useSyncExternalStore(
+    subscribeToLocaleChanges,
+    getBrowserLocale,
+    getServerLocale,
+  );
+
+  const dir = getLocaleDirection(locale);
+
+  useEffect(() => {
+    syncDocumentLocale(locale);
+  }, [locale]);
+
+  const setLocale = useCallback((nextLocale: AppLocale) => {
+    saveLocale(nextLocale);
+    syncDocumentLocale(nextLocale);
+  }, []);
+
+  const t = useCallback(
+    (key: TranslationKey) => {
+      return translate(locale, key);
+    },
+    [locale],
+  );
+
+  return useMemo(
+    () => ({
+      locale,
+      dir,
+      locales: LOCALES,
+      setLocale,
+      t,
+    }),
+    [dir, locale, setLocale, t],
+  );
+}
+
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\lib\data.ts
+============================================================
+
+import type {
+  OutbreakCountry,
+  OutbreakGlobalStats,
+  OutbreakPoint,
+  OutbreakSource,
+  OutbreakTimelineItem,
+} from '@/types/outbreak';
+
+async function fetchJson<T>(path: string): Promise<T> {
+  const response = await fetch(path, {
+    cache: 'no-store',
+  });
+
+  if (!response.ok) {
+    throw new Error(`Failed to load ${path}`);
+  }
+
+  return response.json() as Promise<T>;
+}
+
+export async function loadGlobalStats(): Promise<OutbreakGlobalStats> {
+  return fetchJson<OutbreakGlobalStats>('/data/global.json');
+}
+
+export async function loadCountries(): Promise<OutbreakCountry[]> {
+  return fetchJson<OutbreakCountry[]>('/data/countries.json');
+}
+
+export async function loadPoints(): Promise<OutbreakPoint[]> {
+  return fetchJson<OutbreakPoint[]>('/data/points.json');
+}
+
+export async function loadTimeline(): Promise<OutbreakTimelineItem[]> {
+  return fetchJson<OutbreakTimelineItem[]>('/data/timeline.json');
+}
+
+export async function loadSources(): Promise<OutbreakSource[]> {
+  return fetchJson<OutbreakSource[]>('/data/sources.json');
+}
+
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\lib\format.ts
+============================================================
+
+export function formatNumber(value: number | null | undefined): string {
+  if (value === null || value === undefined || Number.isNaN(value)) {
+    return '0';
+  }
+
+  return new Intl.NumberFormat('en-US').format(value);
+}
+
+export function formatCompactNumber(value: number | null | undefined): string {
+  if (value === null || value === undefined || Number.isNaN(value)) {
+    return '0';
+  }
+
+  return new Intl.NumberFormat('en-US', {
+    notation: 'compact',
+    maximumFractionDigits: 1,
+  }).format(value);
+}
+
+export function formatDateTime(value: string | null | undefined): string {
+  if (!value) {
+    return 'Unknown';
+  }
+
+  const date = new Date(value);
+
+  if (Number.isNaN(date.getTime())) {
+    return 'Unknown';
+  }
+
+  return new Intl.DateTimeFormat('en-US', {
+    dateStyle: 'medium',
+    timeStyle: 'short',
+  }).format(date);
+}
+
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\types\outbreak.ts
+============================================================
+
+export type RiskLevel = 'low' | 'moderate' | 'high' | 'critical' | 'unknown';
+
+export type OutbreakGlobalStats = {
+  disease: string;
+  total_confirmed: number;
+  total_deaths: number;
+  total_recovered: number;
+  affected_countries: number;
+  global_risk_level: RiskLevel;
+  last_updated: string;
+  source_label: string;
+};
+
+export type OutbreakCountry = {
+  country: string;
+  region?: string;
+  confirmed: number;
+  deaths: number;
+  recovered?: number;
+  active?: number;
+  lat: number;
+  lng: number;
+  risk_level: RiskLevel;
+  last_updated?: string;
+};
+
+export type OutbreakPoint = {
+  id: string;
+  name: string;
+  country: string;
+  confirmed: number;
+  deaths: number;
+  lat: number;
+  lng: number;
+  source: string;
+  source_url?: string;
+  risk_level: RiskLevel;
+};
+
+export type OutbreakTimelineItem = {
+  date: string;
+  confirmed: number;
+  deaths: number;
+  recovered?: number;
+};
+
+export type OutbreakSource = {
+  id: string;
+  name: string;
+  url: string;
+  type: 'official' | 'health-agency' | 'early-warning' | 'news';
+  last_checked_at: string;
+  confidence: 'high' | 'medium' | 'low';
+};
+
+export type OutbreakDashboardData = {
+  global: OutbreakGlobalStats;
+  countries: OutbreakCountry[];
+  points: OutbreakPoint[];
+  timeline: OutbreakTimelineItem[];
+  sources: OutbreakSource[];
+};
