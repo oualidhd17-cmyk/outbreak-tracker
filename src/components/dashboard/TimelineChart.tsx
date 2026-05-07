@@ -27,8 +27,8 @@ type TimelineChartProps = {
 
 export function TimelineChart({ data, labels }: TimelineChartProps) {
   return (
-    <div className="flex h-full min-h-[260px] w-full min-w-0 flex-col bg-[#171717] px-4 py-3 text-white">
-      <div className="mb-2 flex shrink-0 items-center justify-between gap-4">
+    <div className="flex h-[320px] min-h-[320px] w-full min-w-0 flex-col bg-[#171717] px-4 py-3 text-white sm:h-[340px] lg:h-full lg:min-h-0">
+      <div className="mb-2 flex shrink-0 flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
         <div className="min-w-0">
           <div className="text-[10px] font-semibold uppercase tracking-[0.24em] text-white/35">
             {labels.title}

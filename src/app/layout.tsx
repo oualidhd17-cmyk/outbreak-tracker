@@ -1,10 +1,21 @@
 import type { Metadata } from 'next';
+import Script from 'next/script';
 import 'leaflet/dist/leaflet.css';
 import './globals.css';
 
 export const metadata: Metadata = {
-  title: 'Outbreak Tracker',
-  description: 'Static outbreak tracking dashboard with verified source updates.',
+  title: 'HantaMap - Hantavirus Tracker',
+  description:
+    'Live Hantavirus tracker with official-source outbreak data, map, timeline, and verified public health updates.',
+  keywords: [
+    'Hantavirus',
+    'Hantavirus tracker',
+    'Hantavirus map',
+    'Hantavirus outbreak',
+    'HantaMap',
+    'virus tracker',
+    'outbreak tracker',
+  ],
 };
 
 export default function RootLayout({
@@ -14,7 +25,17 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body>{children}</body>
+      <body>
+        <Script
+          id="monetag-multitag"
+          src="https://quge5.com/88/tag.min.js"
+          data-zone="237269"
+          data-cfasync="false"
+          strategy="afterInteractive"
+        />
+
+        {children}
+      </body>
     </html>
   );
 }

@@ -147,8 +147,8 @@ export function OutbreakDashboard() {
   }
 
   return (
-    <main dir="ltr" className="h-dvh overflow-hidden bg-black text-white">
-      <div className="grid h-full grid-cols-[330px_minmax(0,1fr)] bg-black">
+    <main dir="ltr" className="min-h-dvh bg-black pb-16 text-white lg:h-dvh lg:overflow-hidden lg:pb-0">
+      <div className="grid min-h-dvh grid-cols-1 bg-black lg:h-full lg:min-h-0 lg:grid-cols-[330px_minmax(0,1fr)]">
         <StatsSidebar
           global={data.global}
           countries={data.countries}
@@ -165,13 +165,13 @@ export function OutbreakDashboard() {
           }}
         />
 
-        <section className="grid min-h-0 grid-rows-[82px_minmax(0,1fr)_286px] bg-black">
-          <header className="grid min-h-0 grid-cols-[minmax(0,1fr)_480px] gap-px border-b border-black bg-black">
-            <div className="flex min-w-0 items-center bg-[#101010] px-4 py-2">
+        <section className="grid min-h-0 bg-black lg:grid-rows-[82px_minmax(0,1fr)_286px]">
+          <header className="grid min-h-0 gap-px border-b border-black bg-black xl:grid-cols-[minmax(0,1fr)_480px]">
+            <div className="flex min-w-0 items-center bg-[#101010] px-3 py-3 sm:px-4 lg:py-2">
               <AdSlot id="top-map-ad" variant="top" label={t('ads.topBanner')} />
             </div>
 
-            <div className="grid min-w-0 grid-cols-[minmax(0,1fr)_auto] items-center gap-3 bg-[#151515] px-4 py-2">
+            <div className="grid min-w-0 gap-3 bg-[#151515] px-3 py-3 sm:px-4 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center lg:py-2">
               <div className="min-w-0" dir={isRtl ? 'rtl' : 'ltr'}>
                 <div className="flex items-center gap-2 text-[10px] font-semibold uppercase tracking-[0.2em] text-white/40">
                   <ShieldCheck className="h-3.5 w-3.5 shrink-0 text-emerald-400" />
@@ -183,7 +183,7 @@ export function OutbreakDashboard() {
                 </div>
               </div>
 
-              <div className="flex shrink-0 items-center gap-2" dir="ltr">
+              <div className="flex flex-wrap items-center gap-2" dir="ltr">
                 <LanguageSwitcher
                   locale={locale}
                   locales={locales}
@@ -209,11 +209,11 @@ export function OutbreakDashboard() {
             </div>
           </header>
 
-          <div className="min-h-0 border-b border-black">
+          <div className="h-[420px] min-h-0 border-b border-black sm:h-[500px] lg:h-auto">
             <DarkOutbreakMap points={data.points} />
           </div>
 
-          <div className="grid min-h-0 min-w-0 grid-cols-[minmax(0,1fr)_360px] gap-px border-t border-black bg-black">
+          <div className="grid min-h-0 min-w-0 gap-px border-t border-black bg-black lg:grid-cols-[minmax(0,1fr)_360px]">
             <TimelineChart
               data={data.timeline}
               labels={{
@@ -224,7 +224,7 @@ export function OutbreakDashboard() {
               }}
             />
 
-            <aside className="grid min-h-0 grid-rows-[112px_minmax(0,1fr)] gap-3 bg-[#111111] p-3">
+            <aside className="grid min-h-0 gap-3 bg-[#111111] p-3 lg:grid-rows-[112px_minmax(0,1fr)]">
               <div
                 className="min-h-0 border border-white/10 bg-white/[0.03] p-3"
                 dir={isRtl ? 'rtl' : 'ltr'}
@@ -258,8 +258,15 @@ export function OutbreakDashboard() {
               <AdSlot id="bottom-side-ad" variant="side" label={t('ads.chartSide')} />
             </aside>
           </div>
+
+          <div className="grid gap-3 bg-[#101010] p-3 lg:hidden">
+            <AdSlot id="mobile-inline-ad-1" variant="inline" label={t('ads.mobile')} />
+            <AdSlot id="mobile-inline-ad-2" variant="inline" label={t('ads.mobile')} />
+          </div>
         </section>
       </div>
+
+      <AdSlot id="mobile-sticky-ad" variant="mobile" label={t('ads.mobile')} />
     </main>
   );
 }

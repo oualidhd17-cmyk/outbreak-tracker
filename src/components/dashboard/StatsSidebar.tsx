@@ -33,7 +33,7 @@ export function StatsSidebar({
   return (
     <aside
       dir={dir}
-      className="flex h-full min-h-0 flex-col border-r border-black bg-[#111111] text-white"
+      className="flex min-h-0 flex-col border-b border-black bg-[#111111] text-white lg:h-full lg:border-b-0 lg:border-r"
     >
       <div className="border-b border-black bg-[#181818] px-4 py-3">
         <div className="flex items-center gap-2 text-[10px] font-semibold uppercase tracking-[0.24em] text-white/55">
@@ -45,13 +45,16 @@ export function StatsSidebar({
           {global.disease}
         </h1>
 
-        <p className="mt-1 truncate text-xs text-white/45">{labels.appSubtitle}</p>
+        <p className="mt-1 text-xs leading-5 text-white/45">{labels.appSubtitle}</p>
       </div>
 
       <div className="border-b border-black bg-[#0d0d0d] px-4 py-4">
         <div className="text-xs font-semibold text-white/55">{labels.totalConfirmed}</div>
 
-        <div dir="ltr" className="mt-1 font-mono text-[64px] font-light leading-none tracking-[0.08em] text-white">
+        <div
+          dir="ltr"
+          className="mt-1 font-mono text-[58px] font-light leading-none tracking-[0.08em] text-white sm:text-[64px]"
+        >
           {formatNumber(global.total_confirmed)}
         </div>
 
@@ -103,7 +106,7 @@ export function StatsSidebar({
         </div>
       </div>
 
-      <div className="min-h-0 flex-1 overflow-y-auto bg-[#1a1a1a]">
+      <div className="max-h-[260px] min-h-0 overflow-y-auto bg-[#1a1a1a] lg:max-h-none lg:flex-1">
         {sortedCountries.map((country) => (
           <div
             key={country.country}

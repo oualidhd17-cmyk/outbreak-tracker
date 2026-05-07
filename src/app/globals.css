@@ -21,7 +21,8 @@ body {
 }
 
 body {
-  overflow: hidden;
+  overflow-x: hidden;
+  overflow-y: auto;
 }
 
 button,
@@ -129,12 +130,13 @@ option {
   color: #ffffff;
 }
 
-@media (max-width: 1023px) {
+@media (min-width: 1024px) {
   body {
-    overflow-x: hidden;
-    overflow-y: auto;
+    overflow: hidden;
   }
+}
 
+@media (max-width: 1023px) {
   .leaflet-control-attribution {
     display: none !important;
   }
