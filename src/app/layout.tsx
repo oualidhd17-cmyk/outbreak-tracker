@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import Script from 'next/script';
+import { MonetagScripts } from '@/components/monetag/MonetagScripts';
 import 'leaflet/dist/leaflet.css';
 import './globals.css';
 
@@ -26,14 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body>
-        <Script
-          id="monetag-multitag"
-          src="https://quge5.com/88/tag.min.js"
-          data-zone="237269"
-          data-cfasync="false"
-          strategy="afterInteractive"
-        />
-
+        <MonetagScripts />
         {children}
       </body>
     </html>
