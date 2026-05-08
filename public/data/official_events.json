@@ -1,45 +1,362 @@
 [
   {
-    "source": "World Health Organization",
-    "source_id": "who",
+    "source": "European Centre for Disease Prevention and Control",
+    "source_id": "ecdc",
     "type": "current_outbreak",
-    "title": "Hantavirus cluster linked to cruise ship travel, Multi-country",
-    "summary": "Official fallback from WHO Disease Outbreak News DON599. As of 4 May 2026, seven cases were reported: two confirmed, five suspected, including three deaths.",
-    "url": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
-    "published_at": "2026-05-04",
+    "title": "Hantavirus-associated cluster of illness on a cruise ship: ECDC assessment and recommendations",
+    "summary": "As of 6 May 2026, seven cases have been reported in a hantavirus-associated cluster of illness on a cruise ship, including three deaths, one critically ill, two symptomatic and one with unknown status.",
+    "url": "https://www.ecdc.europa.eu/en/publications-data/hantavirus-associated-cluster-illness-cruise-ship-ecdc-assessment-and",
+    "published_at": "2026-05-06",
     "metrics": {
-      "total_identified_cases": 7,
       "confirmed_cases": 2,
       "suspected_cases": 5,
-      "deaths": 3
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 5,
+      "total_identified_cases": 7,
+      "deaths": 3,
+      "hospitalized": 0,
+      "recovered": 0
     },
     "countries": [
       {
         "country": "Multi-country",
-        "region": "Cruise ship travel",
-        "lat": 16.5388,
-        "lng": -23.0418
+        "region": "Multi-country",
+        "lat": 20.0,
+        "lng": 0.0
+      },
+      {
+        "country": "Argentina",
+        "region": "South America",
+        "lat": -38.4161,
+        "lng": -63.6167
+      },
+      {
+        "country": "Germany",
+        "region": "Europe",
+        "lat": 51.1657,
+        "lng": 10.4515
+      },
+      {
+        "country": "France",
+        "region": "Europe",
+        "lat": 46.2276,
+        "lng": 2.2137
+      },
+      {
+        "country": "Spain",
+        "region": "Europe",
+        "lat": 40.4637,
+        "lng": -3.7492
+      },
+      {
+        "country": "Netherlands",
+        "region": "Europe",
+        "lat": 52.1326,
+        "lng": 5.2913
+      },
+      {
+        "country": "Portugal",
+        "region": "Europe",
+        "lat": 39.3999,
+        "lng": -8.2245
       }
     ],
     "risk_level": "low",
-    "raw_hash": "who-don599-official-fallback"
+    "raw_hash": "7573c373553f6e40fc7c25b3ac42c130333a5942d57b4e05beec72e5992752fd",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "WHO DON599 official correction: vessel population numbers are not case counts.",
+      "confirmed_cases": 2,
+      "suspected_cases": 5,
+      "unconfirmed_cases": 5,
+      "total_identified_cases": 7,
+      "deaths": 3
+    }
   },
   {
     "source": "European Centre for Disease Prevention and Control",
     "source_id": "ecdc",
     "type": "current_outbreak",
-    "title": "Hantavirus outbreak on cruise ship under investigation",
-    "summary": "Hantavirus outbreak on cruise ship under investigation: risk for Europe very low Skip to main content Global Navigation Other sites ECDC European Antibiotic Awareness Day (opens in a new window) ESCAIDE - Scientific conference (opens in a new window) Eurosurveillance journal (opens in a new window) EVIP - Vaccination portal (opens in a new window) European Centre for Disease Prevention and Control An agency of the European Union Translate this page Search nav\" data-mmenu-position=\"right\" data-hx-get=\"https://www.ecdc.europa.eu/en/htmx/blocks/view/main_menu_mobile\" data-hx-trigger=\"click once\" data-hx-on--after-on-load=\"Drupal.behaviors.zika_main_menu_mobile.initMmenu(event);\" data-hx-select=\"#block-main-menu-mobile > nav\" data-hx-target=\"#main-nav-mobile\" data-hx-swap=\"innerHTML ignoreTitle:true\" data-component-id=\"ui_suite_bootstrap:butt",
+    "title": "Cruise ship hantavirus outbreak: ECDC response activated",
+    "summary": "ECDC has deployed an expert from the EU Health Task Force to the cruise ship affected by the Andes hantavirus outbreak, as part of a joint effort to investigate the outbreak and coordinate the public health response together with relevant Member States.",
+    "url": "https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated",
+    "published_at": "2026-05-06",
+    "metrics": {
+      "confirmed_cases": 2,
+      "suspected_cases": 5,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 5,
+      "total_identified_cases": 7,
+      "deaths": 3,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Multi-country",
+        "region": "Multi-country",
+        "lat": 20.0,
+        "lng": 0.0
+      },
+      {
+        "country": "United Kingdom",
+        "region": "Europe",
+        "lat": 55.3781,
+        "lng": -3.436
+      },
+      {
+        "country": "Spain",
+        "region": "Europe",
+        "lat": 40.4637,
+        "lng": -3.7492
+      },
+      {
+        "country": "Netherlands",
+        "region": "Europe",
+        "lat": 52.1326,
+        "lng": 5.2913
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "af51c6dfce0d03c5377c469b561312a883b82f651cc4e48cb58ec5ccc2434fc9",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "WHO DON599 official correction: vessel population numbers are not case counts.",
+      "confirmed_cases": 2,
+      "suspected_cases": 5,
+      "unconfirmed_cases": 5,
+      "total_identified_cases": 7,
+      "deaths": 3
+    }
+  },
+  {
+    "source": "European Centre for Disease Prevention and Control",
+    "source_id": "ecdc",
+    "type": "current_outbreak",
+    "title": "Hantavirus outbreak on cruise ship under investigation: risk for Europe very low",
+    "summary": "Hantavirus infection has been laboratory-confirmed in two individuals in connection with the cluster of illness reported on a cruise ship.",
     "url": "https://www.ecdc.europa.eu/en/news-events/hantavirus-outbreak-cruise-ship-under-investigation-risk-europe-very-low",
+    "published_at": "2026-05-05",
+    "metrics": {
+      "confirmed_cases": 2,
+      "suspected_cases": 5,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 5,
+      "total_identified_cases": 7,
+      "deaths": 3,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Multi-country",
+        "region": "Multi-country",
+        "lat": 20.0,
+        "lng": 0.0
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "f745e56910a273bef31689c39b48021dc5131d0ac5d8b2590b28cc1ab3cccd69",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "WHO DON599 official correction: vessel population numbers are not case counts.",
+      "confirmed_cases": 2,
+      "suspected_cases": 5,
+      "unconfirmed_cases": 5,
+      "total_identified_cases": 7,
+      "deaths": 3
+    }
+  },
+  {
+    "source": "European Centre for Disease Prevention and Control",
+    "source_id": "ecdc",
+    "type": "current_outbreak",
+    "title": "Suspected hantavirus outbreak on cruise ship under investigation: risk for Europeans very low",
+    "summary": "A cluster of severe acute respiratory illness, including three deaths and one severely ill individual, has been reported among passengers on a cruise ship travelling in the Atlantic and registered in the Netherlands. The ship is currently located off the coast of Cabo Verde, with 149 people on board.",
+    "url": "https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low",
+    "published_at": "2026-05-04",
+    "metrics": {
+      "confirmed_cases": 2,
+      "suspected_cases": 5,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 5,
+      "total_identified_cases": 7,
+      "deaths": 3,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Multi-country",
+        "region": "Multi-country",
+        "lat": 20.0,
+        "lng": 0.0
+      },
+      {
+        "country": "Netherlands",
+        "region": "Europe",
+        "lat": 52.1326,
+        "lng": 5.2913
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "f5d9524ffae996077b3b93870127a3380caa889c98b1fd5478a5705f76e85a8a",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "WHO DON599 official correction: vessel population numbers are not case counts.",
+      "confirmed_cases": 2,
+      "suspected_cases": 5,
+      "unconfirmed_cases": 5,
+      "total_identified_cases": 7,
+      "deaths": 3
+    }
+  },
+  {
+    "source": "European Centre for Disease Prevention and Control",
+    "source_id": "ecdc",
+    "type": "current_outbreak",
+    "title": "ECDC monitoring outbreak associated with cruise ship",
+    "summary": "ECDC is aware of suspected cases of hantavirus infection, including three deaths, associated with a cruise ship travelling in the Atlantic.",
+    "url": "https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-outbreak-associated-cruise-ship",
+    "published_at": "2026-05-04",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 3,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 3,
+      "total_identified_cases": 3,
+      "deaths": 3,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Multi-country",
+        "region": "Multi-country",
+        "lat": 20.0,
+        "lng": 0.0
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "ab6b156e71b707895459d6c951cb33fb9b5be3a0c868c490545f8cb346be45ca",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    }
+  },
+  {
+    "source": "European Centre for Disease Prevention and Control",
+    "source_id": "ecdc",
+    "type": "current_outbreak",
+    "title": "ECDC media centre disease update",
+    "summary": "Media centre Skip to main content Global Navigation Other sites ECDC European Antibiotic Awareness Day (opens in a new window) ESCAIDE - Scientific conference (opens in a new window) Eurosurveillance journal (opens in a new window) EVIP - Vaccination portal (opens in a new window) European Centre for Disease Prevention and Control An agency of the European Union Translate this page Search nav\" data-mmenu-position=\"right\" data-hx-get=\"https://www.ecdc.europa.eu/en/htmx/blocks/view/main_menu_mobile\" data-hx-trigger=\"click once\" data-hx-on--after-on-load=\"Drupal.behaviors.zika_main_menu_mobile.initMmenu(event);\" data-hx-select=\"#block-main-menu-mobile > nav\" data-hx-target=\"#main-nav-mobile\" data-hx-swap=\"innerHTML ignoreTitle:true\" data-component-id=\"ui_suite_bootstrap:button\" type=\"button\"> Main Navigation (desktop) Infectious disease topics Infectious disease topics A B C D E F G H I J K L M N O P Q R S T U V W X Y Z Related public health topics Spotlight Antimicrobial resistance (AMR)",
+    "url": "https://www.ecdc.europa.eu/en/news-events",
     "published_at": "",
     "metrics": {
-      "total_identified_cases": null,
-      "confirmed_cases": null,
-      "suspected_cases": null,
-      "deaths": null
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
     },
-    "countries": [],
-    "risk_level": "low",
-    "raw_hash": "07f52378c6ebdaaf2171b6729289f6497257474ca820bd5c89e6e1d28e2f3769"
+    "countries": [
+      {
+        "country": "Multi-country",
+        "region": "Multi-country",
+        "lat": 20.0,
+        "lng": 0.0
+      }
+    ],
+    "risk_level": "unknown",
+    "raw_hash": "70cdd1c71edce705f16ffd1e8fe21f6fd4a250fbfd478c72e9f30ab9452b7781",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    }
   }
 ]

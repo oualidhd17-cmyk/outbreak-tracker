@@ -1,6 +1,8 @@
 import type {
   OutbreakCountry,
+  OutbreakFetchLogItem,
   OutbreakGlobalStats,
+  OutbreakOfficialEvent,
   OutbreakPoint,
   OutbreakSource,
   OutbreakTimelineItem,
@@ -16,6 +18,14 @@ async function fetchJson<T>(path: string): Promise<T> {
   }
 
   return response.json() as Promise<T>;
+}
+
+async function fetchOptionalJson<T>(path: string, fallback: T): Promise<T> {
+  try {
+    return await fetchJson<T>(path);
+  } catch {
+    return fallback;
+  }
 }
 
 export async function loadGlobalStats(): Promise<OutbreakGlobalStats> {
@@ -36,4 +46,16 @@ export async function loadTimeline(): Promise<OutbreakTimelineItem[]> {
 
 export async function loadSources(): Promise<OutbreakSource[]> {
   return fetchJson<OutbreakSource[]>('/data/sources.json');
+}
+
+export async function loadOfficialEvents(): Promise<OutbreakOfficialEvent[]> {
+  return fetchOptionalJson<OutbreakOfficialEvent[]>('/data/official_events.json', []);
+}
+
+export async function loadHistoricalContext(): Promise<unknown> {
+  return fetchOptionalJson<unknown>('/data/historical_context.json', {});
+}
+
+export async function loadFetchLog(): Promise<OutbreakFetchLogItem[]> {
+  return fetchOptionalJson<OutbreakFetchLogItem[]>('/data/fetch_log.json', []);
 }

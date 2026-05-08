@@ -7,12 +7,18 @@ type AdSlotProps = {
   variant?: 'top' | 'sidebar' | 'side' | 'mobile' | 'inline';
 };
 
+const SHOW_AD_SLOTS = process.env.NEXT_PUBLIC_SHOW_AD_SLOTS === '1';
+
 export function AdSlot({
   id,
   label = 'Advertisement',
   className,
   variant = 'top',
 }: AdSlotProps) {
+  if (!SHOW_AD_SLOTS) {
+    return null;
+  }
+
   return (
     <div
       id={id}

@@ -14,16 +14,13 @@ type MonetagZone = {
   src: string;
 };
 
+const MONETAG_ENABLED = process.env.NEXT_PUBLIC_MONETAG_ENABLED === '1';
+
 const MONETAG_ZONES: MonetagZone[] = [
   {
     id: 'monetag-in-page-push-banner',
     zone: '10978397',
     src: 'https://nap5k.com/tag.min.js',
-  },
-  {
-    id: 'monetag-good-tag',
-    zone: '10978399',
-    src: 'https://al5sm.com/tag.min.js',
   },
   {
     id: 'monetag-pungent-vignette',
@@ -50,6 +47,10 @@ function appendMonetagScript(item: MonetagZone): void {
 
 export function MonetagScripts() {
   useEffect(() => {
+    if (!MONETAG_ENABLED) {
+      return;
+    }
+
     if (window.__hantamapMonetagLoaded) {
       return;
     }

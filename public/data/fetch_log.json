@@ -1,0 +1,296 @@
+[
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/api/emergencies/diseaseoutbreaknews",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/api/news/diseaseoutbreaknews",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/api/hubs/diseaseoutbreaknews",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/rss-feeds",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/rss-feeds",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/news-events/rss.xml",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/news-events/rss.xml",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.ecdc.europa.eu/en/news-events/rss.xml'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/news-events/rss",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/news-events/rss",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.ecdc.europa.eu/en/news-events/rss'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/news-events/rss.xml?field_ct_publication_type_tid=All",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/news-events/rss.xml?field_ct_publication_type_tid=All",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.ecdc.europa.eu/en/news-events/rss.xml?field_ct_publication_type_tid=All'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/323/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/2942/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/2794/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/197/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1310/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1505/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1295/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1244/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/publications-data/hantavirus-associated-cluster-illness-cruise-ship-ecdc-assessment-and",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1253/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1502/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1301/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1307/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/news-events/hantavirus-outbreak-cruise-ship-under-investigation-risk-europe-very-low",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/news-events/ecdc-monitoring-outbreak-associated-cruise-ship",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1319/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://anchor.fm/s/635eef30/podcast/rss",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1382/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1250/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1376/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1379/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/news-events",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/",
+    "status_code": null,
+    "error": "The read operation timed out"
+  },
+  {
+    "ok": true,
+    "source_id": "cdc",
+    "url": "https://www.cdc.gov/hantavirus/data-research/cases/index.html",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "cdc",
+    "url": "https://www.cdc.gov/hantavirus/about/index.html",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "cdc",
+    "url": "https://www.cdc.gov/hantavirus/hcp/clinical-overview/index.html",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "cdc",
+    "url": "https://wwwnc.cdc.gov/travel/notices",
+    "status_code": 200,
+    "error": null
+  }
+]
