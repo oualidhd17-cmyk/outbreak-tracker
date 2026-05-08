@@ -21,6 +21,11 @@ const MONETAG_ZONES: MonetagZone[] = [
     src: 'https://nap5k.com/tag.min.js',
   },
   {
+    id: 'monetag-good-tag-onclick-popunder',
+    zone: '10978399',
+    src: 'https://al5sm.com/tag.min.js',
+  },
+  {
     id: 'monetag-pungent-vignette',
     zone: '10978400',
     src: 'https://n6wxm.com/vignette.min.js',
