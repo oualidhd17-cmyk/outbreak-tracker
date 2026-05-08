@@ -132,7 +132,8 @@ option {
 
 @media (min-width: 1024px) {
   body {
-    overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
   }
 }
 

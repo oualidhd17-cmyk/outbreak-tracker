@@ -2,6 +2,7 @@ import type { Metadata } from 'next';
 import Script from 'next/script';
 
 import { MonetagScripts } from '@/components/monetag/MonetagScripts';
+import { ScrollControls } from '@/components/ui/ScrollControls';
 
 import 'leaflet/dist/leaflet.css';
 import './globals.css';
@@ -10,18 +11,35 @@ const GOOGLE_TAG_ID = 'G-LTLZ50X2S2';
 const GOOGLE_ADSENSE_CLIENT = 'ca-pub-7200463371794521';
 
 export const metadata: Metadata = {
-  title: 'HantaMap - Hantavirus Tracker',
+  title: 'HantaMap - Live Hantavirus Tracker, Map & Outbreak Updates',
   description:
-    'Live Hantavirus tracker with official-source outbreak data, map, timeline, and verified public health updates.',
+    'Track verified hantavirus outbreak updates, confirmed cases, deaths, affected regions, timelines, and official public health sources on an interactive live map.',
   keywords: [
-    'Hantavirus',
-    'Hantavirus tracker',
-    'Hantavirus map',
-    'Hantavirus outbreak',
+    'hantavirus tracker',
+    'hantavirus map',
+    'hantavirus outbreak tracker',
+    'hantavirus symptoms',
+    'hantavirus prevention',
+    'hantavirus transmission',
+    'hantavirus cases',
+    'hantavirus deaths',
+    'hantavirus latest updates',
+    'hantavirus outbreak news',
+    'hantavirus cruise ship',
+    'hantavirus Europe',
     'HantaMap',
-    'virus tracker',
-    'outbreak tracker',
   ],
+  alternates: {
+    canonical: 'https://hantamap.online',
+  },
+  openGraph: {
+    title: 'HantaMap - Live Hantavirus Tracker',
+    description:
+      'Verified hantavirus outbreak data, interactive map, timeline, and official public health sources.',
+    url: 'https://hantamap.online',
+    siteName: 'HantaMap',
+    type: 'website',
+  },
   other: {
     'google-adsense-account': GOOGLE_ADSENSE_CLIENT,
   },
@@ -34,6 +52,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <script
+          async
+          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${GOOGLE_ADSENSE_CLIENT}`}
+          crossOrigin="anonymous"
+        />
+      </head>
+
       <body>
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TAG_ID}`}
@@ -49,16 +75,11 @@ export default function RootLayout({
           `}
         </Script>
 
-        <Script
-          id="google-adsense-script"
-          async
-          src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${GOOGLE_ADSENSE_CLIENT}`}
-          crossOrigin="anonymous"
-          strategy="afterInteractive"
-        />
-
         <MonetagScripts />
+
         {children}
+
+        <ScrollControls />
       </body>
     </html>
   );

@@ -21,6 +21,8 @@ const ADSENSE_CLIENT_ID = 'ca-pub-7200463371794521';
 const ADSENSE_DISPLAY_SLOT_ID = '6282664948';
 const ADSENSE_MULTIPLEX_SLOT_ID = '6995061524';
 
+const MIN_AD_WIDTH = 120;
+
 function getAdSenseSlot(id: string, variant: AdSlotProps['variant']): string {
   const normalizedId = id.toLowerCase();
 
@@ -41,6 +43,30 @@ function getAdSenseSlot(id: string, variant: AdSlotProps['variant']): string {
   return ADSENSE_DISPLAY_SLOT_ID;
 }
 
+function getMinHeight(variant: AdSlotProps['variant']): number {
+  if (variant === 'top') {
+    return 90;
+  }
+
+  if (variant === 'sidebar') {
+    return 250;
+  }
+
+  if (variant === 'side') {
+    return 250;
+  }
+
+  if (variant === 'inline') {
+    return 120;
+  }
+
+  if (variant === 'mobile') {
+    return 60;
+  }
+
+  return 90;
+}
+
 export function AdSlot({
   id,
   className,
@@ -48,53 +74,87 @@ export function AdSlot({
 }: AdSlotProps) {
   const wrapperRef = useRef<HTMLDivElement | null>(null);
   const adRef = useRef<HTMLModElement | null>(null);
+  const pushedRef = useRef(false);
 
   const adSlot = useMemo(() => {
     return getAdSenseSlot(id, variant);
   }, [id, variant]);
+
+  const minHeight = useMemo(() => {
+    return getMinHeight(variant);
+  }, [variant]);
 
   useEffect(() => {
     if (typeof window === 'undefined') {
       return;
     }
 
-    const hideSlot = () => {
-      const wrapper = wrapperRef.current;
+    const wrapper = wrapperRef.current;
+    const adElement = adRef.current;
 
-      if (!wrapper) {
-        return;
-      }
-
-      wrapper.style.display = 'none';
-    };
-
-    try {
-      window.adsbygoogle = window.adsbygoogle || [];
-      window.adsbygoogle.push({});
-    } catch {
-      hideSlot();
+    if (!wrapper || !adElement) {
       return;
     }
 
-    const timer = window.setTimeout(() => {
-      const element = adRef.current;
+    const hideSlot = () => {
+      wrapper.style.display = 'none';
+    };
 
-      if (!element) {
-        hideSlot();
+    const showSlot = () => {
+      wrapper.style.display = '';
+    };
+
+    const pushAd = () => {
+      if (pushedRef.current) {
         return;
       }
 
-      const status = element.getAttribute('data-ad-status');
-      const hasIframe = Boolean(element.querySelector('iframe'));
-      const height = element.offsetHeight;
+      const width = wrapper.getBoundingClientRect().width;
 
-      if (status === 'unfilled' || (!hasIframe && height <= 0)) {
+      if (width < MIN_AD_WIDTH) {
+        return;
+      }
+
+      const status = adElement.getAttribute('data-adsbygoogle-status');
+
+      if (status === 'done') {
+        pushedRef.current = true;
+        return;
+      }
+
+      try {
+        showSlot();
+        window.adsbygoogle = window.adsbygoogle || [];
+        window.adsbygoogle.push({});
+        pushedRef.current = true;
+      } catch {
         hideSlot();
       }
-    }, 3500);
+    };
+
+    const observer = new ResizeObserver(() => {
+      pushAd();
+    });
+
+    observer.observe(wrapper);
+
+    const startTimer = window.setTimeout(() => {
+      pushAd();
+    }, 700);
+
+    const hideTimer = window.setTimeout(() => {
+      const status = adElement.getAttribute('data-ad-status');
+      const hasIframe = Boolean(adElement.querySelector('iframe'));
+
+      if (status === 'unfilled' || !hasIframe) {
+        hideSlot();
+      }
+    }, 5000);
 
     return () => {
-      window.clearTimeout(timer);
+      observer.disconnect();
+      window.clearTimeout(startTimer);
+      window.clearTimeout(hideTimer);
     };
   }, [adSlot]);
 
@@ -113,6 +173,10 @@ export function AdSlot({
           'fixed inset-x-3 bottom-3 z-[9999] md:hidden',
         className,
       )}
+      style={{
+        minWidth: MIN_AD_WIDTH,
+        minHeight,
+      }}
     >
       <ins
         ref={adRef}
@@ -120,6 +184,8 @@ export function AdSlot({
         style={{
           display: 'block',
           width: '100%',
+          minWidth: MIN_AD_WIDTH,
+          minHeight,
         }}
         data-ad-client={ADSENSE_CLIENT_ID}
         data-ad-slot={adSlot}
