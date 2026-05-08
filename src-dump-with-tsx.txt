@@ -1,0 +1,3279 @@
+﻿============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\app\about\page.tsx
+============================================================
+'use client';
+
+import Link from 'next/link';
+import { useI18n } from '@/i18n/useI18n';
+
+export default function AboutPage() {
+  const { t, locale } = useI18n();
+  const isArabic = locale === 'ar';
+
+  return (
+    <main dir={isArabic ? 'rtl' : 'ltr'} className="min-h-dvh bg-black px-4 py-8 text-white">
+      <div className="mx-auto max-w-5xl">
+        <Link href="/" className="text-sm text-white/45 hover:text-white">
+          â† {isArabic ? 'Ø§Ù„Ø¹ÙˆØ¯Ø© Ø¥Ù„Ù‰ Ø§Ù„Ù„ÙˆØ­Ø©' : 'Back to dashboard'}
+        </Link>
+
+        <section className="mt-8 border border-white/10 bg-[#050505] p-5 sm:p-7">
+          <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-emerald-300/75">
+            HantaMap
+          </p>
+
+          <h1 className="mt-3 max-w-3xl text-3xl font-semibold tracking-[-0.05em] sm:text-5xl">
+            {t('trust.title')}
+          </h1>
+
+          <p className="mt-5 max-w-4xl text-base leading-8 text-white/62">
+            {t('trust.description')}
+          </p>
+        </section>
+
+        <section className="mt-4 grid gap-4 md:grid-cols-2">
+          <div className="border border-white/10 bg-[#050505] p-5">
+            <h2 className="text-lg font-semibold text-white">
+              {isArabic ? 'Ù…Ø§ Ø§Ù„Ø°ÙŠ ØªØ¹Ø±Ø¶Ù‡ Ø§Ù„Ù…Ù†ØµØ©ØŸ' : 'What does it show?'}
+            </h2>
+
+            <ul className="mt-4 space-y-3 text-sm leading-7 text-white/58">
+              <li>{isArabic ? 'Ø®Ø±ÙŠØ·Ø© ØªÙØ§Ø¹Ù„ÙŠØ© Ù„Ù„Ø­Ø§Ù„Ø§Øª.' : 'Interactive outbreak map.'}</li>
+              <li>{isArabic ? 'Ø§Ù„Ø®Ø· Ø§Ù„Ø²Ù…Ù†ÙŠ Ù„Ù„ØªØ­Ø¯ÙŠØ«Ø§Øª.' : 'Timeline of updates.'}</li>
+              <li>{isArabic ? 'Ù…ØµØ§Ø¯Ø± ØµØ­ÙŠØ© Ø±Ø³Ù…ÙŠØ© ÙˆÙ…ÙˆØ«ÙˆÙ‚Ø©.' : 'Official and trusted health sources.'}</li>
+              <li>{isArabic ? 'Ø­Ø§Ù„Ø§Øª Ù…Ø¤ÙƒØ¯Ø© ÙˆØºÙŠØ± Ù…Ø¤ÙƒØ¯Ø© Ø¹Ù†Ø¯ ØªÙˆÙØ±Ù‡Ø§.' : 'Confirmed and unconfirmed signals when available.'}</li>
+            </ul>
+          </div>
+
+          <div className="border border-white/10 bg-[#050505] p-5">
+            <h2 className="text-lg font-semibold text-white">
+              {isArabic ? 'Ù…Ø§ Ø§Ù„Ù‡Ø¯ÙØŸ' : 'What is the goal?'}
+            </h2>
+
+            <p className="mt-4 text-sm leading-7 text-white/58">
+              {isArabic
+                ? 'Ø§Ù„Ù‡Ø¯Ù Ù‡Ùˆ Ø¹Ø±Ø¶ Ø§Ù„Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø§Ù„Ø¹Ø§Ù…Ø© Ù…Ù† Ø§Ù„Ù…ØµØ§Ø¯Ø± Ø§Ù„ØµØ­ÙŠØ© Ø§Ù„Ø±Ø³Ù…ÙŠØ© Ø¨Ø·Ø±ÙŠÙ‚Ø© ÙˆØ§Ø¶Ø­Ø© ÙˆÙ‡Ø§Ø¯Ø¦Ø©ØŒ Ø¨Ø¯ÙˆÙ† ØªÙ‡ÙˆÙŠÙ„ Ø£Ùˆ Ø§Ø¯Ø¹Ø§Ø¡Ø§Øª Ø·Ø¨ÙŠØ©.'
+                : 'The goal is to present public information from official health sources in a clear, calm way, without panic-driven language or medical claims.'}
+            </p>
+          </div>
+        </section>
+      </div>
+    </main>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\app\faq\page.tsx
+============================================================
+'use client';
+
+import Link from 'next/link';
+
+import { useI18n } from '@/i18n/useI18n';
+
+export default function FaqPage() {
+  const { t, locale } = useI18n();
+  const isArabic = locale === 'ar';
+
+  const faqs = [
+    {
+      question: t('faq.q1'),
+      answer: t('faq.a1'),
+    },
+    {
+      question: t('faq.q2'),
+      answer: t('faq.a2'),
+    },
+    {
+      question: t('faq.q3'),
+      answer: t('faq.a3'),
+    },
+    {
+      question: t('faq.q4'),
+      answer: t('faq.a4'),
+    },
+  ];
+
+  return (
+    <main
+      dir={isArabic ? 'rtl' : 'ltr'}
+      className="min-h-dvh bg-black px-4 py-8 text-white sm:px-6 lg:px-8"
+    >
+      <div className="mx-auto w-full max-w-4xl">
+        <Link
+          href="/"
+          className="inline-flex items-center border border-white/10 bg-white/[0.03] px-3 py-2 text-xs font-semibold uppercase tracking-[0.16em] text-white/45 transition hover:border-white/20 hover:bg-white/[0.06] hover:text-white"
+        >
+          {isArabic ? 'Ø§Ù„Ø¹ÙˆØ¯Ø© Ø¥Ù„Ù‰ Ø§Ù„Ù„ÙˆØ­Ø©' : 'Back to dashboard'}
+        </Link>
+
+        <section className="mt-6 overflow-hidden border border-white/10 bg-[#050505] shadow-[0_18px_60px_rgba(0,0,0,0.35)]">
+          <div className="relative border-b border-white/10 p-5 sm:p-7">
+            <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(239,68,68,0.12),transparent_34%),radial-gradient(circle_at_bottom_left,rgba(16,185,129,0.08),transparent_36%)]" />
+
+            <div className="relative">
+              <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-red-300/75">
+                FAQ
+              </p>
+
+              <h1 className="mt-3 text-3xl font-semibold tracking-[-0.055em] text-white sm:text-5xl">
+                {t('faq.title')}
+              </h1>
+
+              <p className="mt-4 max-w-2xl text-sm leading-7 text-white/55 sm:text-base">
+                {t('faq.subtitle')}
+              </p>
+            </div>
+          </div>
+
+          <div className="grid gap-2 p-3 sm:p-4">
+            {faqs.map((item, index) => (
+              <details
+                key={item.question}
+                open={index === 0}
+                className="group border border-white/10 bg-white/[0.025] transition open:border-white/20 open:bg-white/[0.045]"
+              >
+                <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-4 py-4 text-sm font-semibold text-white marker:hidden sm:px-5 sm:py-5 sm:text-base">
+                  <span className="leading-7">{item.question}</span>
+
+                  <span className="flex h-8 w-8 shrink-0 items-center justify-center border border-white/10 bg-black/40 text-base leading-none text-white/45 transition group-open:rotate-45 group-open:border-red-300/25 group-open:text-red-200">
+                    +
+                  </span>
+                </summary>
+
+                <div className="border-t border-white/10 px-4 pb-4 pt-3 sm:px-5 sm:pb-5 sm:pt-4">
+                  <p className="text-sm leading-8 text-white/60">
+                    {item.answer}
+                  </p>
+                </div>
+              </details>
+            ))}
+          </div>
+        </section>
+      </div>
+    </main>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\app\medical-disclaimer\page.tsx
+============================================================
+'use client';
+
+import Link from 'next/link';
+import { useI18n } from '@/i18n/useI18n';
+
+export default function MedicalDisclaimerPage() {
+  const { t, locale } = useI18n();
+  const isArabic = locale === 'ar';
+
+  return (
+    <main dir={isArabic ? 'rtl' : 'ltr'} className="min-h-dvh bg-black px-4 py-8 text-white">
+      <div className="mx-auto max-w-4xl">
+        <Link href="/" className="text-sm text-white/45 hover:text-white">
+          â† {isArabic ? 'Ø§Ù„Ø¹ÙˆØ¯Ø© Ø¥Ù„Ù‰ Ø§Ù„Ù„ÙˆØ­Ø©' : 'Back to dashboard'}
+        </Link>
+
+        <section className="mt-8 overflow-hidden border border-amber-300/20 bg-[#0b0903]">
+          <div className="relative p-5 sm:p-7">
+            <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(252,211,77,0.14),transparent_34%),linear-gradient(90deg,rgba(252,211,77,0.08),transparent_42%)]" />
+
+            <div className="relative">
+              <div className="mb-4 flex h-12 w-12 items-center justify-center border border-amber-300/25 bg-amber-300/10 text-xl font-bold text-amber-200">
+                !
+              </div>
+
+              <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-amber-200">
+                Information only
+              </p>
+
+              <h1 className="mt-3 text-3xl font-semibold tracking-[-0.05em] sm:text-5xl">
+                {t('trust.disclaimerTitle')}
+              </h1>
+
+              <p className="mt-5 text-base leading-8 text-white/68">
+                {t('trust.disclaimerDescription')}
+              </p>
+
+              <div className="mt-6 border-t border-white/10 pt-5">
+                <p className="text-sm leading-7 text-white/45">
+                  This dashboard avoids panic-driven language and presents
+                  official-source public information for awareness only.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      </div>
+    </main>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\app\sources\page.tsx
+============================================================
+'use client';
+
+import Link from 'next/link';
+import { useEffect, useState } from 'react';
+import { useI18n } from '@/i18n/useI18n';
+import { loadSources } from '@/lib/data';
+import type { OutbreakSource } from '@/types/outbreak';
+
+const fallbackSources = [
+  'World Health Organization',
+  'Centers for Disease Control and Prevention',
+  'European Centre for Disease Prevention and Control',
+  'Africa Centres for Disease Control and Prevention',
+  'ReliefWeb',
+];
+
+export default function SourcesPage() {
+  const { t, locale } = useI18n();
+  const isArabic = locale === 'ar';
+
+  const [sources, setSources] = useState<OutbreakSource[]>([]);
+
+  useEffect(() => {
+    void loadSources()
+      .then(setSources)
+      .catch(() => setSources([]));
+  }, []);
+
+  const visibleSources =
+    sources.length > 0
+      ? sources
+      : fallbackSources.map((name, index) => ({
+          id: String(index),
+          name,
+          url: '',
+          type: 'official' as const,
+          confidence: 'high' as const,
+          last_checked_at: '',
+        }));
+
+  return (
+    <main dir={isArabic ? 'rtl' : 'ltr'} className="min-h-dvh bg-black px-4 py-8 text-white">
+      <div className="mx-auto max-w-5xl">
+        <Link href="/" className="text-sm text-white/45 hover:text-white">
+          â† {isArabic ? 'Ø§Ù„Ø¹ÙˆØ¯Ø© Ø¥Ù„Ù‰ Ø§Ù„Ù„ÙˆØ­Ø©' : 'Back to dashboard'}
+        </Link>
+
+        <section className="mt-8 border border-white/10 bg-[#050505] p-5 sm:p-7">
+          <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-emerald-300/75">
+            {t('trust.badge')}
+          </p>
+
+          <h1 className="mt-3 text-3xl font-semibold tracking-[-0.05em] sm:text-5xl">
+            {t('trust.sourcesTitle')}
+          </h1>
+
+          <p className="mt-3 max-w-3xl text-sm leading-7 text-white/55">
+            {t('trust.sourcesDescription')}
+          </p>
+        </section>
+
+        <section className="mt-4 grid gap-3">
+          {visibleSources.map((source) => {
+            const content = (
+              <div className="grid gap-3 border border-white/10 bg-[#050505] p-4 transition hover:border-white/20 hover:bg-white/[0.035] sm:grid-cols-[minmax(0,1fr)_auto] sm:items-center">
+                <div>
+                  <h2 className="text-base font-semibold text-white">{source.name}</h2>
+                  <p className="mt-1 text-[11px] font-semibold uppercase tracking-[0.18em] text-white/35">
+                    {String(source.type).replace(/-/g, ' ')}
+                  </p>
+                </div>
+
+                <span className="w-fit border border-emerald-400/25 bg-emerald-400/10 px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-emerald-200">
+                  {source.confidence}
+                </span>
+              </div>
+            );
+
+            if (source.url) {
+              return (
+                <a key={source.id} href={source.url} target="_blank" rel="noreferrer">
+                  {content}
+                </a>
+              );
+            }
+
+            return <div key={source.id}>{content}</div>;
+          })}
+        </section>
+      </div>
+    </main>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\app\globals.css
+============================================================
+@import "tailwindcss";
+
+:root {
+  --background: #000000;
+  --foreground: #ffffff;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+  background: #000000;
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+
+button,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+button,
+select {
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  background: #05080b !important;
+  font-family: inherit;
+  outline: none;
+}
+
+.leaflet-control-zoom {
+  overflow: hidden;
+  border: 1px solid rgba(255, 255, 255, 0.12) !important;
+  border-radius: 0 !important;
+  background: rgba(0, 0, 0, 0.75) !important;
+  box-shadow: none !important;
+}
+
+.leaflet-control-zoom a {
+  width: 34px !important;
+  height: 32px !important;
+  border: 0 !important;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.12) !important;
+  background: rgba(0, 0, 0, 0.75) !important;
+  color: rgba(255, 255, 255, 0.85) !important;
+  font-size: 21px !important;
+  line-height: 30px !important;
+}
+
+.leaflet-control-zoom a:last-child {
+  border-bottom: 0 !important;
+}
+
+.leaflet-control-attribution {
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  background: rgba(0, 0, 0, 0.72) !important;
+  color: rgba(255, 255, 255, 0.45) !important;
+  font-size: 10px !important;
+}
+
+.leaflet-control-attribution a {
+  color: rgba(255, 255, 255, 0.72) !important;
+}
+
+.leaflet-popup-content-wrapper,
+.leaflet-popup-tip {
+  border-radius: 0 !important;
+}
+
+.leaflet-popup-content {
+  margin: 12px !important;
+  font-family: inherit !important;
+}
+
+select {
+  color-scheme: dark;
+}
+
+option {
+  background: #111111;
+  color: #ffffff;
+}
+
+::-webkit-scrollbar {
+  width: 7px;
+  height: 7px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0b0b0b;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #333333;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #444444;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #333333 #0b0b0b;
+}
+
+::selection {
+  background: rgba(239, 68, 68, 0.35);
+  color: #ffffff;
+}
+
+@media (min-width: 1024px) {
+  body {
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+}
+
+@media (max-width: 1023px) {
+  .leaflet-control-attribution {
+    display: none !important;
+  }
+}
+
+
+details summary::-webkit-details-marker {
+  display: none;
+}
+
+details summary::marker {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  details summary {
+    min-height: 48px;
+  }
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\app\layout.tsx
+============================================================
+import type { Metadata, Viewport } from 'next';
+
+import 'leaflet/dist/leaflet.css';
+import './globals.css';
+
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://hantamap.online';
+
+export const metadata: Metadata = {
+  metadataBase: new URL(SITE_URL),
+  title: {
+    default: 'Live Hantavirus Outbreak Tracker | Official Data Dashboard',
+    template: '%s | Live Hantavirus Outbreak Tracker',
+  },
+  description:
+    'Track confirmed, suspected, and official hantavirus outbreak updates using public-health sources such as WHO, CDC, ECDC, Africa CDC, and ReliefWeb.',
+  keywords: [
+    'hantavirus tracker',
+    'hantavirus outbreak map',
+    'hantavirus cases',
+    'hantavirus dashboard',
+    'Andes virus',
+    'outbreak dashboard',
+    'WHO outbreak news',
+    'CDC hantavirus',
+    'ECDC hantavirus',
+    'public health dashboard',
+  ],
+  applicationName: 'Live Outbreak Tracker',
+  authors: [
+    {
+      name: 'Live Outbreak Tracker',
+      url: SITE_URL,
+    },
+  ],
+  creator: 'Live Outbreak Tracker',
+  publisher: 'Live Outbreak Tracker',
+  category: 'public health',
+  alternates: {
+    canonical: '/',
+  },
+  robots: {
+    index: true,
+    follow: true,
+    nocache: false,
+    googleBot: {
+      index: true,
+      follow: true,
+      noimageindex: false,
+      'max-image-preview': 'large',
+      'max-snippet': -1,
+      'max-video-preview': -1,
+    },
+  },
+  openGraph: {
+    type: 'website',
+    url: SITE_URL,
+    siteName: 'Live Outbreak Tracker',
+    title: 'Live Hantavirus Outbreak Tracker',
+    description:
+      'Official-source dashboard tracking confirmed and unconfirmed hantavirus outbreak signals.',
+    locale: 'en_US',
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Live Hantavirus Outbreak Tracker',
+    description:
+      'Track official hantavirus outbreak updates from public-health sources.',
+  },
+  icons: {
+    icon: '/favicon.ico',
+    apple: '/apple-touch-icon.png',
+  },
+};
+
+export const viewport: Viewport = {
+  width: 'device-width',
+  initialScale: 1,
+  maximumScale: 5,
+  themeColor: '#000000',
+  colorScheme: 'dark',
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    name: 'Live Outbreak Tracker',
+    url: SITE_URL,
+    description:
+      'Official-source dashboard tracking confirmed and unconfirmed hantavirus outbreak signals.',
+    inLanguage: ['en', 'ar', 'fr', 'es'],
+    publisher: {
+      '@type': 'Organization',
+      name: 'Live Outbreak Tracker',
+      url: SITE_URL,
+    },
+    about: {
+      '@type': 'Thing',
+      name: 'Hantavirus outbreak tracking',
+    },
+  };
+
+  return (
+    <html lang="en" dir="ltr" suppressHydrationWarning>
+      <body>
+        {children}
+
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(jsonLd),
+          }}
+        />
+      </body>
+    </html>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\app\page.tsx
+============================================================
+'use client';
+
+import Link from 'next/link';
+import { useI18n } from '@/i18n/useI18n';
+
+export default function FaqPage() {
+  const { t, locale } = useI18n();
+  const isArabic = locale === 'ar';
+
+  const faqs = [
+    { question: t('faq.q1'), answer: t('faq.a1') },
+    { question: t('faq.q2'), answer: t('faq.a2') },
+    { question: t('faq.q3'), answer: t('faq.a3') },
+    { question: t('faq.q4'), answer: t('faq.a4') },
+  ];
+
+  return (
+    <main dir={isArabic ? 'rtl' : 'ltr'} className="min-h-dvh bg-black px-4 py-8 text-white">
+      <div className="mx-auto max-w-4xl">
+        <Link href="/" className="text-sm text-white/45 hover:text-white">
+          â† {isArabic ? 'Ø§Ù„Ø¹ÙˆØ¯Ø© Ø¥Ù„Ù‰ Ø§Ù„Ù„ÙˆØ­Ø©' : 'Back to dashboard'}
+        </Link>
+
+        <div className="mt-8 border border-white/10 bg-[#050505] p-5 sm:p-7">
+          <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-red-300/75">
+            FAQ
+          </p>
+
+          <h1 className="mt-3 text-3xl font-semibold tracking-[-0.05em] sm:text-5xl">
+            {t('faq.title')}
+          </h1>
+
+          <p className="mt-3 max-w-2xl text-sm leading-7 text-white/55">
+            {t('faq.subtitle')}
+          </p>
+        </div>
+
+        <div className="mt-4 grid gap-3">
+          {faqs.map((item, index) => (
+            <details
+              key={item.question}
+              open={index === 0}
+              className="group border border-white/10 bg-[#050505] open:border-white/20 open:bg-white/[0.035]"
+            >
+              <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-5 py-5 text-base font-semibold marker:hidden">
+                <span>{item.question}</span>
+                <span className="flex h-8 w-8 items-center justify-center border border-white/10 text-white/45 transition group-open:rotate-45">
+                  +
+                </span>
+              </summary>
+
+              <div className="border-t border-white/10 px-5 pb-5 pt-4">
+                <p className="text-sm leading-8 text-white/60">{item.answer}</p>
+              </div>
+            </details>
+          ))}
+        </div>
+      </div>
+    </main>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\components\dashboard\AdSlot.tsx
+============================================================
+'use client';
+
+import { useEffect, useMemo, useRef } from 'react';
+import clsx from 'clsx';
+
+declare global {
+  interface Window {
+    adsbygoogle?: unknown[];
+  }
+}
+
+type AdSlotProps = {
+  id: string;
+  label?: string;
+  className?: string;
+  variant?: 'top' | 'sidebar' | 'side' | 'mobile' | 'inline';
+};
+
+const ADSENSE_CLIENT_ID = 'ca-pub-7200463371794521';
+
+const ADSENSE_DISPLAY_SLOT_ID = '6282664948';
+const ADSENSE_MULTIPLEX_SLOT_ID = '6995061524';
+
+const MIN_AD_WIDTH = 120;
+
+function getAdSenseSlot(id: string, variant: AdSlotProps['variant']): string {
+  const normalizedId = id.toLowerCase();
+
+  if (normalizedId.includes('multiplex')) {
+    return ADSENSE_MULTIPLEX_SLOT_ID;
+  }
+
+  if (
+    variant === 'top' ||
+    variant === 'sidebar' ||
+    variant === 'side' ||
+    variant === 'inline' ||
+    variant === 'mobile'
+  ) {
+    return ADSENSE_DISPLAY_SLOT_ID;
+  }
+
+  return ADSENSE_DISPLAY_SLOT_ID;
+}
+
+function getMinHeight(variant: AdSlotProps['variant']): number {
+  if (variant === 'top') {
+    return 90;
+  }
+
+  if (variant === 'sidebar') {
+    return 250;
+  }
+
+  if (variant === 'side') {
+    return 250;
+  }
+
+  if (variant === 'inline') {
+    return 120;
+  }
+
+  if (variant === 'mobile') {
+    return 60;
+  }
+
+  return 90;
+}
+
+export function AdSlot({
+  id,
+  className,
+  variant = 'top',
+}: AdSlotProps) {
+  const wrapperRef = useRef<HTMLDivElement | null>(null);
+  const adRef = useRef<HTMLModElement | null>(null);
+  const pushedRef = useRef(false);
+
+  const adSlot = useMemo(() => {
+    return getAdSenseSlot(id, variant);
+  }, [id, variant]);
+
+  const minHeight = useMemo(() => {
+    return getMinHeight(variant);
+  }, [variant]);
+
+  useEffect(() => {
+    if (typeof window === 'undefined') {
+      return;
+    }
+
+    const wrapper = wrapperRef.current;
+    const adElement = adRef.current;
+
+    if (!wrapper || !adElement) {
+      return;
+    }
+
+    const hideSlot = () => {
+      wrapper.style.display = 'none';
+    };
+
+    const showSlot = () => {
+      wrapper.style.display = '';
+    };
+
+    const pushAd = () => {
+      if (pushedRef.current) {
+        return;
+      }
+
+      const width = wrapper.getBoundingClientRect().width;
+
+      if (width < MIN_AD_WIDTH) {
+        return;
+      }
+
+      const status = adElement.getAttribute('data-adsbygoogle-status');
+
+      if (status === 'done') {
+        pushedRef.current = true;
+        return;
+      }
+
+      try {
+        showSlot();
+        window.adsbygoogle = window.adsbygoogle || [];
+        window.adsbygoogle.push({});
+        pushedRef.current = true;
+      } catch {
+        hideSlot();
+      }
+    };
+
+    const observer = new ResizeObserver(() => {
+      pushAd();
+    });
+
+    observer.observe(wrapper);
+
+    const startTimer = window.setTimeout(() => {
+      pushAd();
+    }, 700);
+
+    const hideTimer = window.setTimeout(() => {
+      const status = adElement.getAttribute('data-ad-status');
+      const hasIframe = Boolean(adElement.querySelector('iframe'));
+
+      if (status === 'unfilled' || !hasIframe) {
+        hideSlot();
+      }
+    }, 5000);
+
+    return () => {
+      observer.disconnect();
+      window.clearTimeout(startTimer);
+      window.clearTimeout(hideTimer);
+    };
+  }, [adSlot]);
+
+  return (
+    <div
+      ref={wrapperRef}
+      id={id}
+      data-ad-slot={variant}
+      className={clsx(
+        'overflow-hidden',
+        variant === 'top' && 'w-full',
+        variant === 'sidebar' && 'w-full',
+        variant === 'side' && 'w-full',
+        variant === 'inline' && 'w-full',
+        variant === 'mobile' &&
+          'fixed inset-x-3 bottom-3 z-[9999] md:hidden',
+        className,
+      )}
+      style={{
+        minWidth: MIN_AD_WIDTH,
+        minHeight,
+      }}
+    >
+      <ins
+        ref={adRef}
+        className="adsbygoogle"
+        style={{
+          display: 'block',
+          width: '100%',
+          minWidth: MIN_AD_WIDTH,
+          minHeight,
+        }}
+        data-ad-client={ADSENSE_CLIENT_ID}
+        data-ad-slot={adSlot}
+        data-ad-format="auto"
+        data-full-width-responsive="true"
+      />
+    </div>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\components\dashboard\DarkOutbreakMap.tsx
+============================================================
+'use client';
+
+import { MapContainer, TileLayer, CircleMarker, Popup, ZoomControl } from 'react-leaflet';
+
+import { formatNumber } from '@/lib/format';
+import type { OutbreakPoint } from '@/types/outbreak';
+
+type DarkOutbreakMapProps = {
+  points: OutbreakPoint[];
+};
+
+function getCircleRadius(confirmed: number): number {
+  if (confirmed <= 0) return 4;
+  if (confirmed < 10) return 7;
+  if (confirmed < 100) return 11;
+  if (confirmed < 1000) return 17;
+  if (confirmed < 10000) return 25;
+  return 36;
+}
+
+function getCircleOpacity(confirmed: number): number {
+  if (confirmed < 10) return 0.55;
+  if (confirmed < 100) return 0.65;
+  if (confirmed < 1000) return 0.72;
+  return 0.82;
+}
+
+export function DarkOutbreakMap({ points }: DarkOutbreakMapProps) {
+  return (
+    <div className="relative h-full w-full overflow-hidden bg-[#05080b]">
+      <MapContainer
+        center={[28, 70]}
+        zoom={3}
+        minZoom={2}
+        maxZoom={8}
+        zoomControl={false}
+        scrollWheelZoom
+        className="h-full w-full"
+        worldCopyJump
+      >
+        <ZoomControl position="bottomright" />
+
+        <TileLayer
+          attribution='&copy; <a href="https://carto.com/">CARTO</a>'
+          url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
+        />
+
+        {points.map((point) => (
+          <CircleMarker
+            key={point.id}
+            center={[point.lat, point.lng]}
+            radius={getCircleRadius(point.confirmed)}
+            pathOptions={{
+              color: '#ff0000',
+              fillColor: '#e00000',
+              fillOpacity: getCircleOpacity(point.confirmed),
+              opacity: 0.8,
+              weight: 1,
+            }}
+          >
+            <Popup>
+              <div className="min-w-44">
+                <div className="text-sm font-bold text-neutral-950">{point.name}</div>
+                <div className="mt-1 text-xs text-neutral-600">{point.country}</div>
+
+                <div className="mt-3 grid grid-cols-2 gap-2 text-xs">
+                  <div>
+                    <div className="text-neutral-500">Confirmed</div>
+                    <div className="font-bold text-neutral-950">
+                      {formatNumber(point.confirmed)}
+                    </div>
+                  </div>
+
+                  <div>
+                    <div className="text-neutral-500">Deaths</div>
+                    <div className="font-bold text-neutral-950">
+                      {formatNumber(point.deaths)}
+                    </div>
+                  </div>
+                </div>
+
+                <div className="mt-3 border-t border-neutral-200 pt-2 text-[11px] text-neutral-500">
+                  Source: {point.source}
+                </div>
+              </div>
+            </Popup>
+          </CircleMarker>
+        ))}
+      </MapContainer>
+
+      <div className="pointer-events-none absolute inset-0 z-[400] bg-[radial-gradient(circle_at_center,rgba(255,0,0,0.08),rgba(0,0,0,0)_38%),linear-gradient(180deg,rgba(0,0,0,0.12),rgba(0,0,0,0.35))]" />
+
+      <div className="pointer-events-none absolute left-4 top-4 z-[500] border border-white/10 bg-black/70 px-4 py-3 text-white shadow-2xl backdrop-blur">
+        <div className="text-[10px] font-semibold uppercase tracking-[0.25em] text-white/45">
+          Interactive Map
+        </div>
+        <div className="mt-1 text-sm font-semibold text-white">
+          Outbreak locations by confirmed cases
+        </div>
+      </div>
+    </div>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\components\dashboard\LanguageSwitcher.tsx
+============================================================
+'use client';
+
+import type { AppLocale } from '@/i18n/messages';
+
+type LanguageSwitcherProps = {
+  locale: AppLocale;
+  locales: Array<{
+    code: AppLocale;
+    label: string;
+    nativeName: string;
+    dir: 'ltr' | 'rtl';
+  }>;
+  label: string;
+  onChange: (locale: AppLocale) => void;
+};
+
+export function LanguageSwitcher({
+  locale,
+  locales,
+  label,
+  onChange,
+}: LanguageSwitcherProps) {
+  return (
+    <label className="inline-flex h-10 items-center gap-2 border border-white/10 bg-white/[0.04] px-3 text-xs text-white/60">
+      <span className="uppercase tracking-[0.14em]">{label}</span>
+
+      <select
+        value={locale}
+        onChange={(event) => onChange(event.target.value as AppLocale)}
+        className="min-w-20 bg-transparent text-xs font-semibold text-white outline-none"
+      >
+        {locales.map((item) => (
+          <option key={item.code} value={item.code} className="bg-[#111111] text-white">
+            {item.nativeName}
+          </option>
+        ))}
+      </select>
+    </label>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\components\dashboard\OutbreakDashboard.tsx
+============================================================
+'use client';
+
+import dynamic from 'next/dynamic';
+import { useCallback, useEffect, useState } from 'react';
+import { RefreshCw, ShieldCheck } from 'lucide-react';
+
+import { AdSlot } from '@/components/dashboard/AdSlot';
+import { LanguageSwitcher } from '@/components/dashboard/LanguageSwitcher';
+import { StatsSidebar } from '@/components/dashboard/StatsSidebar';
+import { TimelineChart } from '@/components/dashboard/TimelineChart';
+import { OutbreakStructuredData } from '@/components/seo/OutbreakStructuredData';
+import { DashboardInfoLinks } from '@/components/trust/DashboardInfoLinks';
+import { useI18n } from '@/i18n/useI18n';
+import {
+  loadCountries,
+  loadGlobalStats,
+  loadPoints,
+  loadSources,
+  loadTimeline,
+} from '@/lib/data';
+import { formatDateTime } from '@/lib/format';
+import type {
+  OutbreakDashboardData,
+  OutbreakPoint,
+  OutbreakSource,
+} from '@/types/outbreak';
+
+const DarkOutbreakMap = dynamic<{ points: OutbreakPoint[] }>(
+  () =>
+    import('@/components/dashboard/DarkOutbreakMap').then(
+      (mod) => mod.DarkOutbreakMap,
+    ),
+  {
+    ssr: false,
+    loading: () => (
+      <div className="flex h-full w-full items-center justify-center bg-[#05080b] text-white/50">
+        Loading map...
+      </div>
+    ),
+  },
+);
+
+const REFRESH_INTERVAL_MS = 5 * 60 * 1000;
+
+function getTopSource(sources: OutbreakSource[]): OutbreakSource | null {
+  if (sources.length === 0) {
+    return null;
+  }
+
+  return sources.find((source) => source.confidence === 'high') ?? sources[0];
+}
+
+export function OutbreakDashboard() {
+  const { locale, locales, setLocale, t } = useI18n();
+  const isRtl = locale === 'ar';
+
+  const [data, setData] = useState<OutbreakDashboardData | null>(null);
+  const [isLoading, setIsLoading] = useState(true);
+  const [isRefreshing, setIsRefreshing] = useState(false);
+  const [error, setError] = useState<string | null>(null);
+  const [lastClientRefresh, setLastClientRefresh] = useState<string | null>(null);
+
+  const loadData = useCallback(async (mode: 'initial' | 'refresh' = 'initial') => {
+    try {
+      if (mode === 'initial') {
+        setIsLoading(true);
+      } else {
+        setIsRefreshing(true);
+      }
+
+      setError(null);
+
+      const [global, countries, points, timeline, sources] = await Promise.all([
+        loadGlobalStats(),
+        loadCountries(),
+        loadPoints(),
+        loadTimeline(),
+        loadSources(),
+      ]);
+
+      setData({
+        global,
+        countries,
+        points,
+        timeline,
+        sources,
+      });
+
+      setLastClientRefresh(new Date().toISOString());
+    } catch (err) {
+      setError(err instanceof Error ? err.message : 'Failed to load outbreak data');
+    } finally {
+      setIsLoading(false);
+      setIsRefreshing(false);
+    }
+  }, []);
+
+  useEffect(() => {
+    const timeout = window.setTimeout(() => {
+      void loadData('initial');
+    }, 0);
+
+    const timer = window.setInterval(() => {
+      void loadData('refresh');
+    }, REFRESH_INTERVAL_MS);
+
+    return () => {
+      window.clearTimeout(timeout);
+      window.clearInterval(timer);
+    };
+  }, [loadData]);
+
+  const topSource = data ? getTopSource(data.sources) : null;
+
+  if (isLoading) {
+    return (
+      <main className="flex min-h-dvh items-center justify-center bg-black text-white">
+        <div className="text-center">
+          <div className="mx-auto h-10 w-10 animate-spin rounded-full border-2 border-white/20 border-t-red-500" />
+          <p className="mt-4 text-sm uppercase tracking-[0.24em] text-white/45">
+            {t('loading.dashboard')}
+          </p>
+        </div>
+      </main>
+    );
+  }
+
+  if (error || !data) {
+    return (
+      <main className="flex min-h-dvh items-center justify-center bg-black px-6 text-white">
+        <div className="max-w-md border border-red-500/30 bg-red-500/10 p-6 text-center">
+          <h1 className="text-xl font-semibold text-red-200">{t('error.title')}</h1>
+
+          <p className="mt-2 text-sm text-red-100/70">
+            {error ?? t('error.message')}
+          </p>
+
+          <button
+            type="button"
+            onClick={() => void loadData('initial')}
+            className="mt-5 border border-white/15 bg-white/10 px-4 py-2 text-sm font-semibold text-white hover:bg-white/15"
+          >
+            {t('error.retry')}
+          </button>
+        </div>
+      </main>
+    );
+  }
+
+  return (
+    <main dir="ltr" className="min-h-dvh bg-black pb-16 text-white">
+      <OutbreakStructuredData global={data.global} />
+
+      <div className="grid min-h-dvh grid-cols-1 bg-black lg:h-dvh lg:grid-cols-[330px_minmax(0,1fr)]">
+        <StatsSidebar
+          global={data.global}
+          countries={data.countries}
+          dir={isRtl ? 'rtl' : 'ltr'}
+          labels={{
+            appTitle: t('app.title'),
+            appSubtitle: t('app.subtitle'),
+            totalConfirmed: t('stats.totalConfirmed'),
+            deaths: t('stats.deaths'),
+            countries: t('stats.countries'),
+            lastUpdate: t('stats.lastUpdate'),
+            confirmedByCountry: t('stats.confirmedByCountry'),
+            sidebarAd: t('ads.sidebar'),
+          }}
+        />
+
+        <section className="grid min-h-0 bg-black lg:grid-rows-[82px_minmax(0,1fr)_286px]">
+          <header className="grid min-h-0 gap-px border-b border-black bg-black xl:grid-cols-[minmax(0,1fr)_480px]">
+            <div className="flex min-w-0 items-center bg-[#101010] px-3 py-3 sm:px-4 lg:py-2">
+              <AdSlot id="top-map-ad" variant="top" label={t('ads.topBanner')} />
+            </div>
+
+            <div className="grid min-w-0 gap-3 bg-[#151515] px-3 py-3 sm:px-4 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center lg:py-2">
+              <div className="min-w-0" dir={isRtl ? 'rtl' : 'ltr'}>
+                <div className="flex items-center gap-2 text-[10px] font-semibold uppercase tracking-[0.2em] text-white/40">
+                  <ShieldCheck className="h-3.5 w-3.5 shrink-0 text-emerald-400" />
+                  <span className="truncate">{t('sources.verified')}</span>
+                </div>
+
+                <div className="mt-1 truncate text-sm text-white/72">
+                  {topSource ? topSource.name : 'Official health agencies'}
+                </div>
+              </div>
+
+              <div className="flex flex-wrap items-center gap-2" dir="ltr">
+                <LanguageSwitcher
+                  locale={locale}
+                  locales={locales}
+                  label={t('language.label')}
+                  onChange={setLocale}
+                />
+
+                <button
+                  type="button"
+                  onClick={() => void loadData('refresh')}
+                  className="inline-flex h-10 items-center gap-2 border border-white/10 bg-white/[0.04] px-3 text-xs font-semibold uppercase tracking-[0.14em] text-white/65 hover:bg-white/[0.08]"
+                >
+                  <RefreshCw
+                    className={
+                      isRefreshing
+                        ? 'h-3.5 w-3.5 animate-spin'
+                        : 'h-3.5 w-3.5'
+                    }
+                  />
+                  {t('actions.refresh')}
+                </button>
+              </div>
+            </div>
+          </header>
+
+          <div className="h-[420px] min-h-0 border-b border-black sm:h-[500px] lg:h-auto">
+            <DarkOutbreakMap points={data.points} />
+          </div>
+
+          <div className="grid min-h-0 min-w-0 gap-px border-t border-black bg-black lg:grid-cols-[minmax(0,1fr)_360px]">
+            <TimelineChart
+              data={data.timeline}
+              labels={{
+                title: t('chart.title'),
+                subtitle: t('chart.subtitle'),
+                confirmed: t('chart.confirmed'),
+                deaths: t('chart.deaths'),
+              }}
+            />
+
+            <aside className="grid min-h-0 gap-3 bg-[#111111] p-3 lg:grid-rows-[112px_minmax(0,1fr)]">
+              <div
+                className="min-h-0 border border-white/10 bg-white/[0.03] p-3"
+                dir={isRtl ? 'rtl' : 'ltr'}
+              >
+                <div className="text-[10px] font-semibold uppercase tracking-[0.22em] text-white/35">
+                  {t('status.title')}
+                </div>
+
+                <div className="mt-2 space-y-2 text-xs text-white/60">
+                  <div className="flex justify-between gap-3">
+                    <span>{t('status.officialUpdate')}</span>
+                    <span dir="ltr" className="text-end text-white/80">
+                      {formatDateTime(data.global.last_updated)}
+                    </span>
+                  </div>
+
+                  <div className="flex justify-between gap-3">
+                    <span>{t('status.browserRefresh')}</span>
+                    <span dir="ltr" className="text-end text-white/80">
+                      {formatDateTime(lastClientRefresh)}
+                    </span>
+                  </div>
+
+                  <div className="flex justify-between gap-3">
+                    <span>{t('status.mode')}</span>
+                    <span className="text-emerald-300">{t('status.staticJson')}</span>
+                  </div>
+                </div>
+              </div>
+
+              <AdSlot id="bottom-side-ad" variant="side" label={t('ads.chartSide')} />
+            </aside>
+          </div>
+
+          <div className="grid gap-3 bg-[#101010] p-3 lg:hidden">
+            <AdSlot id="mobile-inline-ad-1" variant="inline" label={t('ads.mobile')} />
+            <AdSlot id="mobile-inline-ad-2" variant="inline" label={t('ads.mobile')} />
+          </div>
+        </section>
+      </div>
+
+      <DashboardInfoLinks />
+
+      <AdSlot id="mobile-sticky-ad" variant="mobile" label={t('ads.mobile')} />
+    </main>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\components\dashboard\StatsSidebar.tsx
+============================================================
+import { Activity, AlertTriangle, Clock3, Globe2, Skull } from 'lucide-react';
+
+import { AdSlot } from '@/components/dashboard/AdSlot';
+import { formatDateTime, formatNumber } from '@/lib/format';
+import type { OutbreakCountry, OutbreakGlobalStats } from '@/types/outbreak';
+
+type StatsSidebarLabels = {
+  appTitle: string;
+  appSubtitle: string;
+  totalConfirmed: string;
+  deaths: string;
+  countries: string;
+  lastUpdate: string;
+  confirmedByCountry: string;
+  sidebarAd: string;
+};
+
+type StatsSidebarProps = {
+  global: OutbreakGlobalStats;
+  countries: OutbreakCountry[];
+  labels: StatsSidebarLabels;
+  dir?: 'ltr' | 'rtl';
+};
+
+export function StatsSidebar({
+  global,
+  countries,
+  labels,
+  dir = 'ltr',
+}: StatsSidebarProps) {
+  const sortedCountries = [...countries].sort((a, b) => b.confirmed - a.confirmed);
+
+  return (
+    <aside
+      dir={dir}
+      className="flex min-h-0 flex-col border-b border-black bg-[#111111] text-white lg:h-full lg:border-b-0 lg:border-r"
+    >
+      <div className="border-b border-black bg-[#181818] px-4 py-3">
+        <div className="flex items-center gap-2 text-[10px] font-semibold uppercase tracking-[0.24em] text-white/55">
+          <Activity className="h-3.5 w-3.5 shrink-0 text-red-500" />
+          <span className="truncate">{labels.appTitle}</span>
+        </div>
+
+        <h1 className="mt-2 text-2xl font-semibold leading-tight tracking-tight text-white">
+          {global.disease}
+        </h1>
+
+        <p className="mt-1 text-xs leading-5 text-white/45">{labels.appSubtitle}</p>
+      </div>
+
+      <div className="border-b border-black bg-[#0d0d0d] px-4 py-4">
+        <div className="text-xs font-semibold text-white/55">{labels.totalConfirmed}</div>
+
+        <div
+          dir="ltr"
+          className="mt-1 font-mono text-[58px] font-light leading-none tracking-[0.08em] text-white sm:text-[64px]"
+        >
+          {formatNumber(global.total_confirmed)}
+        </div>
+
+        <div className="mt-3 grid grid-cols-2 gap-2">
+          <div className="border border-white/10 bg-white/[0.03] p-3">
+            <div className="flex items-center gap-2 text-[11px] text-white/45">
+              <Skull className="h-3.5 w-3.5 shrink-0 text-red-500" />
+              <span className="truncate">{labels.deaths}</span>
+            </div>
+            <div dir="ltr" className="mt-1 font-mono text-lg text-white">
+              {formatNumber(global.total_deaths)}
+            </div>
+          </div>
+
+          <div className="border border-white/10 bg-white/[0.03] p-3">
+            <div className="flex items-center gap-2 text-[11px] text-white/45">
+              <Globe2 className="h-3.5 w-3.5 shrink-0 text-yellow-400" />
+              <span className="truncate">{labels.countries}</span>
+            </div>
+            <div dir="ltr" className="mt-1 font-mono text-lg text-white">
+              {formatNumber(global.affected_countries)}
+            </div>
+          </div>
+        </div>
+
+        <div className="mt-2 flex items-start gap-2 border border-white/10 bg-white/[0.03] p-3">
+          <Clock3 className="mt-0.5 h-4 w-4 shrink-0 text-white/35" />
+          <div className="min-w-0">
+            <div className="text-[10px] uppercase tracking-[0.18em] text-white/35">
+              {labels.lastUpdate}
+            </div>
+            <div dir="ltr" className="mt-1 truncate text-xs text-white/70">
+              {formatDateTime(global.last_updated)}
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="border-b border-black bg-[#151515] px-4 py-3">
+        <div className="flex items-center justify-between gap-3">
+          <div className="min-w-0 text-sm font-semibold leading-5 text-white/85">
+            {labels.confirmedByCountry}
+          </div>
+
+          <div className="flex shrink-0 items-center gap-1 rounded-full border border-red-500/30 bg-red-500/10 px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.14em] text-red-300">
+            <AlertTriangle className="h-3 w-3" />
+            {global.global_risk_level}
+          </div>
+        </div>
+      </div>
+
+      <div className="max-h-[260px] min-h-0 overflow-y-auto bg-[#1a1a1a] lg:max-h-none lg:flex-1">
+        {sortedCountries.map((country) => (
+          <div
+            key={country.country}
+            className="grid grid-cols-[76px_1fr] items-center border-b border-black/70 px-4 py-2.5 transition hover:bg-white/[0.04]"
+            dir="ltr"
+          >
+            <div className="font-mono text-base text-white">
+              {formatNumber(country.confirmed)}
+            </div>
+
+            <div className="truncate text-sm font-medium text-white/72">
+              {country.country}
+            </div>
+          </div>
+        ))}
+      </div>
+
+      <div className="shrink-0 border-t border-black bg-[#101010] p-3">
+        <AdSlot id="left-sidebar-ad" variant="sidebar" label={labels.sidebarAd} />
+      </div>
+    </aside>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\components\dashboard\TimelineChart.tsx
+============================================================
+'use client';
+
+import {
+  CartesianGrid,
+  Line,
+  LineChart,
+  ResponsiveContainer,
+  Tooltip,
+  XAxis,
+  YAxis,
+} from 'recharts';
+
+import { formatNumber } from '@/lib/format';
+import type { OutbreakTimelineItem } from '@/types/outbreak';
+
+type TimelineChartLabels = {
+  title: string;
+  subtitle: string;
+  confirmed: string;
+  deaths: string;
+};
+
+type TimelineChartProps = {
+  data: OutbreakTimelineItem[];
+  labels: TimelineChartLabels;
+};
+
+export function TimelineChart({ data, labels }: TimelineChartProps) {
+  return (
+    <div className="flex h-[320px] min-h-[320px] w-full min-w-0 flex-col bg-[#171717] px-4 py-3 text-white sm:h-[340px] lg:h-full lg:min-h-0">
+      <div className="mb-2 flex shrink-0 flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+        <div className="min-w-0">
+          <div className="text-[10px] font-semibold uppercase tracking-[0.24em] text-white/35">
+            {labels.title}
+          </div>
+
+          <h2 className="mt-1 truncate text-sm font-semibold text-white/90">
+            {labels.subtitle}
+          </h2>
+        </div>
+
+        <div className="flex shrink-0 items-center gap-4 text-xs text-white/50">
+          <div className="flex items-center gap-2">
+            <span className="h-2.5 w-2.5 rounded-full bg-yellow-400" />
+            {labels.confirmed}
+          </div>
+
+          <div className="flex items-center gap-2">
+            <span className="h-2.5 w-2.5 rounded-full bg-red-500" />
+            {labels.deaths}
+          </div>
+        </div>
+      </div>
+
+      <div className="relative min-h-0 min-w-0 flex-1">
+        <ResponsiveContainer width="100%" height="100%" minWidth={1} minHeight={1}>
+          <LineChart data={data} margin={{ top: 8, right: 12, bottom: 0, left: 0 }}>
+            <CartesianGrid stroke="rgba(255,255,255,0.07)" strokeDasharray="3 3" />
+
+            <XAxis
+              dataKey="date"
+              minTickGap={18}
+              tick={{ fill: 'rgba(255,255,255,0.45)', fontSize: 10 }}
+              axisLine={{ stroke: 'rgba(255,255,255,0.12)' }}
+              tickLine={{ stroke: 'rgba(255,255,255,0.12)' }}
+            />
+
+            <YAxis
+              tick={{ fill: 'rgba(255,255,255,0.45)', fontSize: 10 }}
+              axisLine={{ stroke: 'rgba(255,255,255,0.12)' }}
+              tickLine={{ stroke: 'rgba(255,255,255,0.12)' }}
+              tickFormatter={(value) => formatNumber(Number(value))}
+              width={50}
+            />
+
+            <Tooltip
+              contentStyle={{
+                background: '#0b0b0b',
+                border: '1px solid rgba(255,255,255,0.12)',
+                borderRadius: 0,
+                color: '#ffffff',
+              }}
+              labelStyle={{
+                color: 'rgba(255,255,255,0.7)',
+              }}
+              formatter={(value, name) => [
+                formatNumber(Number(value)),
+                name === 'confirmed' ? labels.confirmed : labels.deaths,
+              ]}
+            />
+
+            <Line
+              type="monotone"
+              dataKey="confirmed"
+              stroke="#facc15"
+              strokeWidth={3}
+              dot={{ r: 4, strokeWidth: 0, fill: '#facc15' }}
+              activeDot={{ r: 6, strokeWidth: 0, fill: '#facc15' }}
+            />
+
+            <Line
+              type="monotone"
+              dataKey="deaths"
+              stroke="#ef4444"
+              strokeWidth={2}
+              dot={{ r: 3, strokeWidth: 0, fill: '#ef4444' }}
+              activeDot={{ r: 5, strokeWidth: 0, fill: '#ef4444' }}
+            />
+          </LineChart>
+        </ResponsiveContainer>
+      </div>
+    </div>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\components\monetag\DirectLinkOpener.tsx
+============================================================
+'use client';
+
+import { useEffect, useRef } from 'react';
+
+const DIRECT_LINK_URL = 'https://omg10.com/4/10980928';
+
+const STORAGE_KEY = 'hantamap_direct_link_last_opened_at';
+
+const OPEN_INTERVAL_HOURS = 6;
+const MIN_SECONDS_BEFORE_OPEN = 10;
+const MIN_SCROLL_PERCENT = 20;
+
+function getNow(): number {
+  return Date.now();
+}
+
+function getLastOpenedAt(): number | null {
+  if (typeof window === 'undefined') {
+    return null;
+  }
+
+  const value = window.localStorage.getItem(STORAGE_KEY);
+
+  if (!value) {
+    return null;
+  }
+
+  const parsed = Number(value);
+
+  if (Number.isNaN(parsed)) {
+    return null;
+  }
+
+  return parsed;
+}
+
+function canOpenDirectLink(): boolean {
+  if (typeof window === 'undefined') {
+    return false;
+  }
+
+  const lastOpenedAt = getLastOpenedAt();
+
+  if (!lastOpenedAt) {
+    return true;
+  }
+
+  const intervalMs = OPEN_INTERVAL_HOURS * 60 * 60 * 1000;
+
+  return getNow() - lastOpenedAt >= intervalMs;
+}
+
+function markDirectLinkOpened(): void {
+  if (typeof window === 'undefined') {
+    return;
+  }
+
+  window.localStorage.setItem(STORAGE_KEY, String(getNow()));
+}
+
+function getScrollPercent(): number {
+  if (typeof document === 'undefined') {
+    return 0;
+  }
+
+  const scrollTop = window.scrollY || document.documentElement.scrollTop;
+  const scrollHeight =
+    document.documentElement.scrollHeight - window.innerHeight;
+
+  if (scrollHeight <= 0) {
+    return 0;
+  }
+
+  return Math.round((scrollTop / scrollHeight) * 100);
+}
+
+function openDirectLink(): boolean {
+  if (!canOpenDirectLink()) {
+    return false;
+  }
+
+  const popup = window.open(DIRECT_LINK_URL, '_blank', 'noopener,noreferrer');
+
+  if (!popup) {
+    return false;
+  }
+
+  markDirectLinkOpened();
+
+  return true;
+}
+
+export function DirectLinkOpener() {
+  const hasOpenedRef = useRef(false);
+  const pageReadyAtRef = useRef<number>(0);
+
+  useEffect(() => {
+    pageReadyAtRef.current = getNow();
+
+    const tryOpen = () => {
+      if (hasOpenedRef.current) {
+        return;
+      }
+
+      if (!canOpenDirectLink()) {
+        return;
+      }
+
+      const secondsOnPage = (getNow() - pageReadyAtRef.current) / 1000;
+
+      if (secondsOnPage < MIN_SECONDS_BEFORE_OPEN) {
+        return;
+      }
+
+      const scrollPercent = getScrollPercent();
+
+      if (scrollPercent < MIN_SCROLL_PERCENT) {
+        return;
+      }
+
+      const opened = openDirectLink();
+
+      if (opened) {
+        hasOpenedRef.current = true;
+        cleanup();
+      }
+    };
+
+    const handleClick = () => {
+      tryOpen();
+    };
+
+    const handleTouchStart = () => {
+      tryOpen();
+    };
+
+    const handleScroll = () => {
+      tryOpen();
+    };
+
+    const handleKeyDown = () => {
+      tryOpen();
+    };
+
+    const cleanup = () => {
+      window.removeEventListener('click', handleClick);
+      window.removeEventListener('touchstart', handleTouchStart);
+      window.removeEventListener('scroll', handleScroll);
+      window.removeEventListener('keydown', handleKeyDown);
+    };
+
+    window.addEventListener('click', handleClick, { passive: true });
+    window.addEventListener('touchstart', handleTouchStart, { passive: true });
+    window.addEventListener('scroll', handleScroll, { passive: true });
+    window.addEventListener('keydown', handleKeyDown);
+
+    return cleanup;
+  }, []);
+
+  return null;
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\components\monetag\MonetagScripts.tsx
+============================================================
+'use client';
+
+import { useEffect } from 'react';
+
+declare global {
+  interface Window {
+    __hantamapMonetagLoaded?: boolean;
+  }
+}
+
+type MonetagZone = {
+  id: string;
+  zone: string;
+  src: string;
+};
+
+const MONETAG_ZONES: MonetagZone[] = [
+  {
+    id: 'monetag-in-page-push-banner',
+    zone: '10978397',
+    src: 'https://nap5k.com/tag.min.js',
+  },
+  {
+    id: 'monetag-good-tag-onclick-popunder',
+    zone: '10978399',
+    src: 'https://al5sm.com/tag.min.js',
+  },
+  {
+    id: 'monetag-pungent-vignette',
+    zone: '10978400',
+    src: 'https://n6wxm.com/vignette.min.js',
+  },
+];
+
+function appendMonetagScript(item: MonetagZone): void {
+  if (document.getElementById(item.id)) {
+    return;
+  }
+
+  const script = document.createElement('script');
+
+  script.id = item.id;
+  script.async = true;
+  script.dataset.zone = item.zone;
+  script.dataset.cfasync = 'false';
+  script.src = item.src;
+
+  document.body.appendChild(script);
+}
+
+export function MonetagScripts() {
+  useEffect(() => {
+    if (window.__hantamapMonetagLoaded) {
+      return;
+    }
+
+    window.__hantamapMonetagLoaded = true;
+
+    for (const item of MONETAG_ZONES) {
+      appendMonetagScript(item);
+    }
+  }, []);
+
+  return null;
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\components\seo\OutbreakStructuredData.tsx
+============================================================
+'use client';
+
+import { useMemo } from 'react';
+
+import { useI18n } from '@/i18n/useI18n';
+import type { OutbreakGlobalStats } from '@/types/outbreak';
+
+type OutbreakStructuredDataProps = {
+  global?: OutbreakGlobalStats | null;
+};
+
+export function OutbreakStructuredData({
+  global,
+}: OutbreakStructuredDataProps) {
+  const { t, locale } = useI18n();
+
+  const jsonLd = useMemo(() => {
+    const faqs = [
+      {
+        question: t('faq.q1'),
+        answer: t('faq.a1'),
+      },
+      {
+        question: t('faq.q2'),
+        answer: t('faq.a2'),
+      },
+      {
+        question: t('faq.q3'),
+        answer: t('faq.a3'),
+      },
+      {
+        question: t('faq.q4'),
+        answer: t('faq.a4'),
+      },
+    ];
+
+    return {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'WebSite',
+          name: t('app.title'),
+          description: t('app.subtitle'),
+          inLanguage: locale,
+        },
+        {
+          '@type': 'Dataset',
+          name: `${global?.disease ?? 'Outbreak'} public-health tracking dataset`,
+          description:
+            'Static public-health outbreak dataset compiled from official and high-confidence public sources.',
+          creator: {
+            '@type': 'Organization',
+            name: 'Outbreak Tracker',
+          },
+          keywords: [
+            global?.disease ?? 'outbreak',
+            'public health',
+            'WHO',
+            'CDC',
+            'ECDC',
+            'outbreak tracker',
+          ],
+          dateModified: global?.last_updated,
+          isAccessibleForFree: true,
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: faqs.map((faq) => ({
+            '@type': 'Question',
+            name: faq.question,
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: faq.answer,
+            },
+          })),
+        },
+      ],
+    };
+  }, [global, locale, t]);
+
+  return (
+    <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{
+        __html: JSON.stringify(jsonLd),
+      }}
+    />
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\components\trust\DashboardInfoLinks.tsx
+============================================================
+'use client';
+
+import Link from 'next/link';
+import { useI18n } from '@/i18n/useI18n';
+
+export function DashboardInfoLinks() {
+  const { locale } = useI18n();
+  const isArabic = locale === 'ar';
+
+  const links = isArabic
+    ? [
+        {
+          href: '/about',
+          eyebrow: 'Ø­ÙˆÙ„ Ø§Ù„Ù…Ù†ØµØ©',
+          title: 'Ù…ØµÙ…Ù… Ù„Ù„ÙˆØ¶ÙˆØ­ ÙˆÙ„ÙŠØ³ Ù„Ù„ØªÙ‡ÙˆÙŠÙ„',
+          description: 'ØªØ¹Ø±Ù Ø¹Ù„Ù‰ Ù‡Ø¯Ù HantaMap ÙˆÙƒÙŠÙ ÙŠØªÙ… Ø¹Ø±Ø¶ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª.',
+        },
+        {
+          href: '/sources',
+          eyebrow: 'Ù…ØµØ§Ø¯Ø± Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª',
+          title: 'Ù…ØµØ§Ø¯Ø± ØµØ­ÙŠØ© Ø±Ø³Ù…ÙŠØ© ÙˆÙ…ÙˆØ«ÙˆÙ‚Ø©',
+          description: 'WHO Ùˆ CDC Ùˆ ECDC Ùˆ Africa CDC Ùˆ ReliefWeb.',
+        },
+        {
+          href: '/faq',
+          eyebrow: 'Ø§Ù„Ø£Ø³Ø¦Ù„Ø© Ø§Ù„Ø´Ø§Ø¦Ø¹Ø©',
+          title: 'Ø¥Ø¬Ø§Ø¨Ø§Øª Ù…Ø®ØªØµØ±Ø© ÙˆÙˆØ§Ø¶Ø­Ø©',
+          description: 'Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø£Ø³Ø§Ø³ÙŠØ© Ø­ÙˆÙ„ Hantavirus ÙˆØ·Ø±ÙŠÙ‚Ø© Ù‚Ø±Ø§Ø¡Ø© Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª.',
+        },
+        {
+          href: '/medical-disclaimer',
+          eyebrow: 'Ø¥Ø®Ù„Ø§Ø¡ Ø§Ù„Ù…Ø³Ø¤ÙˆÙ„ÙŠØ©',
+          title: 'Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø¹Ø§Ù…Ø© ÙˆÙ„ÙŠØ³Øª Ù†ØµÙŠØ­Ø© Ø·Ø¨ÙŠØ©',
+          description: 'Ø§ØªØ¨Ø¹ Ø¯Ø§Ø¦Ù…Ù‹Ø§ Ø¥Ø±Ø´Ø§Ø¯Ø§Øª Ø§Ù„Ø¬Ù‡Ø§Øª Ø§Ù„ØµØ­ÙŠØ© Ø§Ù„Ù…Ø®ØªØµØ©.',
+        },
+      ]
+    : [
+        {
+          href: '/about',
+          eyebrow: 'About',
+          title: 'Built for clarity, not panic',
+          description: 'Learn what HantaMap does and how the data is presented.',
+        },
+        {
+          href: '/sources',
+          eyebrow: 'Data sources',
+          title: 'Official and trusted health sources',
+          description: 'WHO, CDC, ECDC, Africa CDC, and ReliefWeb.',
+        },
+        {
+          href: '/faq',
+          eyebrow: 'FAQ',
+          title: 'Simple answers',
+          description: 'Basic information about Hantavirus and dashboard data.',
+        },
+        {
+          href: '/medical-disclaimer',
+          eyebrow: 'Disclaimer',
+          title: 'Information only, not medical advice',
+          description: 'Always follow local health authority guidance.',
+        },
+      ];
+
+  return (
+    <section
+      dir={isArabic ? 'rtl' : 'ltr'}
+      className="mx-auto w-full max-w-[1480px] px-3 pb-10 pt-4 sm:px-4 lg:px-5"
+    >
+      <div className="grid gap-3 sm:grid-cols-2 xl:grid-cols-4">
+        {links.map((item) => (
+          <Link
+            key={item.href}
+            href={item.href}
+            className="group border border-white/10 bg-[#050505] p-4 transition hover:border-white/20 hover:bg-white/[0.035]"
+          >
+            <p className="text-[10px] font-semibold uppercase tracking-[0.2em] text-emerald-300/75">
+              {item.eyebrow}
+            </p>
+
+            <h2 className="mt-3 text-base font-semibold tracking-[-0.02em] text-white">
+              {item.title}
+            </h2>
+
+            <p className="mt-2 text-sm leading-6 text-white/50">
+              {item.description}
+            </p>
+
+            <div className="mt-4 text-xs font-semibold uppercase tracking-[0.16em] text-white/35 transition group-hover:text-white/70">
+              {isArabic ? 'ÙØªØ­ Ø§Ù„ØµÙØ­Ø©' : 'Open page'} â†’
+            </div>
+          </Link>
+        ))}
+      </div>
+    </section>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\components\trust\TrustAndFaqSections.tsx
+============================================================
+'use client';
+
+import type { OutbreakSource } from '@/types/outbreak';
+import { useI18n } from '@/i18n/useI18n';
+
+type TrustAndFaqSectionsProps = {
+  sources?: OutbreakSource[];
+  primaryEventUrl?: string | null;
+};
+
+type VisibleSource = {
+  id: string;
+  name: string;
+  url: string;
+  confidence: 'high' | 'medium' | 'low';
+  type: string;
+};
+
+const fallbackSourceNames = [
+  'World Health Organization',
+  'Centers for Disease Control and Prevention',
+  'European Centre for Disease Prevention and Control',
+  'Africa Centres for Disease Control and Prevention',
+  'ReliefWeb',
+];
+
+function formatSourceType(type: string): string {
+  return type.replace(/-/g, ' ');
+}
+
+function getConfidenceClass(confidence: VisibleSource['confidence']): string {
+  if (confidence === 'high') {
+    return 'border-emerald-400/25 bg-emerald-400/10 text-emerald-200';
+  }
+
+  if (confidence === 'medium') {
+    return 'border-amber-300/25 bg-amber-300/10 text-amber-200';
+  }
+
+  return 'border-white/15 bg-white/[0.04] text-white/55';
+}
+
+export function TrustAndFaqSections({
+  sources = [],
+  primaryEventUrl,
+}: TrustAndFaqSectionsProps) {
+  const { t, dir } = useI18n();
+
+  const visibleSources: VisibleSource[] =
+    sources.length > 0
+      ? sources.slice(0, 6).map((source) => ({
+          id: source.id,
+          name: source.name,
+          url: source.url,
+          confidence: source.confidence,
+          type: source.type,
+        }))
+      : fallbackSourceNames.map((name) => ({
+          id: name.toLowerCase().replace(/[^a-z0-9]+/g, '-'),
+          name,
+          url: '',
+          confidence: 'high' as const,
+          type: 'official',
+        }));
+
+  const faqs = [
+    {
+      question: t('faq.q1'),
+      answer: t('faq.a1'),
+    },
+    {
+      question: t('faq.q2'),
+      answer: t('faq.a2'),
+    },
+    {
+      question: t('faq.q3'),
+      answer: t('faq.a3'),
+    },
+    {
+      question: t('faq.q4'),
+      answer: t('faq.a4'),
+    },
+  ];
+
+  return (
+    <section
+      dir={dir}
+      aria-label={t('trust.title')}
+      className="relative mx-auto w-full max-w-[1480px] px-3 pb-10 pt-4 sm:px-4 lg:px-5 lg:pb-12"
+    >
+      <div className="pointer-events-none absolute inset-x-3 top-4 h-px bg-gradient-to-r from-transparent via-white/10 to-transparent sm:inset-x-4 lg:inset-x-5" />
+
+      <div className="mb-4 overflow-hidden border border-amber-300/20 bg-[#0b0903] shadow-[0_18px_60px_rgba(0,0,0,0.35)]">
+        <div className="relative">
+          <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(252,211,77,0.14),transparent_34%),linear-gradient(90deg,rgba(252,211,77,0.08),transparent_42%)]" />
+
+          <div className="relative grid gap-4 p-4 sm:p-5 lg:grid-cols-[auto_minmax(0,1fr)] lg:items-start">
+            <div className="flex h-11 w-11 shrink-0 items-center justify-center border border-amber-300/25 bg-amber-300/10 text-amber-200 shadow-[0_0_28px_rgba(252,211,77,0.16)]">
+              !
+            </div>
+
+            <div className="min-w-0">
+              <div className="mb-2 flex flex-wrap items-center gap-2">
+                <span className="border border-amber-300/25 bg-amber-300/10 px-2.5 py-1 text-[10px] font-semibold uppercase tracking-[0.2em] text-amber-200">
+                  {t('trust.disclaimerTitle')}
+                </span>
+
+                <span className="border border-white/10 bg-white/[0.035] px-2.5 py-1 text-[10px] font-semibold uppercase tracking-[0.18em] text-white/40">
+                  Information only
+                </span>
+              </div>
+
+              <p className="max-w-5xl text-sm leading-7 text-white/65 sm:text-[15px]">
+                {t('trust.disclaimerDescription')}
+              </p>
+
+              <p className="mt-2 max-w-5xl text-xs leading-6 text-white/38">
+                This dashboard avoids panic-driven language and presents
+                official-source public information for awareness only.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div className="grid gap-4 lg:grid-cols-[minmax(0,0.95fr)_minmax(0,1.05fr)] xl:grid-cols-[minmax(0,0.82fr)_minmax(0,1.18fr)]">
+        <aside className="order-2 border border-white/10 bg-[#050505] shadow-[0_18px_60px_rgba(0,0,0,0.35)] lg:order-1">
+          <div className="border-b border-white/10 px-4 py-4 sm:px-5">
+            <div className="mb-2 flex items-center justify-between gap-3">
+              <p className="text-[10px] font-semibold uppercase tracking-[0.24em] text-red-300/75">
+                FAQ
+              </p>
+
+              <span className="border border-white/10 bg-white/[0.035] px-2 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-white/40">
+                {faqs.length}
+              </span>
+            </div>
+
+            <h2 className="text-2xl font-semibold tracking-[-0.045em] text-white sm:text-3xl">
+              {t('faq.title')}
+            </h2>
+
+            <p className="mt-2 max-w-xl text-sm leading-6 text-white/52">
+              {t('faq.subtitle')}
+            </p>
+          </div>
+
+          <div className="grid gap-2 p-3 sm:p-4">
+            {faqs.map((item, index) => (
+              <details
+                key={item.question}
+                className="group border border-white/10 bg-white/[0.025] transition open:border-white/20 open:bg-white/[0.045]"
+                open={index === 0}
+              >
+                <summary className="flex cursor-pointer list-none items-center justify-between gap-4 px-4 py-4 text-sm font-semibold text-white marker:hidden">
+                  <span className="leading-6">{item.question}</span>
+
+                  <span className="flex h-7 w-7 shrink-0 items-center justify-center border border-white/10 bg-black/40 text-base leading-none text-white/45 transition group-open:rotate-45 group-open:border-red-300/25 group-open:text-red-200">
+                    +
+                  </span>
+                </summary>
+
+                <div className="border-t border-white/10 px-4 pb-4 pt-3">
+                  <p className="text-sm leading-7 text-white/58">
+                    {item.answer}
+                  </p>
+                </div>
+              </details>
+            ))}
+          </div>
+        </aside>
+
+        <article className="order-1 overflow-hidden border border-white/10 bg-[#050505] shadow-[0_18px_60px_rgba(0,0,0,0.35)] lg:order-2">
+          <div className="relative border-b border-white/10 p-4 sm:p-5 lg:p-6">
+            <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(16,185,129,0.12),transparent_34%),radial-gradient(circle_at_bottom_left,rgba(239,68,68,0.08),transparent_36%)]" />
+
+            <div className="relative">
+              <div className="mb-4 flex flex-wrap items-center gap-2">
+                <span className="border border-emerald-400/25 bg-emerald-400/10 px-3 py-1.5 text-[10px] font-semibold uppercase tracking-[0.2em] text-emerald-200">
+                  {t('trust.badge')}
+                </span>
+
+                {primaryEventUrl ? (
+                  <a
+                    href={primaryEventUrl}
+                    target="_blank"
+                    rel="noreferrer"
+                    className="border border-white/10 bg-white/[0.04] px-3 py-1.5 text-[10px] font-semibold uppercase tracking-[0.2em] text-white/55 transition hover:border-white/20 hover:bg-white/[0.07] hover:text-white"
+                  >
+                    {t('status.primaryEvent')}
+                  </a>
+                ) : null}
+              </div>
+
+              <div className="grid gap-3 lg:max-w-4xl">
+                <h2 className="max-w-3xl text-3xl font-semibold tracking-[-0.055em] text-white sm:text-4xl lg:text-5xl">
+                  {t('trust.title')}
+                </h2>
+
+                <p className="max-w-4xl text-sm leading-7 text-white/62 sm:text-[15px] lg:text-base lg:leading-8">
+                  {t('trust.description')}
+                </p>
+              </div>
+            </div>
+          </div>
+
+          <div className="bg-[#070707] p-4 sm:p-5">
+            <div className="mb-4 flex items-start justify-between gap-4">
+              <div>
+                <h3 className="text-base font-semibold text-white">
+                  {t('trust.sourcesTitle')}
+                </h3>
+
+                <p className="mt-2 max-w-2xl text-sm leading-6 text-white/50">
+                  {t('trust.sourcesDescription')}
+                </p>
+              </div>
+
+              <span className="shrink-0 border border-white/10 bg-white/[0.035] px-2.5 py-1 text-[11px] font-semibold text-white/45">
+                {visibleSources.length}
+              </span>
+            </div>
+
+            <div className="grid gap-2">
+              {visibleSources.map((source) => {
+                const content = (
+                  <div className="group/source grid gap-3 border border-white/10 bg-black/35 px-3 py-3 transition hover:border-white/18 hover:bg-white/[0.035] sm:grid-cols-[minmax(0,1fr)_auto] sm:items-center">
+                    <div className="min-w-0">
+                      <p className="truncate text-sm font-semibold text-white/85">
+                        {source.name}
+                      </p>
+
+                      <p className="mt-1 text-[10px] font-semibold uppercase tracking-[0.18em] text-white/32">
+                        {formatSourceType(source.type)}
+                      </p>
+                    </div>
+
+                    <span
+                      className={[
+                        'w-fit shrink-0 border px-2.5 py-1 text-[10px] font-semibold uppercase tracking-[0.16em]',
+                        getConfidenceClass(source.confidence),
+                      ].join(' ')}
+                    >
+                      {source.confidence}
+                    </span>
+                  </div>
+                );
+
+                if (source.url) {
+                  return (
+                    <a
+                      key={source.id}
+                      href={source.url}
+                      target="_blank"
+                      rel="noreferrer"
+                      aria-label={source.name}
+                    >
+                      {content}
+                    </a>
+                  );
+                }
+
+                return <div key={source.id}>{content}</div>;
+              })}
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\components\ui\ScrollControls.tsx
+============================================================
+'use client';
+
+import { ArrowDown, ArrowUp } from 'lucide-react';
+import { useEffect, useState } from 'react';
+
+export function ScrollControls() {
+  const [canScrollUp, setCanScrollUp] = useState(false);
+  const [canScrollDown, setCanScrollDown] = useState(false);
+
+  useEffect(() => {
+    const updateScrollState = () => {
+      const scrollTop = window.scrollY || document.documentElement.scrollTop;
+      const viewportHeight = window.innerHeight;
+      const pageHeight = document.documentElement.scrollHeight;
+
+      setCanScrollUp(scrollTop > 120);
+      setCanScrollDown(scrollTop + viewportHeight < pageHeight - 120);
+    };
+
+    updateScrollState();
+
+    window.addEventListener('scroll', updateScrollState, { passive: true });
+    window.addEventListener('resize', updateScrollState);
+
+    return () => {
+      window.removeEventListener('scroll', updateScrollState);
+      window.removeEventListener('resize', updateScrollState);
+    };
+  }, []);
+
+  const scrollToTop = () => {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth',
+    });
+  };
+
+  const scrollToBottom = () => {
+    window.scrollTo({
+      top: document.documentElement.scrollHeight,
+      behavior: 'smooth',
+    });
+  };
+
+  if (!canScrollUp && !canScrollDown) {
+    return null;
+  }
+
+  return (
+    <div className="fixed bottom-5 right-5 z-[9998] flex flex-col gap-2">
+      {canScrollUp ? (
+        <button
+          type="button"
+          onClick={scrollToTop}
+          aria-label="Scroll to top"
+          className="flex h-11 w-11 items-center justify-center border border-white/15 bg-black/80 text-white shadow-2xl backdrop-blur transition hover:bg-white hover:text-black"
+        >
+          <ArrowUp className="h-5 w-5" />
+        </button>
+      ) : null}
+
+      {canScrollDown ? (
+        <button
+          type="button"
+          onClick={scrollToBottom}
+          aria-label="Scroll to bottom"
+          className="flex h-11 w-11 items-center justify-center border border-white/15 bg-black/80 text-white shadow-2xl backdrop-blur transition hover:bg-white hover:text-black"
+        >
+          <ArrowDown className="h-5 w-5" />
+        </button>
+      ) : null}
+    </div>
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\i18n\messages.ts
+============================================================
+export type AppLocale = 'en' | 'ar' | 'fr' | 'es';
+
+export type TranslationKey =
+  | 'app.title'
+  | 'app.subtitle'
+  | 'stats.totalConfirmed'
+  | 'stats.totalIdentified'
+  | 'stats.totalSuspected'
+  | 'stats.totalProbable'
+  | 'stats.totalPossible'
+  | 'stats.totalUnderInvestigation'
+  | 'stats.totalPending'
+  | 'stats.totalUnconfirmed'
+  | 'stats.totalRuledOut'
+  | 'stats.totalNegative'
+  | 'stats.totalHospitalized'
+  | 'stats.deaths'
+  | 'stats.recovered'
+  | 'stats.countries'
+  | 'stats.lastUpdate'
+  | 'stats.confirmedByCountry'
+  | 'stats.unconfirmedByCountry'
+  | 'map.title'
+  | 'map.subtitle'
+  | 'chart.title'
+  | 'chart.subtitle'
+  | 'chart.confirmed'
+  | 'chart.suspected'
+  | 'chart.probable'
+  | 'chart.possible'
+  | 'chart.underInvestigation'
+  | 'chart.pending'
+  | 'chart.unconfirmed'
+  | 'chart.totalIdentified'
+  | 'chart.deaths'
+  | 'sources.verified'
+  | 'sources.officialEvents'
+  | 'actions.refresh'
+  | 'status.title'
+  | 'status.officialUpdate'
+  | 'status.browserRefresh'
+  | 'status.mode'
+  | 'status.staticJson'
+  | 'status.primaryEvent'
+  | 'status.riskLevel'
+  | 'status.source'
+  | 'ads.topBanner'
+  | 'ads.sidebar'
+  | 'ads.chartSide'
+  | 'ads.mobile'
+  | 'loading.dashboard'
+  | 'error.title'
+  | 'error.message'
+  | 'error.retry'
+  | 'language.label'
+  | 'trust.badge'
+  | 'trust.title'
+  | 'trust.description'
+  | 'trust.sourcesTitle'
+  | 'trust.sourcesDescription'
+  | 'trust.disclaimerTitle'
+  | 'trust.disclaimerDescription'
+  | 'faq.title'
+  | 'faq.subtitle'
+  | 'faq.q1'
+  | 'faq.a1'
+  | 'faq.q2'
+  | 'faq.a2'
+  | 'faq.q3'
+  | 'faq.a3'
+  | 'faq.q4'
+  | 'faq.a4';
+
+export const LOCALES: Array<{
+  code: AppLocale;
+  label: string;
+  nativeName: string;
+  dir: 'ltr' | 'rtl';
+}> = [
+  {
+    code: 'en',
+    label: 'English',
+    nativeName: 'English',
+    dir: 'ltr',
+  },
+  {
+    code: 'ar',
+    label: 'Arabic',
+    nativeName: 'Ø§Ù„Ø¹Ø±Ø¨ÙŠØ©',
+    dir: 'rtl',
+  },
+  {
+    code: 'fr',
+    label: 'French',
+    nativeName: 'FranÃ§ais',
+    dir: 'ltr',
+  },
+  {
+    code: 'es',
+    label: 'Spanish',
+    nativeName: 'EspaÃ±ol',
+    dir: 'ltr',
+  },
+];
+
+export const DEFAULT_LOCALE: AppLocale = 'en';
+
+export const messages: Record<AppLocale, Record<TranslationKey, string>> = {
+  en: {
+    'app.title': 'Live Outbreak Tracker',
+    'app.subtitle':
+      'Official-source dashboard tracking confirmed and unconfirmed outbreak signals.',
+    'stats.totalConfirmed': 'Confirmed',
+    'stats.totalIdentified': 'Total Identified',
+    'stats.totalSuspected': 'Suspected',
+    'stats.totalProbable': 'Probable',
+    'stats.totalPossible': 'Possible',
+    'stats.totalUnderInvestigation': 'Under Investigation',
+    'stats.totalPending': 'Pending',
+    'stats.totalUnconfirmed': 'Unconfirmed',
+    'stats.totalRuledOut': 'Ruled Out',
+    'stats.totalNegative': 'Negative',
+    'stats.totalHospitalized': 'Hospitalized',
+    'stats.deaths': 'Deaths',
+    'stats.recovered': 'Recovered',
+    'stats.countries': 'Countries',
+    'stats.lastUpdate': 'Last update',
+    'stats.confirmedByCountry': 'Confirmed Cases by Country/Region',
+    'stats.unconfirmedByCountry': 'Unconfirmed Cases by Country/Region',
+    'map.title': 'Interactive Map',
+    'map.subtitle':
+      'Outbreak locations by confirmed, suspected, and total identified cases',
+    'chart.title': 'Case Timeline',
+    'chart.subtitle':
+      'Confirmed, unconfirmed, deaths, and total identified cases over time',
+    'chart.confirmed': 'Confirmed',
+    'chart.suspected': 'Suspected',
+    'chart.probable': 'Probable',
+    'chart.possible': 'Possible',
+    'chart.underInvestigation': 'Under investigation',
+    'chart.pending': 'Pending',
+    'chart.unconfirmed': 'Unconfirmed',
+    'chart.totalIdentified': 'Total identified',
+    'chart.deaths': 'Deaths',
+    'sources.verified': 'Verified Sources',
+    'sources.officialEvents': 'Official Events',
+    'actions.refresh': 'Refresh',
+    'status.title': 'Data Status',
+    'status.officialUpdate': 'Official update',
+    'status.browserRefresh': 'Browser refresh',
+    'status.mode': 'Mode',
+    'status.staticJson': 'Static JSON',
+    'status.primaryEvent': 'Primary event',
+    'status.riskLevel': 'Risk level',
+    'status.source': 'Source',
+    'ads.topBanner': 'Top Banner Ad',
+    'ads.sidebar': 'Sidebar Ad',
+    'ads.chartSide': 'Chart Side Ad',
+    'ads.mobile': 'Mobile Ad',
+    'loading.dashboard': 'Loading outbreak dashboard',
+    'error.title': 'Unable to load data',
+    'error.message': 'The dashboard data is currently unavailable.',
+    'error.retry': 'Retry',
+    'language.label': 'Language',
+
+    'trust.badge': 'Verified public-health information',
+    'trust.title': 'Built for clarity, not panic',
+    'trust.description':
+      'This dashboard summarizes outbreak signals from official and high-confidence public-health sources. It is designed to help users follow updates without exaggeration or medical claims.',
+    'trust.sourcesTitle': 'Data sources',
+    'trust.sourcesDescription':
+      'Data is collected from public-health and humanitarian sources such as WHO, CDC, ECDC, Africa CDC, and ReliefWeb when available.',
+    'trust.disclaimerTitle': 'Medical disclaimer',
+    'trust.disclaimerDescription':
+      'This website is for informational purposes only. It does not provide medical advice, diagnosis, or treatment. Always follow guidance from your local health authority or a qualified medical professional.',
+    'faq.title': 'Frequently asked questions',
+    'faq.subtitle': 'Simple answers based on official public-health guidance.',
+    'faq.q1': 'What is hantavirus?',
+    'faq.a1':
+      'Hantaviruses are a family of viruses mainly spread by rodents. Some types can cause severe disease in humans.',
+    'faq.q2': 'How does hantavirus spread?',
+    'faq.a2':
+      'Most hantavirus infections happen through contact with infected rodents or their urine, droppings, or saliva. The Andes virus is unusual because it can rarely spread between people in close contact.',
+    'faq.q3': 'Is this website medical advice?',
+    'faq.a3':
+      'No. This dashboard only summarizes public information and should not replace professional medical advice.',
+    'faq.q4': 'Why do numbers change?',
+    'faq.a4':
+      'Outbreak numbers can change when official sources confirm, reclassify, or rule out cases.',
+  },
+
+  ar: {
+    'app.title': 'Ù…Ù†ØµØ© ØªØªØ¨Ø¹ Ø§Ù„ØªÙØ´ÙŠ Ø§Ù„Ù…Ø¨Ø§Ø´Ø±',
+    'app.subtitle':
+      'Ù„ÙˆØ­Ø© Ø¨ÙŠØ§Ù†Ø§Øª Ù…Ù† Ù…ØµØ§Ø¯Ø± Ø±Ø³Ù…ÙŠØ© Ù„ØªØªØ¨Ø¹ Ø§Ù„Ø­Ø§Ù„Ø§Øª Ø§Ù„Ù…Ø¤ÙƒØ¯Ø© ÙˆØºÙŠØ± Ø§Ù„Ù…Ø¤ÙƒØ¯Ø© ÙˆØ¥Ø´Ø§Ø±Ø§Øª Ø§Ù„ØªÙØ´ÙŠ.',
+    'stats.totalConfirmed': 'Ø§Ù„Ù…Ø¤ÙƒØ¯Ø©',
+    'stats.totalIdentified': 'Ø¥Ø¬Ù…Ø§Ù„ÙŠ Ø§Ù„Ø­Ø§Ù„Ø§Øª Ø§Ù„Ù…Ø±ØµÙˆØ¯Ø©',
+    'stats.totalSuspected': 'Ø§Ù„Ù…Ø´ØªØ¨Ù‡ Ø¨Ù‡Ø§',
+    'stats.totalProbable': 'Ø§Ù„Ù…Ø­ØªÙ…Ù„Ø©',
+    'stats.totalPossible': 'Ø§Ù„Ù…Ù…ÙƒÙ†Ø©',
+    'stats.totalUnderInvestigation': 'Ù‚ÙŠØ¯ Ø§Ù„ØªØ­Ù‚ÙŠÙ‚',
+    'stats.totalPending': 'Ø¨Ø§Ù†ØªØ¸Ø§Ø± Ø§Ù„Ù†ØªØ§Ø¦Ø¬',
+    'stats.totalUnconfirmed': 'ØºÙŠØ± Ø§Ù„Ù…Ø¤ÙƒØ¯Ø©',
+    'stats.totalRuledOut': 'Ø§Ù„Ù…Ø³ØªØ¨Ø¹Ø¯Ø©',
+    'stats.totalNegative': 'Ø§Ù„Ø³Ù„Ø¨ÙŠØ©',
+    'stats.totalHospitalized': 'Ø§Ù„Ù…Ù†ÙˆÙ…Ø©',
+    'stats.deaths': 'Ø§Ù„ÙˆÙÙŠØ§Øª',
+    'stats.recovered': 'Ø§Ù„Ù…ØªØ¹Ø§ÙÙˆÙ†',
+    'stats.countries': 'Ø§Ù„Ø¯ÙˆÙ„',
+    'stats.lastUpdate': 'Ø¢Ø®Ø± ØªØ­Ø¯ÙŠØ«',
+    'stats.confirmedByCountry': 'Ø§Ù„Ø­Ø§Ù„Ø§Øª Ø§Ù„Ù…Ø¤ÙƒØ¯Ø© Ø­Ø³Ø¨ Ø§Ù„Ø¯ÙˆÙ„Ø©/Ø§Ù„Ù…Ù†Ø·Ù‚Ø©',
+    'stats.unconfirmedByCountry': 'Ø§Ù„Ø­Ø§Ù„Ø§Øª ØºÙŠØ± Ø§Ù„Ù…Ø¤ÙƒØ¯Ø© Ø­Ø³Ø¨ Ø§Ù„Ø¯ÙˆÙ„Ø©/Ø§Ù„Ù…Ù†Ø·Ù‚Ø©',
+    'map.title': 'Ø§Ù„Ø®Ø±ÙŠØ·Ø© Ø§Ù„ØªÙØ§Ø¹Ù„ÙŠØ©',
+    'map.subtitle':
+      'Ù…ÙˆØ§Ù‚Ø¹ Ø§Ù„ØªÙØ´ÙŠ Ø­Ø³Ø¨ Ø§Ù„Ø­Ø§Ù„Ø§Øª Ø§Ù„Ù…Ø¤ÙƒØ¯Ø© ÙˆØ§Ù„Ù…Ø´ØªØ¨Ù‡ Ø¨Ù‡Ø§ ÙˆØ¥Ø¬Ù…Ø§Ù„ÙŠ Ø§Ù„Ø­Ø§Ù„Ø§Øª Ø§Ù„Ù…Ø±ØµÙˆØ¯Ø©',
+    'chart.title': 'Ø§Ù„Ø®Ø· Ø§Ù„Ø²Ù…Ù†ÙŠ Ù„Ù„Ø­Ø§Ù„Ø§Øª',
+    'chart.subtitle':
+      'Ø§Ù„Ù…Ø¤ÙƒØ¯Ø© ÙˆØºÙŠØ± Ø§Ù„Ù…Ø¤ÙƒØ¯Ø© ÙˆØ§Ù„ÙˆÙÙŠØ§Øª ÙˆØ¥Ø¬Ù…Ø§Ù„ÙŠ Ø§Ù„Ø­Ø§Ù„Ø§Øª Ø§Ù„Ù…Ø±ØµÙˆØ¯Ø© Ø¹Ø¨Ø± Ø§Ù„ÙˆÙ‚Øª',
+    'chart.confirmed': 'Ø§Ù„Ù…Ø¤ÙƒØ¯Ø©',
+    'chart.suspected': 'Ø§Ù„Ù…Ø´ØªØ¨Ù‡ Ø¨Ù‡Ø§',
+    'chart.probable': 'Ø§Ù„Ù…Ø­ØªÙ…Ù„Ø©',
+    'chart.possible': 'Ø§Ù„Ù…Ù…ÙƒÙ†Ø©',
+    'chart.underInvestigation': 'Ù‚ÙŠØ¯ Ø§Ù„ØªØ­Ù‚ÙŠÙ‚',
+    'chart.pending': 'Ø¨Ø§Ù†ØªØ¸Ø§Ø± Ø§Ù„Ù†ØªØ§Ø¦Ø¬',
+    'chart.unconfirmed': 'ØºÙŠØ± Ø§Ù„Ù…Ø¤ÙƒØ¯Ø©',
+    'chart.totalIdentified': 'Ø¥Ø¬Ù…Ø§Ù„ÙŠ Ø§Ù„Ù…Ø±ØµÙˆØ¯Ø©',
+    'chart.deaths': 'Ø§Ù„ÙˆÙÙŠØ§Øª',
+    'sources.verified': 'Ù…ØµØ§Ø¯Ø± Ù…ÙˆØ«ÙˆÙ‚Ø©',
+    'sources.officialEvents': 'Ø§Ù„Ø£Ø­Ø¯Ø§Ø« Ø§Ù„Ø±Ø³Ù…ÙŠØ©',
+    'actions.refresh': 'ØªØ­Ø¯ÙŠØ«',
+    'status.title': 'Ø­Ø§Ù„Ø© Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª',
+    'status.officialUpdate': 'Ø§Ù„ØªØ­Ø¯ÙŠØ« Ø§Ù„Ø±Ø³Ù…ÙŠ',
+    'status.browserRefresh': 'ØªØ­Ø¯ÙŠØ« Ø§Ù„Ù…ØªØµÙØ­',
+    'status.mode': 'Ø§Ù„ÙˆØ¶Ø¹',
+    'status.staticJson': 'JSON Ø«Ø§Ø¨Øª',
+    'status.primaryEvent': 'Ø§Ù„Ø­Ø¯Ø« Ø§Ù„Ø±Ø¦ÙŠØ³ÙŠ',
+    'status.riskLevel': 'Ù…Ø³ØªÙˆÙ‰ Ø§Ù„Ø®Ø·ÙˆØ±Ø©',
+    'status.source': 'Ø§Ù„Ù…ØµØ¯Ø±',
+    'ads.topBanner': 'Ø¥Ø¹Ù„Ø§Ù† Ø¹Ù„ÙˆÙŠ',
+    'ads.sidebar': 'Ø¥Ø¹Ù„Ø§Ù† Ø¬Ø§Ù†Ø¨ÙŠ',
+    'ads.chartSide': 'Ø¥Ø¹Ù„Ø§Ù† Ø¬Ø§Ù†Ø¨ Ø§Ù„Ø±Ø³Ù…',
+    'ads.mobile': 'Ø¥Ø¹Ù„Ø§Ù† Ø§Ù„Ø¬ÙˆØ§Ù„',
+    'loading.dashboard': 'Ø¬Ø§Ø±ÙŠ ØªØ­Ù…ÙŠÙ„ Ù„ÙˆØ­Ø© Ø§Ù„ØªØªØ¨Ø¹',
+    'error.title': 'ØªØ¹Ø°Ø± ØªØ­Ù…ÙŠÙ„ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª',
+    'error.message': 'Ø¨ÙŠØ§Ù†Ø§Øª Ø§Ù„Ù„ÙˆØ­Ø© ØºÙŠØ± Ù…ØªÙˆÙØ±Ø© Ø­Ø§Ù„ÙŠÙ‹Ø§.',
+    'error.retry': 'Ø¥Ø¹Ø§Ø¯Ø© Ø§Ù„Ù…Ø­Ø§ÙˆÙ„Ø©',
+    'language.label': 'Ø§Ù„Ù„ØºØ©',
+
+    'trust.badge': 'Ù…Ø¹Ù„ÙˆÙ…Ø§Øª ØµØ­ÙŠØ© Ù…Ù† Ù…ØµØ§Ø¯Ø± Ù…ÙˆØ«ÙˆÙ‚Ø©',
+    'trust.title': 'Ù…ØµÙ…Ù… Ù„Ù„ÙˆØ¶ÙˆØ­ ÙˆÙ„ÙŠØ³ Ù„Ù„ØªÙ‡ÙˆÙŠÙ„',
+    'trust.description':
+      'ØªØ¹Ø±Ø¶ Ù‡Ø°Ù‡ Ø§Ù„Ù„ÙˆØ­Ø© Ø¥Ø´Ø§Ø±Ø§Øª Ø§Ù„ØªÙØ´ÙŠ Ù…Ù† Ù…ØµØ§Ø¯Ø± ØµØ­ÙŠØ© Ø±Ø³Ù…ÙŠØ© ÙˆÙ…ÙˆØ«ÙˆÙ‚Ø©ØŒ Ø¨Ù‡Ø¯Ù Ù…Ø³Ø§Ø¹Ø¯Ø© Ø§Ù„Ø²ÙˆØ§Ø± Ø¹Ù„Ù‰ Ù…ØªØ§Ø¨Ø¹Ø© Ø§Ù„ØªØ­Ø¯ÙŠØ«Ø§Øª Ø¨Ø¯ÙˆÙ† Ù…Ø¨Ø§Ù„ØºØ© Ø£Ùˆ Ø§Ø¯Ø¹Ø§Ø¡Ø§Øª Ø·Ø¨ÙŠØ©.',
+    'trust.sourcesTitle': 'Ù…ØµØ§Ø¯Ø± Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª',
+    'trust.sourcesDescription':
+      'ÙŠØªÙ… Ø¬Ù…Ø¹ Ø§Ù„Ø¨ÙŠØ§Ù†Ø§Øª Ù…Ù† Ù…ØµØ§Ø¯Ø± ØµØ­ÙŠØ© ÙˆØ¥Ù†Ø³Ø§Ù†ÙŠØ© Ø¹Ø§Ù…Ø© Ù…Ø«Ù„ Ù…Ù†Ø¸Ù…Ø© Ø§Ù„ØµØ­Ø© Ø§Ù„Ø¹Ø§Ù„Ù…ÙŠØ©ØŒ CDCØŒ ECDCØŒ Africa CDCØŒ Ùˆ ReliefWeb Ø¹Ù†Ø¯ ØªÙˆÙØ±Ù‡Ø§.',
+    'trust.disclaimerTitle': 'Ø¥Ø®Ù„Ø§Ø¡ Ù…Ø³Ø¤ÙˆÙ„ÙŠØ© Ø·Ø¨ÙŠ',
+    'trust.disclaimerDescription':
+      'Ù‡Ø°Ø§ Ø§Ù„Ù…ÙˆÙ‚Ø¹ Ù„ØºØ±Ø¶ Ø§Ù„Ù…Ø¹Ù„ÙˆÙ…Ø§Øª ÙÙ‚Ø·ØŒ ÙˆÙ„Ø§ ÙŠÙ‚Ø¯Ù… Ù†ØµÙŠØ­Ø© Ø·Ø¨ÙŠØ© Ø£Ùˆ ØªØ´Ø®ÙŠØµÙ‹Ø§ Ø£Ùˆ Ø¹Ù„Ø§Ø¬Ù‹Ø§. Ø§ØªØ¨Ø¹ Ø¯Ø§Ø¦Ù…Ù‹Ø§ Ø¥Ø±Ø´Ø§Ø¯Ø§Øª Ø§Ù„Ø¬Ù‡Ø§Øª Ø§Ù„ØµØ­ÙŠØ© Ø§Ù„Ù…Ø­Ù„ÙŠØ© Ø£Ùˆ Ø§Ù„Ø·Ø¨ÙŠØ¨ Ø§Ù„Ù…Ø®ØªØµ.',
+    'faq.title': 'Ø§Ù„Ø£Ø³Ø¦Ù„Ø© Ø§Ù„Ø´Ø§Ø¦Ø¹Ø©',
+    'faq.subtitle': 'Ø¥Ø¬Ø§Ø¨Ø§Øª Ù…Ø®ØªØµØ±Ø© Ù…Ø¨Ù†ÙŠØ© Ø¹Ù„Ù‰ Ø¥Ø±Ø´Ø§Ø¯Ø§Øª ØµØ­ÙŠØ© Ø±Ø³Ù…ÙŠØ©.',
+    'faq.q1': 'Ù…Ø§ Ù‡Ùˆ ÙÙŠØ±ÙˆØ³ Ù‡Ø§Ù†ØªØ§ØŸ',
+    'faq.a1':
+      'ÙÙŠØ±ÙˆØ³Ø§Øª Ù‡Ø§Ù†ØªØ§ Ù‡ÙŠ Ø¹Ø§Ø¦Ù„Ø© Ù…Ù† Ø§Ù„ÙÙŠØ±ÙˆØ³Ø§Øª ØªÙ†ØªÙ‚Ù„ ØºØ§Ù„Ø¨Ù‹Ø§ Ø¹Ø¨Ø± Ø§Ù„Ù‚ÙˆØ§Ø±Ø¶ØŒ ÙˆØ¨Ø¹Ø¶ Ø£Ù†ÙˆØ§Ø¹Ù‡Ø§ Ù‚Ø¯ ØªØ³Ø¨Ø¨ Ù…Ø±Ø¶Ù‹Ø§ Ø´Ø¯ÙŠØ¯Ù‹Ø§ Ù„Ø¯Ù‰ Ø§Ù„Ø¥Ù†Ø³Ø§Ù†.',
+    'faq.q2': 'ÙƒÙŠÙ ÙŠÙ†ØªÙ‚Ù„ ÙÙŠØ±ÙˆØ³ Ù‡Ø§Ù†ØªØ§ØŸ',
+    'faq.a2':
+      'ØºØ§Ù„Ø¨Ù‹Ø§ ØªØ­Ø¯Ø« Ø§Ù„Ø¹Ø¯ÙˆÙ‰ Ø¹Ø¨Ø± Ù…Ù„Ø§Ù…Ø³Ø© Ø§Ù„Ù‚ÙˆØ§Ø±Ø¶ Ø§Ù„Ù…ØµØ§Ø¨Ø© Ø£Ùˆ Ø¨ÙˆÙ„Ù‡Ø§ Ø£Ùˆ ÙØ¶Ù„Ø§ØªÙ‡Ø§ Ø£Ùˆ Ù„Ø¹Ø§Ø¨Ù‡Ø§. ÙˆÙŠÙØ¹Ø¯ ÙÙŠØ±ÙˆØ³ Andes Ø§Ø³ØªØ«Ù†Ø§Ø¡Ù‹ Ù„Ø£Ù†Ù‡ Ù‚Ø¯ ÙŠÙ†ØªÙ‚Ù„ Ù†Ø§Ø¯Ø±Ù‹Ø§ Ø¨ÙŠÙ† Ø§Ù„Ø£Ø´Ø®Ø§Øµ Ø¹Ù†Ø¯ Ø§Ù„Ù…Ø®Ø§Ù„Ø·Ø© Ø§Ù„Ù‚Ø±ÙŠØ¨Ø©.',
+    'faq.q3': 'Ù‡Ù„ Ù‡Ø°Ø§ Ø§Ù„Ù…ÙˆÙ‚Ø¹ ÙŠÙ‚Ø¯Ù… Ù†ØµÙŠØ­Ø© Ø·Ø¨ÙŠØ©ØŸ',
+    'faq.a3':
+      'Ù„Ø§. Ù‡Ø°Ù‡ Ø§Ù„Ù„ÙˆØ­Ø© ØªØ¹Ø±Ø¶ Ù…Ø¹Ù„ÙˆÙ…Ø§Øª Ø¹Ø§Ù…Ø© ÙÙ‚Ø· ÙˆÙ„Ø§ ØªØºÙ†ÙŠ Ø¹Ù† Ø§Ø³ØªØ´Ø§Ø±Ø© Ø§Ù„Ø·Ø¨ÙŠØ¨ Ø£Ùˆ Ø§Ù„Ø¬Ù‡Ø§Øª Ø§Ù„ØµØ­ÙŠØ© Ø§Ù„Ø±Ø³Ù…ÙŠØ©.',
+    'faq.q4': 'Ù„Ù…Ø§Ø°Ø§ ØªØªØºÙŠØ± Ø§Ù„Ø£Ø±Ù‚Ø§Ù…ØŸ',
+    'faq.a4':
+      'Ù‚Ø¯ ØªØªØºÙŠØ± Ø£Ø±Ù‚Ø§Ù… Ø§Ù„ØªÙØ´ÙŠ Ø¹Ù†Ø¯Ù…Ø§ ØªØ¤ÙƒØ¯ Ø§Ù„Ù…ØµØ§Ø¯Ø± Ø§Ù„Ø±Ø³Ù…ÙŠØ© Ø§Ù„Ø­Ø§Ù„Ø§Øª Ø£Ùˆ ØªØ¹ÙŠØ¯ ØªØµÙ†ÙŠÙÙ‡Ø§ Ø£Ùˆ ØªØ³ØªØ¨Ø¹Ø¯Ù‡Ø§.',
+  },
+
+  fr: {
+    'app.title': 'Tableau de suivi des Ã©pidÃ©mies',
+    'app.subtitle':
+      'Tableau basÃ© sur des sources officielles suivant les cas confirmÃ©s et non confirmÃ©s.',
+    'stats.totalConfirmed': 'ConfirmÃ©s',
+    'stats.totalIdentified': 'Total identifiÃ©',
+    'stats.totalSuspected': 'Suspects',
+    'stats.totalProbable': 'Probables',
+    'stats.totalPossible': 'Possibles',
+    'stats.totalUnderInvestigation': 'En investigation',
+    'stats.totalPending': 'En attente',
+    'stats.totalUnconfirmed': 'Non confirmÃ©s',
+    'stats.totalRuledOut': 'Ã‰cartÃ©s',
+    'stats.totalNegative': 'NÃ©gatifs',
+    'stats.totalHospitalized': 'HospitalisÃ©s',
+    'stats.deaths': 'DÃ©cÃ¨s',
+    'stats.recovered': 'RÃ©tablis',
+    'stats.countries': 'Pays',
+    'stats.lastUpdate': 'DerniÃ¨re mise Ã  jour',
+    'stats.confirmedByCountry': 'Cas confirmÃ©s par pays/rÃ©gion',
+    'stats.unconfirmedByCountry': 'Cas non confirmÃ©s par pays/rÃ©gion',
+    'map.title': 'Carte interactive',
+    'map.subtitle':
+      'Lieux de lâ€™Ã©pidÃ©mie par cas confirmÃ©s, suspects et total identifiÃ©',
+    'chart.title': 'Chronologie des cas',
+    'chart.subtitle':
+      'Cas confirmÃ©s, non confirmÃ©s, dÃ©cÃ¨s et total identifiÃ© dans le temps',
+    'chart.confirmed': 'ConfirmÃ©s',
+    'chart.suspected': 'Suspects',
+    'chart.probable': 'Probables',
+    'chart.possible': 'Possibles',
+    'chart.underInvestigation': 'En investigation',
+    'chart.pending': 'En attente',
+    'chart.unconfirmed': 'Non confirmÃ©s',
+    'chart.totalIdentified': 'Total identifiÃ©',
+    'chart.deaths': 'DÃ©cÃ¨s',
+    'sources.verified': 'Sources vÃ©rifiÃ©es',
+    'sources.officialEvents': 'Ã‰vÃ©nements officiels',
+    'actions.refresh': 'Actualiser',
+    'status.title': 'Ã‰tat des donnÃ©es',
+    'status.officialUpdate': 'Mise Ã  jour officielle',
+    'status.browserRefresh': 'Actualisation navigateur',
+    'status.mode': 'Mode',
+    'status.staticJson': 'JSON statique',
+    'status.primaryEvent': 'Ã‰vÃ©nement principal',
+    'status.riskLevel': 'Niveau de risque',
+    'status.source': 'Source',
+    'ads.topBanner': 'Annonce supÃ©rieure',
+    'ads.sidebar': 'Annonce latÃ©rale',
+    'ads.chartSide': 'Annonce graphique',
+    'ads.mobile': 'Annonce mobile',
+    'loading.dashboard': 'Chargement du tableau',
+    'error.title': 'Impossible de charger les donnÃ©es',
+    'error.message': 'Les donnÃ©es du tableau sont actuellement indisponibles.',
+    'error.retry': 'RÃ©essayer',
+    'language.label': 'Langue',
+
+    'trust.badge': 'Information de santÃ© publique vÃ©rifiÃ©e',
+    'trust.title': 'ConÃ§u pour informer, pas pour alarmer',
+    'trust.description':
+      'Ce tableau rÃ©sume les signaux dâ€™Ã©pidÃ©mie provenant de sources officielles et fiables de santÃ© publique, sans exagÃ©ration ni affirmation mÃ©dicale.',
+    'trust.sourcesTitle': 'Sources de donnÃ©es',
+    'trust.sourcesDescription':
+      'Les donnÃ©es proviennent de sources de santÃ© publique et humanitaires telles que lâ€™OMS, le CDC, lâ€™ECDC, Africa CDC et ReliefWeb lorsque disponibles.',
+    'trust.disclaimerTitle': 'Avertissement mÃ©dical',
+    'trust.disclaimerDescription':
+      'Ce site est fourni Ã  titre informatif uniquement. Il ne constitue pas un avis mÃ©dical, un diagnostic ou un traitement. Suivez toujours les recommandations des autoritÃ©s sanitaires locales ou dâ€™un professionnel qualifiÃ©.',
+    'faq.title': 'Questions frÃ©quentes',
+    'faq.subtitle':
+      'RÃ©ponses simples basÃ©es sur des recommandations de santÃ© publique.',
+    'faq.q1': 'Quâ€™est-ce que le hantavirus ?',
+    'faq.a1':
+      'Les hantavirus sont une famille de virus principalement transmis par les rongeurs. Certains types peuvent provoquer une maladie grave chez lâ€™humain.',
+    'faq.q2': 'Comment le hantavirus se transmet-il ?',
+    'faq.a2':
+      'La plupart des infections surviennent aprÃ¨s un contact avec des rongeurs infectÃ©s, leur urine, leurs excrÃ©ments ou leur salive. Le virus Andes est particulier car il peut rarement se transmettre entre personnes en contact Ã©troit.',
+    'faq.q3': 'Ce site donne-t-il des conseils mÃ©dicaux ?',
+    'faq.a3':
+      'Non. Ce tableau rÃ©sume uniquement des informations publiques et ne remplace pas un avis mÃ©dical professionnel.',
+    'faq.q4': 'Pourquoi les chiffres changent-ils ?',
+    'faq.a4':
+      'Les chiffres peuvent changer lorsque les sources officielles confirment, reclassent ou Ã©cartent des cas.',
+  },
+
+  es: {
+    'app.title': 'Panel de seguimiento de brotes',
+    'app.subtitle':
+      'Panel con fuentes oficiales para casos confirmados y no confirmados.',
+    'stats.totalConfirmed': 'Confirmados',
+    'stats.totalIdentified': 'Total identificado',
+    'stats.totalSuspected': 'Sospechosos',
+    'stats.totalProbable': 'Probables',
+    'stats.totalPossible': 'Posibles',
+    'stats.totalUnderInvestigation': 'En investigaciÃ³n',
+    'stats.totalPending': 'Pendientes',
+    'stats.totalUnconfirmed': 'No confirmados',
+    'stats.totalRuledOut': 'Descartados',
+    'stats.totalNegative': 'Negativos',
+    'stats.totalHospitalized': 'Hospitalizados',
+    'stats.deaths': 'Muertes',
+    'stats.recovered': 'Recuperados',
+    'stats.countries': 'PaÃ­ses',
+    'stats.lastUpdate': 'Ãšltima actualizaciÃ³n',
+    'stats.confirmedByCountry': 'Casos confirmados por paÃ­s/regiÃ³n',
+    'stats.unconfirmedByCountry': 'Casos no confirmados por paÃ­s/regiÃ³n',
+    'map.title': 'Mapa interactivo',
+    'map.subtitle':
+      'Ubicaciones del brote por casos confirmados, sospechosos y total identificado',
+    'chart.title': 'LÃ­nea temporal de casos',
+    'chart.subtitle':
+      'Confirmados, no confirmados, muertes y total identificado en el tiempo',
+    'chart.confirmed': 'Confirmados',
+    'chart.suspected': 'Sospechosos',
+    'chart.probable': 'Probables',
+    'chart.possible': 'Posibles',
+    'chart.underInvestigation': 'En investigaciÃ³n',
+    'chart.pending': 'Pendientes',
+    'chart.unconfirmed': 'No confirmados',
+    'chart.totalIdentified': 'Total identificado',
+    'chart.deaths': 'Muertes',
+    'sources.verified': 'Fuentes verificadas',
+    'sources.officialEvents': 'Eventos oficiales',
+    'actions.refresh': 'Actualizar',
+    'status.title': 'Estado de datos',
+    'status.officialUpdate': 'ActualizaciÃ³n oficial',
+    'status.browserRefresh': 'ActualizaciÃ³n del navegador',
+    'status.mode': 'Modo',
+    'status.staticJson': 'JSON estÃ¡tico',
+    'status.primaryEvent': 'Evento principal',
+    'status.riskLevel': 'Nivel de riesgo',
+    'status.source': 'Fuente',
+    'ads.topBanner': 'Anuncio superior',
+    'ads.sidebar': 'Anuncio lateral',
+    'ads.chartSide': 'Anuncio del grÃ¡fico',
+    'ads.mobile': 'Anuncio mÃ³vil',
+    'loading.dashboard': 'Cargando panel de brotes',
+    'error.title': 'No se pueden cargar los datos',
+    'error.message': 'Los datos del panel no estÃ¡n disponibles actualmente.',
+    'error.retry': 'Reintentar',
+    'language.label': 'Idioma',
+
+    'trust.badge': 'InformaciÃ³n verificada de salud pÃºblica',
+    'trust.title': 'DiseÃ±ado para informar, no para alarmar',
+    'trust.description':
+      'Este panel resume seÃ±ales de brotes desde fuentes oficiales y confiables de salud pÃºblica, sin exageraciÃ³n ni afirmaciones mÃ©dicas.',
+    'trust.sourcesTitle': 'Fuentes de datos',
+    'trust.sourcesDescription':
+      'Los datos se recopilan de fuentes de salud pÃºblica y humanitarias como OMS, CDC, ECDC, Africa CDC y ReliefWeb cuando estÃ¡n disponibles.',
+    'trust.disclaimerTitle': 'Aviso mÃ©dico',
+    'trust.disclaimerDescription':
+      'Este sitio es solo informativo. No ofrece consejo mÃ©dico, diagnÃ³stico ni tratamiento. Siga siempre las indicaciones de su autoridad sanitaria local o de un profesional mÃ©dico cualificado.',
+    'faq.title': 'Preguntas frecuentes',
+    'faq.subtitle':
+      'Respuestas simples basadas en orientaciÃ³n oficial de salud pÃºblica.',
+    'faq.q1': 'Â¿QuÃ© es el hantavirus?',
+    'faq.a1':
+      'Los hantavirus son una familia de virus transmitidos principalmente por roedores. Algunos tipos pueden causar enfermedad grave en humanos.',
+    'faq.q2': 'Â¿CÃ³mo se transmite el hantavirus?',
+    'faq.a2':
+      'La mayorÃ­a de infecciones ocurren por contacto con roedores infectados o con su orina, excrementos o saliva. El virus Andes es particular porque raramente puede transmitirse entre personas en contacto cercano.',
+    'faq.q3': 'Â¿Este sitio ofrece consejo mÃ©dico?',
+    'faq.a3':
+      'No. Este panel solo resume informaciÃ³n pÃºblica y no reemplaza el consejo mÃ©dico profesional.',
+    'faq.q4': 'Â¿Por quÃ© cambian los nÃºmeros?',
+    'faq.a4':
+      'Los nÃºmeros pueden cambiar cuando las fuentes oficiales confirman, reclasifican o descartan casos.',
+  },
+};
+
+export function getLocaleDirection(locale: AppLocale): 'ltr' | 'rtl' {
+  return LOCALES.find((item) => item.code === locale)?.dir ?? 'ltr';
+}
+
+export function translate(locale: AppLocale, key: TranslationKey): string {
+  return messages[locale]?.[key] ?? messages[DEFAULT_LOCALE][key] ?? key;
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\i18n\useI18n.ts
+============================================================
+'use client';
+
+import { useCallback, useEffect, useMemo, useSyncExternalStore } from 'react';
+
+import {
+  DEFAULT_LOCALE,
+  getLocaleDirection,
+  LOCALES,
+  translate,
+  type AppLocale,
+  type TranslationKey,
+} from '@/i18n/messages';
+
+const STORAGE_KEY = 'outbreak_tracker_locale';
+const LOCALE_CHANGE_EVENT = 'outbreak-tracker-locale-change';
+
+function isAppLocale(value: string | null): value is AppLocale {
+  return value === 'en' || value === 'ar' || value === 'fr' || value === 'es';
+}
+
+function getBrowserLocale(): AppLocale {
+  if (typeof window === 'undefined') {
+    return DEFAULT_LOCALE;
+  }
+
+  const savedLocale = window.localStorage.getItem(STORAGE_KEY);
+
+  if (isAppLocale(savedLocale)) {
+    return savedLocale;
+  }
+
+  const browserLocale = window.navigator.language.slice(0, 2);
+
+  if (isAppLocale(browserLocale)) {
+    return browserLocale;
+  }
+
+  return DEFAULT_LOCALE;
+}
+
+function getServerLocale(): AppLocale {
+  return DEFAULT_LOCALE;
+}
+
+function subscribeToLocaleChanges(callback: () => void): () => void {
+  if (typeof window === 'undefined') {
+    return () => {};
+  }
+
+  const handleStorage = (event: StorageEvent) => {
+    if (event.key === STORAGE_KEY) {
+      callback();
+    }
+  };
+
+  const handleCustomChange = () => {
+    callback();
+  };
+
+  window.addEventListener('storage', handleStorage);
+  window.addEventListener(LOCALE_CHANGE_EVENT, handleCustomChange);
+
+  return () => {
+    window.removeEventListener('storage', handleStorage);
+    window.removeEventListener(LOCALE_CHANGE_EVENT, handleCustomChange);
+  };
+}
+
+function syncDocumentLocale(locale: AppLocale): void {
+  if (typeof document === 'undefined') {
+    return;
+  }
+
+  document.documentElement.lang = locale;
+  document.documentElement.dir = getLocaleDirection(locale);
+}
+
+function saveLocale(locale: AppLocale): void {
+  if (typeof window === 'undefined') {
+    return;
+  }
+
+  window.localStorage.setItem(STORAGE_KEY, locale);
+  window.dispatchEvent(new Event(LOCALE_CHANGE_EVENT));
+}
+
+export function useI18n() {
+  const locale = useSyncExternalStore(
+    subscribeToLocaleChanges,
+    getBrowserLocale,
+    getServerLocale,
+  );
+
+  const dir = getLocaleDirection(locale);
+
+  useEffect(() => {
+    syncDocumentLocale(locale);
+  }, [locale]);
+
+  const setLocale = useCallback((nextLocale: AppLocale) => {
+    saveLocale(nextLocale);
+    syncDocumentLocale(nextLocale);
+  }, []);
+
+  const t = useCallback(
+    (key: TranslationKey) => {
+      return translate(locale, key);
+    },
+    [locale],
+  );
+
+  return useMemo(
+    () => ({
+      locale,
+      dir,
+      locales: LOCALES,
+      setLocale,
+      t,
+    }),
+    [dir, locale, setLocale, t],
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\lib\data.ts
+============================================================
+import type {
+  OutbreakCountry,
+  OutbreakFetchLogItem,
+  OutbreakGlobalStats,
+  OutbreakOfficialEvent,
+  OutbreakPoint,
+  OutbreakSource,
+  OutbreakTimelineItem,
+} from '@/types/outbreak';
+
+async function fetchJson<T>(path: string): Promise<T> {
+  const response = await fetch(path, {
+    cache: 'no-store',
+  });
+
+  if (!response.ok) {
+    throw new Error(`Failed to load ${path}`);
+  }
+
+  return response.json() as Promise<T>;
+}
+
+async function fetchOptionalJson<T>(path: string, fallback: T): Promise<T> {
+  try {
+    return await fetchJson<T>(path);
+  } catch {
+    return fallback;
+  }
+}
+
+export async function loadGlobalStats(): Promise<OutbreakGlobalStats> {
+  return fetchJson<OutbreakGlobalStats>('/data/global.json');
+}
+
+export async function loadCountries(): Promise<OutbreakCountry[]> {
+  return fetchJson<OutbreakCountry[]>('/data/countries.json');
+}
+
+export async function loadPoints(): Promise<OutbreakPoint[]> {
+  return fetchJson<OutbreakPoint[]>('/data/points.json');
+}
+
+export async function loadTimeline(): Promise<OutbreakTimelineItem[]> {
+  return fetchJson<OutbreakTimelineItem[]>('/data/timeline.json');
+}
+
+export async function loadSources(): Promise<OutbreakSource[]> {
+  return fetchJson<OutbreakSource[]>('/data/sources.json');
+}
+
+export async function loadOfficialEvents(): Promise<OutbreakOfficialEvent[]> {
+  return fetchOptionalJson<OutbreakOfficialEvent[]>('/data/official_events.json', []);
+}
+
+export async function loadHistoricalContext(): Promise<unknown> {
+  return fetchOptionalJson<unknown>('/data/historical_context.json', {});
+}
+
+export async function loadFetchLog(): Promise<OutbreakFetchLogItem[]> {
+  return fetchOptionalJson<OutbreakFetchLogItem[]>('/data/fetch_log.json', []);
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\lib\format.ts
+============================================================
+export function formatNumber(value: number | null | undefined): string {
+  if (value === null || value === undefined || Number.isNaN(value)) {
+    return '0';
+  }
+
+  return new Intl.NumberFormat('en-US').format(value);
+}
+
+export function formatCompactNumber(value: number | null | undefined): string {
+  if (value === null || value === undefined || Number.isNaN(value)) {
+    return '0';
+  }
+
+  return new Intl.NumberFormat('en-US', {
+    notation: 'compact',
+    maximumFractionDigits: 1,
+  }).format(value);
+}
+
+export function formatDateTime(value: string | null | undefined): string {
+  if (!value) {
+    return 'Unknown';
+  }
+
+  const date = new Date(value);
+
+  if (Number.isNaN(date.getTime())) {
+    return 'Unknown';
+  }
+
+  return new Intl.DateTimeFormat('en-US', {
+    dateStyle: 'medium',
+    timeStyle: 'short',
+  }).format(date);
+}
+
+export function formatDate(value: string | null | undefined): string {
+  if (!value) {
+    return 'Unknown';
+  }
+
+  const date = new Date(value);
+
+  if (Number.isNaN(date.getTime())) {
+    return 'Unknown';
+  }
+
+  return new Intl.DateTimeFormat('en-US', {
+    dateStyle: 'medium',
+  }).format(date);
+}
+
+export function formatPercent(value: number | null | undefined): string {
+  if (value === null || value === undefined || Number.isNaN(value)) {
+    return '0%';
+  }
+
+  return new Intl.NumberFormat('en-US', {
+    style: 'percent',
+    maximumFractionDigits: 1,
+  }).format(value);
+}
+
+export function safeNumber(value: number | null | undefined): number {
+  if (value === null || value === undefined || Number.isNaN(value)) {
+    return 0;
+  }
+
+  return value;
+}
+
+export function getCaseFatalityRate(
+  deaths: number | null | undefined,
+  totalCases: number | null | undefined,
+): number {
+  const safeDeaths = safeNumber(deaths);
+  const safeTotal = safeNumber(totalCases);
+
+  if (safeTotal <= 0) {
+    return 0;
+  }
+
+  return safeDeaths / safeTotal;
+}
+
+export function getUnconfirmedTotal(input: {
+  suspected?: number | null;
+  probable?: number | null;
+  possible?: number | null;
+  underInvestigation?: number | null;
+  pending?: number | null;
+  explicitUnconfirmed?: number | null;
+}): number {
+  const explicit = safeNumber(input.explicitUnconfirmed);
+
+  if (explicit > 0) {
+    return explicit;
+  }
+
+  return (
+    safeNumber(input.suspected) +
+    safeNumber(input.probable) +
+    safeNumber(input.possible) +
+    safeNumber(input.underInvestigation) +
+    safeNumber(input.pending)
+  );
+}
+============================================================
+FILE: C:\Users\Oualid Dahdi\Documents\outbreak-tracker\src\types\outbreak.ts
+============================================================
+export type RiskLevel = 'low' | 'moderate' | 'high' | 'critical' | 'unknown';
+
+export type OutbreakSourceType =
+  | 'official'
+  | 'health-agency'
+  | 'early-warning'
+  | 'news';
+
+export type OutbreakSourceConfidence = 'high' | 'medium' | 'low';
+
+export type OutbreakMetrics = {
+  confirmed_cases: number;
+  suspected_cases: number;
+  probable_cases: number;
+  possible_cases: number;
+  under_investigation_cases: number;
+  pending_cases: number;
+  ruled_out_cases: number;
+  negative_cases: number;
+  unconfirmed_cases: number;
+  total_identified_cases: number;
+  deaths: number;
+  hospitalized: number;
+  recovered: number;
+};
+
+export type OutbreakCurrentEvent = OutbreakMetrics & {
+  event_name: string;
+  risk_level: RiskLevel;
+  source?: string | null;
+  source_id?: string | null;
+  source_url?: string | null;
+  published_at?: string | null;
+};
+
+export type OutbreakHistoricalContext = {
+  country?: string;
+  cumulative_cases?: number | null;
+  period_label?: string;
+  scope?: string;
+};
+
+export type OutbreakGlobalStats = {
+  disease: string;
+  event_name?: string | null;
+
+  total_confirmed: number;
+  total_deaths: number;
+  total_recovered: number;
+
+  total_suspected?: number;
+  total_probable?: number;
+  total_possible?: number;
+  total_under_investigation?: number;
+  total_pending?: number;
+  total_unconfirmed?: number;
+  total_ruled_out?: number;
+  total_negative?: number;
+  total_identified_cases?: number;
+  total_hospitalized?: number;
+
+  affected_countries: number;
+  global_risk_level: RiskLevel;
+  last_updated: string;
+  source_label: string;
+  primary_event_url?: string | null;
+
+  current_outbreak?: OutbreakCurrentEvent;
+  historical_context?: OutbreakHistoricalContext | null;
+  data_notes?: string[];
+};
+
+export type OutbreakCountry = {
+  country: string;
+  region?: string;
+
+  confirmed: number;
+  suspected?: number;
+  probable?: number;
+  possible?: number;
+  under_investigation?: number;
+  pending?: number;
+  unconfirmed?: number;
+  total_identified?: number;
+  ruled_out?: number;
+  negative?: number;
+
+  deaths: number;
+  recovered?: number;
+  hospitalized?: number;
+  active?: number;
+
+  lat: number;
+  lng: number;
+  risk_level: RiskLevel;
+  last_updated?: string;
+};
+
+export type OutbreakPoint = {
+  id: string;
+  name: string;
+  country: string;
+
+  confirmed: number;
+  suspected?: number;
+  probable?: number;
+  possible?: number;
+  under_investigation?: number;
+  pending?: number;
+  unconfirmed?: number;
+  total_identified?: number;
+
+  deaths: number;
+  lat: number;
+  lng: number;
+
+  source: string;
+  source_url?: string | null;
+  risk_level: RiskLevel;
+};
+
+export type OutbreakTimelineItem = {
+  date: string;
+
+  confirmed: number;
+  suspected?: number;
+  probable?: number;
+  possible?: number;
+  under_investigation?: number;
+  pending?: number;
+  unconfirmed?: number;
+  total_identified?: number;
+
+  deaths: number;
+  recovered?: number;
+
+  source?: string | null;
+  source_id?: string | null;
+  source_url?: string | null;
+};
+
+export type OutbreakSourceStatus = {
+  ok: number;
+  failed: number;
+  last_status_code?: number | null;
+  last_error?: string | null;
+};
+
+export type OutbreakSource = {
+  id: string;
+  name: string;
+  url: string;
+  type: OutbreakSourceType;
+  last_checked_at: string;
+  confidence: OutbreakSourceConfidence;
+  usage?: string;
+  status?: OutbreakSourceStatus;
+};
+
+export type OutbreakOfficialEvent = {
+  source: string;
+  source_id: string;
+  type: 'current_outbreak' | 'historical_context' | string;
+  title: string;
+  summary: string;
+  url: string;
+  published_at?: string;
+  metrics?: OutbreakMetrics;
+  countries?: Array<{
+    country: string;
+    region?: string;
+    lat: number;
+    lng: number;
+  }>;
+  risk_level?: RiskLevel;
+  raw_hash?: string;
+  tracking_scope?: {
+    confirmed?: boolean;
+    suspected?: boolean;
+    probable?: boolean;
+    possible?: boolean;
+    under_investigation?: boolean;
+    pending?: boolean;
+    ruled_out?: boolean;
+    negative?: boolean;
+  };
+  data_correction?: {
+    applied: boolean;
+    reason: string;
+    confirmed_cases?: number;
+    suspected_cases?: number;
+    total_identified_cases?: number;
+    deaths?: number;
+  };
+  [key: string]: unknown;
+};
+
+export type OutbreakFetchLogItem = {
+  ok: boolean;
+  source_id: string;
+  url: string;
+  status_code?: number | null;
+  error?: string | null;
+};
+
+export type OutbreakDashboardData = {
+  global: OutbreakGlobalStats;
+  countries: OutbreakCountry[];
+  points: OutbreakPoint[];
+  timeline: OutbreakTimelineItem[];
+  sources: OutbreakSource[];
+  officialEvents?: OutbreakOfficialEvent[];
+  historicalContext?: unknown;
+  fetchLog?: OutbreakFetchLogItem[];
+};

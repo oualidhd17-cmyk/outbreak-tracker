@@ -3,7 +3,7 @@ param(
   [string]$SrcPath = "/src",
   [string]$OutDirName = "DUMPS_ANGULAR",
   [string]$OutFileName = "src.txt",
-  [string[]]$Extensions = @("*.ts","*.html","*.scss","*.css","*.json","*.md"),
+  [string[]]$Extensions = @("*.ts","*.html","*.scss","*.css","*.json","*.md","*"),
   [switch]$ExcludeSpecs = $true
 )
 

@@ -1,14 +1,14 @@
 'use client';
 
-
 import dynamic from 'next/dynamic';
 import { useCallback, useEffect, useState } from 'react';
 import { RefreshCw, ShieldCheck } from 'lucide-react';
 
-import { AdSlot } from '@/components/dashboard/AdSlot';
 import { LanguageSwitcher } from '@/components/dashboard/LanguageSwitcher';
 import { StatsSidebar } from '@/components/dashboard/StatsSidebar';
 import { TimelineChart } from '@/components/dashboard/TimelineChart';
+import { OutbreakStructuredData } from '@/components/seo/OutbreakStructuredData';
+import { DashboardInfoLinks } from '@/components/trust/DashboardInfoLinks';
 import { useI18n } from '@/i18n/useI18n';
 import {
   loadCountries,
@@ -32,7 +32,7 @@ const DarkOutbreakMap = dynamic<{ points: OutbreakPoint[] }>(
   {
     ssr: false,
     loading: () => (
-      <div className="flex h-full w-full items-center justify-center bg-[#05080b] text-white/50">
+      <div className="flex h-full w-full items-center justify-center bg-[#000] text-gray-500">
         Loading map...
       </div>
     ),
@@ -115,8 +115,8 @@ export function OutbreakDashboard() {
     return (
       <main className="flex min-h-dvh items-center justify-center bg-black text-white">
         <div className="text-center">
-          <div className="mx-auto h-10 w-10 animate-spin rounded-full border-2 border-white/20 border-t-red-500" />
-          <p className="mt-4 text-sm uppercase tracking-[0.24em] text-white/45">
+          <div className="mx-auto h-10 w-10 animate-spin rounded-full border-2 border-[#333] border-t-red-500" />
+          <p className="mt-4 text-sm font-bold uppercase tracking-widest text-gray-500">
             {t('loading.dashboard')}
           </p>
         </div>
@@ -127,17 +127,17 @@ export function OutbreakDashboard() {
   if (error || !data) {
     return (
       <main className="flex min-h-dvh items-center justify-center bg-black px-6 text-white">
-        <div className="max-w-md border border-red-500/30 bg-red-500/10 p-6 text-center">
-          <h1 className="text-xl font-semibold text-red-200">{t('error.title')}</h1>
+        <div className="max-w-md rounded-lg border border-red-500/30 bg-red-500/10 p-6 text-center">
+          <h1 className="text-xl font-bold text-red-400">{t('error.title')}</h1>
 
-          <p className="mt-2 text-sm text-red-100/70">
+          <p className="mt-2 text-sm text-red-200/70">
             {error ?? t('error.message')}
           </p>
 
           <button
             type="button"
             onClick={() => void loadData('initial')}
-            className="mt-5 border border-white/15 bg-white/10 px-4 py-2 text-sm font-semibold text-white hover:bg-white/15"
+            className="mt-5 rounded border border-[#333] bg-[#111] px-4 py-2 text-sm font-bold text-white hover:bg-[#222]"
           >
             {t('error.retry')}
           </button>
@@ -147,8 +147,10 @@ export function OutbreakDashboard() {
   }
 
   return (
-    <main dir="ltr" className="min-h-dvh bg-black pb-16 text-white lg:h-dvh lg:overflow-hidden lg:pb-0">
-      <div className="grid min-h-dvh grid-cols-1 bg-black lg:h-full lg:min-h-0 lg:grid-cols-[330px_minmax(0,1fr)]">
+    <main dir="ltr" className="min-h-dvh bg-[#000] pb-16 text-white">
+      <OutbreakStructuredData global={data.global} />
+
+      <div className="grid min-h-dvh grid-cols-1 bg-black lg:h-dvh lg:grid-cols-[340px_minmax(0,1fr)]">
         <StatsSidebar
           global={data.global}
           countries={data.countries}
@@ -165,55 +167,49 @@ export function OutbreakDashboard() {
           }}
         />
 
-        <section className="grid min-h-0 bg-black lg:grid-rows-[82px_minmax(0,1fr)_286px]">
-          <header className="grid min-h-0 gap-px border-b border-black bg-black xl:grid-cols-[minmax(0,1fr)_480px]">
-            <div className="flex min-w-0 items-center bg-[#101010] px-3 py-3 sm:px-4 lg:py-2">
-              <AdSlot id="top-map-ad" variant="top" label={t('ads.topBanner')} />
+        <section className="grid min-h-0 bg-[#000] lg:grid-rows-[auto_minmax(0,1fr)_320px]">
+          <header className="grid min-w-0 gap-3 border-b border-[#222] bg-[#0a0a0a] px-4 py-3 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
+            <div className="min-w-0" dir={isRtl ? 'rtl' : 'ltr'}>
+              <div className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-gray-500">
+                <ShieldCheck className="h-3.5 w-3.5 shrink-0 text-green-500" />
+                <span className="truncate">{t('sources.verified')}</span>
+              </div>
+
+              <div className="mt-1 truncate text-sm font-bold text-gray-300">
+                {topSource ? topSource.name : 'Official health agencies'}
+              </div>
             </div>
 
-            <div className="grid min-w-0 gap-3 bg-[#151515] px-3 py-3 sm:px-4 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center lg:py-2">
-              <div className="min-w-0" dir={isRtl ? 'rtl' : 'ltr'}>
-                <div className="flex items-center gap-2 text-[10px] font-semibold uppercase tracking-[0.2em] text-white/40">
-                  <ShieldCheck className="h-3.5 w-3.5 shrink-0 text-emerald-400" />
-                  <span className="truncate">{t('sources.verified')}</span>
-                </div>
+            <div className="flex flex-wrap items-center gap-2" dir="ltr">
+              <LanguageSwitcher
+                locale={locale}
+                locales={locales}
+                label={t('language.label')}
+                onChange={setLocale}
+              />
 
-                <div className="mt-1 truncate text-sm text-white/72">
-                  {topSource ? topSource.name : 'Official health agencies'}
-                </div>
-              </div>
-
-              <div className="flex flex-wrap items-center gap-2" dir="ltr">
-                <LanguageSwitcher
-                  locale={locale}
-                  locales={locales}
-                  label={t('language.label')}
-                  onChange={setLocale}
+              <button
+                type="button"
+                onClick={() => void loadData('refresh')}
+                className="inline-flex h-9 items-center gap-2 rounded border border-[#333] bg-[#1a1a1a] px-3 text-xs font-bold uppercase tracking-wider text-gray-400 hover:bg-[#2a2a2a] hover:text-white transition-colors"
+              >
+                <RefreshCw
+                  className={
+                    isRefreshing
+                      ? 'h-3.5 w-3.5 animate-spin'
+                      : 'h-3.5 w-3.5'
+                  }
                 />
-
-                <button
-                  type="button"
-                  onClick={() => void loadData('refresh')}
-                  className="inline-flex h-10 items-center gap-2 border border-white/10 bg-white/[0.04] px-3 text-xs font-semibold uppercase tracking-[0.14em] text-white/65 hover:bg-white/[0.08]"
-                >
-                  <RefreshCw
-                    className={
-                      isRefreshing
-                        ? 'h-3.5 w-3.5 animate-spin'
-                        : 'h-3.5 w-3.5'
-                    }
-                  />
-                  {t('actions.refresh')}
-                </button>
-              </div>
+                {t('actions.refresh')}
+              </button>
             </div>
           </header>
 
-          <div className="h-[420px] min-h-0 border-b border-black sm:h-[500px] lg:h-auto">
+          <div className="h-[420px] min-h-0 border-b border-[#222] sm:h-[500px] lg:h-auto bg-[#000]">
             <DarkOutbreakMap points={data.points} />
           </div>
 
-          <div className="grid min-h-0 min-w-0 gap-px border-t border-black bg-black lg:grid-cols-[minmax(0,1fr)_360px]">
+          <div className="grid min-h-0 min-w-0 gap-px border-t border-[#222] bg-[#222] lg:grid-cols-[minmax(0,1fr)_300px]">
             <TimelineChart
               data={data.timeline}
               labels={{
@@ -224,49 +220,42 @@ export function OutbreakDashboard() {
               }}
             />
 
-            <aside className="grid min-h-0 gap-3 bg-[#111111] p-3 lg:grid-rows-[112px_minmax(0,1fr)]">
+            <aside className="bg-[#000] p-4 flex flex-col justify-center">
               <div
-                className="min-h-0 border border-white/10 bg-white/[0.03] p-3"
+                className="rounded border border-[#333] bg-[#0a0a0a] p-4 w-full"
                 dir={isRtl ? 'rtl' : 'ltr'}
               >
-                <div className="text-[10px] font-semibold uppercase tracking-[0.22em] text-white/35">
+                <div className="text-[10px] font-bold uppercase tracking-widest text-gray-500">
                   {t('status.title')}
                 </div>
 
-                <div className="mt-2 space-y-2 text-xs text-white/60">
+                <div className="mt-4 space-y-4 text-xs font-bold text-gray-400">
                   <div className="flex justify-between gap-3">
                     <span>{t('status.officialUpdate')}</span>
-                    <span dir="ltr" className="text-end text-white/80">
+                    <span dir="ltr" className="text-gray-200">
                       {formatDateTime(data.global.last_updated)}
                     </span>
                   </div>
 
                   <div className="flex justify-between gap-3">
                     <span>{t('status.browserRefresh')}</span>
-                    <span dir="ltr" className="text-end text-white/80">
+                    <span dir="ltr" className="text-gray-200">
                       {formatDateTime(lastClientRefresh)}
                     </span>
                   </div>
 
                   <div className="flex justify-between gap-3">
                     <span>{t('status.mode')}</span>
-                    <span className="text-emerald-300">{t('status.staticJson')}</span>
+                    <span className="text-green-500">{t('status.staticJson')}</span>
                   </div>
                 </div>
               </div>
-
-              <AdSlot id="bottom-side-ad" variant="side" label={t('ads.chartSide')} />
             </aside>
-          </div>
-
-          <div className="grid gap-3 bg-[#101010] p-3 lg:hidden">
-            <AdSlot id="mobile-inline-ad-1" variant="inline" label={t('ads.mobile')} />
-            <AdSlot id="mobile-inline-ad-2" variant="inline" label={t('ads.mobile')} />
           </div>
         </section>
       </div>
 
-      <AdSlot id="mobile-sticky-ad" variant="mobile" label={t('ads.mobile')} />
+      <DashboardInfoLinks />
     </main>
   );
 }

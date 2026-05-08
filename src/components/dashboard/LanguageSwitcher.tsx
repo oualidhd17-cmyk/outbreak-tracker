@@ -21,16 +21,16 @@ export function LanguageSwitcher({
   onChange,
 }: LanguageSwitcherProps) {
   return (
-    <label className="inline-flex h-10 items-center gap-2 border border-white/10 bg-white/[0.04] px-3 text-xs text-white/60">
-      <span className="uppercase tracking-[0.14em]">{label}</span>
+    <label className="inline-flex h-9 items-center gap-2 rounded border border-[#333] bg-[#1a1a1a] px-3 text-xs text-gray-400 transition-colors hover:bg-[#222]">
+      <span className="font-bold uppercase tracking-wider">{label}</span>
 
       <select
         value={locale}
         onChange={(event) => onChange(event.target.value as AppLocale)}
-        className="min-w-20 bg-transparent text-xs font-semibold text-white outline-none"
+        className="min-w-20 bg-transparent text-xs font-bold text-white outline-none cursor-pointer"
       >
         {locales.map((item) => (
-          <option key={item.code} value={item.code} className="bg-[#111111] text-white">
+          <option key={item.code} value={item.code} className="bg-[#111] text-white">
             {item.nativeName}
           </option>
         ))}
