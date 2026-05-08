@@ -93,7 +93,21 @@
   {
     "ok": true,
     "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-2-8-may-2026-week-19",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
     "url": "https://www.ecdc.europa.eu/en/taxonomy/term/2794/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-2-8-may-2026-week-19",
     "status_code": 200,
     "error": null
   },
@@ -121,6 +135,13 @@
   {
     "ok": true,
     "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-2-8-may-2026-week-19",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
     "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1295/feed",
     "status_code": 200,
     "error": null
@@ -135,6 +156,13 @@
   {
     "ok": true,
     "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-2-8-may-2026-week-19",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
     "url": "https://www.ecdc.europa.eu/en/publications-data/hantavirus-associated-cluster-illness-cruise-ship-ecdc-assessment-and",
     "status_code": 200,
     "error": null
@@ -143,6 +171,13 @@
     "ok": true,
     "source_id": "ecdc",
     "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1253/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-2-8-may-2026-week-19",
     "status_code": 200,
     "error": null
   },
@@ -259,11 +294,18 @@
     "error": null
   },
   {
-    "ok": false,
+    "ok": true,
     "source_id": "africa_cdc",
     "url": "https://africacdc.org/",
-    "status_code": null,
-    "error": "The read operation timed out"
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/news-item/statement-on-multi-country-hantavirus-cluster-associated-with-cruise-ship-travel/",
+    "status_code": 200,
+    "error": null
   },
   {
     "ok": true,

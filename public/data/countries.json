@@ -19,7 +19,7 @@
     "lat": 20.0,
     "lng": 0.0,
     "risk_level": "low",
-    "last_updated": "2026-05-08T07:26:15+00:00"
+    "last_updated": "2026-05-08T16:54:21+00:00"
   },
   {
     "country": "Argentina",
@@ -41,7 +41,7 @@
     "lat": -38.4161,
     "lng": -63.6167,
     "risk_level": "low",
-    "last_updated": "2026-05-08T07:26:15+00:00"
+    "last_updated": "2026-05-08T16:54:21+00:00"
   },
   {
     "country": "Germany",
@@ -63,7 +63,7 @@
     "lat": 51.1657,
     "lng": 10.4515,
     "risk_level": "low",
-    "last_updated": "2026-05-08T07:26:15+00:00"
+    "last_updated": "2026-05-08T16:54:21+00:00"
   },
   {
     "country": "France",
@@ -85,7 +85,7 @@
     "lat": 46.2276,
     "lng": 2.2137,
     "risk_level": "low",
-    "last_updated": "2026-05-08T07:26:15+00:00"
+    "last_updated": "2026-05-08T16:54:21+00:00"
   },
   {
     "country": "Spain",
@@ -107,7 +107,7 @@
     "lat": 40.4637,
     "lng": -3.7492,
     "risk_level": "low",
-    "last_updated": "2026-05-08T07:26:15+00:00"
+    "last_updated": "2026-05-08T16:54:21+00:00"
   },
   {
     "country": "Netherlands",
@@ -129,7 +129,7 @@
     "lat": 52.1326,
     "lng": 5.2913,
     "risk_level": "low",
-    "last_updated": "2026-05-08T07:26:15+00:00"
+    "last_updated": "2026-05-08T16:54:21+00:00"
   },
   {
     "country": "Portugal",
@@ -151,6 +151,6 @@
     "lat": 39.3999,
     "lng": -8.2245,
     "risk_level": "low",
-    "last_updated": "2026-05-08T07:26:15+00:00"
+    "last_updated": "2026-05-08T16:54:21+00:00"
   }
 ]

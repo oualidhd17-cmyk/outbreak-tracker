@@ -3,6 +3,43 @@
     "source": "European Centre for Disease Prevention and Control",
     "source_id": "ecdc",
     "type": "current_outbreak",
+    "title": "Communicable disease threats report, 2-8 May 2026, Week 19",
+    "summary": "This issue of the ECDC Communicable Disease Threats Report (CDTR) covers the period 2-8 May 2026, and includes updates on hantavirus, mpox, Middle East respiratory syndrome coronavirus (MERS-CoV), Salmonella Stanley, and an overview of respiratory virus epidemiology in the EU/EEA.",
+    "url": "https://www.ecdc.europa.eu/en/publications-data/communicable-disease-threats-report-2-8-may-2026-week-19",
+    "published_at": "2026-05-08",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [],
+    "risk_level": "unknown",
+    "raw_hash": "9aa81f0a9f530de8183bbab9ced0e9dad1880540896b7d5d8357e7434a020e76",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    }
+  },
+  {
+    "source": "European Centre for Disease Prevention and Control",
+    "source_id": "ecdc",
+    "type": "current_outbreak",
     "title": "Hantavirus-associated cluster of illness on a cruise ship: ECDC assessment and recommendations",
     "summary": "As of 6 May 2026, seven cases have been reported in a hantavirus-associated cluster of illness on a cruise ship, including three deaths, one critically ill, two symptomatic and one with unknown status.",
     "url": "https://www.ecdc.europa.eu/en/publications-data/hantavirus-associated-cluster-illness-cruise-ship-ecdc-assessment-and",
@@ -348,6 +385,118 @@
     ],
     "risk_level": "unknown",
     "raw_hash": "70cdd1c71edce705f16ffd1e8fe21f6fd4a250fbfd478c72e9f30ab9452b7781",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak update",
+    "summary": "Home – Africa CDC Skip to content Email: communications@africacdc.org Search Search Africa CDC Launches the African Strategic Advisory Group on Genomics Find out more Saving Lives and Livelihoods Initiative Boosts Tunisia’s Immunisation System READ MORE Africa’s Health Security and Sovereignty (AHSS) Agenda READ MORE Africa CDC Launches African High-Level Ministerial Committee to Shape Global Health Architecture Reform READ MORE From Mandate to Public Health Impact, Annual Report 2025 DOWNLOAD THE REPORT Showing Slide 1 of 6 Africa’s Health Security and Sovereignty (AHSS) Agenda is a practical and transformative framework that empowers African nations to finance, produce, and govern their own health systems and medical countermeasures, strengthening resilience and reducing dependency. inclusive global health architecture\"> Reformed & inclusive global health architecture continental PPPR agenda\"> Institutionalised continental PPPR agenda innovative, blended financing\"> Predictable, dome",
+    "url": "https://africacdc.org/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Multi-country",
+        "region": "Multi-country",
+        "lat": 20.0,
+        "lng": 0.0
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "b93c388fa61fb87ba93f42c26fb3eb8d32892f5472cc584532d7920e88dcbefe",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Statement on Multi-Country Hantavirus Cluster Associated with Cruise Ship Travel – Africa CDC Skip to content Email: communications@africacdc.org Search Search News Statement on Multi-Country Hantavirus Cluster Associated with Cruise Ship Travel Date: 5 May 2026 The Africa Centres for Disease Control and Prevention (Africa CDC) is closely monitoring reports of a cluster of hantavirus infections identified among individuals travelling on the international cruise ship MV Hondius, which departed Ushuaia, Argentina, on 20 March 2026 for the Canary Islands via Cabo Verde. On 2 May 2026, a cluster of severe respiratory illness was reported among passengers aboard the vessel, which carried a total of 147 individuals, including crew. As of 4 May 2026, seven cases of hantavirus infection have been identified (two laboratory-confirmed and five suspected cases). Among these, three fatalities have been recorded; one patient remains in critical condition under medical care in South Africa, and thre",
+    "url": "https://africacdc.org/news-item/statement-on-multi-country-hantavirus-cluster-associated-with-cruise-ship-travel/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 2,
+      "suspected_cases": 5,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 5,
+      "total_identified_cases": 147,
+      "deaths": 3,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Multi-country",
+        "region": "Multi-country",
+        "lat": 20.0,
+        "lng": 0.0
+      },
+      {
+        "country": "Argentina",
+        "region": "South America",
+        "lat": -38.4161,
+        "lng": -63.6167
+      },
+      {
+        "country": "United Kingdom",
+        "region": "Europe",
+        "lat": 55.3781,
+        "lng": -3.436
+      },
+      {
+        "country": "Spain",
+        "region": "Europe",
+        "lat": 40.4637,
+        "lng": -3.7492
+      },
+      {
+        "country": "Netherlands",
+        "region": "Europe",
+        "lat": 52.1326,
+        "lng": 5.2913
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "49ecd22efb21fcf9504992d5cc95ce54d7ab0c72b835e01d430dea9cea61dfaa",
     "tracking_scope": {
       "confirmed": true,
       "suspected": true,
