@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import Script from 'next/script';
 
+import { DirectLinkOpener } from '@/components/monetag/DirectLinkOpener';
 import { MonetagScripts } from '@/components/monetag/MonetagScripts';
 import { ScrollControls } from '@/components/ui/ScrollControls';
 
@@ -76,6 +77,8 @@ export default function RootLayout({
         </Script>
 
         <MonetagScripts />
+
+        <DirectLinkOpener />
 
         {children}
 
