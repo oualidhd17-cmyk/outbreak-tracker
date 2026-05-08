@@ -1,4 +1,13 @@
+'use client';
+
+import { useEffect, useMemo, useRef } from 'react';
 import clsx from 'clsx';
+
+declare global {
+  interface Window {
+    adsbygoogle?: unknown[];
+  }
+}
 
 type AdSlotProps = {
   id: string;
@@ -7,31 +16,116 @@ type AdSlotProps = {
   variant?: 'top' | 'sidebar' | 'side' | 'mobile' | 'inline';
 };
 
+const ADSENSE_CLIENT_ID = 'ca-pub-7200463371794521';
+
+const ADSENSE_DISPLAY_SLOT_ID = '6282664948';
+const ADSENSE_MULTIPLEX_SLOT_ID = '6995061524';
+
+function getAdSenseSlot(id: string, variant: AdSlotProps['variant']): string {
+  const normalizedId = id.toLowerCase();
+
+  if (normalizedId.includes('multiplex')) {
+    return ADSENSE_MULTIPLEX_SLOT_ID;
+  }
+
+  if (
+    variant === 'top' ||
+    variant === 'sidebar' ||
+    variant === 'side' ||
+    variant === 'inline' ||
+    variant === 'mobile'
+  ) {
+    return ADSENSE_DISPLAY_SLOT_ID;
+  }
+
+  return ADSENSE_DISPLAY_SLOT_ID;
+}
+
 export function AdSlot({
   id,
-  label = 'Advertisement',
   className,
   variant = 'top',
 }: AdSlotProps) {
+  const wrapperRef = useRef<HTMLDivElement | null>(null);
+  const adRef = useRef<HTMLModElement | null>(null);
+
+  const adSlot = useMemo(() => {
+    return getAdSenseSlot(id, variant);
+  }, [id, variant]);
+
+  useEffect(() => {
+    if (typeof window === 'undefined') {
+      return;
+    }
+
+    const hideSlot = () => {
+      const wrapper = wrapperRef.current;
+
+      if (!wrapper) {
+        return;
+      }
+
+      wrapper.style.display = 'none';
+    };
+
+    try {
+      window.adsbygoogle = window.adsbygoogle || [];
+      window.adsbygoogle.push({});
+    } catch {
+      hideSlot();
+      return;
+    }
+
+    const timer = window.setTimeout(() => {
+      const element = adRef.current;
+
+      if (!element) {
+        hideSlot();
+        return;
+      }
+
+      const status = element.getAttribute('data-ad-status');
+      const hasIframe = Boolean(element.querySelector('iframe'));
+      const height = element.offsetHeight;
+
+      if (status === 'unfilled' || (!hasIframe && height <= 0)) {
+        hideSlot();
+      }
+    }, 3500);
+
+    return () => {
+      window.clearTimeout(timer);
+    };
+  }, [adSlot]);
+
   return (
     <div
+      ref={wrapperRef}
       id={id}
       data-ad-slot={variant}
       className={clsx(
-        'relative flex items-center justify-center overflow-hidden border border-white/10',
-        'bg-[linear-gradient(135deg,rgba(255,255,255,0.05),rgba(255,255,255,0.015))]',
-        'text-center text-[10px] uppercase tracking-[0.22em] text-white/35',
-        'before:pointer-events-none before:absolute before:inset-0 before:bg-[radial-gradient(circle_at_center,rgba(255,255,255,0.06),transparent_58%)]',
-        variant === 'top' && 'h-16 w-full md:h-14',
-        variant === 'sidebar' && 'h-40 w-full md:h-36 lg:h-32',
-        variant === 'side' && 'h-44 w-full lg:h-full lg:min-h-0',
-        variant === 'inline' && 'h-28 w-full',
+        'overflow-hidden',
+        variant === 'top' && 'w-full',
+        variant === 'sidebar' && 'w-full',
+        variant === 'side' && 'w-full',
+        variant === 'inline' && 'w-full',
         variant === 'mobile' &&
-          'fixed inset-x-3 bottom-3 z-[9999] h-12 rounded-xl bg-black/85 shadow-2xl backdrop-blur md:hidden',
+          'fixed inset-x-3 bottom-3 z-[9999] md:hidden',
         className,
       )}
     >
-      <span className="relative z-10 px-3">{label}</span>
+      <ins
+        ref={adRef}
+        className="adsbygoogle"
+        style={{
+          display: 'block',
+          width: '100%',
+        }}
+        data-ad-client={ADSENSE_CLIENT_ID}
+        data-ad-slot={adSlot}
+        data-ad-format="auto"
+        data-full-width-responsive="true"
+      />
     </div>
   );
 }
