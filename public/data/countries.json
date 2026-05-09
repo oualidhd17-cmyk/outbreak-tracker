@@ -19,7 +19,7 @@
     "lat": 20.0,
     "lng": 0.0,
     "risk_level": "low",
-    "last_updated": "2026-05-08T16:54:21+00:00"
+    "last_updated": "2026-05-09T09:09:38+00:00"
   },
   {
     "country": "Argentina",
@@ -41,10 +41,10 @@
     "lat": -38.4161,
     "lng": -63.6167,
     "risk_level": "low",
-    "last_updated": "2026-05-08T16:54:21+00:00"
+    "last_updated": "2026-05-09T09:09:38+00:00"
   },
   {
-    "country": "Germany",
+    "country": "United Kingdom",
     "region": "Europe",
     "confirmed": 2,
     "suspected": 5,
@@ -60,32 +60,10 @@
     "recovered": 0,
     "hospitalized": 0,
     "active": 4,
-    "lat": 51.1657,
-    "lng": 10.4515,
+    "lat": 55.3781,
+    "lng": -3.436,
     "risk_level": "low",
-    "last_updated": "2026-05-08T16:54:21+00:00"
-  },
-  {
-    "country": "France",
-    "region": "Europe",
-    "confirmed": 2,
-    "suspected": 5,
-    "probable": 0,
-    "possible": 0,
-    "under_investigation": 0,
-    "pending": 0,
-    "unconfirmed": 5,
-    "total_identified": 7,
-    "ruled_out": 0,
-    "negative": 0,
-    "deaths": 3,
-    "recovered": 0,
-    "hospitalized": 0,
-    "active": 4,
-    "lat": 46.2276,
-    "lng": 2.2137,
-    "risk_level": "low",
-    "last_updated": "2026-05-08T16:54:21+00:00"
+    "last_updated": "2026-05-09T09:09:38+00:00"
   },
   {
     "country": "Spain",
@@ -107,7 +85,7 @@
     "lat": 40.4637,
     "lng": -3.7492,
     "risk_level": "low",
-    "last_updated": "2026-05-08T16:54:21+00:00"
+    "last_updated": "2026-05-09T09:09:38+00:00"
   },
   {
     "country": "Netherlands",
@@ -129,28 +107,6 @@
     "lat": 52.1326,
     "lng": 5.2913,
     "risk_level": "low",
-    "last_updated": "2026-05-08T16:54:21+00:00"
-  },
-  {
-    "country": "Portugal",
-    "region": "Europe",
-    "confirmed": 2,
-    "suspected": 5,
-    "probable": 0,
-    "possible": 0,
-    "under_investigation": 0,
-    "pending": 0,
-    "unconfirmed": 5,
-    "total_identified": 7,
-    "ruled_out": 0,
-    "negative": 0,
-    "deaths": 3,
-    "recovered": 0,
-    "hospitalized": 0,
-    "active": 4,
-    "lat": 39.3999,
-    "lng": -8.2245,
-    "risk_level": "low",
-    "last_updated": "2026-05-08T16:54:21+00:00"
+    "last_updated": "2026-05-09T09:09:38+00:00"
   }
 ]

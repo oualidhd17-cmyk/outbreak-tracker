@@ -1,6 +1,6 @@
 {
   "disease": "Hantavirus",
-  "event_name": "Hantavirus-associated cluster of illness on a cruise ship: ECDC assessment and recommendations",
+  "event_name": "Africa CDC disease outbreak report",
   "total_confirmed": 2,
   "total_deaths": 3,
   "total_recovered": 0,
@@ -14,12 +14,12 @@
   "total_negative": 0,
   "total_identified_cases": 7,
   "total_hospitalized": 0,
-  "affected_countries": 7,
+  "affected_countries": 5,
   "global_risk_level": "low",
-  "last_updated": "2026-05-08T16:54:21+00:00",
+  "last_updated": "2026-05-09T09:09:38+00:00",
   "source_label": "WHO / ECDC / CDC / Africa CDC / ReliefWeb",
   "current_outbreak": {
-    "event_name": "Hantavirus-associated cluster of illness on a cruise ship: ECDC assessment and recommendations",
+    "event_name": "Africa CDC disease outbreak report",
     "confirmed_cases": 2,
     "suspected_cases": 5,
     "probable_cases": 0,
@@ -34,12 +34,12 @@
     "hospitalized": 0,
     "recovered": 0,
     "risk_level": "low",
-    "source": "European Centre for Disease Prevention and Control",
-    "source_id": "ecdc",
-    "source_url": "https://www.ecdc.europa.eu/en/publications-data/hantavirus-associated-cluster-illness-cruise-ship-ecdc-assessment-and",
-    "published_at": "2026-05-06"
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "source_url": "https://africacdc.org/news-item/statement-on-multi-country-hantavirus-cluster-associated-with-cruise-ship-travel/",
+    "published_at": ""
   },
-  "primary_event_url": "https://www.ecdc.europa.eu/en/publications-data/hantavirus-associated-cluster-illness-cruise-ship-ecdc-assessment-and",
+  "primary_event_url": "https://africacdc.org/news-item/statement-on-multi-country-hantavirus-cluster-associated-with-cruise-ship-travel/",
   "historical_context": {
     "country": "United States",
     "cumulative_cases": 890,

@@ -45,15 +45,15 @@
     "url": "https://www.ecdc.europa.eu/en/publications-data/hantavirus-associated-cluster-illness-cruise-ship-ecdc-assessment-and",
     "published_at": "2026-05-06",
     "metrics": {
-      "confirmed_cases": 2,
-      "suspected_cases": 5,
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
       "probable_cases": 0,
       "possible_cases": 0,
       "under_investigation_cases": 0,
       "pending_cases": 0,
       "ruled_out_cases": 0,
       "negative_cases": 0,
-      "unconfirmed_cases": 5,
+      "unconfirmed_cases": 0,
       "total_identified_cases": 7,
       "deaths": 3,
       "hospitalized": 0,
@@ -114,15 +114,6 @@
       "pending": true,
       "ruled_out": true,
       "negative": true
-    },
-    "data_correction": {
-      "applied": true,
-      "reason": "WHO DON599 official correction: vessel population numbers are not case counts.",
-      "confirmed_cases": 2,
-      "suspected_cases": 5,
-      "unconfirmed_cases": 5,
-      "total_identified_cases": 7,
-      "deaths": 3
     }
   },
   {
@@ -134,17 +125,17 @@
     "url": "https://www.ecdc.europa.eu/en/news-events/cruise-ship-hantavirus-outbreak-ecdc-response-activated",
     "published_at": "2026-05-06",
     "metrics": {
-      "confirmed_cases": 2,
-      "suspected_cases": 5,
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
       "probable_cases": 0,
       "possible_cases": 0,
       "under_investigation_cases": 0,
       "pending_cases": 0,
       "ruled_out_cases": 0,
       "negative_cases": 0,
-      "unconfirmed_cases": 5,
-      "total_identified_cases": 7,
-      "deaths": 3,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
       "hospitalized": 0,
       "recovered": 0
     },
@@ -185,15 +176,6 @@
       "pending": true,
       "ruled_out": true,
       "negative": true
-    },
-    "data_correction": {
-      "applied": true,
-      "reason": "WHO DON599 official correction: vessel population numbers are not case counts.",
-      "confirmed_cases": 2,
-      "suspected_cases": 5,
-      "unconfirmed_cases": 5,
-      "total_identified_cases": 7,
-      "deaths": 3
     }
   },
   {
@@ -206,16 +188,16 @@
     "published_at": "2026-05-05",
     "metrics": {
       "confirmed_cases": 2,
-      "suspected_cases": 5,
+      "suspected_cases": 0,
       "probable_cases": 0,
       "possible_cases": 0,
-      "under_investigation_cases": 0,
+      "under_investigation_cases": 2,
       "pending_cases": 0,
       "ruled_out_cases": 0,
       "negative_cases": 0,
-      "unconfirmed_cases": 5,
-      "total_identified_cases": 7,
-      "deaths": 3,
+      "unconfirmed_cases": 149,
+      "total_identified_cases": 4,
+      "deaths": 0,
       "hospitalized": 0,
       "recovered": 0
     },
@@ -241,12 +223,11 @@
     },
     "data_correction": {
       "applied": true,
-      "reason": "WHO DON599 official correction: vessel population numbers are not case counts.",
-      "confirmed_cases": 2,
-      "suspected_cases": 5,
-      "unconfirmed_cases": 5,
-      "total_identified_cases": 7,
-      "deaths": 3
+      "reason": "Cruise passenger/crew population numbers were ignored when they looked like non-case counts.",
+      "notes": [
+        "Ignored suspected_cases >= 100 as likely passenger/crew count.",
+        "Ignored total_identified_cases >= 100 as likely passenger/crew count."
+      ]
     }
   },
   {
@@ -258,16 +239,16 @@
     "url": "https://www.ecdc.europa.eu/en/news-events/suspected-hantavirus-outbreak-cruise-ship-under-investigation-risk-europeans-very-low",
     "published_at": "2026-05-04",
     "metrics": {
-      "confirmed_cases": 2,
-      "suspected_cases": 5,
+      "confirmed_cases": 1,
+      "suspected_cases": 0,
       "probable_cases": 0,
       "possible_cases": 0,
-      "under_investigation_cases": 0,
+      "under_investigation_cases": 3,
       "pending_cases": 0,
       "ruled_out_cases": 0,
       "negative_cases": 0,
-      "unconfirmed_cases": 5,
-      "total_identified_cases": 7,
+      "unconfirmed_cases": 3,
+      "total_identified_cases": 4,
       "deaths": 3,
       "hospitalized": 0,
       "recovered": 0
@@ -297,15 +278,6 @@
       "pending": true,
       "ruled_out": true,
       "negative": true
-    },
-    "data_correction": {
-      "applied": true,
-      "reason": "WHO DON599 official correction: vessel population numbers are not case counts.",
-      "confirmed_cases": 2,
-      "suspected_cases": 5,
-      "unconfirmed_cases": 5,
-      "total_identified_cases": 7,
-      "deaths": 3
     }
   },
   {
@@ -428,7 +400,7 @@
       }
     ],
     "risk_level": "low",
-    "raw_hash": "b93c388fa61fb87ba93f42c26fb3eb8d32892f5472cc584532d7920e88dcbefe",
+    "raw_hash": "05c240682c9cf0b8048c23bf55640bb28fbc7ba29479291a5845fe85d5d8761c",
     "tracking_scope": {
       "confirmed": true,
       "suspected": true,
@@ -458,7 +430,7 @@
       "ruled_out_cases": 0,
       "negative_cases": 0,
       "unconfirmed_cases": 5,
-      "total_identified_cases": 147,
+      "total_identified_cases": 7,
       "deaths": 3,
       "hospitalized": 0,
       "recovered": 0
@@ -496,7 +468,7 @@
       }
     ],
     "risk_level": "low",
-    "raw_hash": "49ecd22efb21fcf9504992d5cc95ce54d7ab0c72b835e01d430dea9cea61dfaa",
+    "raw_hash": "7e63d479500a0abf0109115361ca9ffcd63f281388f67efad8b2a4644a695ac9",
     "tracking_scope": {
       "confirmed": true,
       "suspected": true,
@@ -506,6 +478,13 @@
       "pending": true,
       "ruled_out": true,
       "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Cruise passenger/crew population numbers were ignored when they looked like non-case counts.",
+      "notes": [
+        "Ignored total_identified_cases >= 100 as likely passenger/crew count."
+      ]
     }
   }
 ]
