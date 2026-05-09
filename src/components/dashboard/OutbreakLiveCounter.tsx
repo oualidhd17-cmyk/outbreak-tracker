@@ -115,7 +115,8 @@ export function OutbreakLiveCounter({
           </h2>
 
           <p className="mt-1 text-xs font-semibold text-gray-500" dir="ltr">
-            {labels.started}: {startedAt.toLocaleDateString('en-US', {
+            {labels.started}:{' '}
+            {startedAt.toLocaleDateString('en-US', {
               year: 'numeric',
               month: 'short',
               day: '2-digit',
