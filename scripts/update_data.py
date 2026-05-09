@@ -532,48 +532,64 @@ def extract_current_metrics(text: str) -> dict[str, int]:
 def apply_known_metric_corrections(
     event: dict[str, Any], full_text: str
 ) -> dict[str, Any]:
-    text = full_text.lower()
-    metrics = normalize_metrics(event.get("metrics") or {})
+    """
+    تنظيف ذكي للأرقام بدون تثبيت البيانات.
 
-    is_hantavirus_cruise_event = (
-        "hantavirus" in text
-        and ("cruise" in text or "cruise ship" in text or "cruise-ship" in text)
-        and (
-            "don599" in text
-            or "147 passengers and crew" in text
-            or "88 passengers and 59 crew" in text
-            or "risk for europe" in text
-            or "risk for europeans" in text
-            or "very low" in text
-        )
+    لا نجبر الأرقام على 2/5/7.
+    لكن نحذف الأرقام الواضحة أنها عدد ركاب/طاقم وليست حالات.
+    """
+    metrics = normalize_metrics(event.get("metrics") or {})
+    text = full_text.lower()
+
+    is_cruise_event = "hantavirus" in text and (
+        "cruise" in text or "cruise ship" in text or "cruise-ship" in text
     )
 
-    if is_hantavirus_cruise_event:
-        metrics["confirmed_cases"] = 2
-        metrics["suspected_cases"] = 5
-        metrics["probable_cases"] = 0
-        metrics["possible_cases"] = 0
+    if is_cruise_event:
+        correction_notes: list[str] = []
 
-        # لا تعتبر أعداد الركاب/الطاقم حالات.
-        metrics["under_investigation_cases"] = 0
-        metrics["pending_cases"] = 0
-        metrics["ruled_out_cases"] = 0
-        metrics["negative_cases"] = 0
+        # أرقام مثل 147 أو 88 أو 59 غالبًا عدد ركاب/طاقم وليست حالات.
+        if metrics["suspected_cases"] >= 100:
+            metrics["suspected_cases"] = 0
+            correction_notes.append(
+                "Ignored suspected_cases >= 100 as likely passenger/crew count."
+            )
 
-        metrics["unconfirmed_cases"] = 5
-        metrics["total_identified_cases"] = 7
-        metrics["deaths"] = 3
+        if metrics["under_investigation_cases"] >= 100:
+            metrics["under_investigation_cases"] = 0
+            correction_notes.append(
+                "Ignored under_investigation_cases >= 100 as likely passenger/crew count."
+            )
 
-        event["risk_level"] = "low"
-        event["data_correction"] = {
-            "applied": True,
-            "reason": "WHO DON599 official correction: vessel population numbers are not case counts.",
-            "confirmed_cases": 2,
-            "suspected_cases": 5,
-            "unconfirmed_cases": 5,
-            "total_identified_cases": 7,
-            "deaths": 3,
-        }
+        if metrics["pending_cases"] >= 100:
+            metrics["pending_cases"] = 0
+            correction_notes.append(
+                "Ignored pending_cases >= 100 as likely passenger/crew count."
+            )
+
+        calculated_total = (
+            metrics["confirmed_cases"]
+            + metrics["suspected_cases"]
+            + metrics["probable_cases"]
+            + metrics["possible_cases"]
+            + metrics["under_investigation_cases"]
+            + metrics["pending_cases"]
+        )
+
+        if metrics["total_identified_cases"] >= 100:
+            metrics["total_identified_cases"] = calculated_total
+            correction_notes.append(
+                "Ignored total_identified_cases >= 100 as likely passenger/crew count."
+            )
+
+        metrics = normalize_metrics(metrics)
+
+        if correction_notes:
+            event["data_correction"] = {
+                "applied": True,
+                "reason": "Cruise passenger/crew population numbers were ignored when they looked like non-case counts.",
+                "notes": correction_notes,
+            }
 
     event["metrics"] = normalize_metrics(metrics)
     return event
@@ -1252,25 +1268,100 @@ def choose_primary_current_event(events: list[dict[str, Any]]) -> dict[str, Any]
     current_events = [
         event for event in events if event.get("type") == "current_outbreak"
     ]
+
     if not current_events:
         return None
+
     source_weight = {
         "who": 100,
-        "ecdc": 85,
-        "cdc": 80,
-        "africa_cdc": 75,
-        "reliefweb": 60,
+        "ecdc": 95,
+        "cdc": 90,
+        "africa_cdc": 88,
+        "reliefweb": 75,
     }
 
-    def score(event: dict[str, Any]) -> tuple[int, int, int, str]:
-        metrics = normalize_metrics(event.get("metrics") or {})
-        source_score = source_weight.get(str(event.get("source_id")), 10)
-        metric_score = event_metric_score(event)
-        total_score = (
-            metrics.get("total_identified_cases", 0) + metrics.get("deaths", 0) * 2
+    def date_to_score(value: Any) -> int:
+        parsed = parse_date(value)
+        try:
+            return int(parsed.replace("-", ""))
+        except Exception:
+            return 0
+
+    def metric_completeness_score(metrics: dict[str, int]) -> int:
+        score = 0
+
+        # نفضل الحدث الذي يعطي أرقامًا مفصلة وليس total فقط.
+        if metrics.get("confirmed_cases", 0) > 0:
+            score += 4
+
+        if metrics.get("suspected_cases", 0) > 0:
+            score += 4
+
+        if metrics.get("probable_cases", 0) > 0:
+            score += 2
+
+        if metrics.get("possible_cases", 0) > 0:
+            score += 2
+
+        if metrics.get("under_investigation_cases", 0) > 0:
+            score += 2
+
+        if metrics.get("pending_cases", 0) > 0:
+            score += 2
+
+        if metrics.get("total_identified_cases", 0) > 0:
+            score += 3
+
+        if metrics.get("deaths", 0) > 0:
+            score += 3
+
+        return score
+
+    def has_usable_metrics(metrics: dict[str, int]) -> int:
+        return (
+            1
+            if any(
+                metrics.get(key, 0) > 0
+                for key in [
+                    "total_identified_cases",
+                    "confirmed_cases",
+                    "suspected_cases",
+                    "probable_cases",
+                    "possible_cases",
+                    "under_investigation_cases",
+                    "pending_cases",
+                    "deaths",
+                ]
+            )
+            else 0
         )
-        date_score = str(event.get("published_at") or "")
-        return source_score, metric_score, total_score, date_score
+
+    def score(event: dict[str, Any]) -> tuple[int, int, int, int, int, int]:
+        metrics = normalize_metrics(event.get("metrics") or {})
+
+        metric_available = has_usable_metrics(metrics)
+        metric_completeness = metric_completeness_score(metrics)
+        not_fallback = (
+            0 if event.get("raw_hash") == "who-official-hantavirus-fallback" else 1
+        )
+        source_score = source_weight.get(str(event.get("source_id")), 10)
+        date_score = date_to_score(event.get("published_at"))
+
+        total_score = (
+            metrics.get("total_identified_cases", 0)
+            + metrics.get("confirmed_cases", 0)
+            + metrics.get("suspected_cases", 0)
+            + metrics.get("deaths", 0) * 3
+        )
+
+        return (
+            metric_available,
+            not_fallback,
+            metric_completeness,
+            source_score,
+            date_score,
+            total_score,
+        )
 
     return sorted(current_events, key=score, reverse=True)[0]
 
@@ -1297,14 +1388,20 @@ def metrics_are_empty(event: dict[str, Any] | None) -> bool:
 def ensure_current_outbreak_fallback(
     events: list[dict[str, Any]],
 ) -> list[dict[str, Any]]:
+    """
+    fallback يستخدم فقط إذا لم نجد أي حدث حالي إطلاقًا.
+
+    لا نريد fallback ثابت يسيطر على البيانات إذا كانت هناك أحداث
+    من ECDC أو Africa CDC حتى لو parser لم يستخرج كل الأرقام منها.
+    """
     current_events = [
         event for event in events if event.get("type") == "current_outbreak"
     ]
+
     if not current_events:
         return [OFFICIAL_CURRENT_OUTBREAK_FALLBACK]
-    if any(not metrics_are_empty(event) for event in current_events):
-        return events
-    return [OFFICIAL_CURRENT_OUTBREAK_FALLBACK, *events]
+
+    return events
 
 
 def merge_current_metrics(primary_event: dict[str, Any] | None) -> dict[str, Any]:
@@ -1618,6 +1715,26 @@ def main() -> None:
     events, historical_context = collect_all_events()
     events = ensure_current_outbreak_fallback(events)
     events = dedupe_events(events)
+
+    print("\n================ EVENTS DEBUG ================")
+    for index, event in enumerate(events, start=1):
+        metrics = normalize_metrics(event.get("metrics") or {})
+        print(f"[{index}] source={event.get('source_id')}")
+        print(f"    date={event.get('published_at')}")
+        print(f"    title={event.get('title')}")
+        print(f"    url={event.get('url')}")
+        print(
+            "    metrics="
+            f"confirmed={metrics.get('confirmed_cases')}, "
+            f"suspected={metrics.get('suspected_cases')}, "
+            f"probable={metrics.get('probable_cases')}, "
+            f"possible={metrics.get('possible_cases')}, "
+            f"investigation={metrics.get('under_investigation_cases')}, "
+            f"pending={metrics.get('pending_cases')}, "
+            f"total={metrics.get('total_identified_cases')}, "
+            f"deaths={metrics.get('deaths')}"
+        )
+    print("==============================================\n")
 
     snapshot_payload = {
         "disease": DISEASE_NAME,
