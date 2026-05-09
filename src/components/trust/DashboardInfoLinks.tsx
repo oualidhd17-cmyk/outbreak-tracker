@@ -9,13 +9,13 @@ export function DashboardInfoLinks() {
 
   const links = isArabic
     ? [
-        { href: '/about', eyebrow: 'حول المنصة', title: 'مصمم للوضوح وليس للتهويل', description: 'تعرف على هدف HantaMap وكيف يتم عرض البيانات.' },
+        { href: '/about', eyebrow: 'حول المنصة', title: 'مصمم للوضوح وليس للتهويل', description: 'تعرف على هدف HantaUpdates وكيف يتم عرض البيانات.' },
         { href: '/sources', eyebrow: 'مصادر البيانات', title: 'مصادر صحية رسمية وموثوقة', description: 'WHO و CDC و ECDC و Africa CDC و ReliefWeb.' },
         { href: '/faq', eyebrow: 'الأسئلة الشائعة', title: 'إجابات مختصرة وواضحة', description: 'معلومات أساسية حول Hantavirus وطريقة قراءة البيانات.' },
         { href: '/medical-disclaimer', eyebrow: 'إخلاء المسؤولية', title: 'معلومات عامة وليست نصيحة طبية', description: 'اتبع دائمًا إرشادات الجهات الصحية المختصة.' },
       ]
     : [
-        { href: '/about', eyebrow: 'About', title: 'Built for clarity, not panic', description: 'Learn what HantaMap does and how the data is presented.' },
+        { href: '/about', eyebrow: 'About', title: 'Built for clarity, not panic', description: 'Learn what HantaUpdates does and how the data is presented.' },
         { href: '/sources', eyebrow: 'Data sources', title: 'Official and trusted health sources', description: 'WHO, CDC, ECDC, Africa CDC, and ReliefWeb.' },
         { href: '/faq', eyebrow: 'FAQ', title: 'Simple answers', description: 'Basic information about Hantavirus and dashboard data.' },
         { href: '/medical-disclaimer', eyebrow: 'Disclaimer', title: 'Information only, not medical advice', description: 'Always follow local health authority guidance.' },

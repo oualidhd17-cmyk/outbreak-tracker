@@ -16,7 +16,7 @@ export default function AboutPage() {
 
         <section className="mt-8 border border-white/10 bg-[#050505] p-5 sm:p-7">
           <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-emerald-300/75">
-            HantaMap
+            HantaUpdates
           </p>
 
           <h1 className="mt-3 max-w-3xl text-3xl font-semibold tracking-[-0.05em] sm:text-5xl">
