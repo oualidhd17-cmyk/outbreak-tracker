@@ -9,24 +9,78 @@ export function DashboardInfoLinks() {
 
   const links = isArabic
     ? [
-        { href: '/about', eyebrow: 'حول المنصة', title: 'مصمم للوضوح وليس للتهويل', description: 'تعرف على هدف HantaUpdates وكيف يتم عرض البيانات.' },
-        { href: '/sources', eyebrow: 'مصادر البيانات', title: 'مصادر صحية رسمية وموثوقة', description: 'WHO و CDC و ECDC و Africa CDC و ReliefWeb.' },
-        { href: '/faq', eyebrow: 'الأسئلة الشائعة', title: 'إجابات مختصرة وواضحة', description: 'معلومات أساسية حول Hantavirus وطريقة قراءة البيانات.' },
-        { href: '/medical-disclaimer', eyebrow: 'إخلاء المسؤولية', title: 'معلومات عامة وليست نصيحة طبية', description: 'اتبع دائمًا إرشادات الجهات الصحية المختصة.' },
+        {
+          href: '/about',
+          eyebrow: 'حول المنصة',
+          title: 'مصمم للوضوح وليس للتهويل',
+          description: 'تعرف على هدف HantaUpdates وكيف يتم عرض البيانات.',
+        },
+        {
+          href: '/sources',
+          eyebrow: 'مصادر البيانات',
+          title: 'مصادر صحية رسمية وموثوقة',
+          description: 'WHO و CDC و ECDC و Africa CDC و ReliefWeb.',
+        },
+        {
+          href: '/trends',
+          eyebrow: 'الترندات',
+          title: 'ترندات صحية مباشرة',
+          description: 'صفحات تلقائية للكلمات الصحية الرائجة مع روابط المصادر.',
+        },
+        {
+          href: '/faq',
+          eyebrow: 'الأسئلة الشائعة',
+          title: 'إجابات مختصرة وواضحة',
+          description: 'معلومات أساسية حول Hantavirus وطريقة قراءة البيانات.',
+        },
+        {
+          href: '/medical-disclaimer',
+          eyebrow: 'إخلاء المسؤولية',
+          title: 'معلومات عامة وليست نصيحة طبية',
+          description: 'اتبع دائمًا إرشادات الجهات الصحية المختصة.',
+        },
       ]
     : [
-        { href: '/about', eyebrow: 'About', title: 'Built for clarity, not panic', description: 'Learn what HantaUpdates does and how the data is presented.' },
-        { href: '/sources', eyebrow: 'Data sources', title: 'Official and trusted health sources', description: 'WHO, CDC, ECDC, Africa CDC, and ReliefWeb.' },
-        { href: '/faq', eyebrow: 'FAQ', title: 'Simple answers', description: 'Basic information about Hantavirus and dashboard data.' },
-        { href: '/medical-disclaimer', eyebrow: 'Disclaimer', title: 'Information only, not medical advice', description: 'Always follow local health authority guidance.' },
+        {
+          href: '/about',
+          eyebrow: 'About',
+          title: 'Built for clarity, not panic',
+          description: 'Learn what HantaUpdates does and how the data is presented.',
+        },
+        {
+          href: '/sources',
+          eyebrow: 'Data sources',
+          title: 'Official and trusted health sources',
+          description: 'WHO, CDC, ECDC, Africa CDC, and ReliefWeb.',
+        },
+        {
+          href: '/trends',
+          eyebrow: 'Live trends',
+          title: 'Health search trends',
+          description:
+            'Automatically generated public-health trend pages with source links.',
+        },
+        {
+          href: '/faq',
+          eyebrow: 'FAQ',
+          title: 'Simple answers',
+          description:
+            'Basic information about Hantavirus and dashboard data.',
+        },
+        {
+          href: '/medical-disclaimer',
+          eyebrow: 'Disclaimer',
+          title: 'Information only, not medical advice',
+          description: 'Always follow local health authority guidance.',
+        },
       ];
 
   return (
     <section
       dir={isArabic ? 'rtl' : 'ltr'}
-      className="mx-auto w-full max-w-[1480px] px-4 pb-10 pt-6 sm:px-6 lg:px-8 bg-[#000]"
+      className="mx-auto w-full max-w-[1480px] bg-[#000] px-4 pb-10 pt-6 sm:px-6 lg:px-8"
     >
-      <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
         {links.map((item) => (
           <Link
             key={item.href}

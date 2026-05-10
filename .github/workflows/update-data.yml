@@ -1,20 +1,33 @@
-name: Update outbreak data
+name: Update outbreak and trends data
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    # كل 6 ساعات
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 permissions:
   contents: write
 
 concurrency:
-  group: update-outbreak-data
+  group: update-outbreak-and-trends-data
   cancel-in-progress: false
 
 jobs:
   update-data:
     runs-on: ubuntu-latest
+
+    env:
+      NEXT_PUBLIC_SITE_URL: https://hantamap.online
+
+      OUTBREAK_HTTP_TIMEOUT: "60"
+
+      TRENDS_HTTP_TIMEOUT: "45"
+      TRENDS_MAX_ITEMS: "120"
+      TRENDS_MAX_NEWS_PER_ITEM: "4"
+      TRENDS_STRICT_HEALTH_MODE: "1"
+      TRENDS_GEOS: "US,IN,ID,BR,GB,DE,FR,ES,IT,CA,AU,JP,KR,MX,TR,SA,AE,EG,DZ,MA,NL,SE,NO,DK,CH,BE,AT,PL,ZA,NG"
+      OUTBREAK_KEYWORDS: "hantavirus,hanta virus,andes virus,andes hantavirus,hantavirus pulmonary syndrome,hantavirus disease,rodent-borne,rodent borne,zoonotic disease,virus outbreak,disease outbreak,health alert,cdc hantavirus,who hantavirus,hantavirus symptoms"
 
     steps:
       - name: Checkout repository
@@ -32,9 +45,13 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Update JSON data
+      - name: Update outbreak JSON data
         run: |
           python scripts/update_data.py
+
+      - name: Update trends JSON data
+        run: |
+          python scripts/update_trends.py
 
       - name: Commit updated data
         run: |
@@ -46,6 +63,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "No JSON data changes to commit."
           else
-            git commit -m "Update outbreak data"
+            git commit -m "Update outbreak and trends data"
             git push
           fi
