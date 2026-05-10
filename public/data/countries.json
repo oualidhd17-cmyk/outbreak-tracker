@@ -20,7 +20,7 @@
     "lat": 23.5,
     "lng": -31.0,
     "risk_level": "low",
-    "last_updated": "2026-05-10T15:36:19+00:00"
+    "last_updated": "2026-05-10T20:12:43+00:00"
   },
   {
     "country": "Multi-country",
@@ -43,7 +43,7 @@
     "lat": 20.0,
     "lng": -20.0,
     "risk_level": "low",
-    "last_updated": "2026-05-10T15:36:19+00:00"
+    "last_updated": "2026-05-10T20:12:43+00:00"
   },
   {
     "country": "Argentina",
@@ -66,7 +66,7 @@
     "lat": -38.4161,
     "lng": -63.6167,
     "risk_level": "low",
-    "last_updated": "2026-05-10T15:36:19+00:00"
+    "last_updated": "2026-05-10T20:12:43+00:00"
   },
   {
     "country": "Ethiopia",
@@ -89,7 +89,7 @@
     "lat": 8.0,
     "lng": 38.0,
     "risk_level": "low",
-    "last_updated": "2026-05-10T15:36:19+00:00"
+    "last_updated": "2026-05-10T20:12:43+00:00"
   },
   {
     "country": "Netherlands",
@@ -112,7 +112,7 @@
     "lat": 52.1326,
     "lng": 5.2913,
     "risk_level": "low",
-    "last_updated": "2026-05-10T15:36:19+00:00"
+    "last_updated": "2026-05-10T20:12:43+00:00"
   },
   {
     "country": "Saint Helena",
@@ -135,7 +135,7 @@
     "lat": -15.95,
     "lng": -5.7,
     "risk_level": "low",
-    "last_updated": "2026-05-10T15:36:19+00:00"
+    "last_updated": "2026-05-10T20:12:43+00:00"
   },
   {
     "country": "South Africa",
@@ -158,7 +158,7 @@
     "lat": -29.0,
     "lng": 24.0,
     "risk_level": "low",
-    "last_updated": "2026-05-10T15:36:19+00:00"
+    "last_updated": "2026-05-10T20:12:43+00:00"
   },
   {
     "country": "Spain",
@@ -181,7 +181,7 @@
     "lat": 40.4637,
     "lng": -3.7492,
     "risk_level": "low",
-    "last_updated": "2026-05-10T15:36:19+00:00"
+    "last_updated": "2026-05-10T20:12:43+00:00"
   },
   {
     "country": "Tunisia",
@@ -204,7 +204,7 @@
     "lat": 34.0,
     "lng": 9.0,
     "risk_level": "low",
-    "last_updated": "2026-05-10T15:36:19+00:00"
+    "last_updated": "2026-05-10T20:12:43+00:00"
   },
   {
     "country": "United Kingdom",
@@ -227,7 +227,7 @@
     "lat": 55.3781,
     "lng": -3.436,
     "risk_level": "low",
-    "last_updated": "2026-05-10T15:36:19+00:00"
+    "last_updated": "2026-05-10T20:12:43+00:00"
   },
   {
     "country": "United States",
@@ -250,6 +250,6 @@
     "lat": 37.0902,
     "lng": -95.7129,
     "risk_level": "low",
-    "last_updated": "2026-05-10T15:36:19+00:00"
+    "last_updated": "2026-05-10T20:12:43+00:00"
   }
 ]
