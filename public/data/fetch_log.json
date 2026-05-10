@@ -9,6 +9,230 @@
   {
     "ok": true,
     "source_id": "who",
+    "url": "https://www.who.int/2001_05_16-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2001_05_16-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2001_05_16-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2000_04_21b-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2000_04_21b-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2000_04_21b-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2003_06_17A-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2003_06_17A-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2003_06_17A-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2001_02_20-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2001_02_20-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2001_02_20-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2013_11_26polio-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2013_11_26polio-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2013_11_26polio-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2013_12_17influenza-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2013_12_17influenza-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2013_12_17influenza-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/1997_01_09b-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/1997_01_09b-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/1997_01_09b-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2022-DON422",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2022-DON422",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2022-DON422'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_05_15_mers-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_05_15_mers-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2014_05_15_mers-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/1999_06_25-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/1999_06_25-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/1999_06_25-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_08_06_ebola-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_08_06_ebola-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2014_08_06_ebola-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2002_09_13a-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2002_09_13a-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2002_09_13a-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/1999_07_27-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/1999_07_27-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/1999_07_27-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_03_07-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_03_07-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2014_03_07-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2003_04_23-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2003_04_23-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2003_04_23-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/1998_02_10b-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/1998_02_10b-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/1998_02_10b-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
     "url": "https://www.who.int/api/news/diseaseoutbreaknews",
     "status_code": 200,
     "error": null
@@ -16,9 +240,457 @@
   {
     "ok": true,
     "source_id": "who",
+    "url": "https://www.who.int/2001_05_16-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2001_05_16-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2001_05_16-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2000_04_21b-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2000_04_21b-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2000_04_21b-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2003_06_17A-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2003_06_17A-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2003_06_17A-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2001_02_20-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2001_02_20-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2001_02_20-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2013_11_26polio-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2013_11_26polio-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2013_11_26polio-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2013_12_17influenza-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2013_12_17influenza-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2013_12_17influenza-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/1997_01_09b-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/1997_01_09b-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/1997_01_09b-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2022-DON422",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2022-DON422",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2022-DON422'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_05_15_mers-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_05_15_mers-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2014_05_15_mers-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/1999_06_25-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/1999_06_25-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/1999_06_25-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_08_06_ebola-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_08_06_ebola-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2014_08_06_ebola-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2002_09_13a-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2002_09_13a-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2002_09_13a-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/1999_07_27-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/1999_07_27-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/1999_07_27-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_03_07-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_03_07-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2014_03_07-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2003_04_23-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2003_04_23-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2003_04_23-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/1998_02_10b-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/1998_02_10b-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/1998_02_10b-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
     "url": "https://www.who.int/api/hubs/diseaseoutbreaknews",
     "status_code": 200,
     "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2001_05_16-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2001_05_16-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2001_05_16-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2000_04_21b-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2000_04_21b-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2000_04_21b-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2003_06_17A-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2003_06_17A-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2003_06_17A-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2001_02_20-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2001_02_20-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2001_02_20-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2013_11_26polio-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2013_11_26polio-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2013_11_26polio-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2013_12_17influenza-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2013_12_17influenza-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2013_12_17influenza-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/1997_01_09b-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/1997_01_09b-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/1997_01_09b-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2022-DON422",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2022-DON422",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2022-DON422'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_05_15_mers-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_05_15_mers-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2014_05_15_mers-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/1999_06_25-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/1999_06_25-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/1999_06_25-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_08_06_ebola-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_08_06_ebola-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2014_08_06_ebola-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2002_09_13a-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2002_09_13a-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2002_09_13a-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/1999_07_27-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/1999_07_27-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/1999_07_27-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_03_07-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2014_03_07-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2014_03_07-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/2003_04_23-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/2003_04_23-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/2003_04_23-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  {
+    "ok": true,
+    "source_id": "who",
+    "url": "https://www.who.int/1998_02_10b-en",
+    "status_code": 404,
+    "error": null
+  },
+  {
+    "ok": false,
+    "source_id": "who",
+    "url": "https://www.who.int/1998_02_10b-en",
+    "status_code": 404,
+    "error": "Client error '404 Not Found' for url 'https://www.who.int/1998_02_10b-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   {
     "ok": true,
@@ -149,6 +821,13 @@
   {
     "ok": true,
     "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/publications-data/threat-assessment-brief-implications-marburg-virus-disease-outbreak-rwanda-eueea",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
     "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1244/feed",
     "status_code": 200,
     "error": null
@@ -261,6 +940,27 @@
   {
     "ok": true,
     "source_id": "ecdc",
+    "url": "https://creators.spotify.com/pod/profile/ecdc/episodes/Risk-Wire---Episode-3---When-Salmonella-Crosses-Borders-e3cgqko",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://creators.spotify.com/pod/profile/ecdc/episodes/Risk-Wire---Episode-1---Linda-Trnnberg--Theresa-Enkirch---Hepatitis-A-Spike-in-Europe-Whats-Behind-the-Surge-e34qa41",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://creators.spotify.com/pod/profile/ecdc/episodes/Episode-57---Leonidas-Alexakis---Health-Task-Force-in-Action---DRC-Congo-e2t7o9c",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
     "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1382/feed",
     "status_code": 200,
     "error": null
@@ -276,6 +976,20 @@
     "ok": true,
     "source_id": "ecdc",
     "url": "https://www.ecdc.europa.eu/en/taxonomy/term/1376/feed",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/about-us/work-us/vacancies/principal-expert-vector-borne-and-zoonotic-diseases-group-leader",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "ecdc",
+    "url": "https://www.ecdc.europa.eu/en/about-us/work-us/vacancies/scientific-officer-food-water-borne-and-zoonotic-diseases",
     "status_code": 200,
     "error": null
   },
@@ -310,6 +1024,118 @@
   {
     "ok": true,
     "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/page/2/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/feed/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/mpox-situation-in-africa/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/final-outbreak-brief-16-sudan-virus-disease-in-uganda/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-26-mpox-in-africa-union-member-states/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-15-sudan-virus-disease-in-uganda/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-25-mpox-in-africa-union-member-states/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-24-mpox-in-africa-union-member-states/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-14-sudan-virus-disease-in-uganda/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-23-mpox-in-africa-union-member-states/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-13-sudan-virus-disease-in-uganda/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-12-sudan-virus-disease-in-uganda/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-22-mpox-in-africa-union-member-states/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-21-monkeypox-in-africa-union-member-states/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/?wpv_view_count=2069-TCPID18308&wpv_paged=2",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
     "url": "https://africacdc.org/",
     "status_code": 200,
     "error": null
@@ -318,6 +1144,13 @@
     "ok": true,
     "source_id": "africa_cdc",
     "url": "https://africacdc.org/news-item/statement-on-multi-country-hantavirus-cluster-associated-with-cruise-ship-travel/",
+    "status_code": 200,
+    "error": null
+  },
+  {
+    "ok": true,
+    "source_id": "africa_cdc",
+    "url": "https://africacdc.org/disease-outbreak/",
     "status_code": 200,
     "error": null
   },

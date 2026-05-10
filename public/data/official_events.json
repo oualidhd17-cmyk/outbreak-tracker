@@ -1,5 +1,1199 @@
 [
   {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "2001 - Meningococcal disease, serogroup W135 - Update",
+    "summary": "16 May 2001 Disease Outbreak Reported During 2001 the following countries have reported cases of W135 meningococcal disease to WHO; most cases are associated with international travel or contact with travellers to Saudi Arabia: Burkina Faso: 4 cases have been reported. N. meningitidis serogroup W135 has been laboratory confirmed. Travel/contact history of cases is not yet known. Central African Republic : 3 cases (Haj pilgrims) have been reported. N. meningitidis serogroup W135 has been laboratory confirmed. Denmark: 2 cases (one case close contact with Haj pilgrims, the travel/contact history of the second case is not yet known)have been reported. N. meningitidis serogroup W135 has been laboratory confirmed. France : 2 cases (close contacts with Haj pilgrims) have been reported. N. meningitidis serogroup W135 has been laboratory confirmed. Norway: 4 cases (2 contacts with Haj pilgrims) have been reported. N. meningitidis serogroup W135 has been laboratory confirmed. Saudi Arabia : 109 cases (predominantly Haj pilgrims from outside Saudi Arabia) including 35 deaths have been reported between 9 February and 22 March 2001. N. meningitidis serogroup W135 has been laboratory confirmed in more than half of the cases. Singapore: 4 cases (3 close contacts with Haj pilgrims, 1 history of travel to Saudi Arabia), including 1 death have been reported. Two of the cases occurred in January",
+    "url": "https://www.who.int/2001_05_16-en",
+    "published_at": "2021-06-07",
+    "metrics": {
+      "confirmed_cases": 4,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 4,
+      "deaths": 35,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Burkina Faso",
+        "region": "Africa",
+        "lat": 13.0,
+        "lng": -2.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Central African Republic",
+        "region": "Africa",
+        "lat": 7.0,
+        "lng": 21.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Denmark",
+        "region": "Europe",
+        "lat": 56.0,
+        "lng": 10.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "France",
+        "region": "Europe",
+        "lat": 46.2276,
+        "lng": 2.2137,
+        "is_country": true
+      },
+      {
+        "country": "Ireland",
+        "region": "Europe",
+        "lat": 53.0,
+        "lng": -8.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Norway",
+        "region": "Europe",
+        "lat": 60.472,
+        "lng": 8.4689,
+        "is_country": true
+      },
+      {
+        "country": "Saudi Arabia",
+        "region": "Africa",
+        "lat": 25.0,
+        "lng": 45.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Singapore",
+        "region": "Asia",
+        "lat": 1.36666666,
+        "lng": 103.8,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "United Kingdom",
+        "region": "Europe",
+        "lat": 55.3781,
+        "lng": -3.436,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "e9412a9754e77de385a3fed14561bdc9e41f901be9b7c024955933563d838f73",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "2000 - Meningococcal disease in Francen(Update), United Kingdom (Update), Oman, Saudi ARabia, Netherlands",
+    "summary": "21 April 2000 Disease Outbreak Reported There have been a number of cases of meningococcal disease which are associated with returnees from the Haj and their close contacts. France- Update. The number of cases of meningococcal disease associated with pilgrims who have travelled for the Haj has increased, and the total number of cases to date is 14, including 4 deaths. Eleven of the confirmed cases were of meningococcal serogroup W135. United Kingdom- Update. The number of cases of meningococcal disease linked to pilgrims has increased, and is now 22 with 4 deaths. Twenty of the confirmed cases are of meningococcal serogroup W135 and 1 of N. meningitidis serogroup A. The onset of the last case of meningococcal disease reported to date (in a contact) was on 11 April. Oman. There have been 12 cases to date, all have recovered. Of these, 3 were pilgrims (2 males aged 40 and 55 years and 1 female aged 60 years) returning from the Haj, and 9 cases were close contacts of those returned from the Haj. The ages of these patients ranged from 6 months to 80 years. The date of onset of the first case was 20 March, and the most recent case was reported on 6 April. Seven of the confirmed cases are of meningococcal serogroup W135 and 2 of Neisseria meningitidis serogroup A. Saudi Arabia. A total of 199 cases with 55 deaths has been reported since the Haj last month. Bacteriological investigati",
+    "url": "https://www.who.int/2000_04_21b-en",
+    "published_at": "2021-06-07",
+    "metrics": {
+      "confirmed_cases": 2,
+      "suspected_cases": 0,
+      "probable_cases": 1,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 1,
+      "total_identified_cases": 199,
+      "deaths": 4,
+      "hospitalized": 0,
+      "recovered": 3
+    },
+    "countries": [
+      {
+        "country": "France",
+        "region": "Europe",
+        "lat": 46.2276,
+        "lng": 2.2137,
+        "is_country": true
+      },
+      {
+        "country": "Netherlands",
+        "region": "Europe",
+        "lat": 52.1326,
+        "lng": 5.2913,
+        "is_country": true
+      },
+      {
+        "country": "Oman",
+        "region": "Asia",
+        "lat": 21.0,
+        "lng": 57.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Saudi Arabia",
+        "region": "Africa",
+        "lat": 25.0,
+        "lng": 45.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "United Kingdom",
+        "region": "Europe",
+        "lat": 55.3781,
+        "lng": -3.436,
+        "is_country": true
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "29e01daf4510fc7ef0da407a9913f9844d3b68ea36d39d2770fd07333fe4b754",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "Cholera in Iraq - Update 3",
+    "summary": "19 June 2003 Disease Outbreak Reported From 28 April to 4 June 2003, a total of 73 laboratory-confirmed cholera cases have been reported in Iraq : 68 in Basra governorate, 4 in Missan governorate, 1 in Muthana governorate. No deaths have been reported. From 17 May to 4 June 2003, the daily surveillance system of diarrhoeal disease cases in the four main hospitals of Basra reported a total of 1549 cases of acute watery diarrhea. Among these cases, 25.6 % occurred in patients aged 5 years and above. The water supply situation is critical. Short-term measures have been undertaken by UNICEF and local authorities to improve accessibility to safe drinking water and to limit the spread of water-borne epidemics. WHO is supporting local authorities in implementing an early warning communicable disease surveillance system, in strengthening laboratory capacity and in coordinating the cholera outbreak response. The surveillance system is being expanded to the whole Lower South (all 4 governorates) and weekly reports from all facilities have begun. UNICEF is also supporting the initiative by providing health education material in Arabic and chlorine tablets to all health directorates.",
+    "url": "https://www.who.int/2003_06_17A-en",
+    "published_at": "2021-06-07",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Iraq",
+        "region": "Africa",
+        "lat": 33.0,
+        "lng": 44.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      }
+    ],
+    "risk_level": "critical",
+    "raw_hash": "381cd5925829e078b15accdea6259ee00557a86d12d2fa45a387c8b1d8f9b129",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 73,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 1549,
+        "deaths": 17,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "2001 - Meningococcal disease in the African Meningitis Belt",
+    "summary": "20 February 2001 Disease Outbreak Reported The highest number of cases and the highest burden of this disease occur in sub-Saharan Africa in an area that is referred to as the meningitis belt. This is the area between Senegal and Ethiopia and includes all or part of at least 15 countries, with an estimated total population of approximately 300 million. Epidemics occur in seasonal cycles between the end of November and the end of June, depending on the location and climate of the country and declines rapidly with the arrival of the rainy season. WHO has reported a total number of 603 cases, including 45 deaths (case-fatality rate of 7.5%) in 4 départements in the north of Benin: Alibori, Borgou, Atacora and Donga, since January 2001. Neisseria meningitidis serogroup A has been confirmed. The Ministry of Health has initiated a mass vaccination campaign in these départements. From 25 December 2000 to 15 February 2001, a total of 798 cases and 83 deaths (case-fatality rate of 10.4%) has been reported by WHO in 2 préfectures in southwestern Chad : Moyen-Chari and Longone Occidental. Neisseria meningitidis serogroup A has been confirmed. A mass vaccination campaign is underway. As of 30 January 2001, WHO has reported an outbreak of meningocccal disease in Ethiopia in 5 regions: Amhara, Gambella, Somali, Tigray and Southern regions, with a total of 485 cases and 61 deaths. Neisseria m",
+    "url": "https://www.who.int/2001_02_20-en",
+    "published_at": "2021-06-07",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Benin",
+        "region": "Africa",
+        "lat": 9.5,
+        "lng": 2.25,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Chad",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 19.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ethiopia",
+        "region": "Africa",
+        "lat": 8.0,
+        "lng": 38.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Senegal",
+        "region": "Africa",
+        "lat": 14.0,
+        "lng": -14.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "10eaf35ce8c9dec87169eff8e6f796280d1a7ceb742a67a12a32d2ec9061063a",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 0,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 798,
+        "deaths": 45,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "Polio in the Syrian Arab Republic - update",
+    "summary": "A total of 17 cases due to wild poliovirus type 1 (WPV1) have been confirmed in the Syrian Arab Republic. In addition to 15 cases confirmed in Deir Al Zour province, two additional cases have been confirmed, one each in rural Damascus and Aleppo, confirming widespread circulation of the virus. The case with most recent onset developed paralysis on 8 October 2013.",
+    "url": "https://www.who.int/2013_11_26polio-en",
+    "published_at": "2013-11-26",
+    "metrics": {
+      "confirmed_cases": 15,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 17,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [],
+    "risk_level": "high",
+    "raw_hash": "ad67ba4a9c7d7e21f4ae49d3a6853c91e0e91eb73650429035d1f082050dcebd",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "Human infection with avian influenza A(H7N9) virus – update",
+    "summary": "On 15 and 16 December 2013, the National Health and Family Planning Commission, China notified WHO of two new laboratory-confirmed cases of human infection with avian influenza A(H7N9) virus.",
+    "url": "https://www.who.int/2013_12_17influenza-en",
+    "published_at": "2013-12-17",
+    "metrics": {
+      "confirmed_cases": 7,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 7,
+      "deaths": 0,
+      "hospitalized": 11,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "China",
+        "region": "Asia",
+        "lat": 35.0,
+        "lng": 105.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "b123676094a66be50b9b16d28e9105be316e2b56352ce075b8ec9bc65029e5ec",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "1997 - Ebola haemorrhagic fever in Gabon (new outbreak) - Update 12",
+    "summary": "09 January 1997 Disease Outbreak Reported The latest report from Gabon informs that a total of 58 cases with 43 deaths had occurred in the outbreak up to 8 January. The last fatal case occurred on 8 January. One patient is still hospitalized and 14 have recovered.",
+    "url": "https://www.who.int/1997_01_09b-en",
+    "published_at": "2021-06-08",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 58,
+      "deaths": 43,
+      "hospitalized": 14,
+      "recovered": 199
+    },
+    "countries": [
+      {
+        "country": "Gabon",
+        "region": "Africa",
+        "lat": -1.0,
+        "lng": 11.75,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "8c5f18aecf737a41ef48c3f45f2be58b94e102592843a5f7173b6b5d6b011a88",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "Middle East Respiratory Syndrome Coronavirus –Saudi Arabia",
+    "summary": "From 29 December 2021 to 31 October 2022, four laboratory-confirmed cases of Middle East respiratory syndrome coronavirus (MERS-CoV) were reported to WHO by the Ministry of Health of the Kingdom of Saudi Arabia. No deaths were reported. Household contacts for the four cases were followed-up by the Ministry of Health, and no secondary cases were identified. The notification of these cases reiterates the need for global awareness of MERS-CoV but does not change the overall risk assessment.",
+    "url": "https://www.who.int/2022-DON422",
+    "published_at": "2022-11-16",
+    "metrics": {
+      "confirmed_cases": 4,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 2600,
+      "deaths": 854,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Saudi Arabia",
+        "region": "Africa",
+        "lat": 25.0,
+        "lng": 45.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "9d966df0c502a67e7fc782502455e27e7bf31fa5de07b085e947620bb36f1478",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "Middle East respiratory syndrome coronavirus (MERS-CoV) – update",
+    "summary": "Disease Outbreak News 15 May 2014 - The following cases of laboratory confirmed Middle East respiratory syndrome coronavirus (MERS-CoV) have been reported from Jordan, Lebanon, the Netherlands, the United Arab Emirates, and the United States of America. Netherlands On 14 May 2014, the National IHR Focal Point for the Netherlands notified WHO of the first laboratory confirmed case of MERS-CoV infection in the Netherlands. The patient is a 70 year-old male citizen of the Netherlands, with travel history to the Kingdom of Saudi Arabia between 26 April 2014 and 10 May 2014. The patient developed first symptoms on 1 May 2014 while in Medina, Saudi Arabia. He was evaluated at an emergency care department in Mecca on 6 May and given antibiotics; he did not have respiratory symptoms while in Saudi Arabia. On return to the Netherlands, on 10 May, his condition deteriorated, including development of respiratory symptoms, and he was hospitalized on the same day. On 13 May, he tested positive for MERS-CoV. Currently, the patient is in the ICU in a stable condition. The patient reports no contact with animals or consumption of raw animal products. Identification of close contacts, including flight contacts has been initiated. United States of America On 12 May 2014, the United States IHR National Focal Point reported the second laboratory confirmed MERS-CoV infection in the United States in",
+    "url": "https://www.who.int/2014_05_15_mers-en",
+    "published_at": "2014-05-15",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Georgia",
+        "region": "Europe",
+        "lat": 42.0,
+        "lng": 43.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Jordan",
+        "region": "Africa",
+        "lat": 31.0,
+        "lng": 36.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Kuwait",
+        "region": "Africa",
+        "lat": 29.5,
+        "lng": 45.75,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Lebanon",
+        "region": "Africa",
+        "lat": 33.83333333,
+        "lng": 35.83333333,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Netherlands",
+        "region": "Europe",
+        "lat": 52.1326,
+        "lng": 5.2913,
+        "is_country": true
+      },
+      {
+        "country": "Oman",
+        "region": "Asia",
+        "lat": 21.0,
+        "lng": 57.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Saudi Arabia",
+        "region": "Africa",
+        "lat": 25.0,
+        "lng": 45.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "United Arab Emirates",
+        "region": "Africa",
+        "lat": 24.0,
+        "lng": 54.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "b9a42de7e6af0e62a6a38991b918aef2af02da288aef52f07b500bfe4cf6bff2",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 4,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 27,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 4,
+        "deaths": 173,
+        "hospitalized": 13,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "1999 - Malaria in Burundi",
+    "summary": "25 June 1999 Disease Outbreak Reported Between January and May 1999, a total of 616 034 cases of malaria was reported by health centres. In January, all provinces were affected, and although only 75% of provinces were affected in May, there was a significant increase in some (especially Karusi, with 2.5 times more cases in May than in April). A comparison of data for May 1998 and May 1999 has shown that in some provinces, cases have increased very sharply (e.g. Mutoyi, from 3 094 to 7 568; Rutoke, from 293 to 1 768). Figures concerning the number of deaths are not available for all provinces. In Mutoyi, a total of 17 deaths was registered between January and May; in Karusi, 34 deaths were recorded between 15 May and 15 June. The local health authorities have taken the necessary measures to mobilize resources for drug procurement, reinforced epidemiological surveillance and vector control.",
+    "url": "https://www.who.int/1999_06_25-en",
+    "published_at": "2021-06-07",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Burundi",
+        "region": "Africa",
+        "lat": -3.5,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "a785f53f27d4aeab42046b17a9c874839aa5363cee473a3e0aa73ad0c81c8ec6",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 0,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 0,
+        "deaths": 17,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "Ebola virus disease update - West Africa",
+    "summary": "Between 2 and 4 August 2014, a total of 108 new cases of Ebola virus disease (laboratory-confirmed, probable, and suspect cases) as well as 45 deaths were reported from Guinea, Liberia, Nigeria, and Sierra Leone.",
+    "url": "https://www.who.int/2014_08_06_ebola-en",
+    "published_at": "2014-08-06",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Guinea",
+        "region": "Africa",
+        "lat": 11.0,
+        "lng": -10.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Liberia",
+        "region": "Africa",
+        "lat": 6.5,
+        "lng": -9.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Nigeria",
+        "region": "Africa",
+        "lat": 10.0,
+        "lng": 8.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sierra Leone",
+        "region": "Africa",
+        "lat": 8.5,
+        "lng": -11.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "3afc7f46f5a6a202ff6af0c9c021a7477d8b7d6b0c231d8310e81ac4b809e674",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 351,
+        "suspected_cases": 11,
+        "probable_cases": 133,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 144,
+        "total_identified_cases": 495,
+        "deaths": 45,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "2002 - Cholera in Liberia",
+    "summary": "13 September 2002 Disease Outbreak Reported As of 1 September 2002 WHO has received reports of 661 cases of cholera in Montserado County. The Ministry of Health and Social Welfare met with WHO, UNICEF, Médecins sans Frontières (MSF Belgium ) and other nongovernmental organizations to discuss measures to contain the outbreak. As a result, a team from the Ministry of Health and WHO assessed the epidemiological situation in the county, including the camps for internally displaced persons (IDPs). The team recommended chlorinating of water in and around Monrovia as well as in the IDP camps. Community-based health promotion activities in the affected areas were also recommended.",
+    "url": "https://www.who.int/2002_09_13a-en",
+    "published_at": "2021-06-07",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Belgium",
+        "region": "Europe",
+        "lat": 50.83333333,
+        "lng": 4.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Liberia",
+        "region": "Africa",
+        "lat": 6.5,
+        "lng": -9.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      }
+    ],
+    "risk_level": "unknown",
+    "raw_hash": "c070cad03b6c23cfe6fe90642f723f5dc5c7f4456bf4c8df84ff7c42bdcfdf35",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "1999 - Plague in Malawi",
+    "summary": "27 July 1999 Disease Outbreak Reported Since 18 June a number of sporadic suspect cases of plague have occurred in Nsanje district, Southern Region. Up to 21 July, 74 suspect cases had been reported from a total of 22 villages. Six villages along the Mozambican border were the most affected reporting around 3 to 4 suspect cases each. Some of the other villages reported only one suspect case each. The treatment of patients is under way as well as environmental control measures which include spraying and dusting of affected and surrounding housing areas, health education on proper storage of foodstuffs and refuse disposal. The situation was being handled effectively by the Ministry of Health but drug supplies have been depleted and more may be needed. WHO has offered its assistance to the national health authorities. The last outbreak of plague in Malawi was in 1997 when a total of 582 cases were reported including cases in Nsanje, Chikwawa and Ntchisi Districts, all in Southern Region.",
+    "url": "https://www.who.int/1999_07_27-en",
+    "published_at": "2021-06-07",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 74,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 74,
+      "total_identified_cases": 582,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Malawi",
+        "region": "Africa",
+        "lat": -13.5,
+        "lng": 34.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "0499eca71d5c7173c72cdaba8ae26f51d9223ff702db88134598c1d618e57f85",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "Human infection with avian influenza A(H7N9) virus – update",
+    "summary": "On 4 March 2014, the Centre for Health Protection (CHP) of the Department of Health, Hong Kong SAR, China, notified WHO of an additional laboratory-confirmed case of human infection with avian influenza A(H7N9) virus.",
+    "url": "https://www.who.int/2014_03_07-en",
+    "published_at": "2014-03-07",
+    "metrics": {
+      "confirmed_cases": 7,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 7,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "China",
+        "region": "Asia",
+        "lat": 35.0,
+        "lng": 105.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Hong Kong",
+        "region": "Asia",
+        "lat": 22.25,
+        "lng": 114.16666666,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "fb2a02fb88ee5ae0c128a2eeb28b1737e33ea82efe52ddd648541060470514d8",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "Severe Acute Respiratory Syndrome (SARS) Multi-country outbreak Update 37",
+    "summary": "WHO extends its SARS-related travel advice to Beijing and Shanxi Province in China and to Toronto Canada 23 April 2003 Disease Outbreak Reported As a result of ongoing assessments as to the nature of outbreaks of severe acute respiratory syndrome (SARS) in Beijing and Shanxi Province, China, and in Toronto, Canada, WHO is now recommending, as a measure of precaution, that persons planning to travel to these destinations consider postponing all but essential travel. This temporary advice, which is an extension of travel advice previously issued for Guangdong Province and Hong Kong Special Administrative Region, China will be reassessed in three weeks time. Following global alerts about cases of severe acute respiratory syndrome (SARS), issued by WHO on 12 and 15 March, national authorities have heightened surveillance for suspect and probable cases. In many countries, prompt detection and isolation of initial cases have prevented further transmission altogether or held additional cases to a very small number. On 27 March, WHO recommended additional measures aimed at preventing the travel-related spread of SARS. These recommended measures, which include screening of air passengers departing from certain areas, continue to apply. On 2 April, WHO recommended that persons travelling to Hong Kong Special Administrative Region and Guangdong Province, China consider postponing all but ",
+    "url": "https://www.who.int/2003_04_23-en",
+    "published_at": "2021-06-07",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Multi-country",
+        "region": "Multi-country / travel-related signal",
+        "lat": 20.0,
+        "lng": -20.0,
+        "is_country": false
+      },
+      {
+        "country": "Canada",
+        "region": "North America",
+        "lat": 56.1304,
+        "lng": -106.3468,
+        "is_country": true
+      },
+      {
+        "country": "China",
+        "region": "Asia",
+        "lat": 35.0,
+        "lng": 105.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Hong Kong",
+        "region": "Asia",
+        "lat": 22.25,
+        "lng": 114.16666666,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "de56090a220c5110a0fd456b815bcf5098745bab131d671391712da690824056",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 0,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 3947,
+        "deaths": 0,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "World Health Organization",
+    "source_id": "who",
+    "type": "current_outbreak",
+    "title": "1998 - Cholera in the Comoros Islands",
+    "summary": "10 February 1998 Disease Outbreak Reported Up to 7 February a total of 193 cases with 8 deaths (CFR 4.14%) had been reported on Grande Comore Island. Although the first cases were recorded in Mbéni, 77 of the 193 cases have occurred in Moroni and 12 districts and villages in and around the capital. Measures to prevent further spread and for the effective treatment of cases have been implemented by the cholera task force which was recently set-up by the Ministry of Health and WHO.",
+    "url": "https://www.who.int/1998_02_10b-en",
+    "published_at": "2021-06-08",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 193,
+      "deaths": 8,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Comoros",
+        "region": "Africa",
+        "lat": -12.16666666,
+        "lng": 44.25,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "3a73011b45ef7fbecd9594cdd9b1fb08abedb97b4dda17e273be4051181ca3d4",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
     "source": "European Centre for Disease Prevention and Control",
     "source_id": "ecdc",
     "type": "current_outbreak",
@@ -47,6 +1241,84 @@
     "data_quality": {
       "usable_current_metrics": false,
       "historical_like": false
+    }
+  },
+  {
+    "source": "European Centre for Disease Prevention and Control",
+    "source_id": "ecdc",
+    "type": "current_outbreak",
+    "title": "Threat assessment brief - Implications of the Marburg virus disease outbreak in Rwanda for the EU/EEA, 2024",
+    "summary": "This threat assessment addresses the implications of the ongoing Marburg virus disease (MVD) outbreak in Rwanda for the European Union/European Economic Area (EU/EEA).",
+    "url": "https://www.ecdc.europa.eu/en/publications-data/threat-assessment-brief-implications-marburg-virus-disease-outbreak-rwanda-eueea",
+    "published_at": "2024-10-10",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Rwanda",
+        "region": "Africa",
+        "lat": -2.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "acbffd9bcafd5264e693052ef19b181910d96c6c38aa8ecf05c29cc66e5c2c49",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 0,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 27,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 27,
+        "total_identified_cases": 27,
+        "deaths": 13,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
     }
   },
   {
@@ -145,11 +1417,13 @@
         "is_country": true
       },
       {
-        "country": "Germany",
+        "country": "Belgium",
         "region": "Europe",
-        "lat": 51.1657,
-        "lng": 10.4515,
-        "is_country": true
+        "lat": 50.83333333,
+        "lng": 4.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
       },
       {
         "country": "France",
@@ -159,11 +1433,29 @@
         "is_country": true
       },
       {
-        "country": "Spain",
+        "country": "Germany",
         "region": "Europe",
-        "lat": 40.4637,
-        "lng": -3.7492,
+        "lat": 51.1657,
+        "lng": 10.4515,
         "is_country": true
+      },
+      {
+        "country": "Greece",
+        "region": "Europe",
+        "lat": 39.0,
+        "lng": 22.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ireland",
+        "region": "Europe",
+        "lat": 53.0,
+        "lng": -8.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
       },
       {
         "country": "Netherlands",
@@ -173,11 +1465,45 @@
         "is_country": true
       },
       {
+        "country": "Poland",
+        "region": "Europe",
+        "lat": 52.0,
+        "lng": 20.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
         "country": "Portugal",
         "region": "Europe",
         "lat": 39.3999,
         "lng": -8.2245,
         "is_country": true
+      },
+      {
+        "country": "South Africa",
+        "region": "Africa",
+        "lat": -29.0,
+        "lng": 24.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Spain",
+        "region": "Europe",
+        "lat": 40.4637,
+        "lng": -3.7492,
+        "is_country": true
+      },
+      {
+        "country": "Switzerland",
+        "region": "Europe",
+        "lat": 47.0,
+        "lng": 8.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
       },
       {
         "country": "United States",
@@ -309,10 +1635,10 @@
         "is_country": false
       },
       {
-        "country": "United Kingdom",
+        "country": "Netherlands",
         "region": "Europe",
-        "lat": 55.3781,
-        "lng": -3.436,
+        "lat": 52.1326,
+        "lng": 5.2913,
         "is_country": true
       },
       {
@@ -323,10 +1649,10 @@
         "is_country": true
       },
       {
-        "country": "Netherlands",
+        "country": "United Kingdom",
         "region": "Europe",
-        "lat": 52.1326,
-        "lng": 5.2913,
+        "lat": 55.3781,
+        "lng": -3.436,
         "is_country": true
       },
       {
@@ -542,6 +1868,2822 @@
     }
   },
   {
+    "source": "European Centre for Disease Prevention and Control",
+    "source_id": "ecdc",
+    "type": "current_outbreak",
+    "title": "Risk Wire - Episode 3 - When Salmonella Crosses Borders",
+    "summary": "This is a third episode of our ECDC: On Air podcast sub-series - the \"Risk Wire\" - focusing on Risk Assessments ECDC publishes. This time we look into a prolonged multi-country outbreak of Salmonella Strathcona has affected 17 European countries and has been ongoing since 2023, with more than 400 confirmed cases reported so far. Investigations have identified small tomatoes as the most likely vehicle of infection, highlighting the complexity of foodborne outbreaks and the role of the environment in food contamination. In this episode, we talk to Dr Taina Niskanen, Expert in Food-, Waterborne and Zoonotic Diseases at the European Centre for Disease Prevention and Control (ECDC), and Dr Eleonora Sarno, scientific officer at the European Food Safety Authority (EFSA). Together, they explain what Salmonella is, how it spreads, and the symptoms it can cause. They walk listeners through how the outbreak was detected and investigated across countries, how whole genome sequencing helps link human, food and environmental samples, and why collaboration between public health, food safety and environmental sectors is essential. The episode also explores how ECDC and EFSA work with national authorities to track cases, trace food sources, and support control measures using a One Health approach. Finally, the experts share practical food hygiene advice and explain what people can do at home to",
+    "url": "https://podcasters.spotify.com/pod/show/ecdc/episodes/Risk-Wire---Episode-3---When-Salmonella-Crosses-Borders-e3cgqko",
+    "published_at": "2025-12-19",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Multi-country",
+        "region": "Multi-country / travel-related signal",
+        "lat": 20.0,
+        "lng": -20.0,
+        "is_country": false
+      },
+      {
+        "country": "Algeria",
+        "region": "Africa",
+        "lat": 28.0,
+        "lng": 3.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Austria",
+        "region": "Europe",
+        "lat": 47.33333333,
+        "lng": 13.33333333,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Hungary",
+        "region": "Europe",
+        "lat": 47.0,
+        "lng": 20.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Malta",
+        "region": "Africa",
+        "lat": 35.83333333,
+        "lng": 14.58333333,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Mozambique",
+        "region": "Africa",
+        "lat": -18.25,
+        "lng": 35.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Poland",
+        "region": "Europe",
+        "lat": 52.0,
+        "lng": 20.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Romania",
+        "region": "Europe",
+        "lat": 46.0,
+        "lng": 25.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Slovakia",
+        "region": "Europe",
+        "lat": 48.66666666,
+        "lng": 19.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ukraine",
+        "region": "Europe",
+        "lat": 49.0,
+        "lng": 32.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Western Sahara",
+        "region": "Africa",
+        "lat": 24.5,
+        "lng": -13.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "region": "Africa",
+        "lat": -4.0383,
+        "lng": 21.7587,
+        "is_country": true,
+        "alias": "DRC"
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "a523520c4fca6bcf84f9e5b24fa5f3e71386511c323f5518232e38e2063fc343",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 400,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 400,
+        "deaths": 0,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "European Centre for Disease Prevention and Control",
+    "source_id": "ecdc",
+    "type": "current_outbreak",
+    "title": "Risk Wire - Episode 1 - Linda Trönnberg & Theresa Enkirch - Hepatitis A Spike in Europe: What’s Behind the Surge?",
+    "summary": "Why are hepatitis A cases rising sharply in parts of Europe - and what can public health professionals do about it? In this episode of ECDC on Air, Linda Trönnberg - Principal Expert in Food-, Waterborne and Zoonotic Diseases, and Theresa Enkirch - Expert in Microbiology and Molecular Epidemiology break down the latest hepatitis A outbreak affecting Austria, Czechia, Hungary, and Slovakia, highlighting who is being most affected, how the virus is spreading, and what actions can help contain it. From person-to-person transmission in areas with limited sanitation to the role of genomic sequencing and the importance of tailored outreach, this episode explores the science and strategy behind the response and what cross-border coordination can achieve. This is the first episode in the series where we focus on the recently published Rapid RIsk Assesments on infectious diseases. The RRA on Hepatitis A cases from 18 June 2025 can be found here . For more on Hepatitis, check the dedicated pages on the ECDC portal . More information on epidemiology in Europe in general can be found on our portal: https://ecdc.europa.eu and social media channels .",
+    "url": "https://podcasters.spotify.com/pod/show/ecdc/episodes/Risk-Wire---Episode-1---Linda-Trnnberg--Theresa-Enkirch---Hepatitis-A-Spike-in-Europe-Whats-Behind-the-Surge-e34qa41",
+    "published_at": "2025-06-27",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Multi-country",
+        "region": "Multi-country / travel-related signal",
+        "lat": 20.0,
+        "lng": -20.0,
+        "is_country": false
+      },
+      {
+        "country": "Algeria",
+        "region": "Africa",
+        "lat": 28.0,
+        "lng": 3.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Austria",
+        "region": "Europe",
+        "lat": 47.33333333,
+        "lng": 13.33333333,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Hungary",
+        "region": "Europe",
+        "lat": 47.0,
+        "lng": 20.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Malta",
+        "region": "Africa",
+        "lat": 35.83333333,
+        "lng": 14.58333333,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Mozambique",
+        "region": "Africa",
+        "lat": -18.25,
+        "lng": 35.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Poland",
+        "region": "Europe",
+        "lat": 52.0,
+        "lng": 20.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Romania",
+        "region": "Europe",
+        "lat": 46.0,
+        "lng": 25.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Slovakia",
+        "region": "Europe",
+        "lat": 48.66666666,
+        "lng": 19.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ukraine",
+        "region": "Europe",
+        "lat": 49.0,
+        "lng": 32.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Western Sahara",
+        "region": "Africa",
+        "lat": 24.5,
+        "lng": -13.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "region": "Africa",
+        "lat": -4.0383,
+        "lng": 21.7587,
+        "is_country": true,
+        "alias": "DRC"
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "55dcc7ff4ee141d753f795e93196e8706247252ae7044eed09d8e56c7114c934",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 400,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 400,
+        "deaths": 0,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "European Centre for Disease Prevention and Control",
+    "source_id": "ecdc",
+    "type": "current_outbreak",
+    "title": "Episode 57 - Leonidas Alexakis - Health Task Force in Action - DRC Congo",
+    "summary": "In this episode of ECDC on Air, we speak with Leonidas Alexakis, an expert in epidemic intelligence at the European Centre for Disease Prevention and Control (ECDC). Leonidas shares insights from his recent deployment to the Democratic Republic of Congo (DRC) as part of the European Health Task Force. He discusses his role in supporting the response to the ongoing mpox outbreak, the challenges of working in a resource-limited setting, and the lessons learned from working alongside WHO and local health authorities. Tune in for a deeper understanding of international public health efforts and the complexities of responding to emerging disease outbreaks. Learn more about mpox here . For more information about ECDC in general visit ⁠⁠https://ecdc.europa.eu⁠⁠⁠⁠⁠⁠⁠⁠ or follow us on ⁠⁠⁠⁠⁠⁠⁠⁠ social media ⁠⁠⁠⁠⁠⁠⁠⁠.",
+    "url": "https://podcasters.spotify.com/pod/show/ecdc/episodes/Episode-57---Leonidas-Alexakis---Health-Task-Force-in-Action---DRC-Congo-e2t7o9c",
+    "published_at": "2025-01-08",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Multi-country",
+        "region": "Multi-country / travel-related signal",
+        "lat": 20.0,
+        "lng": -20.0,
+        "is_country": false
+      },
+      {
+        "country": "Algeria",
+        "region": "Africa",
+        "lat": 28.0,
+        "lng": 3.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Austria",
+        "region": "Europe",
+        "lat": 47.33333333,
+        "lng": 13.33333333,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Hungary",
+        "region": "Europe",
+        "lat": 47.0,
+        "lng": 20.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Malta",
+        "region": "Africa",
+        "lat": 35.83333333,
+        "lng": 14.58333333,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Mozambique",
+        "region": "Africa",
+        "lat": -18.25,
+        "lng": 35.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Poland",
+        "region": "Europe",
+        "lat": 52.0,
+        "lng": 20.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Romania",
+        "region": "Europe",
+        "lat": 46.0,
+        "lng": 25.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Slovakia",
+        "region": "Europe",
+        "lat": 48.66666666,
+        "lng": 19.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ukraine",
+        "region": "Europe",
+        "lat": 49.0,
+        "lng": 32.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Western Sahara",
+        "region": "Africa",
+        "lat": 24.5,
+        "lng": -13.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "region": "Africa",
+        "lat": -4.0383,
+        "lng": 21.7587,
+        "is_country": true,
+        "alias": "DRC"
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "2937aed232c1e826553a09376a10664cb7c17a2f6edf3a4870652cef8911ad6b",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 400,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 400,
+        "deaths": 0,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "European Centre for Disease Prevention and Control",
+    "source_id": "ecdc",
+    "type": "current_outbreak",
+    "title": "Principal Expert Vector-borne and Zoonotic Diseases/ Group Leader Scientific Advice and Outbreak Response",
+    "summary": "",
+    "url": "https://www.ecdc.europa.eu/en/about-us/work-us/vacancies/principal-expert-vector-borne-and-zoonotic-diseases-group-leader",
+    "published_at": "2025-12-18",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Iceland",
+        "region": "Europe",
+        "lat": 65.0,
+        "lng": -18.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Liechtenstein",
+        "region": "Europe",
+        "lat": 47.26666666,
+        "lng": 9.53333333,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Norway",
+        "region": "Europe",
+        "lat": 60.472,
+        "lng": 8.4689,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "0a1d736d63eb20e2482472e8f213fe55433cea687c20b359bb025a26cea3d612",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "European Centre for Disease Prevention and Control",
+    "source_id": "ecdc",
+    "type": "current_outbreak",
+    "title": "Scientific Officer Food-, Water-borne and Zoonotic Diseases",
+    "summary": "",
+    "url": "https://www.ecdc.europa.eu/en/about-us/work-us/vacancies/scientific-officer-food-water-borne-and-zoonotic-diseases",
+    "published_at": "2025-12-18",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Iceland",
+        "region": "Europe",
+        "lat": 65.0,
+        "lng": -18.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Liechtenstein",
+        "region": "Europe",
+        "lat": 47.26666666,
+        "lng": 9.53333333,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Norway",
+        "region": "Europe",
+        "lat": 60.472,
+        "lng": 8.4689,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      }
+    ],
+    "risk_level": "low",
+    "raw_hash": "f8eb73c4fe25f9639bab0f6489687574dd8a3cbc4cfa412b6fad4cdef9360868",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak update",
+    "summary": "Disease Outbreaks Archive – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks Information on disease outbreaks from Africa CDC Disease COVID-19 Ebola Mpox Region Central Africa Eastern Africa Northern Africa Southern Africa Western Africa Country Congo, Democratic Republic of the Guinea Uganda Disease COVID-19 Ebola Mpox Region Central Africa Eastern Africa Northern Africa Southern Africa Western Africa Country Congo, Democratic Republic of the Guinea Uganda Disease Outbreak Description Date Updated Outbreak Report, 30 July 2024: Mpox Situation in Africa I- Current Situation Mpox in Africa: Since the beginning of 2022 and as of 28 July 2024, a total of 37,583 cases and 1,451 deaths (case fatality rate [CFR]: 3.9%) of mpox have been reported from 15 African Union Member … 29 August 2024 Final Outbreak Brief 16: Sudan Virus Disease in Uganda Outbreak update:On 11 January 2023, the Uganda MoH declared the end of the Sudan Ebola virus disease (S",
+    "url": "https://africacdc.org/disease-outbreak/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 84471,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 37583,
+      "deaths": 1451,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Guinea",
+        "region": "Africa",
+        "lat": 11.0,
+        "lng": -10.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Uganda",
+        "region": "Africa",
+        "lat": 1.3733,
+        "lng": 32.2903,
+        "is_country": true
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      }
+    ],
+    "risk_level": "critical",
+    "raw_hash": "472974b611ef7364d0d46849ed30e69022d6c95e7ebcf577ad5716d827016c63",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Disease Outbreaks Archive – Page 2 of 10 – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks Information on disease outbreaks from Africa CDC Disease COVID-19 Ebola Mpox Region Central Africa Eastern Africa Northern Africa Southern Africa Western Africa Country Congo, Democratic Republic of the Guinea Uganda Disease COVID-19 Ebola Mpox Region Central Africa Eastern Africa Northern Africa Southern Africa Western Africa Country Congo, Democratic Republic of the Guinea Uganda Disease Outbreak Description Date Updated Outbreak Report, 30 July 2024: Mpox Situation in Africa I- Current Situation Mpox in Africa: Since the beginning of 2022 and as of 28 July 2024, a total of 37,583 cases and 1,451 deaths (case fatality rate [CFR]: 3.9%) of mpox have been reported from 15 African Union Member … 29 August 2024 Final Outbreak Brief 16: Sudan Virus Disease in Uganda Outbreak update:On 11 January 2023, the Uganda MoH declared the end of the Sudan Ebola v",
+    "url": "https://africacdc.org/disease-outbreak/page/2/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 84471,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 37583,
+      "deaths": 1451,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Guinea",
+        "region": "Africa",
+        "lat": 11.0,
+        "lng": -10.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Uganda",
+        "region": "Africa",
+        "lat": 1.3733,
+        "lng": 32.2903,
+        "is_country": true
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      }
+    ],
+    "risk_level": "critical",
+    "raw_hash": "dc789f3f6312977b355e74d0fb186da5937f3483944ed27caec6c2eeae4c53a5",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Disease Outbreaks Archive – Africa CDC https://africacdc.org/disease-outbreak/ Africa Centres for Disease Control and Prevention Thu, 29 Aug 2024 07:04:02 +0000 en-GB hourly 1 https://africacdc.org/wp-content/uploads/2025/06/cropped-Africa-CDC-English-Favicon-02-32x32.png Disease Outbreaks Archive – Africa CDC https://africacdc.org/disease-outbreak/ 32 32 Outbreak Report, 30 July 2024: Mpox Situation in Africa https://africacdc.org/disease-outbreak/mpox-situation-in-africa/ Tue, 30 Jul 2024 12:11:00 +0000 https://africacdc.org/?post_type=disease-outbreak&p=18308 I- Current Situation Mpox in Africa: Since the beginning of 2022 and as of 28 July 2024, a total of 37,583 cases and 1,451 deaths (case fatality rate [CFR]: 3.9%) of mpox have been reported from 15 African Union Member States (AU MS): Benin, Burundi, Cameroon, Central Africa Republic (CAR), Congo, Democratic Republic of Congo […] The post Outbreak Report, 30 July 2024: Mpox Situation in Africa appeared first on Africa CDC . ]]>",
+    "url": "https://africacdc.org/disease-outbreak/feed/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Benin",
+        "region": "Africa",
+        "lat": 9.5,
+        "lng": 2.25,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Burundi",
+        "region": "Africa",
+        "lat": -3.5,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Cameroon",
+        "region": "Africa",
+        "lat": 6.0,
+        "lng": 12.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Central African Republic",
+        "region": "Africa",
+        "lat": 7.0,
+        "lng": 21.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Chad",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 19.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Egypt",
+        "region": "Africa",
+        "lat": 27.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ghana",
+        "region": "Africa",
+        "lat": 8.0,
+        "lng": -2.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Liberia",
+        "region": "Africa",
+        "lat": 6.5,
+        "lng": -9.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Morocco",
+        "region": "Africa",
+        "lat": 32.0,
+        "lng": -5.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Mozambique",
+        "region": "Africa",
+        "lat": -18.25,
+        "lng": 35.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Nigeria",
+        "region": "Africa",
+        "lat": 10.0,
+        "lng": 8.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Rwanda",
+        "region": "Africa",
+        "lat": -2.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sierra Leone",
+        "region": "Africa",
+        "lat": 8.5,
+        "lng": -11.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "South Africa",
+        "region": "Africa",
+        "lat": -29.0,
+        "lng": 24.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Uganda",
+        "region": "Africa",
+        "lat": 1.3733,
+        "lng": 32.2903,
+        "is_country": true
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "region": "Africa",
+        "lat": -4.0383,
+        "lng": 21.7587,
+        "is_country": true,
+        "alias": "DRC"
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "4327e7b17882872df259b257135814149a2a8bf3ed763c2fc19e2bb7e15649eb",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 142,
+        "suspected_cases": 24,
+        "probable_cases": 22,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 46,
+        "total_identified_cases": 37583,
+        "deaths": 1451,
+        "hospitalized": 0,
+        "recovered": 87
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Outbreak Report, 30 July 2024: Mpox Situation in Africa – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks / Mpox Outbreak Report, 30 July 2024: Mpox Situation in Africa 30 July 2024 I- Current Situation Mpox in Africa: Since the beginning of 2022 and as of 28 July 2024, a total of 37,583 cases and 1,451 deaths (case fatality rate [CFR]: 3.9%) of mpox have been reported from 15 African Union Member States (AU MS): Benin, Burundi, Cameroon, Central Africa Republic (CAR), Congo, Democratic Republic of Congo (DRC), Egypt, Ghana, Liberia, Morocco, Mozambique, Nigeria, Rwanda, Sudan and South Africa (see table 1). In 2023 alone, 14,957 cases and 739 deaths (CFR: 4.9%) were reported from seven AUMS. This is a 78.5% increase in the number of new cases compared to 2022. Since the beginning of this year and as of 28 July 2024 a total of 14,250 cases (2,745 confirmed; 11,505 suspected) and 456 deaths (CFR: 3.2%) of mpox have been reported from 10 AU",
+    "url": "https://africacdc.org/disease-outbreak/mpox-situation-in-africa/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 2745,
+      "suspected_cases": 24,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 24,
+      "total_identified_cases": 37583,
+      "deaths": 1451,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Benin",
+        "region": "Africa",
+        "lat": 9.5,
+        "lng": 2.25,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Burundi",
+        "region": "Africa",
+        "lat": -3.5,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Cameroon",
+        "region": "Africa",
+        "lat": 6.0,
+        "lng": 12.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Chad",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 19.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Egypt",
+        "region": "Africa",
+        "lat": 27.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ghana",
+        "region": "Africa",
+        "lat": 8.0,
+        "lng": -2.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Liberia",
+        "region": "Africa",
+        "lat": 6.5,
+        "lng": -9.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Morocco",
+        "region": "Africa",
+        "lat": 32.0,
+        "lng": -5.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Mozambique",
+        "region": "Africa",
+        "lat": -18.25,
+        "lng": 35.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Nigeria",
+        "region": "Africa",
+        "lat": 10.0,
+        "lng": 8.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Rwanda",
+        "region": "Africa",
+        "lat": -2.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "South Africa",
+        "region": "Africa",
+        "lat": -29.0,
+        "lng": 24.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "region": "Africa",
+        "lat": -4.0383,
+        "lng": 21.7587,
+        "is_country": true,
+        "alias": "DRC"
+      }
+    ],
+    "risk_level": "critical",
+    "raw_hash": "a179cd6a4b3c1a42d8a2f56bd5189056db8a8b33acc4f6b15db37e36f7189618",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Final Outbreak Brief 16: Sudan Virus Disease in Uganda – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks / Ebola Final Outbreak Brief 16: Sudan Virus Disease in Uganda 13 January 2023 Outbreak update: On 11 January 2023, the Uganda MoH declared the end of the Sudan Ebola virus disease (SVD) outbreak. This outbreak was declared on 20 September 2022, following confirmation of a case of SVD in Mubende district. The index case was a 24-year-old male who developed high-grade fever, convulsions, blood-stained vomitus, diarrhoea, loss of appetite and pain while swallowing on 11 September 2022. On 17 September, blood samples were collected and on 19 September, Uganda Virus Research Institute (UVRI) confirmed SVD by polymerase chain reaction. The patient died on 19 September 2022 and was buried following a safe and dignified burial protocol. Further investigations revealed that the onset of the outbreak likely dates back to the month of July 2022.",
+    "url": "https://africacdc.org/disease-outbreak/final-outbreak-brief-16-sudan-virus-disease-in-uganda/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Uganda",
+        "region": "Africa",
+        "lat": 1.3733,
+        "lng": 32.2903,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "99b3cdcad234daa01e99756f239f72652ba52d5e16a3082ccf670f9f1ff19b09",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 142,
+        "suspected_cases": 0,
+        "probable_cases": 22,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 22,
+        "total_identified_cases": 164,
+        "deaths": 0,
+        "hospitalized": 0,
+        "recovered": 87
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Outbreak Brief 26: Mpox in Africa Union Member States – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks / Mpox Outbreak Brief 26: Mpox in Africa Union Member States 11 January 2023 Global Update (non-endemic countries) : As of 10 January 2023, 84,471 confirmed cases of mpox and 285 deaths were reported from 110 countries/territories globally. The countries reporting the majority of cases are mainly in Europe and the Americas. Africa update (endemic and non-endemic countries): Since the beginning of 2022, the continent has reported 1,267 confirmed cases and 226 deaths (CFR: 17.8%) of mpox from eight endemic Africa Union (AU) Member States (MS): Benin (3 confirmed cases; 0 confirmed deaths), Cameroon (18; 3), Central African Republic (CAR) (13; 3), Congo (5; 3), Democratic Republic of Congo (DRC) (319; 204), Ghana (116; 4), Liberia (6; 0), Nigeria (756; 7) and five non-endemic MS: Egypt (4; 0), Morocco (3; 0), Mozambique (1; 1), South Africa",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-26-mpox-in-africa-union-member-states/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Benin",
+        "region": "Africa",
+        "lat": 9.5,
+        "lng": 2.25,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Cameroon",
+        "region": "Africa",
+        "lat": 6.0,
+        "lng": 12.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Central African Republic",
+        "region": "Africa",
+        "lat": 7.0,
+        "lng": 21.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Egypt",
+        "region": "Africa",
+        "lat": 27.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ghana",
+        "region": "Africa",
+        "lat": 8.0,
+        "lng": -2.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Liberia",
+        "region": "Africa",
+        "lat": 6.5,
+        "lng": -9.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Morocco",
+        "region": "Africa",
+        "lat": 32.0,
+        "lng": -5.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Mozambique",
+        "region": "Africa",
+        "lat": -18.25,
+        "lng": 35.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Nigeria",
+        "region": "Africa",
+        "lat": 10.0,
+        "lng": 8.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sierra Leone",
+        "region": "Africa",
+        "lat": 8.5,
+        "lng": -11.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "South Africa",
+        "region": "Africa",
+        "lat": -29.0,
+        "lng": 24.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "region": "Africa",
+        "lat": -4.0383,
+        "lng": 21.7587,
+        "is_country": true,
+        "alias": "DRC"
+      }
+    ],
+    "risk_level": "critical",
+    "raw_hash": "daedf93ee1e60469b4db56dd5edc130354b4fedc2574e1660e460ba7d97ffa1b",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 84471,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 84471,
+        "deaths": 285,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Outbreak Brief 15: Sudan Virus Disease in Uganda – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks / Ebola Outbreak Brief 15: Sudan Virus Disease in Uganda 4 January 2023 Outbreak update : Since the last brief (28 December 2022), no new confirmed cases and deaths of Sudan virus disease (SVD) were reported from Uganda. The last confirmed case was reported on 27 November 2022; this makes 37 days since the last reported confirmed case. Cumulatively, 142 confirmed cases and 55 confirmed deaths (CFR: 39%) were reported from nine health districts: Bunyangabu (1 cases; 0 deaths), Jinja (1; 1), Kagadi (1; 1), Kampala (18; 2), Kassanda (49; 21), Kyegegwa (4; 1), Masaka (1; 1), Mubende (64; 281), and Wakiso (3; 0) (see table 1). No new recoveries were reported since the last brief. Cumulatively, 871 recoveries have been registered. Healthcare workers account for 13% (19) of the cases and 13% (7) of all deaths (CFR: 37%). Note : A total of 22 probabl",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-15-sudan-virus-disease-in-uganda/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Uganda",
+        "region": "Africa",
+        "lat": 1.3733,
+        "lng": 32.2903,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "b4303e1d0a4febd69a7c0bb15329bc0d0d3f4860e726981265056622add39fb1",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 142,
+        "suspected_cases": 0,
+        "probable_cases": 22,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 22,
+        "total_identified_cases": 164,
+        "deaths": 0,
+        "hospitalized": 0,
+        "recovered": 871
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Outbreak Brief 25: Mpox in Africa Union Member States – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks / Mpox Outbreak Brief 25: Mpox in Africa Union Member States 4 January 2023 Global Update (non-endemic countries) : As of 28 December 2022, 83,582 confirmed cases of mpox and 282 deaths were reported from 110 countries/territories globally. The countries reporting the majority of cases are mainly in Europe and the Americas. Africa update (endemic and non-endemic countries): Since the beginning of 2022, the continent has reported 1,262 confirmed cases and 226 deaths (CFR: 18%) of mpox from eight endemic Africa Union (AU) Member States (MS): Benin (3 confirmed cases; 0 confirmed deaths), Cameroon (18; 3), Central African Republic (CAR) (13; 3), Congo (5; 3), Democratic Republic of Congo (DRC) (319; 204), Ghana 116; 4), Liberia (4; 0), Nigeria (753; 7) and five non-endemic MS: Egypt (4; 0), Morocco (3; 0), Mozambique (1; 1), South Africa (5",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-25-mpox-in-africa-union-member-states/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Benin",
+        "region": "Africa",
+        "lat": 9.5,
+        "lng": 2.25,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Cameroon",
+        "region": "Africa",
+        "lat": 6.0,
+        "lng": 12.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Central African Republic",
+        "region": "Africa",
+        "lat": 7.0,
+        "lng": 21.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Egypt",
+        "region": "Africa",
+        "lat": 27.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ghana",
+        "region": "Africa",
+        "lat": 8.0,
+        "lng": -2.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Liberia",
+        "region": "Africa",
+        "lat": 6.5,
+        "lng": -9.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Morocco",
+        "region": "Africa",
+        "lat": 32.0,
+        "lng": -5.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Mozambique",
+        "region": "Africa",
+        "lat": -18.25,
+        "lng": 35.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Nigeria",
+        "region": "Africa",
+        "lat": 10.0,
+        "lng": 8.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "South Africa",
+        "region": "Africa",
+        "lat": -29.0,
+        "lng": 24.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "region": "Africa",
+        "lat": -4.0383,
+        "lng": 21.7587,
+        "is_country": true,
+        "alias": "DRC"
+      }
+    ],
+    "risk_level": "critical",
+    "raw_hash": "578e39ff5ef898c1b7e4bb4d74ea9d31c6ce639f7b325b443e41bcf0a5f1748f",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 83582,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 83582,
+        "deaths": 282,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Outbreak Brief 24: Mpox in Africa Union Member States – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks / Mpox Outbreak Brief 24: Mpox in Africa Union Member States 28 December 2022 Global Update (non-endemic countries) : As of 23 Dec 2022, 83,483 confirmed cases of mpox and 275 deaths were reported from 110 countries/territories globally. The countries reporting the majority of cases are mainly in Europe and the Americas. Africa update (endemic and non-endemic countries): Since the beginning of 2022, the continent has reported 1,215 confirmed cases and 219 deaths (CFR: 18%) of mpox from eight endemic Africa Union (AU) Member States (MS): Benin (3 confirmed cases; 0 confirmed deaths), Cameroon (18; 3), CAR (8; 2), Congo (5; 3), Democratic Republic of Congo (DRC) (277; 198), Ghana (116; 4), Liberia (4; 0), Nigeria (753; 7) and five non-endemic MS: Egypt (4; 0), Morocco (3; 0), Mozambique (1; 1), South Africa (5; 0) and Sudan (18; 1). This w",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-24-mpox-in-africa-union-member-states/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Benin",
+        "region": "Africa",
+        "lat": 9.5,
+        "lng": 2.25,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Cameroon",
+        "region": "Africa",
+        "lat": 6.0,
+        "lng": 12.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Egypt",
+        "region": "Africa",
+        "lat": 27.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ghana",
+        "region": "Africa",
+        "lat": 8.0,
+        "lng": -2.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Liberia",
+        "region": "Africa",
+        "lat": 6.5,
+        "lng": -9.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Morocco",
+        "region": "Africa",
+        "lat": 32.0,
+        "lng": -5.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Mozambique",
+        "region": "Africa",
+        "lat": -18.25,
+        "lng": 35.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Nigeria",
+        "region": "Africa",
+        "lat": 10.0,
+        "lng": 8.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "South Africa",
+        "region": "Africa",
+        "lat": -29.0,
+        "lng": 24.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "region": "Africa",
+        "lat": -4.0383,
+        "lng": 21.7587,
+        "is_country": true,
+        "alias": "DRC"
+      }
+    ],
+    "risk_level": "critical",
+    "raw_hash": "c3fe8a0aad52bbcd73ad463b68bf3dcfc77c115a70e18d1bdf9c64cb16c7e62a",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 83483,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 83483,
+        "deaths": 275,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Outbreak Brief 14: Sudan Virus Disease in Uganda – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks / Ebola Outbreak Brief 14: Sudan Virus Disease in Uganda 28 December 2022 Outbreak update : Since the last brief (21 December 2022), no new confirmed cases and deaths of Sudan virus disease (SVD) were reported from Uganda. The last confirmed case was reported on 27 November 2022; this makes 30 days since the last reported confirmed case. Cumulatively, 142 confirmed cases and 55 confirmed deaths (CFR: 39%) were reported from nine health districts: Bunyangabu (1 cases; 0 deaths), Jinja (1; 1), Kagadi (1; 1), Kampala (18; 2), Kassanda (49; 21), Kyegegwa (4; 1), Masaka (1; 1), Mubende (64; 281), and Wakiso (3; 0) (see table 1). No new recoveries were reported since the last brief. Cumulatively, 871 recoveries have been registered. Healthcare workers account for 13% (19) of the cases and 13% (7) of all deaths (CFR: 37%). Note : A total of 22 proba",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-14-sudan-virus-disease-in-uganda/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Uganda",
+        "region": "Africa",
+        "lat": 1.3733,
+        "lng": 32.2903,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "fea551614f4307beeff2601d8745fafa96f3570745858260a66d064e77b9bf36",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 142,
+        "suspected_cases": 0,
+        "probable_cases": 22,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 22,
+        "total_identified_cases": 164,
+        "deaths": 0,
+        "hospitalized": 0,
+        "recovered": 871
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Outbreak Brief 23: Mpox in Africa Union Member States – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks / Mpox Outbreak Brief 23: Mpox in Africa Union Member States 21 December 2022 Global Update (non-endemic countries) : As of 19 Dec 2022, 83,026 confirmed cases of mpox and 269 deaths were reported from 110 countries/territories globally. The countries reporting the majority of cases are mainly in Europe and the Americas. Africa update (endemic and non-endemic countries) : Since the beginning of 2022, the continent has reported 1,176 confirmed cases and 219 deaths (CFR: 18.6%) of mpox from eight endemic Africa Union (AU) Member States (MS): Benin (3 confirmed cases; 0 confirmed deaths), Cameroon (18; 3), CAR (8; 2), Congo (5; 3), Democratic Republic of Congo (DRC) (257; 198), Ghana (107; 4), Liberia (3; 0), Nigeria (704; 7) and five non-endemic MS: Egypt (4; 0), Morocco (3; 0), Mozambique (1; 1), South Africa (5; 0) and Sudan (18; 1). Thi",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-23-mpox-in-africa-union-member-states/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Benin",
+        "region": "Africa",
+        "lat": 9.5,
+        "lng": 2.25,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Cameroon",
+        "region": "Africa",
+        "lat": 6.0,
+        "lng": 12.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Egypt",
+        "region": "Africa",
+        "lat": 27.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ghana",
+        "region": "Africa",
+        "lat": 8.0,
+        "lng": -2.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Liberia",
+        "region": "Africa",
+        "lat": 6.5,
+        "lng": -9.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Morocco",
+        "region": "Africa",
+        "lat": 32.0,
+        "lng": -5.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Mozambique",
+        "region": "Africa",
+        "lat": -18.25,
+        "lng": 35.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Nigeria",
+        "region": "Africa",
+        "lat": 10.0,
+        "lng": 8.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "South Africa",
+        "region": "Africa",
+        "lat": -29.0,
+        "lng": 24.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "region": "Africa",
+        "lat": -4.0383,
+        "lng": 21.7587,
+        "is_country": true,
+        "alias": "DRC"
+      }
+    ],
+    "risk_level": "critical",
+    "raw_hash": "52e20db2a9c649697977e8814dd9283fffbf3ca858a6d99cf4cd9b10c163eb71",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 83026,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 83026,
+        "deaths": 269,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Outbreak Brief 13: Sudan Virus Disease in Uganda – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks / Ebola Outbreak Brief 13: Sudan Virus Disease in Uganda 21 December 2022 Outbreak update: Since the last brief (14 December 2022), no new confirmed cases and deaths of Sudan virus disease (SVD) were reported from Uganda. The last confirmed case was reported on 27 November 2022; this makes 23 days since the last reported confirmed case. Cumulatively, 142 confirmed cases and 55 confirmed deaths (CFR: 39%) were reported from nine health districts: Bunyangabu (1 cases; 0 deaths), Jinja (1; 1), Kagadi (1; 1), Kampala (18; 2), Kassanda (49; 21), Kyegegwa (4; 1), Masaka (1; 1), Mubende (64; 281), and Wakiso (3; 0) (see table 1). No new recoveries were reported since the last brief. Cumulatively, 871 recoveries have been registered. Healthcare workers account for 13% (19) of the cases and 13% (7) of all deaths (CFR: 37%). Note : A total of 22 probab",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-13-sudan-virus-disease-in-uganda/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Uganda",
+        "region": "Africa",
+        "lat": 1.3733,
+        "lng": 32.2903,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "abd399dedf24a602bf77c6af4c1196663dfeb38dfb7c2a34df6179fcfaaa5878",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 142,
+        "suspected_cases": 0,
+        "probable_cases": 22,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 22,
+        "total_identified_cases": 164,
+        "deaths": 0,
+        "hospitalized": 0,
+        "recovered": 871
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Outbreak Brief 12: Sudan Virus Disease in Uganda – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks / Ebola Outbreak Brief 12: Sudan Virus Disease in Uganda 14 December 2022 Outbreak update : Since the last brief (7 December 2022), no new confirmed cases and deaths of Sudan virus disease (SVD) were reported from Uganda. The last confirmed case was reported on 27 November 2022; this makes 16 days since the last reported confirmed case. Cumulatively, 142 confirmed cases and 55 confirmed deaths (CFR: 39%) were reported from nine health districts: Bunyangabu (1 cases; 0 deaths), Jinja (1; 1), Kagadi (1; 1), Kampala (18; 2), Kassanda (49; 21), Kyegegwa (4; 1), Masaka (1; 1), Mubende (64; 281), and Wakiso (3; 0) (see table 1). No new recoveries were reported since the last brief. Cumulatively, 871 recoveries have been registered. Healthcare workers account for 13% (19) of the cases and 13% (7) of all deaths (CFR: 37%). Note : A total of 22 probab",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-12-sudan-virus-disease-in-uganda/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Uganda",
+        "region": "Africa",
+        "lat": 1.3733,
+        "lng": 32.2903,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      }
+    ],
+    "risk_level": "high",
+    "raw_hash": "c2b2116af4244086b5349e797bddfd46a33b502e2f54795488efc110dcc7121f",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 142,
+        "suspected_cases": 0,
+        "probable_cases": 22,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 22,
+        "total_identified_cases": 164,
+        "deaths": 0,
+        "hospitalized": 0,
+        "recovered": 871
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Outbreak Brief 22: Mpox in Africa Union Member States – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks / Mpox Outbreak Brief 22: Mpox in Africa Union Member States 13 December 2022 Global Update (non-endemic countries) : As of 12 Dec 2022, 82,610 confirmed cases of mpox and 259 deaths were reported from 110 countries/territories globally. The countries reporting the majority of cases are mainly in Europe and the Americas. Africa update (endemic and non-endemic countries): Since the beginning of 2022, the continent has reported 1,111 confirmed cases and 209 deaths (CFR: 18.8%) of mpox from eight endemic Africa Union (AU) Member States (MS): Benin (3 confirmed cases; 0 confirmed deaths), Cameroon (18; 3), CAR (8; 2), Congo (5; 3), Democratic Republic of Congo (DRC) (277; 188), Ghana (107; 4), Liberia (3; 0), Nigeria (659; 7) and five non-endemic MS: Egypt (4; 0), Morocco (3; 0), Mozambique (1; 1), South Africa (5; 0) and Sudan (18; 1). This",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-22-mpox-in-africa-union-member-states/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 82610,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 82610,
+      "deaths": 259,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Benin",
+        "region": "Africa",
+        "lat": 9.5,
+        "lng": 2.25,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Cameroon",
+        "region": "Africa",
+        "lat": 6.0,
+        "lng": 12.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Egypt",
+        "region": "Africa",
+        "lat": 27.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ghana",
+        "region": "Africa",
+        "lat": 8.0,
+        "lng": -2.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Liberia",
+        "region": "Africa",
+        "lat": 6.5,
+        "lng": -9.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Morocco",
+        "region": "Africa",
+        "lat": 32.0,
+        "lng": -5.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Mozambique",
+        "region": "Africa",
+        "lat": -18.25,
+        "lng": 35.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Nigeria",
+        "region": "Africa",
+        "lat": 10.0,
+        "lng": 8.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "South Africa",
+        "region": "Africa",
+        "lat": -29.0,
+        "lng": 24.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "region": "Africa",
+        "lat": -4.0383,
+        "lng": 21.7587,
+        "is_country": true,
+        "alias": "DRC"
+      }
+    ],
+    "risk_level": "critical",
+    "raw_hash": "faa2f6ab15946dd420095220857f09cc5b4d04a8c1450a8658be24206b22230d",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Outbreak Brief 21: Monkeypox in Africa Union Member States – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks / Mpox Outbreak Brief 21: Monkeypox in Africa Union Member States 7 December 2022 Global Update (non-endemic countries) : As of 6 December 2022, 82,147 confirmed cases of mpox and 252 deaths were reported from 110 countries/territories globally. The countries reporting the majority of cases are mainly in Europe and the Americas. On 28 November 2022, the World Health Organization, under their International Classification of Disease mandate, declared the change of the name “monkeypox” to “mpox”. This change has been reflected in the current brief. Africa update (endemic and non-endemic countries) : Since the beginning of 2022, the continent has reported the continent has reported 1,089 confirmed cases and 202 deaths (CFR: 18.5%) of mpox from eight endemic Africa Union (AU) Member States (MS): Benin (3 confirmed cases; 0 confirmed deat",
+    "url": "https://africacdc.org/disease-outbreak/outbreak-brief-21-monkeypox-in-africa-union-member-states/",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 0,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 0,
+      "deaths": 0,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Benin",
+        "region": "Africa",
+        "lat": 9.5,
+        "lng": 2.25,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Cameroon",
+        "region": "Africa",
+        "lat": 6.0,
+        "lng": 12.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Egypt",
+        "region": "Africa",
+        "lat": 27.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Ghana",
+        "region": "Africa",
+        "lat": 8.0,
+        "lng": -2.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Liberia",
+        "region": "Africa",
+        "lat": 6.5,
+        "lng": -9.5,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Morocco",
+        "region": "Africa",
+        "lat": 32.0,
+        "lng": -5.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Mozambique",
+        "region": "Africa",
+        "lat": -18.25,
+        "lng": 35.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Nigeria",
+        "region": "Africa",
+        "lat": 10.0,
+        "lng": 8.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "South Africa",
+        "region": "Africa",
+        "lat": -29.0,
+        "lng": 24.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      },
+      {
+        "country": "Democratic Republic of the Congo",
+        "region": "Africa",
+        "lat": -4.0383,
+        "lng": 21.7587,
+        "is_country": true,
+        "alias": "DRC"
+      }
+    ],
+    "risk_level": "critical",
+    "raw_hash": "d69659c0f9467c435318c5b087e86e6db681d0606159a44da06f3d58c2f49c1e",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_correction": {
+      "applied": true,
+      "reason": "Historical or cumulative surveillance numbers were removed from current outbreak metrics.",
+      "original_metrics": {
+        "confirmed_cases": 82147,
+        "suspected_cases": 0,
+        "probable_cases": 0,
+        "possible_cases": 0,
+        "under_investigation_cases": 0,
+        "pending_cases": 0,
+        "ruled_out_cases": 0,
+        "negative_cases": 0,
+        "unconfirmed_cases": 0,
+        "total_identified_cases": 82147,
+        "deaths": 252,
+        "hospitalized": 0,
+        "recovered": 0
+      }
+    },
+    "data_quality": {
+      "usable_current_metrics": false,
+      "historical_like": true
+    }
+  },
+  {
+    "source": "Africa Centres for Disease Control and Prevention",
+    "source_id": "africa_cdc",
+    "type": "current_outbreak",
+    "title": "Africa CDC disease outbreak report",
+    "summary": "Disease Outbreaks Archive – Africa CDC Skip to content Email: communications@africacdc.org Search Search Disease Outbreaks Information on disease outbreaks from Africa CDC Disease COVID-19 Ebola Mpox Region Central Africa Eastern Africa Northern Africa Southern Africa Western Africa Country Congo, Democratic Republic of the Guinea Uganda Disease COVID-19 Ebola Mpox Region Central Africa Eastern Africa Northern Africa Southern Africa Western Africa Country Congo, Democratic Republic of the Guinea Uganda Disease Outbreak Description Date Updated Outbreak Brief 11: Sudan Ebola virus disease (EVD) in Uganda Outbreak update: Since the last brief (30 November 2022), no new confirmed cases and deaths of Sudan Ebolavirus disease (SVD) were reported from Uganda. This is a 100% decrease in the number of new confirmed cases and deaths reported compared … 7 December 2022 Outbreak Brief 10: Sudan Ebola virus disease (EVD) in Uganda Outbreak update: Since the last brief (23 November 2022), one new c",
+    "url": "https://africacdc.org/disease-outbreak/?wpv_view_count=2069-TCPID18308&wpv_paged=2",
+    "published_at": "",
+    "metrics": {
+      "confirmed_cases": 81188,
+      "suspected_cases": 0,
+      "probable_cases": 0,
+      "possible_cases": 0,
+      "under_investigation_cases": 0,
+      "pending_cases": 0,
+      "ruled_out_cases": 0,
+      "negative_cases": 0,
+      "unconfirmed_cases": 0,
+      "total_identified_cases": 81188,
+      "deaths": 242,
+      "hospitalized": 0,
+      "recovered": 0
+    },
+    "countries": [
+      {
+        "country": "Guinea",
+        "region": "Africa",
+        "lat": 11.0,
+        "lng": -10.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Sudan",
+        "region": "Africa",
+        "lat": 15.0,
+        "lng": 30.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Uganda",
+        "region": "Africa",
+        "lat": 1.3733,
+        "lng": 32.2903,
+        "is_country": true
+      },
+      {
+        "country": "Congo",
+        "region": "Africa",
+        "lat": -0.228,
+        "lng": 15.8277,
+        "is_country": true
+      },
+      {
+        "country": "United States",
+        "region": "North America",
+        "lat": 37.0902,
+        "lng": -95.7129,
+        "is_country": true,
+        "alias": "US"
+      }
+    ],
+    "risk_level": "critical",
+    "raw_hash": "e12f79846f57d9583ec0b89ef9686c90209b69de88a94131422a8e92e1b509e6",
+    "tracking_scope": {
+      "confirmed": true,
+      "suspected": true,
+      "probable": true,
+      "possible": true,
+      "under_investigation": true,
+      "pending": true,
+      "ruled_out": true,
+      "negative": true
+    },
+    "data_quality": {
+      "usable_current_metrics": true,
+      "historical_like": false
+    }
+  },
+  {
     "source": "Africa Centres for Disease Control and Prevention",
     "source_id": "africa_cdc",
     "type": "current_outbreak",
@@ -578,6 +4720,33 @@
         "lat": 20.0,
         "lng": -20.0,
         "is_country": false
+      },
+      {
+        "country": "Ethiopia",
+        "region": "Africa",
+        "lat": 8.0,
+        "lng": 38.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Kenya",
+        "region": "Africa",
+        "lat": 1.0,
+        "lng": 38.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Tunisia",
+        "region": "Africa",
+        "lat": 34.0,
+        "lng": 9.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
       },
       {
         "country": "United States",
@@ -651,11 +4820,38 @@
         "is_country": true
       },
       {
-        "country": "United Kingdom",
+        "country": "Ethiopia",
+        "region": "Africa",
+        "lat": 8.0,
+        "lng": 38.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "Netherlands",
         "region": "Europe",
-        "lat": 55.3781,
-        "lng": -3.436,
+        "lat": 52.1326,
+        "lng": 5.2913,
         "is_country": true
+      },
+      {
+        "country": "Saint Helena",
+        "region": "Africa",
+        "lat": -15.95,
+        "lng": -5.7,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "South Africa",
+        "region": "Africa",
+        "lat": -29.0,
+        "lng": 24.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
       },
       {
         "country": "Spain",
@@ -665,10 +4861,19 @@
         "is_country": true
       },
       {
-        "country": "Netherlands",
+        "country": "Tunisia",
+        "region": "Africa",
+        "lat": 34.0,
+        "lng": 9.0,
+        "is_country": true,
+        "alpha2": null,
+        "alpha3": null
+      },
+      {
+        "country": "United Kingdom",
         "region": "Europe",
-        "lat": 52.1326,
-        "lng": 5.2913,
+        "lat": 55.3781,
+        "lng": -3.436,
         "is_country": true
       },
       {

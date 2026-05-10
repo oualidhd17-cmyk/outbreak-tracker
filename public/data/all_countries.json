@@ -1,10 +1,235 @@
 [
   {
+    "country": "Afghanistan",
+    "region": "Asia",
+    "lat": 33.0,
+    "lng": 65.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Albania",
+    "region": "Europe",
+    "lat": 41.0,
+    "lng": 20.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Algeria",
+    "region": "Africa",
+    "lat": 28.0,
+    "lng": 3.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "American Samoa",
+    "region": "Global",
+    "lat": -14.33333333,
+    "lng": -170.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Andorra",
+    "region": "Europe",
+    "lat": 42.5,
+    "lng": 1.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Angola",
+    "region": "Africa",
+    "lat": -12.5,
+    "lng": 18.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Anguilla",
+    "region": "North America",
+    "lat": 18.25,
+    "lng": -63.16666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "region": "North America",
+    "lat": 17.05,
+    "lng": -61.8,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
     "country": "Argentina",
     "region": "South America",
     "lat": -38.4161,
     "lng": -63.6167,
     "is_country": true
+  },
+  {
+    "country": "Armenia",
+    "region": "Europe",
+    "lat": 40.0,
+    "lng": 45.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Aruba",
+    "region": "North America",
+    "lat": 12.5,
+    "lng": -69.96666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Australia",
+    "region": "Oceania",
+    "lat": -27.0,
+    "lng": 133.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Austria",
+    "region": "Europe",
+    "lat": 47.33333333,
+    "lng": 13.33333333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Azerbaijan",
+    "region": "Asia",
+    "lat": 40.5,
+    "lng": 47.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Bahrain",
+    "region": "Africa",
+    "lat": 26.0,
+    "lng": 50.55,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Bangladesh",
+    "region": "Asia",
+    "lat": 24.0,
+    "lng": 90.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Barbados",
+    "region": "North America",
+    "lat": 13.16666666,
+    "lng": -59.53333333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Belarus",
+    "region": "Europe",
+    "lat": 53.0,
+    "lng": 28.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Belgium",
+    "region": "Europe",
+    "lat": 50.83333333,
+    "lng": 4.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Belize",
+    "region": "North America",
+    "lat": 17.25,
+    "lng": -88.75,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Benin",
+    "region": "Africa",
+    "lat": 9.5,
+    "lng": 2.25,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Bermuda",
+    "region": "North America",
+    "lat": 32.33333333,
+    "lng": -64.75,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Bhutan",
+    "region": "Asia",
+    "lat": 27.5,
+    "lng": 90.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Bolivia",
+    "region": "South America",
+    "lat": -17.0,
+    "lng": -65.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "region": "Europe",
+    "lat": 44.0,
+    "lng": 18.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Botswana",
+    "region": "Africa",
+    "lat": -22.0,
+    "lng": 24.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
   },
   {
     "country": "Brazil",
@@ -14,6 +239,78 @@
     "is_country": true
   },
   {
+    "country": "British Indian Ocean Territory",
+    "region": "Asia",
+    "lat": -6.0,
+    "lng": 71.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Brunei",
+    "region": "Oceania",
+    "lat": 4.5,
+    "lng": 114.66666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Bulgaria",
+    "region": "Europe",
+    "lat": 43.0,
+    "lng": 25.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Burkina Faso",
+    "region": "Africa",
+    "lat": 13.0,
+    "lng": -2.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Burma",
+    "region": "Asia",
+    "lat": 22.0,
+    "lng": 98.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Burundi",
+    "region": "Africa",
+    "lat": -3.5,
+    "lng": 30.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Cambodia",
+    "region": "Asia",
+    "lat": 13.0,
+    "lng": 105.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Cameroon",
+    "region": "Africa",
+    "lat": 6.0,
+    "lng": 12.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
     "country": "Canada",
     "region": "North America",
     "lat": 56.1304,
@@ -21,11 +318,92 @@
     "is_country": true
   },
   {
+    "country": "Cape Verde",
+    "region": "Global",
+    "lat": 16.0,
+    "lng": -24.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Cayman Islands",
+    "region": "North America",
+    "lat": 19.5,
+    "lng": -80.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Central African Republic",
+    "region": "Africa",
+    "lat": 7.0,
+    "lng": 21.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Chad",
+    "region": "Africa",
+    "lat": 15.0,
+    "lng": 19.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
     "country": "Chile",
     "region": "South America",
     "lat": -35.6751,
     "lng": -71.543,
     "is_country": true
+  },
+  {
+    "country": "China",
+    "region": "Asia",
+    "lat": 35.0,
+    "lng": 105.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Christmas Island",
+    "region": "Asia",
+    "lat": -10.5,
+    "lng": 105.66666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Cocos (Keeling) Islands",
+    "region": "Asia",
+    "lat": -12.5,
+    "lng": 96.83333333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Colombia",
+    "region": "North America",
+    "lat": 4.0,
+    "lng": -72.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Comoros",
+    "region": "Africa",
+    "lat": -12.16666666,
+    "lng": 44.25,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
   },
   {
     "country": "Congo",
@@ -36,12 +414,210 @@
     "alias": "Congo Brazzaville"
   },
   {
+    "country": "Cook Islands",
+    "region": "Global",
+    "lat": -21.23333333,
+    "lng": -159.76666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Costa Rica",
+    "region": "North America",
+    "lat": 10.0,
+    "lng": -84.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Croatia",
+    "region": "Europe",
+    "lat": 45.16666666,
+    "lng": 15.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Cuba",
+    "region": "North America",
+    "lat": 21.5,
+    "lng": -80.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Cyprus",
+    "region": "Africa",
+    "lat": 35.0,
+    "lng": 33.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Czech Republic",
+    "region": "Europe",
+    "lat": 49.75,
+    "lng": 15.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
     "country": "Democratic Republic of the Congo",
     "region": "Africa",
     "lat": -4.0383,
     "lng": 21.7587,
     "is_country": true,
     "alias": "Congo-Kinshasa"
+  },
+  {
+    "country": "Denmark",
+    "region": "Europe",
+    "lat": 56.0,
+    "lng": 10.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Djibouti",
+    "region": "Africa",
+    "lat": 11.5,
+    "lng": 43.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Dominica",
+    "region": "North America",
+    "lat": 15.41666666,
+    "lng": -61.33333333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Dominican Republic",
+    "region": "North America",
+    "lat": 19.0,
+    "lng": -70.66666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "East Timor",
+    "region": "Oceania",
+    "lat": -8.83333333,
+    "lng": 125.91666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Ecuador",
+    "region": "South America",
+    "lat": -2.0,
+    "lng": -77.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Egypt",
+    "region": "Africa",
+    "lat": 27.0,
+    "lng": 30.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "El Salvador",
+    "region": "North America",
+    "lat": 13.83333333,
+    "lng": -88.91666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Equatorial Guinea",
+    "region": "Africa",
+    "lat": 2.0,
+    "lng": 10.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Eritrea",
+    "region": "Africa",
+    "lat": 15.0,
+    "lng": 39.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Estonia",
+    "region": "Europe",
+    "lat": 59.0,
+    "lng": 26.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Ethiopia",
+    "region": "Africa",
+    "lat": 8.0,
+    "lng": 38.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Falkland Islands",
+    "region": "South America",
+    "lat": -51.75,
+    "lng": -59.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Faroe Islands",
+    "region": "Europe",
+    "lat": 62.0,
+    "lng": -7.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Federated States of Micronesia",
+    "region": "Oceania",
+    "lat": 6.91666666,
+    "lng": 158.25,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Fiji",
+    "region": "Oceania",
+    "lat": -18.0,
+    "lng": 175.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
   },
   {
     "country": "Finland",
@@ -58,11 +634,290 @@
     "is_country": true
   },
   {
+    "country": "French Guiana",
+    "region": "North America",
+    "lat": 4.0,
+    "lng": -53.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "French Polynesia",
+    "region": "Global",
+    "lat": -15.0,
+    "lng": -140.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "French Southern and Antarctic Lands",
+    "region": "Global",
+    "lat": -49.25,
+    "lng": 69.167,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Gabon",
+    "region": "Africa",
+    "lat": -1.0,
+    "lng": 11.75,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Georgia",
+    "region": "Europe",
+    "lat": 42.0,
+    "lng": 43.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
     "country": "Germany",
     "region": "Europe",
     "lat": 51.1657,
     "lng": 10.4515,
     "is_country": true
+  },
+  {
+    "country": "Ghana",
+    "region": "Africa",
+    "lat": 8.0,
+    "lng": -2.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Gibraltar",
+    "region": "Africa",
+    "lat": 36.13333333,
+    "lng": -5.35,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Greece",
+    "region": "Europe",
+    "lat": 39.0,
+    "lng": 22.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Greenland",
+    "region": "North America",
+    "lat": 72.0,
+    "lng": -40.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Grenada",
+    "region": "North America",
+    "lat": 12.11666666,
+    "lng": -61.66666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Guadeloupe",
+    "region": "North America",
+    "lat": 16.25,
+    "lng": -61.583333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Guam",
+    "region": "Asia",
+    "lat": 13.46666666,
+    "lng": 144.78333333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Guatemala",
+    "region": "North America",
+    "lat": 15.5,
+    "lng": -90.25,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Guernsey",
+    "region": "Europe",
+    "lat": 49.46666666,
+    "lng": -2.58333333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Guinea",
+    "region": "Africa",
+    "lat": 11.0,
+    "lng": -10.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Guinea-Bissau",
+    "region": "Africa",
+    "lat": 12.0,
+    "lng": -15.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Guyana",
+    "region": "North America",
+    "lat": 5.0,
+    "lng": -59.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Haiti",
+    "region": "North America",
+    "lat": 19.0,
+    "lng": -72.41666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Heard Island and McDonald Islands",
+    "region": "Global",
+    "lat": -53.1,
+    "lng": 72.51666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Holy See (Vatican City State)",
+    "region": "Europe",
+    "lat": 41.90244,
+    "lng": 12.45389,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Honduras",
+    "region": "North America",
+    "lat": 15.0,
+    "lng": -86.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Hong Kong",
+    "region": "Asia",
+    "lat": 22.25,
+    "lng": 114.16666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Hungary",
+    "region": "Europe",
+    "lat": 47.0,
+    "lng": 20.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Iceland",
+    "region": "Europe",
+    "lat": 65.0,
+    "lng": -18.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "India",
+    "region": "Asia",
+    "lat": 20.0,
+    "lng": 77.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Indonesia",
+    "region": "Oceania",
+    "lat": -5.0,
+    "lng": 120.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Iran",
+    "region": "Africa",
+    "lat": 32.0,
+    "lng": 53.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Iraq",
+    "region": "Africa",
+    "lat": 33.0,
+    "lng": 44.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Ireland",
+    "region": "Europe",
+    "lat": 53.0,
+    "lng": -8.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Isle of Man",
+    "region": "Europe",
+    "lat": 54.25,
+    "lng": -4.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Israel",
+    "region": "Africa",
+    "lat": 31.5,
+    "lng": 34.75,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
   },
   {
     "country": "Italy",
@@ -72,11 +927,389 @@
     "is_country": true
   },
   {
+    "country": "Ivory Coast",
+    "region": "Africa",
+    "lat": 8.0,
+    "lng": -5.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Jamaica",
+    "region": "North America",
+    "lat": 17.971389,
+    "lng": -76.793056,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Japan",
+    "region": "Asia",
+    "lat": 36.0,
+    "lng": 138.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Jersey",
+    "region": "Europe",
+    "lat": 49.25,
+    "lng": -2.16666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Jordan",
+    "region": "Africa",
+    "lat": 31.0,
+    "lng": 36.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Kazakhstan",
+    "region": "Asia",
+    "lat": 48.0,
+    "lng": 68.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Kenya",
+    "region": "Africa",
+    "lat": 1.0,
+    "lng": 38.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Kiribati",
+    "region": "Oceania",
+    "lat": 1.41666666,
+    "lng": 173.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Kuwait",
+    "region": "Africa",
+    "lat": 29.5,
+    "lng": 45.75,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Kyrgyzstan",
+    "region": "Asia",
+    "lat": 41.0,
+    "lng": 75.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Laos",
+    "region": "Asia",
+    "lat": 18.0,
+    "lng": 105.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Latvia",
+    "region": "Europe",
+    "lat": 57.0,
+    "lng": 25.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Lebanon",
+    "region": "Africa",
+    "lat": 33.83333333,
+    "lng": 35.83333333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Lesotho",
+    "region": "Africa",
+    "lat": -29.5,
+    "lng": 28.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Liberia",
+    "region": "Africa",
+    "lat": 6.5,
+    "lng": -9.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Libya",
+    "region": "Africa",
+    "lat": 25.0,
+    "lng": 17.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Liechtenstein",
+    "region": "Europe",
+    "lat": 47.26666666,
+    "lng": 9.53333333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Lithuania",
+    "region": "Europe",
+    "lat": 56.0,
+    "lng": 24.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Luxembourg",
+    "region": "Europe",
+    "lat": 49.75,
+    "lng": 6.16666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Macau",
+    "region": "Asia",
+    "lat": 22.16666666,
+    "lng": 113.55,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Madagascar",
+    "region": "Africa",
+    "lat": -20.0,
+    "lng": 47.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Malawi",
+    "region": "Africa",
+    "lat": -13.5,
+    "lng": 34.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Malaysia",
+    "region": "Oceania",
+    "lat": 2.5,
+    "lng": 112.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Maldives",
+    "region": "Asia",
+    "lat": 3.25,
+    "lng": 73.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Mali",
+    "region": "Africa",
+    "lat": 17.0,
+    "lng": -4.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Malta",
+    "region": "Africa",
+    "lat": 35.83333333,
+    "lng": 14.58333333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Marshall Islands",
+    "region": "Oceania",
+    "lat": 9.0,
+    "lng": 168.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Martinique",
+    "region": "North America",
+    "lat": 14.666667,
+    "lng": -61.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Mauritania",
+    "region": "Africa",
+    "lat": 20.0,
+    "lng": -12.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Mauritius",
+    "region": "Global",
+    "lat": -20.28333333,
+    "lng": 57.55,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Mayotte",
+    "region": "Africa",
+    "lat": -12.83333333,
+    "lng": 45.16666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
     "country": "Mexico",
     "region": "North America",
     "lat": 23.6345,
     "lng": -102.5528,
     "is_country": true
+  },
+  {
+    "country": "Moldova",
+    "region": "Europe",
+    "lat": 47.0,
+    "lng": 29.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Monaco",
+    "region": "Europe",
+    "lat": 43.73333333,
+    "lng": 7.4,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Mongolia",
+    "region": "Asia",
+    "lat": 46.0,
+    "lng": 105.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Montenegro",
+    "region": "Europe",
+    "lat": 42.7044223,
+    "lng": 19.3957785,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Montserrat",
+    "region": "North America",
+    "lat": 16.75,
+    "lng": -62.2,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Morocco",
+    "region": "Africa",
+    "lat": 32.0,
+    "lng": -5.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Mozambique",
+    "region": "Africa",
+    "lat": -18.25,
+    "lng": 35.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Myanmar",
+    "region": "Asia",
+    "lat": 19.75,
+    "lng": 96.1,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Namibia",
+    "region": "Africa",
+    "lat": -22.0,
+    "lng": 17.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Nauru",
+    "region": "Oceania",
+    "lat": -0.53333333,
+    "lng": 166.91666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Nepal",
+    "region": "Asia",
+    "lat": 28.0,
+    "lng": 84.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
   },
   {
     "country": "Netherlands",
@@ -86,11 +1319,128 @@
     "is_country": true
   },
   {
+    "country": "New Caledonia",
+    "region": "Oceania",
+    "lat": -21.5,
+    "lng": 165.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "New Zealand",
+    "region": "Oceania",
+    "lat": -41.0,
+    "lng": 174.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Nicaragua",
+    "region": "North America",
+    "lat": 13.0,
+    "lng": -85.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Niger",
+    "region": "Africa",
+    "lat": 16.0,
+    "lng": 8.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Nigeria",
+    "region": "Africa",
+    "lat": 10.0,
+    "lng": 8.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Niue",
+    "region": "Global",
+    "lat": -19.03333333,
+    "lng": -169.86666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Norfolk Island",
+    "region": "Oceania",
+    "lat": -29.03333333,
+    "lng": 167.95,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "North Korea",
+    "region": "Asia",
+    "lat": 40.0,
+    "lng": 127.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "region": "Asia",
+    "lat": 15.2,
+    "lng": 145.75,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
     "country": "Norway",
     "region": "Europe",
     "lat": 60.472,
     "lng": 8.4689,
     "is_country": true
+  },
+  {
+    "country": "Oman",
+    "region": "Asia",
+    "lat": 21.0,
+    "lng": 57.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Pakistan",
+    "region": "Asia",
+    "lat": 30.0,
+    "lng": 70.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Palau",
+    "region": "Oceania",
+    "lat": 7.5,
+    "lng": 134.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Palestine",
+    "region": "Africa",
+    "lat": 31.9,
+    "lng": 35.2,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
   },
   {
     "country": "Panama",
@@ -100,11 +1450,344 @@
     "is_country": true
   },
   {
+    "country": "Papua New Guinea",
+    "region": "Oceania",
+    "lat": -6.0,
+    "lng": 147.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Paraguay",
+    "region": "South America",
+    "lat": -23.0,
+    "lng": -58.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Peru",
+    "region": "South America",
+    "lat": -10.0,
+    "lng": -76.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Philippines",
+    "region": "Asia",
+    "lat": 13.0,
+    "lng": 122.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Pitcairn Islands",
+    "region": "Global",
+    "lat": -25.06666666,
+    "lng": -130.1,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Poland",
+    "region": "Europe",
+    "lat": 52.0,
+    "lng": 20.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
     "country": "Portugal",
     "region": "Europe",
     "lat": 39.3999,
     "lng": -8.2245,
     "is_country": true
+  },
+  {
+    "country": "Puerto Rico",
+    "region": "North America",
+    "lat": 18.25,
+    "lng": -66.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Qatar",
+    "region": "Africa",
+    "lat": 25.5,
+    "lng": 51.25,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Republic of Macedonia",
+    "region": "Europe",
+    "lat": 41.83333333,
+    "lng": 22.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Republic of the Congo",
+    "region": "Africa",
+    "lat": -1.0,
+    "lng": 15.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Romania",
+    "region": "Europe",
+    "lat": 46.0,
+    "lng": 25.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Russia",
+    "region": "Global",
+    "lat": 60.0,
+    "lng": 100.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Rwanda",
+    "region": "Africa",
+    "lat": -2.0,
+    "lng": 30.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Réunion",
+    "region": "Global",
+    "lat": -21.15,
+    "lng": 55.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Saint Helena",
+    "region": "Africa",
+    "lat": -15.95,
+    "lng": -5.7,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "region": "North America",
+    "lat": 17.33333333,
+    "lng": -62.75,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Saint Lucia",
+    "region": "North America",
+    "lat": 13.88333333,
+    "lng": -60.96666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "region": "North America",
+    "lat": 46.83333333,
+    "lng": -56.33333333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "region": "North America",
+    "lat": 13.25,
+    "lng": -61.2,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Samoa",
+    "region": "Global",
+    "lat": -13.58333333,
+    "lng": -172.33333333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "San Marino",
+    "region": "Europe",
+    "lat": 43.76666666,
+    "lng": 12.41666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Saudi Arabia",
+    "region": "Africa",
+    "lat": 25.0,
+    "lng": 45.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Scotland",
+    "region": "Europe",
+    "lat": 56.4906712,
+    "lng": -4.2026458,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Senegal",
+    "region": "Africa",
+    "lat": 14.0,
+    "lng": -14.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Serbia",
+    "region": "Europe",
+    "lat": 44.016521,
+    "lng": 21.005859,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Serbia and Montenegro",
+    "region": "Europe",
+    "lat": 44.0,
+    "lng": 21.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Seychelles",
+    "region": "Asia",
+    "lat": -4.58333333,
+    "lng": 55.66666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Sierra Leone",
+    "region": "Africa",
+    "lat": 8.5,
+    "lng": -11.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Singapore",
+    "region": "Asia",
+    "lat": 1.36666666,
+    "lng": 103.8,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Slovakia",
+    "region": "Europe",
+    "lat": 48.66666666,
+    "lng": 19.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Slovenia",
+    "region": "Europe",
+    "lat": 46.11666666,
+    "lng": 14.81666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Solomon Islands",
+    "region": "Oceania",
+    "lat": -8.0,
+    "lng": 159.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Somalia",
+    "region": "Africa",
+    "lat": 10.0,
+    "lng": 49.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "South Africa",
+    "region": "Africa",
+    "lat": -29.0,
+    "lng": 24.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "South Georgia",
+    "region": "South America",
+    "lat": -54.5,
+    "lng": -37.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "South Korea",
+    "region": "Asia",
+    "lat": 37.0,
+    "lng": 127.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "South Sudan",
+    "region": "Africa",
+    "lat": 7.0,
+    "lng": 30.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
   },
   {
     "country": "Spain",
@@ -114,6 +1797,51 @@
     "is_country": true
   },
   {
+    "country": "Sri Lanka",
+    "region": "Asia",
+    "lat": 7.0,
+    "lng": 81.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Sudan",
+    "region": "Africa",
+    "lat": 15.0,
+    "lng": 30.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Suriname",
+    "region": "North America",
+    "lat": 4.0,
+    "lng": -56.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Svalbard and Jan Mayen",
+    "region": "Global",
+    "lat": 78.0,
+    "lng": 20.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Swaziland",
+    "region": "Africa",
+    "lat": -26.5,
+    "lng": 31.5,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
     "country": "Sweden",
     "region": "Europe",
     "lat": 60.1282,
@@ -121,11 +1849,182 @@
     "is_country": true
   },
   {
+    "country": "Switzerland",
+    "region": "Europe",
+    "lat": 47.0,
+    "lng": 8.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Syria",
+    "region": "Africa",
+    "lat": 35.0,
+    "lng": 38.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "São Tomé and Príncipe",
+    "region": "Africa",
+    "lat": 1.0,
+    "lng": 7.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Taiwan",
+    "region": "Asia",
+    "lat": 23.5,
+    "lng": 121.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Tajikistan",
+    "region": "Asia",
+    "lat": 39.0,
+    "lng": 71.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Tanzania",
+    "region": "Africa",
+    "lat": -6.0,
+    "lng": 35.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Thailand",
+    "region": "Asia",
+    "lat": 15.0,
+    "lng": 100.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "The Bahamas",
+    "region": "North America",
+    "lat": 24.25,
+    "lng": -76.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "The Gambia",
+    "region": "Africa",
+    "lat": 13.46666666,
+    "lng": -16.56666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Togo",
+    "region": "Africa",
+    "lat": 8.0,
+    "lng": 1.16666666,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Tokelau",
+    "region": "Global",
+    "lat": -9.0,
+    "lng": -172.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Tonga",
+    "region": "Global",
+    "lat": -20.0,
+    "lng": -175.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "region": "North America",
+    "lat": 11.0,
+    "lng": -61.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Tunisia",
+    "region": "Africa",
+    "lat": 34.0,
+    "lng": 9.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Turkey",
+    "region": "Europe",
+    "lat": 39.0,
+    "lng": 35.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Turkmenistan",
+    "region": "Asia",
+    "lat": 40.0,
+    "lng": 60.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Tuvalu",
+    "region": "Oceania",
+    "lat": -8.0,
+    "lng": 178.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
     "country": "Uganda",
     "region": "Africa",
     "lat": 1.3733,
     "lng": 32.2903,
     "is_country": true
+  },
+  {
+    "country": "Ukraine",
+    "region": "Europe",
+    "lat": 49.0,
+    "lng": 32.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "United Arab Emirates",
+    "region": "Africa",
+    "lat": 24.0,
+    "lng": 54.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
   },
   {
     "country": "United Kingdom",
@@ -142,5 +2041,104 @@
     "lng": -95.7129,
     "is_country": true,
     "alias": "US"
+  },
+  {
+    "country": "Uruguay",
+    "region": "South America",
+    "lat": -33.0,
+    "lng": -56.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Uzbekistan",
+    "region": "Asia",
+    "lat": 41.0,
+    "lng": 64.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Vanuatu",
+    "region": "Oceania",
+    "lat": -16.0,
+    "lng": 167.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Vatican City State",
+    "region": "Europe",
+    "lat": 41.904755,
+    "lng": 12.454628,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Venezuela",
+    "region": "North America",
+    "lat": 8.0,
+    "lng": -66.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Vietnam",
+    "region": "Asia",
+    "lat": 16.16666666,
+    "lng": 107.83333333,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Wallis and Futuna",
+    "region": "Global",
+    "lat": -13.3,
+    "lng": -176.2,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Western Sahara",
+    "region": "Africa",
+    "lat": 24.5,
+    "lng": -13.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Yemen",
+    "region": "Africa",
+    "lat": 15.0,
+    "lng": 48.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Zambia",
+    "region": "Africa",
+    "lat": -15.0,
+    "lng": 30.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
+  },
+  {
+    "country": "Zimbabwe",
+    "region": "Africa",
+    "lat": -20.0,
+    "lng": 30.0,
+    "is_country": true,
+    "alpha2": null,
+    "alpha3": null
   }
 ]

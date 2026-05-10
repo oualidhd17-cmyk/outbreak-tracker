@@ -146,6 +146,79 @@
     "views_hint": 0
   },
   {
+    "id": "11f90eab7a7f9d9f85",
+    "slug": "tristan-da-cunha",
+    "keyword": "tristan da cunha",
+    "title": "tristan da cunha trend tracker",
+    "description": "tristan da cunha is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
+    "category": "public-health",
+    "geo": "CH",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-10T13:20:00+00:00",
+    "updated_at": "2026-05-10T15:38:16+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=CH",
+    "sources": [
+      {
+        "title": "Army parachutes onto Tristan da Cunha to help Briton with suspected hantavirus",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5mVXFUUklxRlVfZ2FqT25lYUFaUUlkVDBFYlpKTmp4aGJpWFk1OW9TcjFtX2YtQTJDSVhPZzVqSnlBQkRFMzRCM2pHdjR5UnhZdGlkck11bkcwUQ?oc=5",
+        "source": "BBC",
+        "published_at": "2026-05-10T15:02:51+00:00",
+        "summary": "Army parachutes onto Tristan da Cunha to help Briton with suspected hantavirus BBC British paratroopers lead airdrop onto Tristan da Cunha for suspected hantavirus case Reuters Army parachutes on to Tristan da Cunha to attend suspected hantavirus case – video The Guardian Military delivers medical support for hantavirus in daring parachute drop Sky News Army launches parachute mission to remote British island to treat rat-virus victim The Telegraph Military conducts daring parachute drop to deliver critical medical support to Tristan da Cunha GOV.UK Army parachutes team onto remote island to s"
+      },
+      {
+        "title": "New suspected hantavirus cases found in Spain, Tristan da Cunha",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOHpsV2I2Y05WSTZicU9uRGE5eVlWUlE0MHdyU3R1aGZBV3N3LXJWR0xPbnZxZjlRQmlXZkdZcGhIamdFbHQtVWRnTUxhOUVCS2daZ0lKanVyZ0daU1Z3TjRQTnBnc2JUSUVRTi1vU3NYamhxd0ZhSW5hdUlBM0RGbm5GdjR1OXc3NlBwa2tQR3NyUFIwaFEtcTVId2ZSeFF4eGlScjRyRGxBeUVfZkw1QzE4TmdNTkRwY1pv?oc=5",
+        "source": "Honolulu Star-Advertiser",
+        "published_at": "2026-05-08T23:21:46+00:00",
+        "summary": "New suspected hantavirus cases found in Spain, Tristan da Cunha Honolulu Star-Advertiser"
+      },
+      {
+        "title": "What to know about Tristan da Cunha, the island with a suspected hantavirus case",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQWdlUE9YRUdJSDlWamZNOEhoaXpmWVBQdUFvSERnZk5YZkZjRXRQOTlvazJJSzMwenBxalRQN2w5bU9yYmNmUlhpeUoyNk5GRFQ1clIwc0pjV3ROdldHNjV3VGFpT0ZFUzYxanp4Nk1VUUk3ejlieFFpeFc0akJMdXNBaUtfRDF0dW5ZUGpveE1JT3hjR1BMLWpzZ09tQjNJdkFLY1lGdXFTaUJqMnlBdU13?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-05-08T13:54:15+00:00",
+        "summary": "What to know about Tristan da Cunha, the island with a suspected hantavirus case Reuters"
+      },
+      {
+        "title": "British paratroopers lead airdrop onto Tristan da Cunha for suspected hantavirus case",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE95Z0RQem1mdFdrUXFrNUtvMjVEeHJFblF3cWtCVjNlc0c3YTZPM0NOZ3BjYXlNNEROSTlVWnZ6ZGtjcm1FLWg3RE5kNDFMZHpSNEhhcGluRnd6RnJPZkY0?oc=5",
+        "source": "The Jerusalem Post",
+        "published_at": "2026-05-10T13:21:53+00:00",
+        "summary": "British paratroopers lead airdrop onto Tristan da Cunha for suspected hantavirus case The Jerusalem Post"
+      }
+    ],
+    "related_queries": [
+      "Army parachutes onto Tristan da Cunha to help Briton with suspected hantavirus",
+      "British paratroopers lead airdrop onto Tristan da Cunha for suspected hantavirus case",
+      "Military delivers medical support for hantavirus in daring parachute drop"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "tristan da cunha Live Trend Tracker | HantaUpdates",
+      "description": "tristan da cunha is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links w",
+      "canonical": "https://hantamap.online/trend/tristan-da-cunha",
+      "keywords": [
+        "tristan da cunha",
+        "tristan da cunha tracker",
+        "tristan da cunha updates",
+        "tristan da cunha live updates",
+        "tristan da cunha outbreak",
+        "tristan da cunha symptoms",
+        "tristan da cunha public health",
+        "tristan da cunha source links"
+      ]
+    },
+    "first_seen_at": "2026-05-10T15:38:16+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "b7d993ca0a362ee18f",
     "slug": "vad-r-hantavirus",
     "keyword": "vad är hantavirus",
