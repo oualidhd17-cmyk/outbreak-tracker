@@ -1,8 +1,8 @@
 {
-  "combined_hash": "bf0df744277eba04f11062e037203b2a843caa2b7c48cdfbb5f7cc034041ce8e",
-  "last_checked_at": "2026-05-10T09:16:12+00:00",
-  "last_run_status": "updated",
-  "current_event_name": "Ebola virus disease update - West Africa",
-  "events_count": 49,
-  "fetch_log_size": 169
+  "combined_hash": "f294404964a02ed203362ed9819d23324642637c91ad733cb041eb5d35a4f853",
+  "last_checked_at": "2026-05-10T14:38:45+00:00",
+  "last_run_status": "unchanged_rewritten",
+  "current_event_name": "Africa CDC disease outbreak report",
+  "events_count": 10,
+  "fetch_log_size": 50
 }

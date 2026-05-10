@@ -1,0 +1,146 @@
+[
+  {
+    "country": "Argentina",
+    "region": "South America",
+    "lat": -38.4161,
+    "lng": -63.6167,
+    "is_country": true
+  },
+  {
+    "country": "Brazil",
+    "region": "South America",
+    "lat": -14.235,
+    "lng": -51.9253,
+    "is_country": true
+  },
+  {
+    "country": "Canada",
+    "region": "North America",
+    "lat": 56.1304,
+    "lng": -106.3468,
+    "is_country": true
+  },
+  {
+    "country": "Chile",
+    "region": "South America",
+    "lat": -35.6751,
+    "lng": -71.543,
+    "is_country": true
+  },
+  {
+    "country": "Congo",
+    "region": "Africa",
+    "lat": -0.228,
+    "lng": 15.8277,
+    "is_country": true,
+    "alias": "Congo Brazzaville"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "region": "Africa",
+    "lat": -4.0383,
+    "lng": 21.7587,
+    "is_country": true,
+    "alias": "Congo-Kinshasa"
+  },
+  {
+    "country": "Finland",
+    "region": "Europe",
+    "lat": 61.9241,
+    "lng": 25.7482,
+    "is_country": true
+  },
+  {
+    "country": "France",
+    "region": "Europe",
+    "lat": 46.2276,
+    "lng": 2.2137,
+    "is_country": true
+  },
+  {
+    "country": "Germany",
+    "region": "Europe",
+    "lat": 51.1657,
+    "lng": 10.4515,
+    "is_country": true
+  },
+  {
+    "country": "Italy",
+    "region": "Europe",
+    "lat": 41.8719,
+    "lng": 12.5674,
+    "is_country": true
+  },
+  {
+    "country": "Mexico",
+    "region": "North America",
+    "lat": 23.6345,
+    "lng": -102.5528,
+    "is_country": true
+  },
+  {
+    "country": "Netherlands",
+    "region": "Europe",
+    "lat": 52.1326,
+    "lng": 5.2913,
+    "is_country": true
+  },
+  {
+    "country": "Norway",
+    "region": "Europe",
+    "lat": 60.472,
+    "lng": 8.4689,
+    "is_country": true
+  },
+  {
+    "country": "Panama",
+    "region": "Central America",
+    "lat": 8.538,
+    "lng": -80.7821,
+    "is_country": true
+  },
+  {
+    "country": "Portugal",
+    "region": "Europe",
+    "lat": 39.3999,
+    "lng": -8.2245,
+    "is_country": true
+  },
+  {
+    "country": "Spain",
+    "region": "Europe",
+    "lat": 40.4637,
+    "lng": -3.7492,
+    "is_country": true
+  },
+  {
+    "country": "Sweden",
+    "region": "Europe",
+    "lat": 60.1282,
+    "lng": 18.6435,
+    "is_country": true
+  },
+  {
+    "country": "Uganda",
+    "region": "Africa",
+    "lat": 1.3733,
+    "lng": 32.2903,
+    "is_country": true
+  },
+  {
+    "country": "United Kingdom",
+    "region": "Europe",
+    "lat": 55.3781,
+    "lng": -3.436,
+    "is_country": true,
+    "alias": "England"
+  },
+  {
+    "country": "United States",
+    "region": "North America",
+    "lat": 37.0902,
+    "lng": -95.7129,
+    "is_country": true,
+    "alias": "US"
+  }
+]

@@ -1,21 +1,42 @@
+import fs from 'node:fs';
+import path from 'node:path';
+
 import type { Metadata } from 'next';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import { readFile } from 'node:fs/promises';
-import path from 'node:path';
+import { ArrowLeft, ExternalLink, ShieldCheck } from 'lucide-react';
 
 import { formatDateTime, formatNumber } from '@/lib/format';
-import type { OutbreakCountry } from '@/types/outbreak';
+import type {
+  OutbreakCountry,
+  OutbreakGlobalStats,
+  OutbreakOfficialEvent,
+} from '@/types/outbreak';
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://hantamap.online';
-
-type CountryPageProps = {
+type PageProps = {
   params: Promise<{
     country: string;
   }>;
 };
 
-function slugifyCountry(value: string): string {
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://hantamap.online';
+const DATA_DIR = path.join(process.cwd(), 'public', 'data');
+
+function readJson<T>(fileName: string, fallback: T): T {
+  try {
+    const filePath = path.join(DATA_DIR, fileName);
+
+    if (!fs.existsSync(filePath)) {
+      return fallback;
+    }
+
+    return JSON.parse(fs.readFileSync(filePath, 'utf-8')) as T;
+  } catch {
+    return fallback;
+  }
+}
+
+function slugify(value: string): string {
   return value
     .toLowerCase()
     .trim()
@@ -25,52 +46,44 @@ function slugifyCountry(value: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-function titleCaseFromSlug(value: string): string {
-  return value
-    .split('-')
-    .filter(Boolean)
-    .map((part) => part.charAt(0).toUpperCase() + part.slice(1))
-    .join(' ');
+function loadCountries(): OutbreakCountry[] {
+  return readJson<OutbreakCountry[]>('countries.json', []);
 }
 
-async function loadCountriesFromDisk(): Promise<OutbreakCountry[]> {
-  try {
-    const filePath = path.join(process.cwd(), 'public', 'data', 'countries.json');
-    const content = await readFile(filePath, 'utf8');
-
-    return JSON.parse(content) as OutbreakCountry[];
-  } catch {
-    return [];
-  }
+function loadGlobal(): OutbreakGlobalStats | null {
+  return readJson<OutbreakGlobalStats | null>('global.json', null);
 }
 
-async function findCountry(countrySlug: string): Promise<OutbreakCountry | null> {
-  const countries = await loadCountriesFromDisk();
+function loadOfficialEvents(): OutbreakOfficialEvent[] {
+  return readJson<OutbreakOfficialEvent[]>('official_events.json', []);
+}
 
+function findCountryBySlug(slug: string): OutbreakCountry | null {
   return (
-    countries.find((country) => slugifyCountry(country.country) === countrySlug) ??
-    null
+    loadCountries().find((country) => slugify(country.country) === slug) ?? null
   );
 }
 
-export async function generateStaticParams() {
-  const countries = await loadCountriesFromDisk();
-
-  return countries.map((country) => ({
-    country: slugifyCountry(country.country),
+export function generateStaticParams() {
+  return loadCountries().map((country) => ({
+    country: slugify(country.country),
   }));
 }
 
 export async function generateMetadata({
   params,
-}: CountryPageProps): Promise<Metadata> {
+}: PageProps): Promise<Metadata> {
   const { country: countrySlug } = await params;
-  const country = await findCountry(countrySlug);
+  const country = findCountryBySlug(countrySlug);
 
-  const countryName = country?.country ?? titleCaseFromSlug(countrySlug);
+  if (!country) {
+    return {
+      title: 'Hantavirus location update',
+    };
+  }
 
-  const title = `Hantavirus in ${countryName} | Cases, Deaths & Updates`;
-  const description = `Track hantavirus updates in ${countryName}, including confirmed cases, reported deaths, risk level, and last available public-health update.`;
+  const title = `${country.country} Hantavirus Update`;
+  const description = `Latest official-source hantavirus tracking summary for ${country.country}. Confirmed: ${country.confirmed}, suspected: ${country.suspected ?? 0}, deaths: ${country.deaths}.`;
 
   return {
     title,
@@ -79,11 +92,10 @@ export async function generateMetadata({
       canonical: `/hantavirus/${countrySlug}`,
     },
     openGraph: {
-      type: 'website',
-      url: `${SITE_URL}/hantavirus/${countrySlug}`,
-      siteName: 'HantaMap',
       title,
       description,
+      url: `${SITE_URL}/hantavirus/${countrySlug}`,
+      type: 'article',
     },
     twitter: {
       card: 'summary_large_image',
@@ -93,135 +105,77 @@ export async function generateMetadata({
   };
 }
 
-export default async function CountryHantavirusPage({
-  params,
-}: CountryPageProps) {
+export default async function HantavirusCountryPage({ params }: PageProps) {
   const { country: countrySlug } = await params;
-  const country = await findCountry(countrySlug);
 
-  if (!country) {
+  const country = findCountryBySlug(countrySlug);
+  const global = loadGlobal();
+  const events = loadOfficialEvents();
+
+  if (!country || !global) {
     notFound();
   }
 
-  const confirmed = country.confirmed ?? 0;
-  const deaths = country.deaths ?? 0;
+  const totalIdentified = country.total_identified ?? country.confirmed;
   const suspected = country.suspected ?? 0;
   const probable = country.probable ?? 0;
   const possible = country.possible ?? 0;
   const underInvestigation = country.under_investigation ?? 0;
   const pending = country.pending ?? 0;
-
   const unconfirmed =
     country.unconfirmed ??
     suspected + probable + possible + underInvestigation + pending;
 
-  const totalIdentified = country.total_identified ?? confirmed + unconfirmed;
+  const relatedEvents = events.filter((event) => {
+    return (event.countries ?? []).some((item) => {
+      return slugify(item.country) === countrySlug;
+    });
+  });
 
-  const pageTitle = `Hantavirus report for ${country.country}`;
-  const canonicalUrl = `${SITE_URL}/hantavirus/${countrySlug}`;
-
-  const jsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'Dataset',
-    name: `${country.country} hantavirus tracking report`,
-    description: `Country-level hantavirus report for ${country.country}, including confirmed cases, unconfirmed signals, deaths, and risk level.`,
-    url: canonicalUrl,
-    isAccessibleForFree: true,
-    keywords: [
-      'hantavirus',
-      `hantavirus ${country.country}`,
-      `${country.country} hantavirus cases`,
-      `${country.country} hantavirus outbreak`,
-      'outbreak tracker',
-      'public health data',
-    ],
-    spatialCoverage: {
-      '@type': 'Place',
-      name: country.country,
-      geo: {
-        '@type': 'GeoCoordinates',
-        latitude: country.lat,
-        longitude: country.lng,
-      },
-    },
-    variableMeasured: [
-      {
-        '@type': 'PropertyValue',
-        name: 'Confirmed cases',
-        value: confirmed,
-      },
-      {
-        '@type': 'PropertyValue',
-        name: 'Unconfirmed cases',
-        value: unconfirmed,
-      },
-      {
-        '@type': 'PropertyValue',
-        name: 'Total identified cases',
-        value: totalIdentified,
-      },
-      {
-        '@type': 'PropertyValue',
-        name: 'Deaths',
-        value: deaths,
-      },
-      {
-        '@type': 'PropertyValue',
-        name: 'Risk level',
-        value: country.risk_level,
-      },
-    ],
-    dateModified: country.last_updated,
-  };
+  const primaryUrl = global.primary_event_url ?? global.current_outbreak?.source_url;
 
   return (
-    <main className="min-h-dvh bg-black px-4 py-8 text-white sm:px-6 lg:px-8">
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{
-          __html: JSON.stringify(jsonLd),
-        }}
-      />
-
+    <main className="min-h-dvh bg-black px-4 py-6 text-white sm:px-6 lg:px-8">
       <div className="mx-auto w-full max-w-6xl">
         <Link
           href="/"
-          className="inline-flex items-center border border-white/10 bg-white/[0.03] px-3 py-2 text-xs font-semibold uppercase tracking-[0.16em] text-white/45 transition hover:border-white/20 hover:bg-white/[0.06] hover:text-white"
+          className="inline-flex items-center gap-2 border border-white/10 bg-white/[0.03] px-3 py-2 text-xs font-black uppercase tracking-[0.16em] text-white/45 transition hover:border-white/20 hover:bg-white/[0.06] hover:text-white"
         >
-          ← Back to dashboard
+          <ArrowLeft className="h-3.5 w-3.5" />
+          Back to dashboard
         </Link>
 
-        <section className="mt-6 overflow-hidden border border-white/10 bg-[#050505] shadow-[0_18px_60px_rgba(0,0,0,0.35)]">
-          <div className="relative p-5 sm:p-7 lg:p-8">
-            <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(239,68,68,0.16),transparent_34%),radial-gradient(circle_at_bottom_left,rgba(16,185,129,0.08),transparent_38%)]" />
+        <section className="mt-5 overflow-hidden border border-white/10 bg-[#050505]">
+          <div className="relative p-5 sm:p-7">
+            <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(239,68,68,0.14),transparent_34%),radial-gradient(circle_at_bottom_left,rgba(16,185,129,0.08),transparent_36%)]" />
 
             <div className="relative">
-              <p className="text-[11px] font-semibold uppercase tracking-[0.24em] text-red-300/75">
-                Country / Region report
-              </p>
+              <div className="inline-flex items-center gap-2 border border-emerald-400/20 bg-emerald-400/10 px-3 py-1 text-[10px] font-black uppercase tracking-[0.18em] text-emerald-200">
+                <ShieldCheck className="h-3.5 w-3.5" />
+                Official-source location page
+              </div>
 
-              <h1 className="mt-3 max-w-4xl text-3xl font-semibold tracking-[-0.055em] text-white sm:text-5xl lg:text-6xl">
-                {pageTitle}
+              <h1 className="mt-5 max-w-4xl text-4xl font-black tracking-[-0.06em] text-white sm:text-6xl">
+                {country.country} Hantavirus Update
               </h1>
 
-              <p className="mt-5 max-w-3xl text-sm leading-7 text-white/58 sm:text-base sm:leading-8">
-                This report is generated automatically from the confirmed cases
-                by country/region dataset. It summarizes the latest available
-                Hantavirus values for{' '}
-                <strong className="font-semibold text-white">{country.country}</strong>.
+              <p className="mt-4 max-w-3xl text-sm leading-8 text-white/58 sm:text-base">
+                Current public-health tracking summary for this affected
+                location. This page is informational only and does not provide
+                medical advice.
               </p>
 
-              <div className="mt-6 flex flex-wrap gap-2">
-                <span className="border border-red-400/25 bg-red-400/10 px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-red-200">
+              <div className="mt-5 flex flex-wrap gap-2">
+                <span className="border border-white/10 bg-white/[0.04] px-3 py-1 text-[10px] font-black uppercase tracking-[0.16em] text-white/45">
+                  {country.region || 'Region unavailable'}
+                </span>
+
+                <span className="border border-red-400/20 bg-red-500/10 px-3 py-1 text-[10px] font-black uppercase tracking-[0.16em] text-red-200">
                   Risk: {country.risk_level}
                 </span>
 
-                <span className="border border-white/10 bg-white/[0.04] px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-white/45">
-                  Region: {country.region ?? 'Unknown'}
-                </span>
-
-                <span className="border border-emerald-400/25 bg-emerald-400/10 px-3 py-1 text-[10px] font-semibold uppercase tracking-[0.16em] text-emerald-200">
-                  Updated: {formatDateTime(country.last_updated)}
+                <span className="border border-white/10 bg-white/[0.04] px-3 py-1 text-[10px] font-black uppercase tracking-[0.16em] text-white/45">
+                  Updated: {formatDateTime(country.last_updated ?? global.last_updated)}
                 </span>
               </div>
             </div>
@@ -230,114 +184,148 @@ export default async function CountryHantavirusPage({
 
         <section className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
           <div className="border border-white/10 bg-[#050505] p-5">
-            <p className="text-[10px] font-semibold uppercase tracking-[0.2em] text-white/35">
-              Confirmed cases
+            <p className="text-[10px] font-black uppercase tracking-[0.18em] text-white/35">
+              Confirmed
             </p>
-            <div className="mt-3 font-mono text-4xl font-light tracking-[-0.04em] text-white">
-              {formatNumber(confirmed)}
+            <div className="mt-2 font-mono text-4xl font-black text-red-500">
+              {formatNumber(country.confirmed)}
             </div>
           </div>
 
           <div className="border border-white/10 bg-[#050505] p-5">
-            <p className="text-[10px] font-semibold uppercase tracking-[0.2em] text-white/35">
-              Unconfirmed signals
+            <p className="text-[10px] font-black uppercase tracking-[0.18em] text-white/35">
+              Suspected
             </p>
-            <div className="mt-3 font-mono text-4xl font-light tracking-[-0.04em] text-white">
-              {formatNumber(unconfirmed)}
+            <div className="mt-2 font-mono text-4xl font-black text-amber-300">
+              {formatNumber(suspected)}
             </div>
           </div>
 
           <div className="border border-white/10 bg-[#050505] p-5">
-            <p className="text-[10px] font-semibold uppercase tracking-[0.2em] text-white/35">
+            <p className="text-[10px] font-black uppercase tracking-[0.18em] text-white/35">
               Total identified
             </p>
-            <div className="mt-3 font-mono text-4xl font-light tracking-[-0.04em] text-white">
+            <div className="mt-2 font-mono text-4xl font-black text-white">
               {formatNumber(totalIdentified)}
             </div>
           </div>
 
           <div className="border border-white/10 bg-[#050505] p-5">
-            <p className="text-[10px] font-semibold uppercase tracking-[0.2em] text-white/35">
-              Reported deaths
+            <p className="text-[10px] font-black uppercase tracking-[0.18em] text-white/35">
+              Deaths
             </p>
-            <div className="mt-3 font-mono text-4xl font-light tracking-[-0.04em] text-red-200">
-              {formatNumber(deaths)}
+            <div className="mt-2 font-mono text-4xl font-black text-white">
+              {formatNumber(country.deaths)}
             </div>
           </div>
         </section>
 
-        <section className="mt-4 grid gap-4 lg:grid-cols-[minmax(0,1fr)_360px]">
-          <article className="border border-white/10 bg-[#050505] p-5 sm:p-6">
-            <h2 className="text-2xl font-semibold tracking-[-0.04em] text-white">
-              Situation summary
+        <section className="mt-4 grid gap-4 lg:grid-cols-[minmax(0,1fr)_340px]">
+          <div className="border border-white/10 bg-[#050505] p-5 sm:p-6">
+            <h2 className="text-xl font-black tracking-[-0.04em] text-white">
+              Case classification
             </h2>
 
-            <div className="mt-5 space-y-4 text-sm leading-8 text-white/58">
-              <p>
-                The current country/region record for{' '}
-                <strong className="font-semibold text-white">{country.country}</strong>{' '}
-                shows{' '}
-                <strong className="font-semibold text-white">
-                  {formatNumber(confirmed)} confirmed cases
-                </strong>
-                ,{' '}
-                <strong className="font-semibold text-white">
-                  {formatNumber(unconfirmed)} unconfirmed signals
-                </strong>
-                , and{' '}
-                <strong className="font-semibold text-white">
-                  {formatNumber(deaths)} reported deaths
-                </strong>
-                .
-              </p>
-
-              <p>
-                Values may change when official sources confirm, reclassify, or
-                rule out cases. This report is for public information only and
-                does not provide medical advice.
-              </p>
-
-              <p>
-                For the full global dashboard, interactive map, timeline, and
-                source list, return to the main HantaMap dashboard.
-              </p>
+            <div className="mt-5 grid gap-3 sm:grid-cols-2">
+              {[
+                ['Probable', probable],
+                ['Possible', possible],
+                ['Under investigation', underInvestigation],
+                ['Pending', pending],
+                ['Unconfirmed total', unconfirmed],
+                ['Hospitalized', country.hospitalized ?? 0],
+                ['Recovered', country.recovered ?? 0],
+                ['Active estimate', country.active ?? 0],
+              ].map(([label, value]) => (
+                <div
+                  key={String(label)}
+                  className="flex items-center justify-between gap-4 border border-white/10 bg-white/[0.025] px-4 py-3"
+                >
+                  <span className="text-xs font-bold uppercase tracking-[0.14em] text-white/40">
+                    {label}
+                  </span>
+                  <span className="font-mono text-lg font-black text-white">
+                    {formatNumber(Number(value))}
+                  </span>
+                </div>
+              ))}
             </div>
-          </article>
+          </div>
 
           <aside className="border border-white/10 bg-[#050505] p-5">
-            <h2 className="text-lg font-semibold text-white">Report details</h2>
+            <h2 className="text-base font-black text-white">
+              Source and status
+            </h2>
 
-            <dl className="mt-5 space-y-4 text-sm">
-              <div className="flex justify-between gap-4 border-b border-white/10 pb-3">
-                <dt className="text-white/40">Country / Region</dt>
-                <dd className="text-right font-medium text-white">{country.country}</dd>
-              </div>
+            <div className="mt-4 space-y-4 text-sm leading-7 text-white/55">
+              <p>
+                Primary event:{' '}
+                <span className="font-bold text-white">
+                  {global.event_name ?? 'Current outbreak event'}
+                </span>
+              </p>
 
-              <div className="flex justify-between gap-4 border-b border-white/10 pb-3">
-                <dt className="text-white/40">Region</dt>
-                <dd className="text-right font-medium text-white">
-                  {country.region ?? 'Unknown'}
-                </dd>
-              </div>
+              <p>
+                Data mode:{' '}
+                <span className="font-bold text-emerald-300">Static JSON</span>
+              </p>
 
-              <div className="flex justify-between gap-4 border-b border-white/10 pb-3">
-                <dt className="text-white/40">Risk level</dt>
-                <dd className="text-right font-medium uppercase text-red-200">
-                  {country.risk_level}
-                </dd>
-              </div>
+              <p>
+                Coordinates:{' '}
+                <span className="font-mono text-white">
+                  {country.lat}, {country.lng}
+                </span>
+              </p>
 
-              <div className="flex justify-between gap-4 border-b border-white/10 pb-3">
-                <dt className="text-white/40">Latitude</dt>
-                <dd className="text-right font-mono text-white">{country.lat}</dd>
-              </div>
-
-              <div className="flex justify-between gap-4">
-                <dt className="text-white/40">Longitude</dt>
-                <dd className="text-right font-mono text-white">{country.lng}</dd>
-              </div>
-            </dl>
+              {primaryUrl ? (
+                <a
+                  href={primaryUrl}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="inline-flex items-center gap-2 border border-white/10 bg-white/[0.04] px-3 py-2 text-xs font-black uppercase tracking-[0.14em] text-white/60 transition hover:border-white/20 hover:bg-white/[0.08] hover:text-white"
+                >
+                  Open primary source
+                  <ExternalLink className="h-3.5 w-3.5" />
+                </a>
+              ) : null}
+            </div>
           </aside>
+        </section>
+
+        <section className="mt-4 border border-white/10 bg-[#050505] p-5 sm:p-6">
+          <h2 className="text-xl font-black tracking-[-0.04em] text-white">
+            Related official events
+          </h2>
+
+          <div className="mt-5 grid gap-3">
+            {relatedEvents.length === 0 ? (
+              <div className="border border-white/10 bg-white/[0.025] p-4 text-sm text-white/45">
+                No related official event entries found for this location.
+              </div>
+            ) : (
+              relatedEvents.map((event) => (
+                <a
+                  key={`${event.source_id}-${event.url}`}
+                  href={event.url}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="group border border-white/10 bg-white/[0.025] p-4 transition hover:border-white/20 hover:bg-white/[0.045]"
+                >
+                  <p className="text-[10px] font-black uppercase tracking-[0.16em] text-white/35">
+                    {event.source} · {event.published_at || 'Date unavailable'}
+                  </p>
+
+                  <h3 className="mt-2 text-base font-black text-white group-hover:text-red-200">
+                    {event.title}
+                  </h3>
+
+                  <p className="mt-2 line-clamp-2 text-sm leading-7 text-white/50">
+                    {event.summary}
+                  </p>
+                </a>
+              ))
+            )}
+          </div>
         </section>
       </div>
     </main>

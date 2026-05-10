@@ -168,7 +168,7 @@ export function OutbreakDashboard() {
           }}
         />
 
-        <section className="grid min-h-0 bg-[#000] lg:grid-rows-[auto_auto_minmax(560px,1fr)_320px]">
+        <section className="grid min-h-0 bg-[#000] lg:grid-rows-[auto_auto_minmax(520px,1fr)_360px]">
           <header className="grid min-w-0 gap-3 border-b border-[#222] bg-[#0a0a0a] px-4 py-3 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
             <div className="min-w-0" dir={isRtl ? 'rtl' : 'ltr'}>
               <div className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-gray-500">
@@ -213,11 +213,11 @@ export function OutbreakDashboard() {
           isArabic={isRtl}
         />
 
-        <div className="h-[560px] min-h-0 border-b border-[#222] bg-[#000] sm:h-[640px] lg:h-full lg:min-h-[560px]">
+        <div className="h-[520px] min-h-0 border-b border-[#222] bg-black sm:h-[600px] lg:h-full lg:min-h-[520px]">
           <DarkOutbreakMap points={data.points} />
         </div>
 
-          <div className="grid min-h-0 min-w-0 gap-px border-t border-[#222] bg-[#222] lg:grid-cols-[minmax(0,1fr)_300px]">
+          <div className="grid min-h-[360px] min-w-0 gap-px border-t border-[#222] bg-[#222] lg:grid-cols-[minmax(0,1fr)_320px]">
             <TimelineChart
               data={data.timeline}
               labels={{

@@ -44,6 +44,8 @@ export type OutbreakGlobalStats = {
   disease: string;
   event_name?: string | null;
 
+  tracked_countries?: number;
+
   total_confirmed: number;
   total_deaths: number;
   total_recovered: number;
@@ -74,6 +76,8 @@ export type OutbreakCountry = {
   country: string;
   region?: string;
 
+  is_country?: boolean;
+
   confirmed: number;
   suspected?: number;
   probable?: number;
@@ -100,6 +104,9 @@ export type OutbreakPoint = {
   id: string;
   name: string;
   country: string;
+
+  region?: string;
+  is_country?: boolean;
 
   confirmed: number;
   suspected?: number;

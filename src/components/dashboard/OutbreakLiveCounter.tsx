@@ -163,7 +163,7 @@ export function OutbreakLiveCounter({
         </div>
       </div>
 
-      <div className="mt-4 grid gap-3 sm:grid-cols-3">
+      <div className="mt-4 grid gap-3 sm:grid-cols-3" dir={dir}>
         <div className="rounded-xl border border-[#252525] bg-[#0b0b0b] p-4">
           <div className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-[0.16em] text-gray-500">
             <Activity className="h-3.5 w-3.5 text-red-500" />
