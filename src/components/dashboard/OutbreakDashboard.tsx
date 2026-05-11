@@ -162,7 +162,13 @@ export function OutbreakDashboard() {
     <main dir="ltr" className="min-h-dvh bg-[#000] pb-16 text-white">
       <OutbreakStructuredData global={data.global} />
 
-      <div className="grid min-h-dvh grid-cols-1 bg-black lg:grid-cols-[340px_minmax(0,1fr)]">
+      <div
+        className="
+          grid min-h-dvh grid-cols-1 items-start bg-black
+          lg:grid-cols-[280px_minmax(0,1fr)]
+          xl:grid-cols-[320px_minmax(0,1fr)]
+        "
+      >
         <StatsSidebar
           global={data.global}
           countries={data.countries}
@@ -181,8 +187,8 @@ export function OutbreakDashboard() {
           }}
         />
 
-        <section className="grid min-h-0 bg-[#000] lg:grid-rows-[auto_auto_minmax(520px,1fr)_360px]">
-          <header className="grid min-w-0 gap-3 border-b border-[#222] bg-[#0a0a0a] px-4 py-3 lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
+        <section className="min-w-0 bg-[#000]">
+          <header className="sticky top-0 z-[800] grid min-w-0 gap-3 border-b border-[#222] bg-[#0a0a0a]/95 px-4 py-3 backdrop-blur lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
             <div className="min-w-0" dir={isRtl ? 'rtl' : 'ltr'}>
               <div className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-gray-500">
                 <ShieldCheck className="h-3.5 w-3.5 shrink-0 text-green-500" />
@@ -236,7 +242,7 @@ export function OutbreakDashboard() {
             isArabic={isRtl}
           />
 
-          <div className="h-[520px] min-h-0 border-b border-[#222] bg-black sm:h-[600px] lg:h-full lg:min-h-[520px]">
+          <div className="h-[520px] min-h-0 border-b border-[#222] bg-black sm:h-[620px] lg:h-[calc(100dvh-140px)] lg:min-h-[560px]">
             <DarkOutbreakMap
               points={data.points}
               selectedCountry={selectedCountry}

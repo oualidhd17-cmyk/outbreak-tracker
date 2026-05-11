@@ -59,31 +59,39 @@ export function StatsSidebar({
       : global.total_confirmed;
 
   return (
-    <aside className="flex flex-col border-r border-[#222] bg-[#050505]">
-      <div className="border-b border-[#222] bg-black px-5 py-6">
-        <div className="text-[10px] font-bold uppercase tracking-[0.2em] text-red-500">
+    <aside
+      dir={dir}
+      className="
+        sticky top-0 z-[900]
+        flex max-h-[78dvh] min-h-0 flex-col overflow-hidden
+        border-b border-[#222] bg-[#050505]
+        lg:h-dvh lg:max-h-dvh lg:border-b-0 lg:border-r
+      "
+    >
+      <div className="shrink-0 border-b border-[#222] bg-black px-4 py-4 sm:px-5 sm:py-5">
+        <div className="text-[9px] font-bold uppercase tracking-[0.2em] text-red-500 sm:text-[10px]">
           {labels.appTitle}
         </div>
 
-        <h1 className="text-2xl font-black uppercase tracking-[0.06em] text-white">
+        <h1 className="mt-1 text-xl font-black uppercase tracking-[0.06em] text-white sm:text-2xl">
           HANTAVIRUS
         </h1>
 
-        <p className="mt-2 text-xs leading-6 text-gray-500">
+        <p className="mt-2 line-clamp-2 text-xs leading-5 text-gray-500 lg:line-clamp-none">
           {labels.appSubtitle}
         </p>
       </div>
 
-      <div className="border-b border-[#222] bg-black px-5 py-5">
-        <div className="flex items-center justify-between gap-3">
+      <div className="shrink-0 border-b border-[#222] bg-black px-4 py-4 sm:px-5">
+        <div className="flex items-start justify-between gap-3">
           <div>
-            <div className="text-xs font-black uppercase tracking-widest text-gray-500">
+            <div className="text-[10px] font-black uppercase tracking-widest text-gray-500">
               {labels.totalConfirmed}
             </div>
 
             <div
               dir="ltr"
-              className="mt-2 font-mono text-6xl font-black leading-none tracking-tight text-red-500"
+              className="mt-1 font-mono text-5xl font-black leading-none tracking-tight text-red-500 sm:text-6xl"
             >
               {formatNumber(totalCases)}
             </div>
@@ -94,8 +102,8 @@ export function StatsSidebar({
           </div>
         </div>
 
-        <div className="mt-5 grid grid-cols-2 gap-3">
-          <div className="rounded-xl border border-[#222] bg-[#090909] p-4">
+        <div className="mt-4 grid grid-cols-2 gap-3">
+          <div className="rounded-xl border border-[#222] bg-[#090909] p-3 sm:p-4">
             <div className="flex items-center gap-2 text-[10px] font-black uppercase tracking-widest text-gray-500">
               <Skull className="h-3.5 w-3.5 text-gray-400" />
               <span className="truncate">{labels.deaths}</span>
@@ -109,7 +117,7 @@ export function StatsSidebar({
             </div>
           </div>
 
-          <div className="rounded-xl border border-[#222] bg-[#090909] p-4">
+          <div className="rounded-xl border border-[#222] bg-[#090909] p-3 sm:p-4">
             <div className="flex items-center gap-2 text-[10px] font-black uppercase tracking-widest text-gray-500">
               <Globe2 className="h-3.5 w-3.5 text-emerald-400" />
               <span className="truncate">{labels.countries}</span>
@@ -124,7 +132,7 @@ export function StatsSidebar({
           </div>
         </div>
 
-        <div className="mt-5 flex flex-wrap items-center gap-2 text-xs text-gray-500">
+        <div className="mt-4 flex flex-wrap items-center gap-2 text-xs text-gray-500">
           <Clock3 className="h-4 w-4 shrink-0" />
 
           <span className="font-black uppercase tracking-wider">
@@ -137,7 +145,7 @@ export function StatsSidebar({
         </div>
       </div>
 
-      <div className="flex shrink-0 items-center justify-between gap-3 border-b border-[#222] bg-[#080808] px-5 py-4">
+      <div className="sticky top-0 z-10 flex shrink-0 items-center justify-between gap-3 border-b border-[#222] bg-[#080808] px-4 py-3 sm:px-5">
         <div className="min-w-0 text-xs font-black uppercase tracking-widest text-gray-300">
           {labels.confirmedByCountry}
         </div>
@@ -148,7 +156,12 @@ export function StatsSidebar({
         </div>
       </div>
 
-      <div className="flex-1 overflow-y-auto bg-black pb-4">
+      <div
+        className="
+          min-h-0 flex-1 overflow-y-auto overscroll-contain bg-black pb-4
+          scrollbar-thin scrollbar-track-black scrollbar-thumb-[#333]
+        "
+      >
         {sortedCountries.length === 0 ? (
           <div className="px-5 py-6 text-sm text-gray-500">
             No affected locations available.
@@ -171,7 +184,7 @@ export function StatsSidebar({
                 type="button"
                 onClick={() => onSelectCountry?.(country.country)}
                 className={[
-                  'group grid w-full grid-cols-[64px_minmax(0,1fr)_auto] items-center gap-3 border-b px-5 py-3 text-left transition',
+                  'group grid w-full grid-cols-[54px_minmax(0,1fr)_auto] items-center gap-3 border-b px-4 py-3 text-left transition sm:grid-cols-[64px_minmax(0,1fr)_auto] sm:px-5',
                   isSelected
                     ? 'border-yellow-400/40 bg-yellow-400/10 shadow-[inset_4px_0_0_rgba(250,204,21,0.95)]'
                     : 'border-[#171717] hover:bg-[#101010]',
@@ -180,7 +193,7 @@ export function StatsSidebar({
               >
                 <div
                   className={[
-                    'font-mono text-base font-black',
+                    'font-mono text-sm font-black sm:text-base',
                     isSelected ? 'text-yellow-300' : 'text-red-500',
                   ].join(' ')}
                 >
@@ -189,7 +202,7 @@ export function StatsSidebar({
 
                 <div
                   className={[
-                    'min-w-0 truncate text-sm font-bold transition',
+                    'min-w-0 truncate text-xs font-bold uppercase transition sm:text-sm',
                     isSelected
                       ? 'text-yellow-100'
                       : 'text-gray-300 group-hover:text-white',
@@ -200,7 +213,7 @@ export function StatsSidebar({
 
                 <div
                   className={[
-                    'text-[10px] font-black uppercase tracking-wider transition',
+                    'text-[9px] font-black uppercase tracking-wider transition sm:text-[10px]',
                     isSelected
                       ? 'text-yellow-200'
                       : 'text-gray-600 group-hover:text-gray-300',

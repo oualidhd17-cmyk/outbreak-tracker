@@ -73,6 +73,79 @@
     "views_hint": 0
   },
   {
+    "id": "112472cdb135e4e1e3",
+    "slug": "hantavirus-peel-region",
+    "keyword": "hantavirus peel region",
+    "title": "hantavirus peel region trend tracker",
+    "description": "hantavirus peel region is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CTV News.",
+    "category": "public-health",
+    "geo": "CA",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-05-11T21:30:00+00:00",
+    "updated_at": "2026-05-11T21:42:48+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=CA",
+    "sources": [
+      {
+        "title": "Third person in Ontario in isolation due to hantavirus is in Peel Region",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQOG1iMnFERWtPNlk5NTZCT1JnNmxiM29CTUJ3UVBHU2hJWTNkUlN0cVN5cmlWVm1FU1gxazRzdElpMGF0NHNienRuRkJCYnNNOWNkbzNCQkRKS25BakM1VzJBX3hiVjAwMkk3RVp2b0plcjI5WDlMMlVlVGFvQ1FXWVhSZjZzczFVOW1OZjVhVmRleDN3T2tSLXU1bS1SdTgwQTZtSElza2xCUzBvM1E?oc=5",
+        "source": "CTV News",
+        "published_at": "2026-05-11T13:38:09+00:00",
+        "summary": "Third person in Ontario in isolation due to hantavirus is in Peel Region CTV News"
+      },
+      {
+        "title": "Third Ontarian being monitored for hantavirus isolating in Peel: health minister",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQNUhEU2paZ0RkNHFQV0NTdXc3V1lNbGxuRjJVVHppRjZySHU4SWZfTGJpdDdTalpOSVRManR5RkJ3SVMwZ3lzNVBXWjFwdC1GXzZsVHp5dGhQbFhSem93WTBYWFVYTXcwVUU1UHhDQmEyanlOajBOUExnRUR1QzNIVlMwTG9kRk5QcUgtTkVJQ24ySkl1ODA4cUg4aw?oc=5",
+        "source": "CBC",
+        "published_at": "2026-05-11T17:53:55+00:00",
+        "summary": "Third Ontarian being monitored for hantavirus isolating in Peel: health minister CBC"
+      },
+      {
+        "title": "Third person being monitored in Peel Region for hantavirus",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONVpjYkJjZFUydG5kM1pjWnBGdHNINUxrZDB3UFJIUVItVHR4UWFiWXBXcWFoYmRpcGdQRlFNQjBraUdIRzdySDAzenBsVEpwZG4wYmFoMWpBZktOX29CQVE3SnNvUVNZOXZxajVPNmlzVDA5Q09LOTFRWDROeXktWWRTZ0RNdTFpbEl5ei01ckMwMzEyWURpVVVEWVhDYmtzUUhWZm1B?oc=5",
+        "source": "CP24",
+        "published_at": "2026-05-11T13:45:14+00:00",
+        "summary": "Third person being monitored in Peel Region for hantavirus CP24"
+      },
+      {
+        "title": "Third Ontarian resident isolating in Peel Region due to hantavirus",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOb0FpOFA2YnB1YWlCS2JUVUtkQzJzY0dpMzB0Vlh1Nzl6YTNCVnN6ZUR0QXk4a1NodnVtbHpNTGtQUW9KdVZoc0VnaF85R3JhX0JFdWJodlEzblBxQkpJTnliVW8xT05zRUtDRFFkUHNQalFnVmh4eWFFTGZoNk96dHE4T3ZIQkZGMGlFRUhoalZvVl9jN0Rob0M4YS1wallidlg3ak1yT3BwUDREc3U1RlNFWnU?oc=5",
+        "source": "CityNews Kitchener",
+        "published_at": "2026-05-11T16:43:42+00:00",
+        "summary": "Third Ontarian resident isolating in Peel Region due to hantavirus CityNews Kitchener"
+      }
+    ],
+    "related_queries": [
+      "Third person in Ontario in isolation due to hantavirus is in Peel Region",
+      "Ontario travellers with connections to cruise remain asymptomatic, not being tested for hantavirus",
+      "Why you should never sweep or vacuum rodent droppings at the cottage"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "hantavirus peel region Live Trend Tracker | HantaUpdates",
+      "description": "hantavirus peel region is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source l",
+      "canonical": "https://hantamap.online/trend/hantavirus-peel-region",
+      "keywords": [
+        "hantavirus peel region",
+        "hantavirus peel region tracker",
+        "hantavirus peel region updates",
+        "hantavirus peel region live updates",
+        "hantavirus peel region outbreak",
+        "hantavirus peel region symptoms",
+        "hantavirus peel region public health",
+        "hantavirus peel region source links"
+      ]
+    },
+    "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "65103d8e4febe2bdad",
     "slug": "trend",
     "keyword": "亚利桑那州",
@@ -302,14 +375,14 @@
     "search_volume": "100+",
     "traffic_label": "100+",
     "published_at": "2026-05-11T20:40:00+00:00",
-    "updated_at": "2026-05-11T21:33:42+00:00",
+    "updated_at": "2026-05-11T21:44:40+00:00",
     "score": 100,
     "source_url": "https://trends.google.com/trending/rss?geo=BE",
     "sources": [],
     "related_queries": [
       "Hantavirus : pourquoi la dynamique n’est pas celle du covid",
       "Hantavirus - Le MV Hondius attendu à Rotterdam dimanche soir, annonce l'armateur",
-      "Deux avions évacuant des passagers décolleront de Tenerife"
+      "Origine, mode de transmission, dangerosité… : l’hantavirus est-il « un nouveau Covid » ?"
     ],
     "map_focus": {
       "label": "Global",
@@ -346,7 +419,7 @@
     "search_volume": "100+",
     "traffic_label": "100+",
     "published_at": "2026-05-11T21:10:00+00:00",
-    "updated_at": "2026-05-11T21:31:57+00:00",
+    "updated_at": "2026-05-11T21:42:20+00:00",
     "score": 100,
     "source_url": "https://trends.google.com/trending/rss?geo=DE",
     "sources": [
@@ -358,37 +431,37 @@
         "summary": "Hantavirus outbreak: Hochul says 3 passengers on virus-infected ship are from New York ABC7 New York"
       },
       {
-        "title": "3 New York residents among those aboard hantavirus-hit cruise ship",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXlMWlpLMERNdkxkc0x3ZnpBMDlZdG1kaVd2Q3RkZ2dmbENOby16bDU0dmgtNmh4WDNsLUlESDdZQzYydnRRdVptdzBDMHZYc0YxLWFDWTNkYkozWGVJdy1qbGkwcDRwOTA3N1NDSHllWDRPa0ZTLVJMOFNDVFFxeXBWNEU?oc=5",
-        "source": "amNewYork",
-        "published_at": "2026-05-11T20:05:18+00:00",
-        "summary": "3 New York residents among those aboard hantavirus-hit cruise ship amNewYork"
+        "title": "New York City, Orange and Westchester County Residents Face 42-Day Monitoring for Hantavirus",
+        "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQYkhhXzJDS2JsMjF3TkVPZ0JvLXVKUHAyZlVkZWh4YnViTDJrVWEwR3BoUjlDd3dveE5KNWp2OTVlXzh4ZU9vdUNxbjN0NWpBaVUyYjRuSzVPc3dnY0NnNkJ0YjJ4Y2RKckxzc1UxQWpUX1BmQWRXM0p6ckhqaDU4VDZSeFAzcDZIYzBHVkhfdnllYmUwRG1oYzJQZXhqUUswbjVKYnB6ckxKWkswcU5YYlVuc1I5UzhzVW4tMnRfMmJHZF85UVVCTnROM3Nkcm5GU3BKRUZJVVY2VUpQb2lEM3hSdHNXSlBfOWVMTnl3aWNxWURUNGZKRE5mSHFMckR6XzJiUw?oc=5",
+        "source": "WKTV",
+        "published_at": "2026-05-11T17:02:00+00:00",
+        "summary": "New York City, Orange and Westchester County Residents Face 42-Day Monitoring for Hantavirus WKTV"
       },
       {
-        "title": "U.S. Passengers Exposed to Hantavirus Begin Quarantine, Including One With Positive Test",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcG5qc3BjMExONDhHWXFFazZEMUdJR3V0cW5EZlIzalFnSHlHdy1IcU5VSkVEX2swVkdYVmVLUHFNeWU0SFdtMV9DRmlMajlyOGNRSkt6dnRNazhZelpVLTdaZlM0clozUlVRWVhEWFJlMlpCLUd6VzZ5VDZydzU1dGx3dTNzUDVaT3BMYjFEVWR4Zw?oc=5",
+        "title": "3 New Yorkers quarantined after hantavirus scare",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxONEVSSW5iSXR5bnpYbXlEYXA2c2gzbHB2ZXpIalQ3QjFVZnB5dmtjOG05eWh1TlNVTEwwWDN1VlJjUVExNjFXMW9TZWVmajkyWGEzcHlIc3ZScUNBWF82WWFCSk9mSXhBZ0lXeVBzZVh1QkpESGVnX0xJQk93NElkdEszbkxYV21jb285d2J5ZjM?oc=5",
+        "source": "CBS News",
+        "published_at": "2026-05-11T21:23:00+00:00",
+        "summary": "3 New Yorkers quarantined after hantavirus scare CBS News"
+      },
+      {
+        "title": "A List of 100 Best Restaurants? For These Marathon Eaters, It’s a Dare.",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QWEZlUE1BVkl4amdPTjJkc0pwaXU4M1BseTcxYVhIYjl6ajBmU3U4R0FOclpaUk5rQlVmQkxXbW9NZ1VWQV9xbnlWVVVsam1jbkZzZ3htcTlSOWNMVHR5N1plRzNiTFRLcDYyVFVuYmZCWGpkUjhmd3hR?oc=5",
         "source": "The New York Times",
-        "published_at": "2026-05-11T18:52:00+00:00",
-        "summary": "U.S. Passengers Exposed to Hantavirus Begin Quarantine, Including One With Positive Test The New York Times"
-      },
-      {
-        "title": "2026 NFL schedule release: Giants to host Cowboys on 'Sunday Night Football' in Week 1",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmpJOVFyeEFHSDBRXzltb1p5Unl5Z0FjT1c5a2Z4eFFtVjhxVWVSbDlZOXV2QmQ1MERwLVY4enJvcVYxMVJCbzFfeENOZE56eC1NQlVaN3JScURSZzU0X1k2RGVPSmVVaXE2TzEzSjBLZG9iZ3BhckEyd3N1YktBZTk2WnVhenM?oc=5",
-        "source": "NFL.com",
-        "published_at": "2026-05-11T12:02:00+00:00",
-        "summary": "2026 NFL schedule release: Giants to host Cowboys on 'Sunday Night Football' in Week 1 NFL.com"
+        "published_at": "2026-05-11T01:12:01+00:00",
+        "summary": "A List of 100 Best Restaurants? For These Marathon Eaters, It’s a Dare. The New York Times"
       }
     ],
     "related_queries": [
-      "5 Standout Neighborhoods for the Best Restaurants in New York City",
-      "How to Eat Like a Local in New York City — a Guide to the Best Restaurants, Culinary-Focused Hotels, and More",
-      "Harlem Is Named as One of the \"Standout Neighborhoods for the Best Restaurants\" in NYC by the New York Times"
+      "Fox's Upfront: 'Baywatch,' James Corden, Lachlan Murdoch, Tom Brady",
+      "Fox Upfront Leans Into Tech, Invoking Silicon Valley’s “First Principles”",
+      "Brooks Nader, Livvy Dunne, Shay Mitchell and more attend the 2026 Fox Upfront"
     ],
     "map_focus": {
-      "label": "Multi-country / cruise travel",
-      "lat": 16.5388,
-      "lng": -23.0418,
-      "zoom": 3
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
     },
     "seo": {
       "title": "new york Live Trend Tracker | HantaUpdates",
@@ -419,7 +492,7 @@
     "search_volume": "100+",
     "traffic_label": "100+",
     "published_at": "2026-05-11T19:30:00+00:00",
-    "updated_at": "2026-05-11T21:31:42+00:00",
+    "updated_at": "2026-05-11T21:41:57+00:00",
     "score": 100,
     "source_url": "https://trends.google.com/trending/rss?geo=ID",
     "sources": [
@@ -454,7 +527,7 @@
     ],
     "related_queries": [
       "Hakim ragukan tuntutan reformasi keamanan New Mexico yang luas terhadap Meta pasca putusan perlindungan anak",
-      "Santa Clara Gugat Meta Atas Iklan Penipuan di Facebook dan Instagram",
+      "Meta Hadapi Gugatan Hukum Atas Iklan Penipuan di Santa Clara",
       "Meta menghadapi kasus pengadilan yang dapat memaksa perombakan total cara kerja Facebook."
     ],
     "map_focus": {
