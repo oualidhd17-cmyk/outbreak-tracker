@@ -9,7 +9,7 @@ import 'leaflet/dist/leaflet.css';
 import './globals.css';
 
 const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://hantamap.online';
-const GOOGLE_TAG_ID = 'G-LTLZ50X2S2';
+const GOOGLE_TAG_ID = 'G-YBK28FJ69W';
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
