@@ -1,8 +1,8 @@
 # dump_all_angular.ps1
 param(
-  [string]$SrcPath = "/src",
+  [string]$SrcPath = "/scripts",
   [string]$OutDirName = "DUMPS_ANGULAR",
-  [string]$OutFileName = "src.txt",
+  [string]$OutFileName = "scripts.txt",
   [string[]]$Extensions = @("*.ts","*.html","*.scss","*.css","*.json","*.md","*"),
   [switch]$ExcludeSpecs = $true
 )

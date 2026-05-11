@@ -1,42 +1,16 @@
-import fs from 'node:fs';
-import path from 'node:path';
+'use client';
 
-import type { Metadata } from 'next';
 import Link from 'next/link';
-import { notFound } from 'next/navigation';
-import { ArrowLeft, ExternalLink, ShieldCheck } from 'lucide-react';
+import { useParams } from 'next/navigation';
+import { ArrowLeft, ExternalLink, MapPin, ShieldCheck } from 'lucide-react';
+import { useEffect, useMemo, useState } from 'react';
 
+import { useI18n } from '@/i18n/useI18n';
+import { loadCountries, loadPoints } from '@/lib/data';
 import { formatDateTime, formatNumber } from '@/lib/format';
-import type {
-  OutbreakCountry,
-  OutbreakGlobalStats,
-  OutbreakOfficialEvent,
-} from '@/types/outbreak';
+import type { OutbreakCountry, OutbreakPoint } from '@/types/outbreak';
 
-type PageProps = {
-  params: Promise<{
-    country: string;
-  }>;
-};
-
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://hantamap.online';
-const DATA_DIR = path.join(process.cwd(), 'public', 'data');
-
-function readJson<T>(fileName: string, fallback: T): T {
-  try {
-    const filePath = path.join(DATA_DIR, fileName);
-
-    if (!fs.existsSync(filePath)) {
-      return fallback;
-    }
-
-    return JSON.parse(fs.readFileSync(filePath, 'utf-8')) as T;
-  } catch {
-    return fallback;
-  }
-}
-
-function slugify(value: string): string {
+function normalizeSlug(value: string): string {
   return value
     .toLowerCase()
     .trim()
@@ -46,136 +20,173 @@ function slugify(value: string): string {
     .replace(/^-+|-+$/g, '');
 }
 
-function loadCountries(): OutbreakCountry[] {
-  return readJson<OutbreakCountry[]>('countries.json', []);
+function decodeCountrySlug(value: string | string[] | undefined): string {
+  if (Array.isArray(value)) {
+    return value[0] ?? '';
+  }
+
+  return value ?? '';
 }
 
-function loadGlobal(): OutbreakGlobalStats | null {
-  return readJson<OutbreakGlobalStats | null>('global.json', null);
-}
+export default function HantavirusCountryPage() {
+  const params = useParams();
+  const { locale } = useI18n();
+  const isArabic = locale === 'ar';
 
-function loadOfficialEvents(): OutbreakOfficialEvent[] {
-  return readJson<OutbreakOfficialEvent[]>('official_events.json', []);
-}
+  const countrySlug = decodeCountrySlug(params?.country);
 
-function findCountryBySlug(slug: string): OutbreakCountry | null {
-  return (
-    loadCountries().find((country) => slugify(country.country) === slug) ?? null
-  );
-}
+  const [countries, setCountries] = useState<OutbreakCountry[]>([]);
+  const [points, setPoints] = useState<OutbreakPoint[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
 
-export function generateStaticParams() {
-  return loadCountries().map((country) => ({
-    country: slugify(country.country),
-  }));
-}
+  useEffect(() => {
+    let mounted = true;
 
-export async function generateMetadata({
-  params,
-}: PageProps): Promise<Metadata> {
-  const { country: countrySlug } = await params;
-  const country = findCountryBySlug(countrySlug);
+    async function loadPageData() {
+      try {
+        const [countriesData, pointsData] = await Promise.all([
+          loadCountries(),
+          loadPoints(),
+        ]);
+
+        if (!mounted) {
+          return;
+        }
+
+        setCountries(countriesData);
+        setPoints(pointsData);
+      } catch {
+        if (!mounted) {
+          return;
+        }
+
+        setCountries([]);
+        setPoints([]);
+      } finally {
+        if (mounted) {
+          setIsLoading(false);
+        }
+      }
+    }
+
+    void loadPageData();
+
+    return () => {
+      mounted = false;
+    };
+  }, []);
+
+  const country = useMemo(() => {
+    return (
+      countries.find((item) => normalizeSlug(item.country) === countrySlug) ??
+      null
+    );
+  }, [countries, countrySlug]);
+
+  const countryPoints = useMemo(() => {
+    if (!country) {
+      return [];
+    }
+
+    return points.filter(
+      (point) => normalizeSlug(point.country) === normalizeSlug(country.country),
+    );
+  }, [country, points]);
+
+  const totalIdentified =
+    country?.total_identified && country.total_identified > 0
+      ? country.total_identified
+      : (country?.confirmed ?? 0) + (country?.suspected ?? 0);
+
+  if (isLoading) {
+    return (
+      <main className="flex min-h-dvh items-center justify-center bg-black px-4 text-white">
+        <div className="text-center">
+          <div className="mx-auto h-10 w-10 animate-spin rounded-full border-2 border-[#333] border-t-red-500" />
+          <p className="mt-4 text-xs font-black uppercase tracking-[0.2em] text-gray-500">
+            Loading location data
+          </p>
+        </div>
+      </main>
+    );
+  }
 
   if (!country) {
-    return {
-      title: 'Hantavirus location update',
-    };
+    return (
+      <main
+        dir={isArabic ? 'rtl' : 'ltr'}
+        className="min-h-dvh bg-black px-4 py-8 text-white sm:px-6 lg:px-8"
+      >
+        <div className="mx-auto w-full max-w-4xl">
+          <Link
+            href="/"
+            className="inline-flex items-center gap-2 border border-white/10 bg-white/[0.03] px-3 py-2 text-xs font-bold uppercase tracking-[0.16em] text-white/45 transition hover:border-white/20 hover:bg-white/[0.06] hover:text-white"
+          >
+            <ArrowLeft className="h-3.5 w-3.5" />
+            {isArabic ? 'العودة إلى اللوحة' : 'Back to dashboard'}
+          </Link>
+
+          <section className="mt-6 border border-red-500/25 bg-red-500/10 p-6">
+            <h1 className="text-2xl font-black tracking-[-0.04em] text-red-200">
+              {isArabic ? 'الموقع غير موجود' : 'Location not found'}
+            </h1>
+
+            <p className="mt-3 text-sm leading-7 text-red-100/70">
+              {isArabic
+                ? 'لا توجد بيانات حالية لهذا الرابط داخل ملفات التتبع.'
+                : 'No current outbreak data was found for this location slug.'}
+            </p>
+          </section>
+        </div>
+      </main>
+    );
   }
-
-  const title = `${country.country} Hantavirus Update`;
-  const description = `Latest official-source hantavirus tracking summary for ${country.country}. Confirmed: ${country.confirmed}, suspected: ${country.suspected ?? 0}, deaths: ${country.deaths}.`;
-
-  return {
-    title,
-    description,
-    alternates: {
-      canonical: `/hantavirus/${countrySlug}`,
-    },
-    openGraph: {
-      title,
-      description,
-      url: `${SITE_URL}/hantavirus/${countrySlug}`,
-      type: 'article',
-    },
-    twitter: {
-      card: 'summary_large_image',
-      title,
-      description,
-    },
-  };
-}
-
-export default async function HantavirusCountryPage({ params }: PageProps) {
-  const { country: countrySlug } = await params;
-
-  const country = findCountryBySlug(countrySlug);
-  const global = loadGlobal();
-  const events = loadOfficialEvents();
-
-  if (!country || !global) {
-    notFound();
-  }
-
-  const totalIdentified = country.total_identified ?? country.confirmed;
-  const suspected = country.suspected ?? 0;
-  const probable = country.probable ?? 0;
-  const possible = country.possible ?? 0;
-  const underInvestigation = country.under_investigation ?? 0;
-  const pending = country.pending ?? 0;
-  const unconfirmed =
-    country.unconfirmed ??
-    suspected + probable + possible + underInvestigation + pending;
-
-  const relatedEvents = events.filter((event) => {
-    return (event.countries ?? []).some((item) => {
-      return slugify(item.country) === countrySlug;
-    });
-  });
-
-  const primaryUrl = global.primary_event_url ?? global.current_outbreak?.source_url;
 
   return (
-    <main className="min-h-dvh bg-black px-4 py-6 text-white sm:px-6 lg:px-8">
+    <main
+      dir={isArabic ? 'rtl' : 'ltr'}
+      className="min-h-dvh bg-black px-4 py-8 text-white sm:px-6 lg:px-8"
+    >
       <div className="mx-auto w-full max-w-6xl">
         <Link
           href="/"
-          className="inline-flex items-center gap-2 border border-white/10 bg-white/[0.03] px-3 py-2 text-xs font-black uppercase tracking-[0.16em] text-white/45 transition hover:border-white/20 hover:bg-white/[0.06] hover:text-white"
+          className="inline-flex items-center gap-2 border border-white/10 bg-white/[0.03] px-3 py-2 text-xs font-bold uppercase tracking-[0.16em] text-white/45 transition hover:border-white/20 hover:bg-white/[0.06] hover:text-white"
         >
           <ArrowLeft className="h-3.5 w-3.5" />
-          Back to dashboard
+          {isArabic ? 'العودة إلى اللوحة' : 'Back to dashboard'}
         </Link>
 
-        <section className="mt-5 overflow-hidden border border-white/10 bg-[#050505]">
-          <div className="relative p-5 sm:p-7">
-            <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(239,68,68,0.14),transparent_34%),radial-gradient(circle_at_bottom_left,rgba(16,185,129,0.08),transparent_36%)]" />
+        <section className="mt-6 overflow-hidden border border-white/10 bg-[#050505]">
+          <div className="relative p-5 sm:p-8">
+            <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_top_right,rgba(239,68,68,0.15),transparent_34%),radial-gradient(circle_at_bottom_left,rgba(16,185,129,0.08),transparent_36%)]" />
 
             <div className="relative">
-              <div className="inline-flex items-center gap-2 border border-emerald-400/20 bg-emerald-400/10 px-3 py-1 text-[10px] font-black uppercase tracking-[0.18em] text-emerald-200">
-                <ShieldCheck className="h-3.5 w-3.5" />
-                Official-source location page
+              <div className="inline-flex items-center gap-2 border border-red-500/20 bg-red-500/10 px-3 py-1 text-[10px] font-black uppercase tracking-[0.18em] text-red-300">
+                <MapPin className="h-3.5 w-3.5" />
+                {isArabic ? 'صفحة موقع التفشي' : 'Outbreak location page'}
               </div>
 
-              <h1 className="mt-5 max-w-4xl text-4xl font-black tracking-[-0.06em] text-white sm:text-6xl">
-                {country.country} Hantavirus Update
+              <h1 className="mt-4 text-4xl font-black tracking-[-0.06em] text-white sm:text-6xl">
+                {country.country}
               </h1>
 
               <p className="mt-4 max-w-3xl text-sm leading-8 text-white/58 sm:text-base">
-                Current public-health tracking summary for this affected
-                location. This page is informational only and does not provide
-                medical advice.
+                {isArabic
+                  ? 'ملخص مباشر للحالات المرصودة في هذا الموقع اعتمادًا على ملفات JSON المحدثة من مصادر صحية عامة.'
+                  : 'A focused summary for this tracked location based on the latest static JSON data generated from public-health sources.'}
               </p>
 
               <div className="mt-5 flex flex-wrap gap-2">
                 <span className="border border-white/10 bg-white/[0.04] px-3 py-1 text-[10px] font-black uppercase tracking-[0.16em] text-white/45">
-                  {country.region || 'Region unavailable'}
+                  {country.region || 'Global'}
                 </span>
 
                 <span className="border border-red-400/20 bg-red-500/10 px-3 py-1 text-[10px] font-black uppercase tracking-[0.16em] text-red-200">
-                  Risk: {country.risk_level}
+                  {country.risk_level}
                 </span>
 
-                <span className="border border-white/10 bg-white/[0.04] px-3 py-1 text-[10px] font-black uppercase tracking-[0.16em] text-white/45">
-                  Updated: {formatDateTime(country.last_updated ?? global.last_updated)}
+                <span className="border border-emerald-400/20 bg-emerald-500/10 px-3 py-1 text-[10px] font-black uppercase tracking-[0.16em] text-emerald-200">
+                  {country.is_country ? 'Country' : 'Special location'}
                 </span>
               </div>
             </div>
@@ -183,149 +194,123 @@ export default async function HantavirusCountryPage({ params }: PageProps) {
         </section>
 
         <section className="mt-4 grid gap-3 sm:grid-cols-2 lg:grid-cols-4">
-          <div className="border border-white/10 bg-[#050505] p-5">
-            <p className="text-[10px] font-black uppercase tracking-[0.18em] text-white/35">
-              Confirmed
+          <div className="border border-[#252525] bg-[#0b0b0b] p-5">
+            <p className="text-[10px] font-black uppercase tracking-[0.16em] text-gray-500">
+              {isArabic ? 'المؤكدة' : 'Confirmed'}
             </p>
-            <div className="mt-2 font-mono text-4xl font-black text-red-500">
+            <div dir="ltr" className="mt-2 font-mono text-4xl font-black text-red-500">
               {formatNumber(country.confirmed)}
             </div>
           </div>
 
-          <div className="border border-white/10 bg-[#050505] p-5">
-            <p className="text-[10px] font-black uppercase tracking-[0.18em] text-white/35">
-              Suspected
+          <div className="border border-[#252525] bg-[#0b0b0b] p-5">
+            <p className="text-[10px] font-black uppercase tracking-[0.16em] text-gray-500">
+              {isArabic ? 'المشتبه بها' : 'Suspected'}
             </p>
-            <div className="mt-2 font-mono text-4xl font-black text-amber-300">
-              {formatNumber(suspected)}
+            <div dir="ltr" className="mt-2 font-mono text-4xl font-black text-amber-400">
+              {formatNumber(country.suspected ?? 0)}
             </div>
           </div>
 
-          <div className="border border-white/10 bg-[#050505] p-5">
-            <p className="text-[10px] font-black uppercase tracking-[0.18em] text-white/35">
-              Total identified
+          <div className="border border-[#252525] bg-[#0b0b0b] p-5">
+            <p className="text-[10px] font-black uppercase tracking-[0.16em] text-gray-500">
+              {isArabic ? 'إجمالي المرصودة' : 'Total identified'}
             </p>
-            <div className="mt-2 font-mono text-4xl font-black text-white">
+            <div dir="ltr" className="mt-2 font-mono text-4xl font-black text-white">
               {formatNumber(totalIdentified)}
             </div>
           </div>
 
-          <div className="border border-white/10 bg-[#050505] p-5">
-            <p className="text-[10px] font-black uppercase tracking-[0.18em] text-white/35">
-              Deaths
+          <div className="border border-[#252525] bg-[#0b0b0b] p-5">
+            <p className="text-[10px] font-black uppercase tracking-[0.16em] text-gray-500">
+              {isArabic ? 'الوفيات' : 'Deaths'}
             </p>
-            <div className="mt-2 font-mono text-4xl font-black text-white">
+            <div dir="ltr" className="mt-2 font-mono text-4xl font-black text-white">
               {formatNumber(country.deaths)}
             </div>
           </div>
         </section>
 
-        <section className="mt-4 grid gap-4 lg:grid-cols-[minmax(0,1fr)_340px]">
-          <div className="border border-white/10 bg-[#050505] p-5 sm:p-6">
-            <h2 className="text-xl font-black tracking-[-0.04em] text-white">
-              Case classification
-            </h2>
+        <section className="mt-4 grid gap-4 lg:grid-cols-[minmax(0,1fr)_360px]">
+          <div className="border border-white/10 bg-[#050505] p-5">
+            <div className="flex items-center gap-2 text-[10px] font-black uppercase tracking-[0.18em] text-emerald-300">
+              <ShieldCheck className="h-3.5 w-3.5" />
+              {isArabic ? 'تفاصيل البيانات' : 'Data details'}
+            </div>
 
-            <div className="mt-5 grid gap-3 sm:grid-cols-2">
-              {[
-                ['Probable', probable],
-                ['Possible', possible],
-                ['Under investigation', underInvestigation],
-                ['Pending', pending],
-                ['Unconfirmed total', unconfirmed],
-                ['Hospitalized', country.hospitalized ?? 0],
-                ['Recovered', country.recovered ?? 0],
-                ['Active estimate', country.active ?? 0],
-              ].map(([label, value]) => (
-                <div
-                  key={String(label)}
-                  className="flex items-center justify-between gap-4 border border-white/10 bg-white/[0.025] px-4 py-3"
-                >
-                  <span className="text-xs font-bold uppercase tracking-[0.14em] text-white/40">
-                    {label}
-                  </span>
-                  <span className="font-mono text-lg font-black text-white">
-                    {formatNumber(Number(value))}
-                  </span>
-                </div>
-              ))}
+            <div className="mt-5 grid gap-3 text-sm text-white/62">
+              <div className="flex justify-between gap-4 border-b border-white/10 pb-3">
+                <span>{isArabic ? 'آخر تحديث' : 'Last updated'}</span>
+                <span dir="ltr" className="font-bold text-white">
+                  {formatDateTime(country.last_updated)}
+                </span>
+              </div>
+
+              <div className="flex justify-between gap-4 border-b border-white/10 pb-3">
+                <span>{isArabic ? 'خط العرض' : 'Latitude'}</span>
+                <span dir="ltr" className="font-mono font-bold text-white">
+                  {country.lat}
+                </span>
+              </div>
+
+              <div className="flex justify-between gap-4 border-b border-white/10 pb-3">
+                <span>{isArabic ? 'خط الطول' : 'Longitude'}</span>
+                <span dir="ltr" className="font-mono font-bold text-white">
+                  {country.lng}
+                </span>
+              </div>
+
+              <div className="flex justify-between gap-4">
+                <span>{isArabic ? 'الحالات النشطة التقديرية' : 'Estimated active'}</span>
+                <span dir="ltr" className="font-mono font-bold text-white">
+                  {formatNumber(country.active ?? 0)}
+                </span>
+              </div>
             </div>
           </div>
 
           <aside className="border border-white/10 bg-[#050505] p-5">
             <h2 className="text-base font-black text-white">
-              Source and status
+              {isArabic ? 'روابط المصادر' : 'Source links'}
             </h2>
 
-            <div className="mt-4 space-y-4 text-sm leading-7 text-white/55">
-              <p>
-                Primary event:{' '}
-                <span className="font-bold text-white">
-                  {global.event_name ?? 'Current outbreak event'}
-                </span>
-              </p>
+            <div className="mt-4 grid gap-3">
+              {countryPoints.length === 0 ? (
+                <p className="text-sm leading-7 text-white/45">
+                  {isArabic
+                    ? 'لا توجد مصادر مرتبطة بهذه النقطة حاليًا.'
+                    : 'No source links are attached to this point yet.'}
+                </p>
+              ) : (
+                countryPoints.map((point) => (
+                  <div
+                    key={point.id}
+                    className="border border-white/10 bg-white/[0.025] p-4"
+                  >
+                    <p className="text-sm font-bold leading-6 text-white">
+                      {point.name}
+                    </p>
 
-              <p>
-                Data mode:{' '}
-                <span className="font-bold text-emerald-300">Static JSON</span>
-              </p>
+                    <p className="mt-2 text-xs leading-6 text-white/45">
+                      {point.source}
+                    </p>
 
-              <p>
-                Coordinates:{' '}
-                <span className="font-mono text-white">
-                  {country.lat}, {country.lng}
-                </span>
-              </p>
-
-              {primaryUrl ? (
-                <a
-                  href={primaryUrl}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="inline-flex items-center gap-2 border border-white/10 bg-white/[0.04] px-3 py-2 text-xs font-black uppercase tracking-[0.14em] text-white/60 transition hover:border-white/20 hover:bg-white/[0.08] hover:text-white"
-                >
-                  Open primary source
-                  <ExternalLink className="h-3.5 w-3.5" />
-                </a>
-              ) : null}
+                    {point.source_url ? (
+                      <a
+                        href={point.source_url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="mt-4 inline-flex items-center gap-2 border border-white/10 bg-white/[0.04] px-3 py-2 text-[10px] font-black uppercase tracking-[0.14em] text-white/50 transition hover:border-white/20 hover:text-white"
+                      >
+                        {isArabic ? 'فتح المصدر' : 'Open source'}
+                        <ExternalLink className="h-3.5 w-3.5" />
+                      </a>
+                    ) : null}
+                  </div>
+                ))
+              )}
             </div>
           </aside>
-        </section>
-
-        <section className="mt-4 border border-white/10 bg-[#050505] p-5 sm:p-6">
-          <h2 className="text-xl font-black tracking-[-0.04em] text-white">
-            Related official events
-          </h2>
-
-          <div className="mt-5 grid gap-3">
-            {relatedEvents.length === 0 ? (
-              <div className="border border-white/10 bg-white/[0.025] p-4 text-sm text-white/45">
-                No related official event entries found for this location.
-              </div>
-            ) : (
-              relatedEvents.map((event) => (
-                <a
-                  key={`${event.source_id}-${event.url}`}
-                  href={event.url}
-                  target="_blank"
-                  rel="noreferrer"
-                  className="group border border-white/10 bg-white/[0.025] p-4 transition hover:border-white/20 hover:bg-white/[0.045]"
-                >
-                  <p className="text-[10px] font-black uppercase tracking-[0.16em] text-white/35">
-                    {event.source} · {event.published_at || 'Date unavailable'}
-                  </p>
-
-                  <h3 className="mt-2 text-base font-black text-white group-hover:text-red-200">
-                    {event.title}
-                  </h3>
-
-                  <p className="mt-2 line-clamp-2 text-sm leading-7 text-white/50">
-                    {event.summary}
-                  </p>
-                </a>
-              ))
-            )}
-          </div>
         </section>
       </div>
     </main>

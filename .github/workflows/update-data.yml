@@ -50,8 +50,16 @@ jobs:
           python -m pip install --upgrade pip
           python -m pip install -r requirements.txt
 
-      - name: Update outbreak JSON data
+      - name: Update outbreak JSON data from ArcGIS primary source
+        id: arcgis_update
+        continue-on-error: true
         run: |
+          python scripts/update_arcgis_primary.py
+
+      - name: Fallback to official outbreak sources if ArcGIS failed
+        if: steps.arcgis_update.outcome == 'failure'
+        run: |
+          echo "ArcGIS primary update failed. Running official fallback updater..."
           python scripts/update_data.py
 
       - name: Update trends JSON data
@@ -68,6 +76,14 @@ jobs:
           test -f public/data/official_events.json
           test -f public/data/all_countries.json
           test -f public/data/trends.json
+
+      - name: Verify ArcGIS data files if available
+        run: |
+          if [ -f public/data/arcgis_dashboard.json ]; then
+            echo "ArcGIS dashboard data exists."
+          else
+            echo "ArcGIS dashboard data not found. This is OK only if fallback updater was used."
+          fi
 
       - name: Commit updated data
         run: |

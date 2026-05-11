@@ -1,0 +1,2297 @@
+{
+  "checked_at": "2026-05-11T20:44:24+00:00",
+  "dashboard_item_id": "5c68442d2afc42d7ba2696e4cd393729",
+  "dashboard_url": "https://www.arcgis.com/apps/dashboards/5c68442d2afc42d7ba2696e4cd393729",
+  "service_urls": [
+    "https://services1.arcgis.com/wb4Og4gH5mvzQAIV/arcgis/rest/services/Tracking_Hantavirus_2026/FeatureServer",
+    "https://services1.arcgis.com/wb4Og4gH5mvzQAIV/arcgis/rest/services/Tracking_Hantavirus_2026/FeatureServer/1"
+  ],
+  "layer_urls": [
+    "https://services1.arcgis.com/wb4Og4gH5mvzQAIV/arcgis/rest/services/Tracking_Hantavirus_2026/FeatureServer/1"
+  ],
+  "layers": [
+    {
+      "layer_url": "https://services1.arcgis.com/wb4Og4gH5mvzQAIV/arcgis/rest/services/Tracking_Hantavirus_2026/FeatureServer/1",
+      "layer_name": "R0_INITAL",
+      "geometry_type": "esriGeometryPoint",
+      "object_id_field": "OBJECTID",
+      "fields": [
+        {
+          "name": "OBJECTID",
+          "type": "esriFieldTypeOID",
+          "alias": "OBJECTID",
+          "sqlType": "sqlTypeOther",
+          "nullable": false,
+          "editable": false,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "CASE_",
+          "type": "esriFieldTypeInteger",
+          "alias": "CASE",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "STATUS",
+          "type": "esriFieldTypeString",
+          "alias": "STATUS",
+          "sqlType": "sqlTypeOther",
+          "length": 255,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "AGE",
+          "type": "esriFieldTypeInteger",
+          "alias": "AGE",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "SEX",
+          "type": "esriFieldTypeInteger",
+          "alias": "SEX",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "ONSET",
+          "type": "esriFieldTypeDate",
+          "alias": "ONSET",
+          "sqlType": "sqlTypeOther",
+          "length": 8,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null,
+          "precision": 1
+        },
+        {
+          "name": "DEATH",
+          "type": "esriFieldTypeDate",
+          "alias": "DEATH",
+          "sqlType": "sqlTypeOther",
+          "length": 8,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null,
+          "precision": 1
+        },
+        {
+          "name": "SOURCE",
+          "type": "esriFieldTypeString",
+          "alias": "SOURCE",
+          "sqlType": "sqlTypeOther",
+          "length": 255,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "LASTLOCATION",
+          "type": "esriFieldTypeString",
+          "alias": "LASTLOCATION",
+          "sqlType": "sqlTypeOther",
+          "length": 255,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "DETAILS",
+          "type": "esriFieldTypeString",
+          "alias": "DETAILS",
+          "sqlType": "sqlTypeOther",
+          "length": 255,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "TCLASS",
+          "type": "esriFieldTypeString",
+          "alias": "Case_number",
+          "sqlType": "sqlTypeOther",
+          "length": 256,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null,
+          "description": "{\"value\":\"Case number of known exposed individual. All data retrieved from public sources and subject to change.\",\"fieldValueType\":\"\"}"
+        },
+        {
+          "name": "Exposure_Group",
+          "type": "esriFieldTypeString",
+          "alias": "Exposure Group",
+          "sqlType": "sqlTypeOther",
+          "length": 256,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null,
+          "description": "{\"value\":\"Classifies cases by exposure group. Describes where the person was exposed, be it on the ship, in confined spaces such as airplains, or in medical setting. \",\"fieldValueType\":\"\"}"
+        }
+      ],
+      "features_count": 107,
+      "features": [
+        {
+          "attributes": {
+            "OBJECTID": 1,
+            "CASE_": 7,
+            "STATUS": "CONFIRMED",
+            "AGE": null,
+            "SEX": 1,
+            "ONSET": 1778025600000,
+            "DEATH": null,
+            "SOURCE": "https://www.bag.admin.ch/en/newnsb/p--A7yPSfxdBqR0N9kZMC",
+            "LASTLOCATION": "ZURICH",
+            "DETAILS": "Departed ship, Swiss national, confirmed case",
+            "TCLASS": "7",
+            "Exposure_Group": "MV Hondius, Disembarked April 24th"
+          },
+          "geometry": {
+            "x": 8.605431148291489,
+            "y": 47.48469518365129
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 2,
+            "CASE_": 999,
+            "STATUS": "SUSPECTED",
+            "AGE": null,
+            "SEX": 2,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/health/hondius-ship-hantavirus-andes-strain-9.7189281",
+            "LASTLOCATION": "ZURICH",
+            "DETAILS": "Departed ship, wife of case 7, in isolation",
+            "TCLASS": "A",
+            "Exposure_Group": "MV Hondius, Disembarked April 24th"
+          },
+          "geometry": {
+            "x": 8.532996508742041,
+            "y": 47.39431802430299
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 3,
+            "CASE_": 3,
+            "STATUS": "CONFIRMED",
+            "AGE": null,
+            "SEX": 1,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+            "LASTLOCATION": "JOHANNESBURG",
+            "DETAILS": "Confirmed Hantavirus, British National",
+            "TCLASS": "3",
+            "Exposure_Group": "MV Hondius, Disembarked April 24th"
+          },
+          "geometry": {
+            "x": 28.044931284381246,
+            "y": -26.20264493136836
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 6,
+            "CASE_": 1,
+            "STATUS": "DECEASED",
+            "AGE": 70,
+            "SEX": 1,
+            "ONSET": 1775433600000,
+            "DEATH": 1775865600000,
+            "SOURCE": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600",
+            "LASTLOCATION": "MV HONDIUS",
+            "DETAILS": "Initial case",
+            "TCLASS": "1",
+            "Exposure_Group": "MV Hondus, Passed away onboard"
+          },
+          "geometry": {
+            "x": -68.26852239597913,
+            "y": -54.79292342934494
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 7,
+            "CASE_": 2,
+            "STATUS": "DECEASED",
+            "AGE": 69,
+            "SEX": 2,
+            "ONSET": 1776729600000,
+            "DEATH": 1777161600000,
+            "SOURCE": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+            "LASTLOCATION": "JOHANNESBURG",
+            "DETAILS": "Wife of initial case, confirmed case",
+            "TCLASS": "2",
+            "Exposure_Group": "MV Hondius, Disembarked April 24th"
+          },
+          "geometry": {
+            "x": 28.68949391042314,
+            "y": -25.586680736072296
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 10,
+            "CASE_": 9,
+            "STATUS": "SUSPECTED",
+            "AGE": 65,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl",
+            "LASTLOCATION": "NETHERLANDS",
+            "DETAILS": "German woman, ship passenger & connected to case 4 unknown if in hospital",
+            "TCLASS": "D",
+            "Exposure_Group": "MV Hondius, Evacuated"
+          },
+          "geometry": {
+            "x": 8.805737906223005,
+            "y": 50.299181425008484
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 11,
+            "CASE_": 6,
+            "STATUS": "CONFIRMED",
+            "AGE": 56,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": null,
+            "LASTLOCATION": "NETHERLANDS",
+            "DETAILS": "Dutch crew member, confirmed positive",
+            "TCLASS": "6",
+            "Exposure_Group": "MV Hondius, Evacuated"
+          },
+          "geometry": {
+            "x": 5.757338398825682,
+            "y": 52.717506840049424
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 12,
+            "CASE_": 5,
+            "STATUS": "CONFIRMED",
+            "AGE": 41,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl",
+            "LASTLOCATION": "NETHERLANDS",
+            "DETAILS": "Ship crew, doctor, evacuated from ship, confirmed hantavirus",
+            "TCLASS": "5",
+            "Exposure_Group": "MV Hondius, Evacuated"
+          },
+          "geometry": {
+            "x": 5.865370402033934,
+            "y": 52.65646073691274
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 13,
+            "CASE_": 4,
+            "STATUS": "DECEASED",
+            "AGE": null,
+            "SEX": 2,
+            "ONSET": 1776988800000,
+            "DEATH": 1777680000000,
+            "SOURCE": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+            "LASTLOCATION": "MV HONDIUS",
+            "DETAILS": "German National, ship passenger, confirmed hantavirus",
+            "TCLASS": "4",
+            "Exposure_Group": "MV Hondus, Passed away onboard"
+          },
+          "geometry": {
+            "x": 5.7079002577024855,
+            "y": 52.642019262573285
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 14,
+            "CASE_": 10,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": 2,
+            "ONSET": 1778074613000,
+            "DEATH": null,
+            "SOURCE": "https://nos.nl/artikel/2613426-stewardess-mogelijk-ook-besmet-met-hanta-ligt-in-amsterdam-umc",
+            "LASTLOCATION": "NETHERLANDS",
+            "DETAILS": "Flight attendant, monitoring but not confirmed case. Symptomatic",
+            "TCLASS": "B",
+            "Exposure_Group": "Airplane: April 24th Flight"
+          },
+          "geometry": {
+            "x": 5.654473359850014,
+            "y": 52.50219688614705
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 15,
+            "CASE_": 11,
+            "STATUS": "SUSPECTED",
+            "AGE": 67,
+            "SEX": 1,
+            "ONSET": 1778078103000,
+            "DEATH": null,
+            "SOURCE": "https://www.channelnewsasia.com/singapore/hantavirus-mv-hondius-ncid-test-virus-isolated-cda-6106671",
+            "LASTLOCATION": "SINGAPORE",
+            "DETAILS": "Has runny nose, awaiting test results. Was onbord MV Hondius, raveled on same flight from St Helena to Johannesbug on April 25.",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": 103.8496838888311,
+            "y": 1.3231371449927924
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 16,
+            "CASE_": 12,
+            "STATUS": "MONITORING",
+            "AGE": 65,
+            "SEX": 1,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.channelnewsasia.com/singapore/hantavirus-mv-hondius-ncid-test-virus-isolated-cda-6106671",
+            "LASTLOCATION": "SINGAPORE",
+            "DETAILS": "Onboard MV Hondius, traveled on same flight from St Helena to Johannesbug on April 25. no symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": 103.850599402205,
+            "y": 1.3238236073227272
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 17,
+            "CASE_": 24,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl",
+            "LASTLOCATION": "GEORGIA, USA",
+            "DETAILS": "Onboard ship, departed April 24th, no symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -83.45490316004464,
+            "y": 32.85961584592401
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 18,
+            "CASE_": 14,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl",
+            "LASTLOCATION": "GEORGIA, USA",
+            "DETAILS": "Onboard ship, departed April 24th, no symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -83.26154271216109,
+            "y": 32.75126818215309
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 19,
+            "CASE_": 15,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.gov.uk/government/news/ukhsa-update-on-the-hantavirus-cruise-ship-outbreak",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard ship, departed April 24th. No symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -1.3123271808336847,
+            "y": 52.403105637352596
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 20,
+            "CASE_": 16,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.gov.uk/government/news/ukhsa-update-on-the-hantavirus-cruise-ship-outbreak",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard Ship, departed April 24th. No symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -1.5379116878221504,
+            "y": 52.73608567991296
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 21,
+            "CASE_": 17,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl",
+            "LASTLOCATION": "ARIZONA, USA",
+            "DETAILS": "Onboard ship, departed April 24th, no symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -111.68410769237683,
+            "y": 33.30511579638059
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 22,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": null,
+            "LASTLOCATION": "PRAIA, CAPE VERDE",
+            "DETAILS": "MV Hondius 146 People on board",
+            "TCLASS": "Group onboard MV Hondius",
+            "Exposure_Group": null
+          },
+          "geometry": {
+            "x": -23.524314971128653,
+            "y": 15.114180635921926
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 23,
+            "CASE_": 18,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/toronto/hantavirus-cruise-ontario-passengers-isolating-9.7191211",
+            "LASTLOCATION": "CANADA",
+            "DETAILS": "Onboard ship, departed on April 24th, no symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -80.58330139651338,
+            "y": 43.97461947838846
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 24,
+            "CASE_": 19,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/toronto/hantavirus-cruise-ontario-passengers-isolating-9.7191211",
+            "LASTLOCATION": "CANADA",
+            "DETAILS": "Onboard ship, departed April 24th, no symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -80.55400496854823,
+            "y": 43.7739893914454
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 25,
+            "CASE_": 20,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/toronto/hantavirus-cruise-ontario-passengers-isolating-9.7191211",
+            "LASTLOCATION": "CANADA",
+            "DETAILS": "Onboard ship, departed April 24th no symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -71.26689648762036,
+            "y": 46.50115255806308
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 26,
+            "CASE_": 21,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.dshs.texas.gov/news-alerts/dshs-statement-texas-residents-who-were-board-mv-hondius",
+            "LASTLOCATION": "TEXAS",
+            "DETAILS": "Onboard ship, departed April 24th, no symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -97.91973388328137,
+            "y": 30.911950230161985
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 27,
+            "CASE_": 22,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.dshs.texas.gov/news-alerts/dshs-statement-texas-residents-who-were-board-mv-hondius",
+            "LASTLOCATION": "TEXAS",
+            "DETAILS": "Onboard ship, departed April 24th, no symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -98.09551513328132,
+            "y": 30.811357051552545
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 28,
+            "CASE_": 23,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.forbes.com/sites/maryroeloffs/2026/05/08/hantavirus-infected-cruise-ship-new-suspected-case-identified-dutch-flight-attendant-tests-negative--latest-updates/?streamIndex=0",
+            "LASTLOCATION": "CALIFORNIA",
+            "DETAILS": "Undisclosed number of people being monitored. Onboard ship & departed April 24th",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -119.36504101885762,
+            "y": 36.13519953674742
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 29,
+            "CASE_": 13,
+            "STATUS": "SUSPECTED",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.ctvnews.ca/canada/article/people-on-hantavirus-ship-ate-every-meal-side-by-side-even-after-first-death-passenger-says-live-updates-here/#:~:text=A%20French%20citizen%20with%20%E2%80%9Cbenign,said%20in%20a%20statement%20Thursday.",
+            "LASTLOCATION": "FRANCE",
+            "DETAILS": "Onboard ship, departed April 24th. CONFIRMED to have been onboard ship prior to air travel. ",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": 2.314863177643511,
+            "y": 47.888475675599125
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 30,
+            "CASE_": 25,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.nj.gov/health/news/2026/approved/20260508a.shtml",
+            "LASTLOCATION": "NEW JERSEY",
+            "DETAILS": "Not passenger on ship, was on April 24th flight",
+            "TCLASS": null,
+            "Exposure_Group": "Airplane: April 24th Flight"
+          },
+          "geometry": {
+            "x": -74.22960965829394,
+            "y": 40.280159888755755
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 31,
+            "CASE_": 26,
+            "STATUS": "SUSPECTED",
+            "AGE": 32,
+            "SEX": null,
+            "ONSET": 1778178243000,
+            "DEATH": null,
+            "SOURCE": "https://www.forbes.com/sites/maryroeloffs/2026/05/08/another-hantavirus-case-suspected-in-spanish-woman-authorities-say-latest-updates/",
+            "LASTLOCATION": "ALICANTE, SPAIN",
+            "DETAILS": "Passenger on April 24th flight, being tested",
+            "TCLASS": "E",
+            "Exposure_Group": "Airplane: April 24th Flight"
+          },
+          "geometry": {
+            "x": -4.898003218066296,
+            "y": 37.5437225069258
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 32,
+            "CASE_": 27,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.google.com/search?q=disembarked&oq=disembarked&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyOTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+            "LASTLOCATION": "ST HELENA",
+            "DETAILS": "Disembarked ship on April 24, no symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -5.702941289412571,
+            "y": -15.952282492099062
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 33,
+            "CASE_": 28,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.google.com/search?q=disembarked&oq=disembarked&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyOTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+            "LASTLOCATION": "ST HELENA",
+            "DETAILS": "Disembarked ship on April 24th, no symptoms. British passenger",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -5.657622685896969,
+            "y": -15.95809218994452
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 34,
+            "CASE_": 29,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.google.com/search?q=disembarked&oq=disembarked&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyOTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+            "LASTLOCATION": "ST HELENA",
+            "DETAILS": "Disembarked ship on April 24th. No symptoms, British passenger",
+            "TCLASS": null,
+            "Exposure_Group": "Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -5.733153691756307,
+            "y": -15.97067933767066
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 35,
+            "CASE_": 30,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.google.com/search?q=disembarked&oq=disembarked&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyOTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+            "LASTLOCATION": "ST HELENA",
+            "DETAILS": "Disembarked ship on April 24th. No symptoms, British passenger",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondius, Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -5.706969632076811,
+            "y": -15.930010390604915
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 36,
+            "CASE_": 31,
+            "STATUS": "CONFIRMED",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.gov.uk/government/news/ukhsa-update-on-the-hantavirus-cruise-ship-outbreak#full-publication-update-history",
+            "LASTLOCATION": "TRISTAN DA CUNHA",
+            "DETAILS": "British national, Onboard ship departed, CONFIRMED",
+            "TCLASS": "8",
+            "Exposure_Group": "Disembarked April 14th"
+          },
+          "geometry": {
+            "x": -12.29090295049648,
+            "y": -37.09426006367794
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 37,
+            "CASE_": 32,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": 1,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.turkishminute.com/2026/05/08/turkey-says-no-hantavirus-cases-found-after-cruise-ship-outbreak-involving-turkish-nationals/",
+            "LASTLOCATION": "TURKEY",
+            "DETAILS": "Onboard shio, disembarked April 24 Travel Vlogger, no symptoms",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondius, Disembarked April 24th"
+          },
+          "geometry": {
+            "x": 30.00750136896146,
+            "y": 40.581484204793874
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 38,
+            "CASE_": 33,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.turkishminute.com/2026/05/08/turkey-says-no-hantavirus-cases-found-after-cruise-ship-outbreak-involving-turkish-nationals/",
+            "LASTLOCATION": "TURKEY",
+            "DETAILS": "Onboard ship, Disembarked April 24th, cameraman Turkish national",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondius, Disembarked April 24th"
+          },
+          "geometry": {
+            "x": 30.249200587711393,
+            "y": 40.59372089341257
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 39,
+            "CASE_": 34,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.vdh.virginia.gov/blog/2026/05/07/hantavirus-statement-from-the-virginia-department-of-health/",
+            "LASTLOCATION": "VIRGINIA",
+            "DETAILS": "On the MV Hondius disembarked the ship April 24th and has returned home",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondius, Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -77.58938433149221,
+            "y": 38.25005686118773
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 40,
+            "CASE_": 35,
+            "STATUS": "SUSPECTED",
+            "AGE": null,
+            "SEX": 2,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": null,
+            "LASTLOCATION": "TRISTAN DA CUNHA",
+            "DETAILS": "Not on ship, Wife of case 8, in isolation",
+            "TCLASS": "F",
+            "Exposure_Group": "Not Passenger- Close contact"
+          },
+          "geometry": {
+            "x": -12.285142890653642,
+            "y": -37.11338764872114
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 41,
+            "CASE_": 36,
+            "STATUS": "CONFIRMED",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html",
+            "LASTLOCATION": "FRANCE",
+            "DETAILS": "French passenger, started experiencing symptoms on repatriation flight back to France on 10 May",
+            "TCLASS": "9",
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 2.9796710469233036,
+            "y": 47.06884402250816
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 42,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html",
+            "LASTLOCATION": "FRANCE",
+            "DETAILS": "Onboard ship, one of 5 French citizens flown back on May 10",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 1.8413975047052202,
+            "y": 47.319485099406926
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 43,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html",
+            "LASTLOCATION": "FRANCE",
+            "DETAILS": "Onboard ship, one of 5 French citizens flown back on May 10",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 1.6077556418360193,
+            "y": 47.54021997542817
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 44,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html",
+            "LASTLOCATION": "FRANCE",
+            "DETAILS": "Onboard ship, one of 5 French citizens flown back on May 10",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 1.930021043318515,
+            "y": 47.54565853997561
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 45,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html",
+            "LASTLOCATION": "FRANCE",
+            "DETAILS": "Onboard ship, one of 5 French citizens flown back May 10",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondius, Disembarked April 24th"
+          },
+          "geometry": {
+            "x": 1.5312174664915716,
+            "y": 47.357702976293176
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 46,
+            "CASE_": null,
+            "STATUS": "UNKNOWN",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": null,
+            "LASTLOCATION": "UNKNOWN",
+            "DETAILS": "Disembarked ship on April 24. No Details or information can be found",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondius, Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -62.747912532265495,
+            "y": 17.320531927795017
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 47,
+            "CASE_": null,
+            "STATUS": "UNKNOWN",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": null,
+            "LASTLOCATION": "UNKNOWN",
+            "DETAILS": "British passenger, Disembarked April 24th",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondius, Disembarked April 24th"
+          },
+          "geometry": {
+            "x": -1.0524031935301135,
+            "y": 53.11316178322949
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 48,
+            "CASE_": null,
+            "STATUS": "CONFIRMED",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html",
+            "LASTLOCATION": "UNITED STATES",
+            "DETAILS": "Disembarked ship with Americans on May 10. No symptoms and tested positive",
+            "TCLASS": "10",
+            "Exposure_Group": "MV Hondus, May 10 "
+          },
+          "geometry": {
+            "x": -99.86563977280343,
+            "y": 41.29570158640485
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 49,
+            "CASE_": null,
+            "STATUS": "SUSPECTED",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "  https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955&entryId=132836441",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Disembarked ship with Americans on May 10. Symptoms but tested negative",
+            "TCLASS": "H",
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -99.1485988018821,
+            "y": 41.428733268202116
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 50,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202",
+            "LASTLOCATION": "AUSTRALIA",
+            "DETAILS": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 115.87139632934117,
+            "y": -31.549939775179247
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 51,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202",
+            "LASTLOCATION": "AUSTRALIA",
+            "DETAILS": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 115.9841885828354,
+            "y": -30.528311235954916
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 52,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202",
+            "LASTLOCATION": "AUSTRALIA",
+            "DETAILS": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 116.72540095084669,
+            "y": -31.08190481477274
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 53,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202",
+            "LASTLOCATION": "AUSTRALIA",
+            "DETAILS": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 116.8543079161024,
+            "y": -31.98831087990295
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 54,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202",
+            "LASTLOCATION": "AUSTRALIA",
+            "DETAILS": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 116.19366374248044,
+            "y": -32.26123443599107
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 55,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202",
+            "LASTLOCATION": "AUSTRALIA",
+            "DETAILS": "Passenger on the MV Hondus, New Zealander, disembarked on May 10 and to be in Perth for quarantine",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 116.80596646302702,
+            "y": -32.587662741595025
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 56,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -99.14115482791077,
+            "y": 40.900955675417315
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 57,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -99.88236451371304,
+            "y": 40.8278407934601
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 58,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -98.27103549464378,
+            "y": 41.156222044370516
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 59,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -98.17435795291102,
+            "y": 41.313748358528755
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 60,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -98.36771571858556,
+            "y": 41.05909433622896
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 61,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -99.43119281752709,
+            "y": 41.495037169749864
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 62,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -99.23783236964351,
+            "y": 40.9983167623511
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 63,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -99.67289203627702,
+            "y": 40.96182349527235
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 64,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -98.46439594252733,
+            "y": 41.05909433622896
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 65,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -99.54398507102132,
+            "y": 41.24109084455805
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 66,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -99.20560562832961,
+            "y": 40.98615441474768
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 67,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -99.59232652409669,
+            "y": 41.034790342285625
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 68,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -98.59330290778304,
+            "y": 41.21685420577732
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 69,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -98.62552964909696,
+            "y": 41.10767640202266
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 70,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -99.39896607621316,
+            "y": 40.86440857786345
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 71,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATION": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -99.68900406582948,
+            "y": 41.35004627848612
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 72,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.belganewsagency.eu/four-belgians-cleared-after-hantavirus-contact-tracing-linked-to-cruise-ship-outbreak",
+            "LASTLOCATION": "BELGIUM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Netherlands then to Antwerp Belgium",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 4.397907869364554,
+            "y": 51.22168187822184
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 73,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.belganewsagency.eu/four-belgians-cleared-after-hantavirus-contact-tracing-linked-to-cruise-ship-outbreak",
+            "LASTLOCATION": "BELGIUM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Netherlands then to Antwerp Belgium",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 4.432148614372529,
+            "y": 51.196445201963535
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 74,
+            "CASE_": null,
+            "STATUS": "UNKNOWN",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": null,
+            "LASTLOCATION": "MV HONDUS",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10. Unknowns where ",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -70.49244160232595,
+            "y": -50.04427587504247
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 75,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/british-columbia/hantavirus-cruise-ship-canadians-b-c-9.7194477",
+            "LASTLOCATION": "CANADA",
+            "DETAILS": " Onboard MV Hondus, disembarked May 10 and will be transported to British Columbia",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -124.02418942865067,
+            "y": 49.982096449923304
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 76,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/british-columbia/hantavirus-cruise-ship-canadians-b-c-9.7194477",
+            "LASTLOCATION": "CANADA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to British Columbia",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -124.0080747168892,
+            "y": 50.57930228170169
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 77,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/british-columbia/hantavirus-cruise-ship-canadians-b-c-9.7194477",
+            "LASTLOCATION": "CANADA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to British Columbia",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -123.47633750852296,
+            "y": 49.99245666570636
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 78,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/british-columbia/hantavirus-cruise-ship-canadians-b-c-9.7194477",
+            "LASTLOCATION": "CANADA",
+            "DETAILS": "  Onboard MV Hondus, disembarked May 10 and will be transported to British Columbia",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -124.20143516477276,
+            "y": 50.178558247753244
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 79,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.reuters.com/business/healthcare-pharmaceuticals/germany-monitors-four-contacts-hantavirus-hit-cruise-frankfurt-2026-05-11/",
+            "LASTLOCATION": "GERMANY",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to home state in Germany",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 11.04158526186398,
+            "y": 49.65583273924735
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 80,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.reuters.com/business/healthcare-pharmaceuticals/germany-monitors-four-contacts-hantavirus-hit-cruise-frankfurt-2026-05-11/",
+            "LASTLOCATION": "GERMANY",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to home state in Germany",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 13.41023733739245,
+            "y": 52.46007977628231
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 81,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.reuters.com/business/healthcare-pharmaceuticals/germany-monitors-four-contacts-hantavirus-hit-cruise-frankfurt-2026-05-11/",
+            "LASTLOCATION": "GERMANY",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to home state in Germany",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 8.49568745021343,
+            "y": 50.226179892307606
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 82,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.reuters.com/business/healthcare-pharmaceuticals/germany-monitors-four-contacts-hantavirus-hit-cruise-frankfurt-2026-05-11/",
+            "LASTLOCATION": "GERMANY",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to home state in Germany",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 10.260091478867057,
+            "y": 53.565161440603546
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 83,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.ekathimerini.com/news/1303396/greek-passenger-from-hantavirus-hit-cruise-ship-quarantined-in-athens/",
+            "LASTLOCATION": "GREECE",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to Athens",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 23.7805309896045,
+            "y": 38.007189186138255
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 84,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": null,
+            "LASTLOCATION": "NETHERLANDS",
+            "DETAILS": "Onboard MV Hondus, crew member disembarked May 10 and monitoring in Netherlands",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 5.881783441148364,
+            "y": 52.596975025043385
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 85,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.thehindu.com/news/national/two-indians-aboard-cruise-ship-with-hantavirus-cases-evacuated-to-netherlands/article70964200.ece",
+            "LASTLOCATION": "NETHERLANDS",
+            "DETAILS": "Onboard MV Hondus, crew member disembarked May 10 and monitoring in Netherlands",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 5.924080703846755,
+            "y": 52.60064517628708
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 86,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": 2,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.bbc.com/news/articles/czx20wzlveeo",
+            "LASTLOCATION": "IRELAND",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Dublin",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -6.330686549503271,
+            "y": 53.34833396900198
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 87,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.bbc.com/news/articles/czx20wzlveeo",
+            "LASTLOCATION": "IRELAND",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Dublin",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -6.258177052099176,
+            "y": 53.337511485462734
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 88,
+            "CASE_": null,
+            "STATUS": "UNKNOWN",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": null,
+            "LASTLOCATION": null,
+            "DETAILS": " Onboard MV Hondus, disembarked May 10 as per ocean liner data - and currently unknown location",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": 12.606521107837029,
+            "y": 42.59856817849485
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 89,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": " Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.2642079287880876,
+            "y": 53.50856269120021
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 90,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.177599064421084,
+            "y": 53.513353752463814
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 91,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.2521229007953636,
+            "y": 53.46182175334397
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 92,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.203783124100591,
+            "y": 53.45942337838946
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 93,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.2219104984516145,
+            "y": 53.5229341504983
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 94,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.2984486737960776,
+            "y": 53.539694709460406
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 95,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.3145617091769175,
+            "y": 53.46901596555751
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 96,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.1856557497495674,
+            "y": 53.52053922916409
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 97,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.205797127794648,
+            "y": 53.454626222028686
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 98,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.2460805544370643,
+            "y": 53.513353752463814
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 99,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.201768785130407,
+            "y": 53.484599359365944
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 100,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.240037872802638,
+            "y": 53.47021489902269
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 101,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.203783124100591,
+            "y": 53.51095828953622
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 102,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.3085193628186187,
+            "y": 53.53251248195906
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 103,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.211839809429074,
+            "y": 53.47740778862584
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 104,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.2762929567808126,
+            "y": 53.49658276799554
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 105,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.240037872802638,
+            "y": 53.47381149621908
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 106,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.354845135819333,
+            "y": 53.50856269120021
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 107,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.3206043908113436,
+            "y": 53.46302079021435
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 108,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, crew member disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.1473866620773356,
+            "y": 53.51455143315053
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 109,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, crew member disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.240037872802638,
+            "y": 53.43783200652132
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 110,
+            "CASE_": null,
+            "STATUS": "MONITORING",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATION": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, crew member disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": null,
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -2.2883776494974106,
+            "y": 53.47381149621908
+          }
+        },
+        {
+          "attributes": {
+            "OBJECTID": 111,
+            "CASE_": null,
+            "STATUS": "CONFIRMED",
+            "AGE": null,
+            "SEX": null,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATION": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and tested positve with no symptoms",
+            "TCLASS": "11",
+            "Exposure_Group": "MV Hondus, May 10"
+          },
+          "geometry": {
+            "x": -3.66564730234434,
+            "y": 40.46621945703035
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+import type { ArcgisDashboardData } from '@/types/arcgis';
 import type {
   OutbreakCountry,
   OutbreakFetchLogItem,
@@ -49,7 +50,10 @@ export async function loadSources(): Promise<OutbreakSource[]> {
 }
 
 export async function loadOfficialEvents(): Promise<OutbreakOfficialEvent[]> {
-  return fetchOptionalJson<OutbreakOfficialEvent[]>('/data/official_events.json', []);
+  return fetchOptionalJson<OutbreakOfficialEvent[]>(
+    '/data/official_events.json',
+    [],
+  );
 }
 
 export async function loadHistoricalContext(): Promise<unknown> {
@@ -58,4 +62,12 @@ export async function loadHistoricalContext(): Promise<unknown> {
 
 export async function loadFetchLog(): Promise<OutbreakFetchLogItem[]> {
   return fetchOptionalJson<OutbreakFetchLogItem[]>('/data/fetch_log.json', []);
+}
+
+export async function loadArcgisDashboard(): Promise<ArcgisDashboardData> {
+  return fetchOptionalJson<ArcgisDashboardData>('/data/arcgis_dashboard.json', {
+    checked_at: '',
+    source: 'ArcGIS dashboard',
+    cases: [],
+  });
 }

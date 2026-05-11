@@ -16,7 +16,13 @@ import type { OutbreakPoint } from '@/types/outbreak';
 
 type DarkOutbreakMapProps = {
   points: OutbreakPoint[];
+  selectedCountry?: string | null;
+  onSelectCountry?: (country: string) => void;
 };
+
+function normalizeCountry(value: string): string {
+  return value.trim().toLowerCase();
+}
 
 function getCircleRadius(point: OutbreakPoint): number {
   const total = point.total_identified ?? point.confirmed;
@@ -53,10 +59,10 @@ function MapAutoFocus({ points }: { points: OutbreakPoint[] }) {
   const map = useMap();
 
   useEffect(() => {
-    // التركيز يتم بناءً على النقاط الصحيحة والتي بها إصابات فقط
     const validPoints = points.filter(isValidPoint).filter((point) => {
       const total = point.total_identified ?? point.confirmed;
       const suspected = point.suspected ?? 0;
+
       return total > 0 || suspected > 0 || point.deaths > 0;
     });
 
@@ -69,6 +75,7 @@ function MapAutoFocus({ points }: { points: OutbreakPoint[] }) {
 
     if (validPoints.length === 1) {
       const point = validPoints[0];
+
       map.setView([point.lat, point.lng], 4, {
         animate: true,
       });
@@ -90,11 +97,47 @@ function MapAutoFocus({ points }: { points: OutbreakPoint[] }) {
   return null;
 }
 
-export function DarkOutbreakMap({ points }: DarkOutbreakMapProps) {
-  // التعديل هنا: فلترة النقاط الصفرية حتى لا تظهر على الخريطة
+function SelectedPointFocus({
+  points,
+  selectedCountry,
+}: {
+  points: OutbreakPoint[];
+  selectedCountry?: string | null;
+}) {
+  const map = useMap();
+
+  useEffect(() => {
+    if (!selectedCountry) {
+      return;
+    }
+
+    const selectedPoint = points.find(
+      (point) =>
+        normalizeCountry(point.country) === normalizeCountry(selectedCountry),
+    );
+
+    if (!selectedPoint) {
+      return;
+    }
+
+    map.flyTo([selectedPoint.lat, selectedPoint.lng], Math.max(map.getZoom(), 5), {
+      animate: true,
+      duration: 0.9,
+    });
+  }, [map, points, selectedCountry]);
+
+  return null;
+}
+
+export function DarkOutbreakMap({
+  points,
+  selectedCountry,
+  onSelectCountry,
+}: DarkOutbreakMapProps) {
   const validPoints = points.filter(isValidPoint).filter((point) => {
     const total = point.total_identified ?? point.confirmed;
     const suspected = point.suspected ?? 0;
+
     return total > 0 || suspected > 0 || point.deaths > 0;
   });
 
@@ -111,6 +154,10 @@ export function DarkOutbreakMap({ points }: DarkOutbreakMapProps) {
         worldCopyJump
       >
         <MapAutoFocus points={validPoints} />
+        <SelectedPointFocus
+          points={validPoints}
+          selectedCountry={selectedCountry}
+        />
 
         <ZoomControl position="bottomright" />
 
@@ -123,80 +170,124 @@ export function DarkOutbreakMap({ points }: DarkOutbreakMapProps) {
           const total = point.total_identified ?? point.confirmed;
           const suspected = point.suspected ?? 0;
           const unconfirmed = point.unconfirmed ?? suspected;
+          const isSelected =
+            selectedCountry !== null &&
+            selectedCountry !== undefined &&
+            normalizeCountry(point.country) === normalizeCountry(selectedCountry);
 
           return (
-            <CircleMarker
-              key={point.id}
-              center={[point.lat, point.lng]}
-              radius={getCircleRadius(point)}
-              pathOptions={{
-                color: '#ef4444',
-                fillColor: '#ef4444',
-                fillOpacity: getCircleOpacity(point),
-                opacity: 0.9,
-                weight: 1.3,
-              }}
-            >
-              <Popup>
-                <div className="min-w-56 text-slate-950">
-                  <div className="text-sm font-black text-slate-950">
-                    {point.name}
+            <div key={point.id}>
+              {isSelected ? (
+                <CircleMarker
+                  key={`${point.id}-glow`}
+                  center={[point.lat, point.lng]}
+                  radius={getCircleRadius(point) + 18}
+                  interactive={false}
+                  pathOptions={{
+                    color: '#facc15',
+                    fillColor: '#facc15',
+                    fillOpacity: 0.14,
+                    opacity: 0.6,
+                    weight: 2,
+                  }}
+                />
+              ) : null}
+
+              <CircleMarker
+                key={`${point.id}-marker`}
+                center={[point.lat, point.lng]}
+                radius={
+                  isSelected ? getCircleRadius(point) + 8 : getCircleRadius(point)
+                }
+                eventHandlers={{
+                  click: () => {
+                    onSelectCountry?.(point.country);
+                  },
+                }}
+                pathOptions={{
+                  color: isSelected ? '#facc15' : '#ef4444',
+                  fillColor: isSelected ? '#facc15' : '#ef4444',
+                  fillOpacity: isSelected ? 0.95 : getCircleOpacity(point),
+                  opacity: 1,
+                  weight: isSelected ? 4 : 1.3,
+                }}
+              >
+                <Popup>
+                  <div className="min-w-56 text-slate-950">
+                    <div className="text-sm font-black text-slate-950">
+                      {point.name}
+                    </div>
+
+                    <div className="mt-1 text-xs font-bold text-slate-500">
+                      {point.country}
+                    </div>
+
+                    <div className="mt-4 grid grid-cols-2 gap-3 text-xs">
+                      <div>
+                        <div className="text-[10px] font-black uppercase tracking-widest text-slate-400">
+                          Confirmed
+                        </div>
+
+                        <div className="mt-0.5 font-mono text-xl font-black text-red-600">
+                          {formatNumber(point.confirmed)}
+                        </div>
+                      </div>
+
+                      <div>
+                        <div className="text-[10px] font-black uppercase tracking-widest text-slate-400">
+                          Suspected
+                        </div>
+
+                        <div className="mt-0.5 font-mono text-xl font-black text-amber-600">
+                          {formatNumber(suspected)}
+                        </div>
+                      </div>
+
+                      <div>
+                        <div className="text-[10px] font-black uppercase tracking-widest text-slate-400">
+                          Total
+                        </div>
+
+                        <div className="mt-0.5 font-mono text-xl font-black text-slate-950">
+                          {formatNumber(total)}
+                        </div>
+                      </div>
+
+                      <div>
+                        <div className="text-[10px] font-black uppercase tracking-widest text-slate-400">
+                          Deaths
+                        </div>
+
+                        <div className="mt-0.5 font-mono text-xl font-black text-slate-950">
+                          {formatNumber(point.deaths)}
+                        </div>
+                      </div>
+                    </div>
+
+                    {unconfirmed > 0 ? (
+                      <div className="mt-3 rounded border border-amber-500/20 bg-amber-500/10 px-3 py-2 text-xs font-bold text-amber-700">
+                        Unconfirmed signals: {formatNumber(unconfirmed)}
+                      </div>
+                    ) : null}
+
+                    {point.source_url ? (
+                      <a
+                        href={point.source_url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="mt-3 block rounded border border-slate-200 bg-slate-50 px-3 py-2 text-xs font-black text-slate-700 transition hover:bg-slate-100"
+                      >
+                        Open source
+                      </a>
+                    ) : null}
+
+                    <div className="mt-4 border-t border-slate-200 pt-3 text-[10px] font-black uppercase tracking-wider text-slate-400">
+                      Source: {point.source}
+                    </div>
                   </div>
-
-                  <div className="mt-1 text-xs font-bold text-slate-500">
-                    {point.country}
-                  </div>
-
-                  <div className="mt-4 grid grid-cols-2 gap-3 text-xs">
-                    <div>
-                      <div className="text-[10px] font-black uppercase tracking-widest text-slate-400">
-                        Confirmed
-                      </div>
-                      <div className="mt-0.5 font-mono text-xl font-black text-red-600">
-                        {formatNumber(point.confirmed)}
-                      </div>
-                    </div>
-
-                    <div>
-                      <div className="text-[10px] font-black uppercase tracking-widest text-slate-400">
-                        Suspected
-                      </div>
-                      <div className="mt-0.5 font-mono text-xl font-black text-amber-600">
-                        {formatNumber(suspected)}
-                      </div>
-                    </div>
-
-                    <div>
-                      <div className="text-[10px] font-black uppercase tracking-widest text-slate-400">
-                        Total
-                      </div>
-                      <div className="mt-0.5 font-mono text-xl font-black text-slate-950">
-                        {formatNumber(total)}
-                      </div>
-                    </div>
-
-                    <div>
-                      <div className="text-[10px] font-black uppercase tracking-widest text-slate-400">
-                        Deaths
-                      </div>
-                      <div className="mt-0.5 font-mono text-xl font-black text-slate-950">
-                        {formatNumber(point.deaths)}
-                      </div>
-                    </div>
-                  </div>
-
-                  {unconfirmed > 0 ? (
-                    <div className="mt-3 rounded border border-amber-500/20 bg-amber-500/10 px-3 py-2 text-xs font-bold text-amber-700">
-                      Unconfirmed signals: {formatNumber(unconfirmed)}
-                    </div>
-                  ) : null}
-
-                  <div className="mt-4 border-t border-slate-200 pt-3 text-[10px] font-black uppercase tracking-wider text-slate-400">
-                    Source: {point.source}
-                  </div>
-                </div>
-              </Popup>
-            </CircleMarker>
+                </Popup>
+              </CircleMarker>
+            </div>
           );
         })}
       </MapContainer>
@@ -207,9 +298,16 @@ export function DarkOutbreakMap({ points }: DarkOutbreakMapProps) {
         <div className="text-[10px] font-bold uppercase tracking-widest text-gray-400">
           Interactive Map
         </div>
+
         <div className="mt-1 text-xs font-bold text-gray-200">
           Outbreak locations by confirmed and suspected signals
         </div>
+
+        {selectedCountry ? (
+          <div className="mt-2 w-fit rounded border border-yellow-400/30 bg-yellow-400/10 px-2 py-1 text-[10px] font-black uppercase tracking-wider text-yellow-200">
+            Focus: {selectedCountry}
+          </div>
+        ) : null}
       </div>
     </div>
   );

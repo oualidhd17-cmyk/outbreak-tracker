@@ -1,4 +1,3 @@
-import Link from 'next/link';
 import { AlertTriangle, Clock3, Globe2, Skull } from 'lucide-react';
 
 import { formatDateTime, formatNumber } from '@/lib/format';
@@ -20,16 +19,12 @@ type StatsSidebarProps = {
   countries: OutbreakCountry[];
   labels: StatsSidebarLabels;
   dir?: 'ltr' | 'rtl';
+  selectedCountry?: string | null;
+  onSelectCountry?: (country: string) => void;
 };
 
-function slugifyCountry(value: string): string {
-  return value
-    .toLowerCase()
-    .trim()
-    .replace(/&/g, 'and')
-    .replace(/['’]/g, '')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
+function normalizeCountry(value: string): string {
+  return value.trim().toLowerCase();
 }
 
 export function StatsSidebar({
@@ -37,13 +32,31 @@ export function StatsSidebar({
   countries,
   labels,
   dir = 'ltr',
+  selectedCountry,
+  onSelectCountry,
 }: StatsSidebarProps) {
   const isRtl = dir === 'rtl';
-  
-  // التعديل هنا: تصفية الدول الصفرية قبل عملية الترتيب والعرض
+
   const sortedCountries = [...countries]
-    .filter((c) => c.confirmed > 0 || (c.suspected ?? 0) > 0 || c.deaths > 0)
-    .sort((a, b) => b.confirmed - a.confirmed);
+    .filter((country) => {
+      return (
+        country.confirmed > 0 ||
+        (country.suspected ?? 0) > 0 ||
+        country.deaths > 0 ||
+        (country.total_identified ?? 0) > 0
+      );
+    })
+    .sort((a, b) => {
+      const totalA = a.total_identified ?? a.confirmed + (a.suspected ?? 0);
+      const totalB = b.total_identified ?? b.confirmed + (b.suspected ?? 0);
+
+      return totalB - totalA;
+    });
+
+  const totalCases =
+    global.total_identified_cases && global.total_identified_cases > 0
+      ? global.total_identified_cases
+      : global.total_confirmed;
 
   return (
     <aside className="flex flex-col border-r border-[#222] bg-[#050505]">
@@ -72,7 +85,7 @@ export function StatsSidebar({
               dir="ltr"
               className="mt-2 font-mono text-6xl font-black leading-none tracking-tight text-red-500"
             >
-              {formatNumber(global.total_confirmed)}
+              {formatNumber(totalCases)}
             </div>
           </div>
 
@@ -88,7 +101,10 @@ export function StatsSidebar({
               <span className="truncate">{labels.deaths}</span>
             </div>
 
-            <div dir="ltr" className="mt-2 font-mono text-2xl font-black text-white">
+            <div
+              dir="ltr"
+              className="mt-2 font-mono text-2xl font-black text-white"
+            >
               {formatNumber(global.total_deaths)}
             </div>
           </div>
@@ -99,7 +115,10 @@ export function StatsSidebar({
               <span className="truncate">{labels.countries}</span>
             </div>
 
-            <div dir="ltr" className="mt-2 font-mono text-2xl font-black text-white">
+            <div
+              dir="ltr"
+              className="mt-2 font-mono text-2xl font-black text-white"
+            >
               {formatNumber(global.affected_countries)}
             </div>
           </div>
@@ -107,9 +126,11 @@ export function StatsSidebar({
 
         <div className="mt-5 flex flex-wrap items-center gap-2 text-xs text-gray-500">
           <Clock3 className="h-4 w-4 shrink-0" />
+
           <span className="font-black uppercase tracking-wider">
             {labels.lastUpdate}:
           </span>
+
           <span className="font-bold text-gray-300" dir="ltr">
             {formatDateTime(global.last_updated)}
           </span>
@@ -134,27 +155,60 @@ export function StatsSidebar({
           </div>
         ) : (
           sortedCountries.map((country) => {
-            const countrySlug = slugifyCountry(country.country);
+            const isSelected =
+              selectedCountry !== null &&
+              selectedCountry !== undefined &&
+              normalizeCountry(selectedCountry) === normalizeCountry(country.country);
+
+            const total =
+              country.total_identified && country.total_identified > 0
+                ? country.total_identified
+                : country.confirmed + (country.suspected ?? 0);
 
             return (
-              <Link
+              <button
                 key={country.country}
-                href={`/hantavirus/${countrySlug}`}
-                className="group grid grid-cols-[64px_minmax(0,1fr)_auto] items-center gap-3 border-b border-[#171717] px-5 py-3 transition hover:bg-[#101010]"
+                type="button"
+                onClick={() => onSelectCountry?.(country.country)}
+                className={[
+                  'group grid w-full grid-cols-[64px_minmax(0,1fr)_auto] items-center gap-3 border-b px-5 py-3 text-left transition',
+                  isSelected
+                    ? 'border-yellow-400/40 bg-yellow-400/10 shadow-[inset_4px_0_0_rgba(250,204,21,0.95)]'
+                    : 'border-[#171717] hover:bg-[#101010]',
+                ].join(' ')}
                 dir="ltr"
               >
-                <div className="font-mono text-base font-black text-red-500">
-                  {formatNumber(country.confirmed)}
+                <div
+                  className={[
+                    'font-mono text-base font-black',
+                    isSelected ? 'text-yellow-300' : 'text-red-500',
+                  ].join(' ')}
+                >
+                  {formatNumber(total)}
                 </div>
 
-                <div className="truncate text-sm font-bold text-gray-300 transition group-hover:text-white">
+                <div
+                  className={[
+                    'min-w-0 truncate text-sm font-bold transition',
+                    isSelected
+                      ? 'text-yellow-100'
+                      : 'text-gray-300 group-hover:text-white',
+                  ].join(' ')}
+                >
                   {country.country}
                 </div>
 
-                <div className="text-[10px] font-black uppercase tracking-wider text-gray-600 transition group-hover:text-gray-300">
-                  {isRtl ? 'فتح' : 'View'}
+                <div
+                  className={[
+                    'text-[10px] font-black uppercase tracking-wider transition',
+                    isSelected
+                      ? 'text-yellow-200'
+                      : 'text-gray-600 group-hover:text-gray-300',
+                  ].join(' ')}
+                >
+                  {isRtl ? 'تحديد' : 'Focus'}
                 </div>
-              </Link>
+              </button>
             );
           })
         )}

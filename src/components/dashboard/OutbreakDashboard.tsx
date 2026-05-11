@@ -25,7 +25,11 @@ import type {
 } from '@/types/outbreak';
 import { OutbreakLiveCounter } from './OutbreakLiveCounter';
 
-const DarkOutbreakMap = dynamic<{ points: OutbreakPoint[] }>(
+const DarkOutbreakMap = dynamic<{
+  points: OutbreakPoint[];
+  selectedCountry?: string | null;
+  onSelectCountry?: (country: string) => void;
+}>(
   () =>
     import('@/components/dashboard/DarkOutbreakMap').then(
       (mod) => mod.DarkOutbreakMap,
@@ -59,41 +63,47 @@ export function OutbreakDashboard() {
   const [isRefreshing, setIsRefreshing] = useState(false);
   const [error, setError] = useState<string | null>(null);
   const [lastClientRefresh, setLastClientRefresh] = useState<string | null>(null);
+  const [selectedCountry, setSelectedCountry] = useState<string | null>(null);
 
-  const loadData = useCallback(async (mode: 'initial' | 'refresh' = 'initial') => {
-    try {
-      if (mode === 'initial') {
-        setIsLoading(true);
-      } else {
-        setIsRefreshing(true);
+  const loadData = useCallback(
+    async (mode: 'initial' | 'refresh' = 'initial') => {
+      try {
+        if (mode === 'initial') {
+          setIsLoading(true);
+        } else {
+          setIsRefreshing(true);
+        }
+
+        setError(null);
+
+        const [global, countries, points, timeline, sources] = await Promise.all([
+          loadGlobalStats(),
+          loadCountries(),
+          loadPoints(),
+          loadTimeline(),
+          loadSources(),
+        ]);
+
+        setData({
+          global,
+          countries,
+          points,
+          timeline,
+          sources,
+        });
+
+        setLastClientRefresh(new Date().toISOString());
+      } catch (err) {
+        setError(
+          err instanceof Error ? err.message : 'Failed to load outbreak data',
+        );
+      } finally {
+        setIsLoading(false);
+        setIsRefreshing(false);
       }
-
-      setError(null);
-
-      const [global, countries, points, timeline, sources] = await Promise.all([
-        loadGlobalStats(),
-        loadCountries(),
-        loadPoints(),
-        loadTimeline(),
-        loadSources(),
-      ]);
-
-      setData({
-        global,
-        countries,
-        points,
-        timeline,
-        sources,
-      });
-
-      setLastClientRefresh(new Date().toISOString());
-    } catch (err) {
-      setError(err instanceof Error ? err.message : 'Failed to load outbreak data');
-    } finally {
-      setIsLoading(false);
-      setIsRefreshing(false);
-    }
-  }, []);
+    },
+    [],
+  );
 
   useEffect(() => {
     const timeout = window.setTimeout(() => {
@@ -117,6 +127,7 @@ export function OutbreakDashboard() {
       <main className="flex min-h-dvh items-center justify-center bg-black text-white">
         <div className="text-center">
           <div className="mx-auto h-10 w-10 animate-spin rounded-full border-2 border-[#333] border-t-red-500" />
+
           <p className="mt-4 text-sm font-bold uppercase tracking-widest text-gray-500">
             {t('loading.dashboard')}
           </p>
@@ -138,7 +149,7 @@ export function OutbreakDashboard() {
           <button
             type="button"
             onClick={() => void loadData('initial')}
-            className="mt-5 rounded border border-[#333] bg-[#111] px-4 py-2 text-sm font-bold text-white hover:bg-[#222]"
+            className="mt-5 rounded border border-[#333] bg-[#111] px-4 py-2 text-sm font-bold text-white transition hover:bg-[#222]"
           >
             {t('error.retry')}
           </button>
@@ -156,6 +167,8 @@ export function OutbreakDashboard() {
           global={data.global}
           countries={data.countries}
           dir={isRtl ? 'rtl' : 'ltr'}
+          selectedCountry={selectedCountry}
+          onSelectCountry={setSelectedCountry}
           labels={{
             appTitle: t('app.title'),
             appSubtitle: t('app.subtitle'),
@@ -192,7 +205,7 @@ export function OutbreakDashboard() {
               <button
                 type="button"
                 onClick={() => void loadData('refresh')}
-                className="inline-flex h-9 items-center gap-2 rounded border border-[#333] bg-[#1a1a1a] px-3 text-xs font-bold uppercase tracking-wider text-gray-400 hover:bg-[#2a2a2a] hover:text-white transition-colors"
+                className="inline-flex h-9 items-center gap-2 rounded border border-[#333] bg-[#1a1a1a] px-3 text-xs font-bold uppercase tracking-wider text-gray-400 transition-colors hover:bg-[#2a2a2a] hover:text-white"
               >
                 <RefreshCw
                   className={
@@ -203,19 +216,33 @@ export function OutbreakDashboard() {
                 />
                 {t('actions.refresh')}
               </button>
+
+              {selectedCountry ? (
+                <button
+                  type="button"
+                  onClick={() => setSelectedCountry(null)}
+                  className="inline-flex h-9 items-center rounded border border-yellow-400/25 bg-yellow-400/10 px-3 text-xs font-bold uppercase tracking-wider text-yellow-200 transition hover:bg-yellow-400/15"
+                >
+                  Clear focus
+                </button>
+              ) : null}
             </div>
           </header>
 
-        <OutbreakLiveCounter
-          global={data.global}
-          timeline={data.timeline}
-          dir={isRtl ? 'rtl' : 'ltr'}
-          isArabic={isRtl}
-        />
+          <OutbreakLiveCounter
+            global={data.global}
+            timeline={data.timeline}
+            dir={isRtl ? 'rtl' : 'ltr'}
+            isArabic={isRtl}
+          />
 
-        <div className="h-[520px] min-h-0 border-b border-[#222] bg-black sm:h-[600px] lg:h-full lg:min-h-[520px]">
-          <DarkOutbreakMap points={data.points} />
-        </div>
+          <div className="h-[520px] min-h-0 border-b border-[#222] bg-black sm:h-[600px] lg:h-full lg:min-h-[520px]">
+            <DarkOutbreakMap
+              points={data.points}
+              selectedCountry={selectedCountry}
+              onSelectCountry={setSelectedCountry}
+            />
+          </div>
 
           <div className="grid min-h-[360px] min-w-0 gap-px border-t border-[#222] bg-[#222] lg:grid-cols-[minmax(0,1fr)_320px]">
             <TimelineChart
@@ -228,9 +255,9 @@ export function OutbreakDashboard() {
               }}
             />
 
-            <aside className="bg-[#000] p-4 flex flex-col justify-center">
+            <aside className="flex flex-col justify-center bg-[#000] p-4">
               <div
-                className="rounded border border-[#333] bg-[#0a0a0a] p-4 w-full"
+                className="w-full rounded border border-[#333] bg-[#0a0a0a] p-4"
                 dir={isRtl ? 'rtl' : 'ltr'}
               >
                 <div className="text-[10px] font-bold uppercase tracking-widest text-gray-500">
@@ -254,8 +281,17 @@ export function OutbreakDashboard() {
 
                   <div className="flex justify-between gap-3">
                     <span>{t('status.mode')}</span>
-                    <span className="text-green-500">{t('status.staticJson')}</span>
+                    <span className="text-green-500">
+                      {t('status.staticJson')}
+                    </span>
                   </div>
+
+                  {selectedCountry ? (
+                    <div className="flex justify-between gap-3 border-t border-white/10 pt-4">
+                      <span>{isRtl ? 'النقطة المحددة' : 'Focused location'}</span>
+                      <span className="text-yellow-200">{selectedCountry}</span>
+                    </div>
+                  ) : null}
                 </div>
               </div>
             </aside>

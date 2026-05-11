@@ -1,32 +1,32 @@
 [
   {
+    "id": "arcgis_independent_dashboard",
+    "name": "ANDV Hantavirus 2026 ArcGIS independent research dashboard",
+    "url": "https://www.arcgis.com/apps/dashboards/5c68442d2afc42d7ba2696e4cd393729",
+    "type": "early-warning",
+    "confidence": "medium",
+    "usage": "primary_tracking_source",
+    "last_checked_at": "2026-05-11T20:44:24+00:00",
+    "status": {
+      "ok": 1,
+      "failed": 0,
+      "last_status_code": 200,
+      "last_error": null
+    }
+  },
+  {
     "id": "who",
     "name": "World Health Organization",
     "url": "https://www.who.int/emergencies/disease-outbreak-news",
     "type": "official",
     "confidence": "high",
-    "usage": "current_outbreak_primary",
-    "last_checked_at": "2026-05-10T23:38:38+00:00",
+    "usage": "fallback_official_context",
+    "last_checked_at": "2026-05-11T20:44:24+00:00",
     "status": {
-      "ok": 51,
-      "failed": 48,
-      "last_status_code": 404,
-      "last_error": "Client error '404 Not Found' for url 'https://www.who.int/1998_02_10b-en'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
-    }
-  },
-  {
-    "id": "ecdc",
-    "name": "European Centre for Disease Prevention and Control",
-    "url": "https://www.ecdc.europa.eu/en/news-events",
-    "type": "health-agency",
-    "confidence": "high",
-    "usage": "current_outbreak_validation",
-    "last_checked_at": "2026-05-10T23:38:38+00:00",
-    "status": {
-      "ok": 43,
-      "failed": 3,
-      "last_status_code": 200,
-      "last_error": "Client error '404 Not Found' for url 'https://www.ecdc.europa.eu/en/news-events/rss.xml?field_ct_publication_type_tid=All'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+      "ok": 0,
+      "failed": 0,
+      "last_status_code": null,
+      "last_error": null
     }
   },
   {
@@ -35,38 +35,23 @@
     "url": "https://www.cdc.gov/hantavirus/",
     "type": "health-agency",
     "confidence": "high",
-    "usage": "historical_context_and_travel_notices",
-    "last_checked_at": "2026-05-10T23:38:38+00:00",
+    "usage": "fallback_official_context",
+    "last_checked_at": "2026-05-11T20:44:24+00:00",
     "status": {
-      "ok": 4,
+      "ok": 0,
       "failed": 0,
-      "last_status_code": 200,
+      "last_status_code": null,
       "last_error": null
     }
   },
   {
-    "id": "africa_cdc",
-    "name": "Africa Centres for Disease Control and Prevention",
-    "url": "https://africacdc.org/disease-outbreak/",
+    "id": "ecdc",
+    "name": "European Centre for Disease Prevention and Control",
+    "url": "https://www.ecdc.europa.eu/en/news-events",
     "type": "health-agency",
     "confidence": "high",
-    "usage": "africa_outbreak_validation",
-    "last_checked_at": "2026-05-10T23:38:38+00:00",
-    "status": {
-      "ok": 20,
-      "failed": 0,
-      "last_status_code": 200,
-      "last_error": null
-    }
-  },
-  {
-    "id": "reliefweb",
-    "name": "ReliefWeb API",
-    "url": "https://api.reliefweb.int/v2/reports",
-    "type": "early-warning",
-    "confidence": "medium",
-    "usage": "humanitarian_report_aggregation_requires_approved_appname",
-    "last_checked_at": "2026-05-10T23:38:38+00:00",
+    "usage": "fallback_official_context",
+    "last_checked_at": "2026-05-11T20:44:24+00:00",
     "status": {
       "ok": 0,
       "failed": 0,
