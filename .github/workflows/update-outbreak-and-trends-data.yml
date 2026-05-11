@@ -1,0 +1,92 @@
+name: Update outbreak and trends data
+
+on:
+  schedule:
+    - cron: "0 */3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-outbreak-and-trends-data
+  cancel-in-progress: false
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    env:
+      NEXT_PUBLIC_SITE_URL: https://hantamap.online
+
+      OUTBREAK_HTTP_TIMEOUT: "60"
+      OUTBREAK_MAX_DETAIL_PAGES: "24"
+      OUTBREAK_MAX_CURRENT_TOTAL: "50"
+      OUTBREAK_MAX_CURRENT_CONFIRMED: "20"
+      OUTBREAK_MAX_CURRENT_DEATHS: "10"
+
+      TRENDS_HTTP_TIMEOUT: "45"
+      TRENDS_MAX_ITEMS: "120"
+      TRENDS_MAX_NEWS_PER_ITEM: "4"
+      TRENDS_STRICT_HEALTH_MODE: "1"
+      TRENDS_GEOS: "US,IN,ID,BR,GB,DE,FR,ES,IT,CA,AU,JP,KR,MX,TR,SA,AE,EG,DZ,MA,NL,SE,NO,DK,CH,BE,AT,PL,ZA,NG"
+      OUTBREAK_KEYWORDS: "hantavirus,hanta virus,andes virus,andes hantavirus,hantavirus pulmonary syndrome,hantavirus disease,rodent-borne,rodent borne,zoonotic disease,virus outbreak,disease outbreak,health alert,cdc hantavirus,who hantavirus,hantavirus symptoms"
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Update outbreak JSON data from ArcGIS primary source
+        id: arcgis_update
+        continue-on-error: true
+        run: |
+          python scripts/update_arcgis_primary.py
+
+      - name: Fallback to official outbreak sources if ArcGIS failed
+        if: steps.arcgis_update.outcome == 'failure'
+        run: |
+          echo "ArcGIS primary update failed. Running official fallback updater..."
+          python scripts/update_data.py
+
+      - name: Update trends JSON data
+        run: |
+          python scripts/update_trends.py
+
+      - name: Verify generated data files
+        run: |
+          test -f public/data/global.json
+          test -f public/data/countries.json
+          test -f public/data/points.json
+          test -f public/data/timeline.json
+          test -f public/data/sources.json
+          test -f public/data/official_events.json
+          test -f public/data/all_countries.json
+          test -f public/data/trends.json
+          test -f public/data/latest_articles.json
+
+      - name: Commit updated data
+        run: |
+          git config user.name "outbreak-data-bot"
+          git config user.email "outbreak-data-bot@users.noreply.github.com"
+
+          git add public/data requirements.txt
+
+          if git diff --cached --quiet; then
+            echo "No JSON data changes to commit."
+          else
+            git commit -m "Update outbreak and trends data"
+            git push
+          fi

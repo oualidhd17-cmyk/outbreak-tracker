@@ -72,12 +72,20 @@ def safe_float(value: Any) -> float | None:
         return None
 
 
+def slugify(value: str) -> str:
+    value = value.lower().strip()
+    value = value.replace("&", " and ")
+    value = re.sub(r"['’]", "", value)
+    value = re.sub(r"[^a-z0-9]+", "-", value)
+    return value.strip("-") or "item"
+
+
 def http_client() -> httpx.Client:
     return httpx.Client(
         timeout=httpx.Timeout(60, connect=25),
         follow_redirects=True,
         headers={
-            "User-Agent": "HantaUpdatesArcGISPrimary/2.0 (+https://hantamap.online)",
+            "User-Agent": "HantaMapArcGISPrimary/3.0 (+https://hantamap.online)",
             "Accept": "application/json,text/plain,*/*",
         },
     )
@@ -121,7 +129,6 @@ def find_service_urls(payload: Any) -> list[str]:
             found.add(url)
 
     walk(payload)
-
     return sorted(found)
 
 
@@ -149,7 +156,7 @@ def find_arcgis_item_ids(payload: Any) -> list[str]:
         if re.fullmatch(r"[a-fA-F0-9]{32}", raw):
             found.add(raw)
 
-    def walk(value: Any, parent_key: str = "") -> None:
+    def walk(value: Any) -> None:
         if isinstance(value, dict):
             for key, item in value.items():
                 key_lower = str(key).lower().strip()
@@ -157,24 +164,22 @@ def find_arcgis_item_ids(payload: Any) -> list[str]:
                 if key_lower in item_id_keys or "itemid" in key_lower:
                     maybe_add(item)
 
-                walk(item, key_lower)
+                walk(item)
 
             return
 
         if isinstance(value, list):
             for item in value:
-                walk(item, parent_key)
+                walk(item)
 
             return
 
         if isinstance(value, str):
-            # يلتقط أي item id داخل النصوص أيضًا
             for match in re.finditer(r"\b[a-fA-F0-9]{32}\b", value):
                 found.add(match.group(0))
 
     walk(payload)
 
-    # لا نعيد dashboard نفسه
     return sorted(item_id for item_id in found if item_id != DASHBOARD_ITEM_ID)
 
 
@@ -197,13 +202,11 @@ def fetch_item_json(client: httpx.Client, item_id: str) -> dict[str, Any] | None
 
 def fetch_item_data_json(client: httpx.Client, item_id: str) -> Any | None:
     try:
-        payload = fetch_json(
+        return fetch_json(
             client,
             f"https://www.arcgis.com/sharing/rest/content/items/{item_id}/data",
             {"f": "json"},
         )
-
-        return payload
     except Exception:
         return None
 
@@ -235,8 +238,10 @@ def discover_service_urls_from_item_ids(
             for url in find_service_urls(data_payload):
                 service_urls.add(url)
 
-            for nested_item_id in find_arcgis_item_ids(data_payload):
-                if nested_item_id == item_id or nested_item_id == DASHBOARD_ITEM_ID:
+            nested_item_ids = find_arcgis_item_ids(data_payload)
+
+            for nested_item_id in nested_item_ids:
+                if nested_item_id in [item_id, DASHBOARD_ITEM_ID]:
                     continue
 
                 nested_item = fetch_item_json(client, nested_item_id)
@@ -355,12 +360,8 @@ def query_layer_features(client: httpx.Client, layer_url: str) -> dict[str, Any]
     }
 
 
-def attr_key_map(attrs: dict[str, Any]) -> dict[str, str]:
-    return {str(key).lower().strip(): str(key) for key in attrs.keys()}
-
-
 def pick_attr(attrs: dict[str, Any], candidates: list[str], default: Any = None) -> Any:
-    lowered = attr_key_map(attrs)
+    lowered = {str(key).lower().strip(): str(key) for key in attrs.keys()}
 
     for candidate in candidates:
         direct_key = lowered.get(candidate.lower())
@@ -384,24 +385,6 @@ def pick_attr(attrs: dict[str, Any], candidates: list[str], default: Any = None)
     return default
 
 
-def pick_object_id(attrs: dict[str, Any], fallback: str) -> str:
-    value = pick_attr(
-        attrs,
-        [
-            "objectid",
-            "object_id",
-            "fid",
-            "id",
-            "globalid",
-            "global_id",
-            "case_id",
-        ],
-        fallback,
-    )
-
-    return str(value)
-
-
 def normalize_status(value: Any) -> str:
     raw = str(value or "").strip().lower()
 
@@ -419,9 +402,6 @@ def normalize_status(value: Any) -> str:
 
     if "monitor" in raw or "quarantine" in raw or "isolation" in raw or "watch" in raw:
         return "monitoring"
-
-    if "negative" in raw or "ruled" in raw:
-        return "unknown"
 
     if "pending" in raw or "await" in raw or "test" in raw:
         return "suspected"
@@ -451,12 +431,11 @@ def get_geometry_lat_lng(feature: dict[str, Any]) -> tuple[float | None, float |
     if x is not None and y is not None and -90 <= y <= 90 and -180 <= x <= 180:
         return y, x
 
-    if "longitude" in geometry and "latitude" in geometry:
-        lng = safe_float(geometry.get("longitude"))
-        lat = safe_float(geometry.get("latitude"))
+    lng = safe_float(geometry.get("longitude"))
+    lat = safe_float(geometry.get("latitude"))
 
-        if lat is not None and lng is not None:
-            return lat, lng
+    if lat is not None and lng is not None:
+        return lat, lng
 
     return None, None
 
@@ -661,10 +640,23 @@ def normalize_features(raw_layers: list[dict[str, Any]]) -> dict[str, Any]:
             source_url = normalize_source_url(attrs)
             exposed_at = normalize_exposure_date(attrs)
 
-            object_id = pick_object_id(attrs, f"{layer_name}-{index}")
-            case_id = re.sub(
-                r"[^a-zA-Z0-9_-]+", "-", f"{layer_name}-{object_id}"
-            ).strip("-")
+            object_id = str(
+                pick_attr(
+                    attrs,
+                    [
+                        "objectid",
+                        "object_id",
+                        "fid",
+                        "id",
+                        "globalid",
+                        "global_id",
+                        "case_id",
+                    ],
+                    f"{layer_name}-{index}",
+                )
+            )
+
+            case_id = slugify(f"{layer_name}-{object_id}-{country}-{status}")
 
             cases.append(
                 {
@@ -732,7 +724,6 @@ def normalize_features(raw_layers: list[dict[str, Any]]) -> dict[str, Any]:
         row["items"].append(case)
 
     checked_at = now_iso()
-
     countries: list[dict[str, Any]] = []
 
     for row in countries_by_name.values():
@@ -775,7 +766,7 @@ def normalize_features(raw_layers: list[dict[str, Any]]) -> dict[str, Any]:
         "dashboard_item_id": DASHBOARD_ITEM_ID,
         "note": (
             "Independent ArcGIS research map. Used as primary tracking signal for this dashboard. "
-            "Official WHO / CDC / ECDC sources should remain available as fallback context."
+            "Official WHO / CDC / ECDC sources remain available as fallback context."
         ),
         "cases": cases,
         "countries": countries,
@@ -812,7 +803,7 @@ def build_global_data(normalized: dict[str, Any]) -> dict[str, Any]:
 
     return {
         "disease": "Hantavirus",
-        "event_name": "ANDV Hantavirus 2026 independent ArcGIS tracker",
+        "event_name": "ANDV Hantavirus 2026 Live Tracker",
         "tracked_countries": len(countries),
         "total_confirmed": total_confirmed,
         "total_deaths": total_deaths,
@@ -833,7 +824,7 @@ def build_global_data(normalized: dict[str, Any]) -> dict[str, Any]:
         "source_label": "ArcGIS independent research dashboard",
         "primary_event_url": DASHBOARD_URL,
         "current_outbreak": {
-            "event_name": "ANDV Hantavirus 2026 independent ArcGIS tracker",
+            "event_name": "ANDV Hantavirus 2026 Live Tracker",
             "confirmed_cases": total_confirmed,
             "suspected_cases": total_suspected,
             "probable_cases": 0,
@@ -857,11 +848,12 @@ def build_global_data(normalized: dict[str, Any]) -> dict[str, Any]:
         "data_notes": [
             "ArcGIS independent research dashboard is used as the primary tracking source.",
             "WHO / CDC / ECDC / Africa CDC updater remains available as fallback if ArcGIS fails.",
-            "Case counts are tentative and derived from the public ArcGIS dashboard layer data.",
+            "Case counts are tentative and derived from public ArcGIS dashboard layer data.",
             "Confirmed means tested positive where the ArcGIS item is categorized as confirmed.",
             "Deceased means suspected or confirmed hantavirus death according to the ArcGIS item category.",
             "Suspected means symptomatic or awaiting test results according to the ArcGIS item category.",
             "Monitoring means people under isolation, quarantine, or observation according to the ArcGIS item category.",
+            "This site is an independent tracker and does not provide medical advice.",
         ],
     }
 
@@ -877,7 +869,6 @@ def build_points(normalized: dict[str, Any]) -> list[dict[str, Any]]:
         suspected = 1 if status == "suspected" else 0
         monitoring = 1 if status == "monitoring" else 0
         unknown = 1 if status == "unknown" else 0
-
         total_identified = confirmed + deaths + suspected + monitoring + unknown
 
         points.append(
@@ -995,30 +986,12 @@ def build_sources(checked_at: str) -> list[dict[str, Any]]:
     ]
 
 
-def build_all_countries_from_current(
-    countries: list[dict[str, Any]],
-) -> list[dict[str, Any]]:
-    rows: list[dict[str, Any]] = []
-
-    for item in countries:
-        rows.append(
-            {
-                "country": item["country"],
-                "region": item.get("region") or "",
-                "lat": item["lat"],
-                "lng": item["lng"],
-                "is_country": bool(item.get("is_country", False)),
-            }
-        )
-
-    return rows
-
-
 def write_site_data(normalized: dict[str, Any]) -> dict[str, Any]:
     checked_at = normalized["checked_at"]
     global_data = build_global_data(normalized)
 
     countries = []
+
     for item in normalized["countries"]:
         copied = dict(item)
         copied.pop("items", None)
@@ -1027,7 +1000,17 @@ def write_site_data(normalized: dict[str, Any]) -> dict[str, Any]:
     points = build_points(normalized)
     timeline = build_timeline(global_data)
     sources = build_sources(checked_at)
-    all_countries = build_all_countries_from_current(countries)
+
+    all_countries = [
+        {
+            "country": item["country"],
+            "region": item.get("region") or "",
+            "lat": item["lat"],
+            "lng": item["lng"],
+            "is_country": bool(item.get("is_country", False)),
+        }
+        for item in countries
+    ]
 
     official_events = [
         {
@@ -1035,9 +1018,7 @@ def write_site_data(normalized: dict[str, Any]) -> dict[str, Any]:
             "source_id": "arcgis_independent_dashboard",
             "type": "current_outbreak",
             "title": global_data["event_name"],
-            "summary": (
-                "Case data imported from the public ArcGIS independent research dashboard."
-            ),
+            "summary": "Case data imported from the public ArcGIS independent research dashboard.",
             "url": DASHBOARD_URL,
             "published_at": checked_at[:10],
             "metrics": {
@@ -1061,6 +1042,31 @@ def write_site_data(normalized: dict[str, Any]) -> dict[str, Any]:
         }
     ]
 
+    latest_articles = []
+
+    for case in normalized["cases"]:
+        status_label = str(case["status"]).replace("_", " ").title()
+        country = case["country"]
+        slug = slugify(f"{status_label} hantavirus case {country} {case['id']}")
+
+        latest_articles.append(
+            {
+                "id": slug,
+                "slug": slug,
+                "title": f"{status_label} Hantavirus signal reported in {country}",
+                "description": (
+                    f"Latest ANDV Hantavirus 2026 tracker update for {country}. "
+                    f"Status: {status_label}. Independent tracking signal based on public map data."
+                ),
+                "country": country,
+                "status": case["status"],
+                "case_id": case["id"],
+                "published_at": checked_at,
+                "updated_at": checked_at,
+                "source_url": case.get("source_url") or DASHBOARD_URL,
+            }
+        )
+
     write_json(DATA_DIR / "global.json", global_data)
     write_json(DATA_DIR / "countries.json", countries)
     write_json(DATA_DIR / "points.json", points)
@@ -1070,6 +1076,7 @@ def write_site_data(normalized: dict[str, Any]) -> dict[str, Any]:
     write_json(DATA_DIR / "historical_context.json", {})
     write_json(DATA_DIR / "fetch_log.json", [])
     write_json(DATA_DIR / "all_countries.json", all_countries)
+    write_json(DATA_DIR / "latest_articles.json", latest_articles[:100])
 
     return global_data
 
@@ -1156,9 +1163,6 @@ def main() -> None:
     write_json(FRONTEND_ARCGIS_OUTPUT, normalized)
 
     print("[ArcGIS] Primary data update completed.")
-    print(f"Raw: {RAW_OUTPUT}")
-    print(f"Normalized: {NORMALIZED_OUTPUT}")
-    print(f"Frontend ArcGIS: {FRONTEND_ARCGIS_OUTPUT}")
     print(f"Cases: {len(normalized['cases'])}")
     print(f"Locations: {len(normalized['countries'])}")
     print(f"Confirmed: {global_data['total_confirmed']}")

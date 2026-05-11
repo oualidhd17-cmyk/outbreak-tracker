@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-11T20:44:24+00:00",
+  "checked_at": "2026-05-11T21:16:52+00:00",
   "dashboard_item_id": "5c68442d2afc42d7ba2696e4cd393729",
   "dashboard_url": "https://www.arcgis.com/apps/dashboards/5c68442d2afc42d7ba2696e4cd393729",
   "service_urls": [
@@ -1821,7 +1821,7 @@
             "ONSET": null,
             "DEATH": null,
             "SOURCE": null,
-            "LASTLOCATION": null,
+            "LASTLOCATION": "TENERIFE",
             "DETAILS": " Onboard MV Hondus, disembarked May 10 as per ocean liner data - and currently unknown location",
             "TCLASS": null,
             "Exposure_Group": "MV Hondus, May 10"

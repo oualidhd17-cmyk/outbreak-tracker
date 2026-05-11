@@ -1,6 +1,6 @@
 [
   {
-    "id": "R0_INITAL-1",
+    "id": "r0-inital-1-zurich-confirmed",
     "name": "Departed ship, Swiss national, confirmed case",
     "country": "ZURICH",
     "region": "ZURICH",
@@ -21,7 +21,7 @@
     "risk_level": "moderate"
   },
   {
-    "id": "R0_INITAL-2",
+    "id": "r0-inital-2-zurich-suspected",
     "name": "Departed ship, wife of case 7, in isolation",
     "country": "ZURICH",
     "region": "ZURICH",
@@ -42,7 +42,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-3",
+    "id": "r0-inital-3-johannesburg-confirmed",
     "name": "Confirmed Hantavirus, British National",
     "country": "JOHANNESBURG",
     "region": "JOHANNESBURG",
@@ -63,7 +63,7 @@
     "risk_level": "moderate"
   },
   {
-    "id": "R0_INITAL-6",
+    "id": "r0-inital-6-mv-hondius-deceased",
     "name": "Initial case",
     "country": "MV Hondius",
     "region": "MV Hondius",
@@ -84,7 +84,7 @@
     "risk_level": "high"
   },
   {
-    "id": "R0_INITAL-7",
+    "id": "r0-inital-7-johannesburg-deceased",
     "name": "Wife of initial case, confirmed case",
     "country": "JOHANNESBURG",
     "region": "JOHANNESBURG",
@@ -105,7 +105,7 @@
     "risk_level": "high"
   },
   {
-    "id": "R0_INITAL-10",
+    "id": "r0-inital-10-netherlands-suspected",
     "name": "German woman, ship passenger & connected to case 4 unknown if in hospital",
     "country": "NETHERLANDS",
     "region": "NETHERLANDS",
@@ -126,7 +126,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-11",
+    "id": "r0-inital-11-netherlands-confirmed",
     "name": "Dutch crew member, confirmed positive",
     "country": "NETHERLANDS",
     "region": "NETHERLANDS",
@@ -147,7 +147,7 @@
     "risk_level": "moderate"
   },
   {
-    "id": "R0_INITAL-12",
+    "id": "r0-inital-12-netherlands-confirmed",
     "name": "Ship crew, doctor, evacuated from ship, confirmed hantavirus",
     "country": "NETHERLANDS",
     "region": "NETHERLANDS",
@@ -168,7 +168,7 @@
     "risk_level": "moderate"
   },
   {
-    "id": "R0_INITAL-13",
+    "id": "r0-inital-13-mv-hondius-deceased",
     "name": "German National, ship passenger, confirmed hantavirus",
     "country": "MV Hondius",
     "region": "MV Hondius",
@@ -189,7 +189,7 @@
     "risk_level": "high"
   },
   {
-    "id": "R0_INITAL-14",
+    "id": "r0-inital-14-netherlands-monitoring",
     "name": "Flight attendant, monitoring but not confirmed case. Symptomatic",
     "country": "NETHERLANDS",
     "region": "NETHERLANDS",
@@ -210,7 +210,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-15",
+    "id": "r0-inital-15-singapore-suspected",
     "name": "Has runny nose, awaiting test results. Was onbord MV Hondius, raveled on same flight from St Helena to Johannesbug on April 25.",
     "country": "SINGAPORE",
     "region": "SINGAPORE",
@@ -231,7 +231,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-16",
+    "id": "r0-inital-16-singapore-monitoring",
     "name": "Onboard MV Hondius, traveled on same flight from St Helena to Johannesbug on April 25. no symptoms",
     "country": "SINGAPORE",
     "region": "SINGAPORE",
@@ -252,7 +252,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-17",
+    "id": "r0-inital-17-georgia-usa-monitoring",
     "name": "Onboard ship, departed April 24th, no symptoms",
     "country": "GEORGIA, USA",
     "region": "GEORGIA, USA",
@@ -273,7 +273,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-18",
+    "id": "r0-inital-18-georgia-usa-monitoring",
     "name": "Onboard ship, departed April 24th, no symptoms",
     "country": "GEORGIA, USA",
     "region": "GEORGIA, USA",
@@ -294,7 +294,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-19",
+    "id": "r0-inital-19-united-kingdom-monitoring",
     "name": "Onboard ship, departed April 24th. No symptoms",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -315,7 +315,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-20",
+    "id": "r0-inital-20-united-kingdom-monitoring",
     "name": "Onboard Ship, departed April 24th. No symptoms",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -336,7 +336,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-21",
+    "id": "r0-inital-21-arizona-usa-monitoring",
     "name": "Onboard ship, departed April 24th, no symptoms",
     "country": "ARIZONA, USA",
     "region": "ARIZONA, USA",
@@ -357,7 +357,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-22",
+    "id": "r0-inital-22-praia-cape-verde-monitoring",
     "name": "MV Hondius 146 People on board",
     "country": "PRAIA, CAPE VERDE",
     "region": "PRAIA, CAPE VERDE",
@@ -378,7 +378,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-23",
+    "id": "r0-inital-23-canada-monitoring",
     "name": "Onboard ship, departed on April 24th, no symptoms",
     "country": "CANADA",
     "region": "CANADA",
@@ -399,7 +399,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-24",
+    "id": "r0-inital-24-canada-monitoring",
     "name": "Onboard ship, departed April 24th, no symptoms",
     "country": "CANADA",
     "region": "CANADA",
@@ -420,7 +420,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-25",
+    "id": "r0-inital-25-canada-monitoring",
     "name": "Onboard ship, departed April 24th no symptoms",
     "country": "CANADA",
     "region": "CANADA",
@@ -441,7 +441,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-26",
+    "id": "r0-inital-26-texas-monitoring",
     "name": "Onboard ship, departed April 24th, no symptoms",
     "country": "TEXAS",
     "region": "TEXAS",
@@ -462,7 +462,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-27",
+    "id": "r0-inital-27-texas-monitoring",
     "name": "Onboard ship, departed April 24th, no symptoms",
     "country": "TEXAS",
     "region": "TEXAS",
@@ -483,7 +483,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-28",
+    "id": "r0-inital-28-california-monitoring",
     "name": "Undisclosed number of people being monitored. Onboard ship & departed April 24th",
     "country": "CALIFORNIA",
     "region": "CALIFORNIA",
@@ -504,7 +504,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-29",
+    "id": "r0-inital-29-france-suspected",
     "name": "Onboard ship, departed April 24th. CONFIRMED to have been onboard ship prior to air travel.",
     "country": "FRANCE",
     "region": "FRANCE",
@@ -525,7 +525,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-30",
+    "id": "r0-inital-30-new-jersey-monitoring",
     "name": "Not passenger on ship, was on April 24th flight",
     "country": "NEW JERSEY",
     "region": "NEW JERSEY",
@@ -546,7 +546,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-31",
+    "id": "r0-inital-31-alicante-spain-suspected",
     "name": "Passenger on April 24th flight, being tested",
     "country": "ALICANTE, SPAIN",
     "region": "ALICANTE, SPAIN",
@@ -567,7 +567,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-32",
+    "id": "r0-inital-32-st-helena-monitoring",
     "name": "Disembarked ship on April 24, no symptoms",
     "country": "ST HELENA",
     "region": "ST HELENA",
@@ -588,7 +588,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-33",
+    "id": "r0-inital-33-st-helena-monitoring",
     "name": "Disembarked ship on April 24th, no symptoms. British passenger",
     "country": "ST HELENA",
     "region": "ST HELENA",
@@ -609,7 +609,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-34",
+    "id": "r0-inital-34-st-helena-monitoring",
     "name": "Disembarked ship on April 24th. No symptoms, British passenger",
     "country": "ST HELENA",
     "region": "ST HELENA",
@@ -630,7 +630,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-35",
+    "id": "r0-inital-35-st-helena-monitoring",
     "name": "Disembarked ship on April 24th. No symptoms, British passenger",
     "country": "ST HELENA",
     "region": "ST HELENA",
@@ -651,7 +651,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-36",
+    "id": "r0-inital-36-tristan-da-cunha-confirmed",
     "name": "British national, Onboard ship departed, CONFIRMED",
     "country": "Tristan da Cunha",
     "region": "Tristan da Cunha",
@@ -672,7 +672,7 @@
     "risk_level": "moderate"
   },
   {
-    "id": "R0_INITAL-37",
+    "id": "r0-inital-37-turkey-monitoring",
     "name": "Onboard shio, disembarked April 24 Travel Vlogger, no symptoms",
     "country": "TURKEY",
     "region": "TURKEY",
@@ -693,7 +693,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-38",
+    "id": "r0-inital-38-turkey-monitoring",
     "name": "Onboard ship, Disembarked April 24th, cameraman Turkish national",
     "country": "TURKEY",
     "region": "TURKEY",
@@ -714,7 +714,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-39",
+    "id": "r0-inital-39-virginia-monitoring",
     "name": "On the MV Hondius disembarked the ship April 24th and has returned home",
     "country": "VIRGINIA",
     "region": "VIRGINIA",
@@ -735,7 +735,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-40",
+    "id": "r0-inital-40-tristan-da-cunha-suspected",
     "name": "Not on ship, Wife of case 8, in isolation",
     "country": "Tristan da Cunha",
     "region": "Tristan da Cunha",
@@ -756,7 +756,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-41",
+    "id": "r0-inital-41-france-confirmed",
     "name": "French passenger, started experiencing symptoms on repatriation flight back to France on 10 May",
     "country": "FRANCE",
     "region": "FRANCE",
@@ -777,7 +777,7 @@
     "risk_level": "moderate"
   },
   {
-    "id": "R0_INITAL-42",
+    "id": "r0-inital-42-france-monitoring",
     "name": "Onboard ship, one of 5 French citizens flown back on May 10",
     "country": "FRANCE",
     "region": "FRANCE",
@@ -798,7 +798,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-43",
+    "id": "r0-inital-43-france-monitoring",
     "name": "Onboard ship, one of 5 French citizens flown back on May 10",
     "country": "FRANCE",
     "region": "FRANCE",
@@ -819,7 +819,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-44",
+    "id": "r0-inital-44-france-monitoring",
     "name": "Onboard ship, one of 5 French citizens flown back on May 10",
     "country": "FRANCE",
     "region": "FRANCE",
@@ -840,7 +840,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-45",
+    "id": "r0-inital-45-france-monitoring",
     "name": "Onboard ship, one of 5 French citizens flown back May 10",
     "country": "FRANCE",
     "region": "FRANCE",
@@ -861,7 +861,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-46",
+    "id": "r0-inital-46-unknown-unknown",
     "name": "Disembarked ship on April 24. No Details or information can be found",
     "country": "UNKNOWN",
     "region": "UNKNOWN",
@@ -882,7 +882,7 @@
     "risk_level": "unknown"
   },
   {
-    "id": "R0_INITAL-47",
+    "id": "r0-inital-47-unknown-unknown",
     "name": "British passenger, Disembarked April 24th",
     "country": "UNKNOWN",
     "region": "UNKNOWN",
@@ -903,7 +903,7 @@
     "risk_level": "unknown"
   },
   {
-    "id": "R0_INITAL-48",
+    "id": "r0-inital-48-united-states-confirmed",
     "name": "Disembarked ship with Americans on May 10. No symptoms and tested positive",
     "country": "UNITED STATES",
     "region": "UNITED STATES",
@@ -924,7 +924,7 @@
     "risk_level": "moderate"
   },
   {
-    "id": "R0_INITAL-49",
+    "id": "r0-inital-49-nebraska-usa-suspected",
     "name": "Disembarked ship with Americans on May 10. Symptoms but tested negative",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -945,7 +945,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-50",
+    "id": "r0-inital-50-australia-monitoring",
     "name": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
     "country": "AUSTRALIA",
     "region": "AUSTRALIA",
@@ -966,7 +966,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-51",
+    "id": "r0-inital-51-australia-monitoring",
     "name": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
     "country": "AUSTRALIA",
     "region": "AUSTRALIA",
@@ -987,7 +987,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-52",
+    "id": "r0-inital-52-australia-monitoring",
     "name": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
     "country": "AUSTRALIA",
     "region": "AUSTRALIA",
@@ -1008,7 +1008,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-53",
+    "id": "r0-inital-53-australia-monitoring",
     "name": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
     "country": "AUSTRALIA",
     "region": "AUSTRALIA",
@@ -1029,7 +1029,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-54",
+    "id": "r0-inital-54-australia-monitoring",
     "name": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
     "country": "AUSTRALIA",
     "region": "AUSTRALIA",
@@ -1050,7 +1050,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-55",
+    "id": "r0-inital-55-australia-monitoring",
     "name": "Passenger on the MV Hondus, New Zealander, disembarked on May 10 and to be in Perth for quarantine",
     "country": "AUSTRALIA",
     "region": "AUSTRALIA",
@@ -1071,7 +1071,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-56",
+    "id": "r0-inital-56-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1092,7 +1092,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-57",
+    "id": "r0-inital-57-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1113,7 +1113,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-58",
+    "id": "r0-inital-58-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1134,7 +1134,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-59",
+    "id": "r0-inital-59-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1155,7 +1155,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-60",
+    "id": "r0-inital-60-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1176,7 +1176,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-61",
+    "id": "r0-inital-61-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1197,7 +1197,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-62",
+    "id": "r0-inital-62-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1218,7 +1218,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-63",
+    "id": "r0-inital-63-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1239,7 +1239,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-64",
+    "id": "r0-inital-64-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1260,7 +1260,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-65",
+    "id": "r0-inital-65-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1281,7 +1281,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-66",
+    "id": "r0-inital-66-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1302,7 +1302,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-67",
+    "id": "r0-inital-67-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1323,7 +1323,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-68",
+    "id": "r0-inital-68-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1344,7 +1344,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-69",
+    "id": "r0-inital-69-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1365,7 +1365,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-70",
+    "id": "r0-inital-70-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1386,7 +1386,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-71",
+    "id": "r0-inital-71-nebraska-usa-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
     "country": "NEBRASKA, USA",
     "region": "NEBRASKA, USA",
@@ -1407,7 +1407,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-72",
+    "id": "r0-inital-72-belgium-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Netherlands then to Antwerp Belgium",
     "country": "BELGIUM",
     "region": "BELGIUM",
@@ -1428,7 +1428,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-73",
+    "id": "r0-inital-73-belgium-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Netherlands then to Antwerp Belgium",
     "country": "BELGIUM",
     "region": "BELGIUM",
@@ -1449,7 +1449,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-74",
+    "id": "r0-inital-74-mv-hondus-unknown",
     "name": "Onboard MV Hondus, disembarked May 10. Unknowns where",
     "country": "MV HONDUS",
     "region": "MV HONDUS",
@@ -1470,7 +1470,7 @@
     "risk_level": "unknown"
   },
   {
-    "id": "R0_INITAL-75",
+    "id": "r0-inital-75-canada-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and will be transported to British Columbia",
     "country": "CANADA",
     "region": "CANADA",
@@ -1491,7 +1491,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-76",
+    "id": "r0-inital-76-canada-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and will be transported to British Columbia",
     "country": "CANADA",
     "region": "CANADA",
@@ -1512,7 +1512,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-77",
+    "id": "r0-inital-77-canada-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and will be transported to British Columbia",
     "country": "CANADA",
     "region": "CANADA",
@@ -1533,7 +1533,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-78",
+    "id": "r0-inital-78-canada-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and will be transported to British Columbia",
     "country": "CANADA",
     "region": "CANADA",
@@ -1554,7 +1554,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-79",
+    "id": "r0-inital-79-germany-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and will be transported to home state in Germany",
     "country": "GERMANY",
     "region": "GERMANY",
@@ -1575,7 +1575,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-80",
+    "id": "r0-inital-80-germany-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and will be transported to home state in Germany",
     "country": "GERMANY",
     "region": "GERMANY",
@@ -1596,7 +1596,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-81",
+    "id": "r0-inital-81-germany-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and will be transported to home state in Germany",
     "country": "GERMANY",
     "region": "GERMANY",
@@ -1617,7 +1617,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-82",
+    "id": "r0-inital-82-germany-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and will be transported to home state in Germany",
     "country": "GERMANY",
     "region": "GERMANY",
@@ -1638,7 +1638,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-83",
+    "id": "r0-inital-83-greece-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and will be transported to Athens",
     "country": "GREECE",
     "region": "GREECE",
@@ -1659,7 +1659,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-84",
+    "id": "r0-inital-84-netherlands-monitoring",
     "name": "Onboard MV Hondus, crew member disembarked May 10 and monitoring in Netherlands",
     "country": "NETHERLANDS",
     "region": "NETHERLANDS",
@@ -1680,7 +1680,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-85",
+    "id": "r0-inital-85-netherlands-monitoring",
     "name": "Onboard MV Hondus, crew member disembarked May 10 and monitoring in Netherlands",
     "country": "NETHERLANDS",
     "region": "NETHERLANDS",
@@ -1701,7 +1701,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-86",
+    "id": "r0-inital-86-ireland-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Dublin",
     "country": "IRELAND",
     "region": "IRELAND",
@@ -1722,7 +1722,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-87",
+    "id": "r0-inital-87-ireland-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and transported to Dublin",
     "country": "IRELAND",
     "region": "IRELAND",
@@ -1743,10 +1743,10 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-88",
+    "id": "r0-inital-88-tenerife-unknown",
     "name": "Onboard MV Hondus, disembarked May 10 as per ocean liner data - and currently unknown location",
-    "country": "Unknown",
-    "region": "Unknown",
+    "country": "TENERIFE",
+    "region": "TENERIFE",
     "is_country": false,
     "confirmed": 0,
     "suspected": 0,
@@ -1764,7 +1764,7 @@
     "risk_level": "unknown"
   },
   {
-    "id": "R0_INITAL-89",
+    "id": "r0-inital-89-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -1785,7 +1785,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-90",
+    "id": "r0-inital-90-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -1806,7 +1806,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-91",
+    "id": "r0-inital-91-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -1827,7 +1827,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-92",
+    "id": "r0-inital-92-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -1848,7 +1848,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-93",
+    "id": "r0-inital-93-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -1869,7 +1869,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-94",
+    "id": "r0-inital-94-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -1890,7 +1890,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-95",
+    "id": "r0-inital-95-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -1911,7 +1911,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-96",
+    "id": "r0-inital-96-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -1932,7 +1932,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-97",
+    "id": "r0-inital-97-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -1953,7 +1953,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-98",
+    "id": "r0-inital-98-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -1974,7 +1974,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-99",
+    "id": "r0-inital-99-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -1995,7 +1995,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-100",
+    "id": "r0-inital-100-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -2016,7 +2016,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-101",
+    "id": "r0-inital-101-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -2037,7 +2037,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-102",
+    "id": "r0-inital-102-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -2058,7 +2058,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-103",
+    "id": "r0-inital-103-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -2079,7 +2079,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-104",
+    "id": "r0-inital-104-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -2100,7 +2100,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-105",
+    "id": "r0-inital-105-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -2121,7 +2121,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-106",
+    "id": "r0-inital-106-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -2142,7 +2142,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-107",
+    "id": "r0-inital-107-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -2163,7 +2163,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-108",
+    "id": "r0-inital-108-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, crew member disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -2184,7 +2184,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-109",
+    "id": "r0-inital-109-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, crew member disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -2205,7 +2205,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-110",
+    "id": "r0-inital-110-united-kingdom-monitoring",
     "name": "Onboard MV Hondus, crew member disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
     "country": "UNITED KINGDOM",
     "region": "UNITED KINGDOM",
@@ -2226,7 +2226,7 @@
     "risk_level": "low"
   },
   {
-    "id": "R0_INITAL-111",
+    "id": "r0-inital-111-spain-confirmed",
     "name": "Onboard MV Hondus, disembarked May 10 and tested positve with no symptoms",
     "country": "SPAIN",
     "region": "SPAIN",

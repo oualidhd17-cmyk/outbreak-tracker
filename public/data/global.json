@@ -1,6 +1,6 @@
 {
   "disease": "Hantavirus",
-  "event_name": "ANDV Hantavirus 2026 independent ArcGIS tracker",
+  "event_name": "ANDV Hantavirus 2026 Live Tracker",
   "tracked_countries": 30,
   "total_confirmed": 8,
   "total_deaths": 3,
@@ -17,11 +17,11 @@
   "total_hospitalized": 0,
   "affected_countries": 30,
   "global_risk_level": "high",
-  "last_updated": "2026-05-11T20:44:24+00:00",
+  "last_updated": "2026-05-11T21:16:52+00:00",
   "source_label": "ArcGIS independent research dashboard",
   "primary_event_url": "https://www.arcgis.com/apps/dashboards/5c68442d2afc42d7ba2696e4cd393729",
   "current_outbreak": {
-    "event_name": "ANDV Hantavirus 2026 independent ArcGIS tracker",
+    "event_name": "ANDV Hantavirus 2026 Live Tracker",
     "confirmed_cases": 8,
     "suspected_cases": 7,
     "probable_cases": 0,
@@ -45,10 +45,11 @@
   "data_notes": [
     "ArcGIS independent research dashboard is used as the primary tracking source.",
     "WHO / CDC / ECDC / Africa CDC updater remains available as fallback if ArcGIS fails.",
-    "Case counts are tentative and derived from the public ArcGIS dashboard layer data.",
+    "Case counts are tentative and derived from public ArcGIS dashboard layer data.",
     "Confirmed means tested positive where the ArcGIS item is categorized as confirmed.",
     "Deceased means suspected or confirmed hantavirus death according to the ArcGIS item category.",
     "Suspected means symptomatic or awaiting test results according to the ArcGIS item category.",
-    "Monitoring means people under isolation, quarantine, or observation according to the ArcGIS item category."
+    "Monitoring means people under isolation, quarantine, or observation according to the ArcGIS item category.",
+    "This site is an independent tracker and does not provide medical advice."
   ]
 }

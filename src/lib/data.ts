@@ -68,6 +68,10 @@ export async function loadArcgisDashboard(): Promise<ArcgisDashboardData> {
   return fetchOptionalJson<ArcgisDashboardData>('/data/arcgis_dashboard.json', {
     checked_at: '',
     source: 'ArcGIS dashboard',
+    dashboard_url: '',
+    dashboard_item_id: '',
+    note: '',
     cases: [],
+    countries: [],
   });
 }

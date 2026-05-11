@@ -1,84 +1,93 @@
 import type { Metadata, Viewport } from 'next';
 import Script from 'next/script';
-
+import 'leaflet/dist/leaflet.css';
+import './globals.css';
 import { MonetagScripts } from '@/components/monetag/MonetagScripts';
 import { SmartDirectLink } from '@/components/monetag/SmartDirectLink';
 import { ScrollControls } from '@/components/ui/ScrollControls';
 
-import 'leaflet/dist/leaflet.css';
-import './globals.css';
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || 'https://hantamap.online';
-const GOOGLE_TAG_ID = 'G-YBK28FJ69W';
+const siteUrl = (
+  process.env.NEXT_PUBLIC_SITE_URL || 'https://hantamap.online'
+).replace(/\/$/, '');
+
+const googleAnalyticsId =
+  process.env.NEXT_PUBLIC_GA_ID || process.env.GA_ID || 'G-YBK28FJ69W';
+
+const googleSiteVerification =
+  process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || '';
 
 export const metadata: Metadata = {
-  metadataBase: new URL(SITE_URL),
+  metadataBase: new URL(siteUrl),
   title: {
-    default: 'Live Hantavirus Outbreak Tracker | Official Data Dashboard',
-    template: '%s | Live Hantavirus Outbreak Tracker',
+    default: 'ANDV Hantavirus 2026 Live Map Tracker',
+    template: '%s | HantaMap',
   },
   description:
-    'Track confirmed, suspected, and official hantavirus outbreak updates using public-health sources such as WHO, CDC, ECDC, Africa CDC, and ReliefWeb.',
+    'Independent ANDV Hantavirus 2026 live tracker with confirmed, suspected, deceased and monitoring map signals.',
   keywords: [
+    'hantavirus',
+    'hantavirus map',
     'hantavirus tracker',
-    'hantavirus outbreak map',
-    'hantavirus cases',
-    'hantavirus dashboard',
-    'Andes virus',
-    'outbreak dashboard',
-    'WHO outbreak news',
-    'CDC hantavirus',
-    'ECDC hantavirus',
-    'public health dashboard',
+    'hantavirus outbreak 2026',
+    'ANDV hantavirus',
+    'MV Hondius hantavirus',
+    'hantavirus cruise ship',
   ],
-  applicationName: 'Live Outbreak Tracker',
+  applicationName: 'HantaMap',
+  icons: {
+    icon: '/favicon.ico',
+    shortcut: '/favicon.ico',
+    apple: '/favicon.ico',
+  },
   authors: [
     {
-      name: 'Live Outbreak Tracker',
-      url: SITE_URL,
+      name: 'HantaMap',
     },
   ],
-  creator: 'Live Outbreak Tracker',
-  publisher: 'Live Outbreak Tracker',
-  category: 'public health',
+  creator: 'HantaMap',
+  publisher: 'HantaMap',
   alternates: {
-    canonical: '/',
+    canonical: siteUrl,
+  },
+  verification: googleSiteVerification
+    ? {
+        google: googleSiteVerification,
+      }
+    : undefined,
+  openGraph: {
+    type: 'website',
+    url: siteUrl,
+    siteName: 'HantaMap',
+    title: 'ANDV Hantavirus 2026 Live Map Tracker',
+    description:
+      'Independent ANDV Hantavirus 2026 live tracker with confirmed, suspected, deceased and monitoring map signals.',
+    images: [
+      {
+        url: `${siteUrl}/opengraph-image`,
+        width: 1200,
+        height: 630,
+        alt: 'ANDV Hantavirus 2026 Live Map Tracker',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'ANDV Hantavirus 2026 Live Map Tracker',
+    description:
+      'Independent ANDV Hantavirus 2026 live tracker with confirmed, suspected, deceased and monitoring map signals.',
+    images: [`${siteUrl}/opengraph-image`],
   },
   robots: {
     index: true,
     follow: true,
-    nocache: false,
     googleBot: {
       index: true,
       follow: true,
-      noimageindex: false,
       'max-image-preview': 'large',
-      'max-snippet': -1,
       'max-video-preview': -1,
+      'max-snippet': -1,
     },
-  },
-  openGraph: {
-    type: 'website',
-    url: SITE_URL,
-    siteName: 'Live Outbreak Tracker',
-    title: 'Live Hantavirus Outbreak Tracker',
-    description:
-      'Official-source dashboard tracking confirmed and unconfirmed hantavirus outbreak signals.',
-    locale: 'en_US',
-  },
-  twitter: {
-    card: 'summary_large_image',
-    title: 'Live Hantavirus Outbreak Tracker',
-    description:
-      'Track official hantavirus outbreak updates from public-health sources.',
-  },
-  // ----- تم التحديث هنا لاستخدام PNG -----
-  icons: {
-    icon: [
-      { url: '/favicon.png', type: 'image/png' }
-    ],
-    shortcut: '/favicon.png',
-    apple: '/apple-touch-icon.png',
   },
 };
 
@@ -87,7 +96,6 @@ export const viewport: Viewport = {
   initialScale: 1,
   maximumScale: 5,
   themeColor: '#000000',
-  colorScheme: 'dark',
 };
 
 export default function RootLayout({
@@ -95,55 +103,32 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  const jsonLd = {
-    '@context': 'https://schema.org',
-    '@type': 'WebSite',
-    name: 'Live Outbreak Tracker',
-    url: SITE_URL,
-    description:
-      'Official-source dashboard tracking confirmed and unconfirmed hantavirus outbreak signals.',
-    inLanguage: ['en', 'ar', 'fr', 'es'],
-    publisher: {
-      '@type': 'Organization',
-      name: 'Live Outbreak Tracker',
-      url: SITE_URL,
-    },
-    about: {
-      '@type': 'Thing',
-      name: 'Hantavirus outbreak tracking',
-    },
-  };
-
   return (
-    <html lang="en" dir="ltr" suppressHydrationWarning>
+    <html lang="en">
       <body>
-        <Script
-          src={`https://www.googletagmanager.com/gtag/js?id=${GOOGLE_TAG_ID}`}
-          strategy="afterInteractive"
-        />
+        {googleAnalyticsId ? (
+          <>
+            <Script
+              src={`https://www.googletagmanager.com/gtag/js?id=${googleAnalyticsId}`}
+              strategy="afterInteractive"
+            />
 
-        <Script id="google-analytics-tag" strategy="afterInteractive">
-          {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){window.dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', '${GOOGLE_TAG_ID}');
-          `}
-        </Script>
+            <Script id="google-analytics" strategy="afterInteractive">
+              {`
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                gtag('js', new Date());
+                gtag('config', '${googleAnalyticsId}');
+              `}
+            </Script>
+          </>
+        ) : null}
 
         <MonetagScripts />
         <SmartDirectLink />
-
-        {children}
-
         <ScrollControls />
 
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(jsonLd),
-          }}
-        />
+        {children}
       </body>
     </html>
   );
