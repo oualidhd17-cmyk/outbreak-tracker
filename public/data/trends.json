@@ -302,14 +302,14 @@
     "search_volume": "100+",
     "traffic_label": "100+",
     "published_at": "2026-05-11T20:40:00+00:00",
-    "updated_at": "2026-05-11T21:20:03+00:00",
+    "updated_at": "2026-05-11T21:33:42+00:00",
     "score": 100,
     "source_url": "https://trends.google.com/trending/rss?geo=BE",
     "sources": [],
     "related_queries": [
       "Hantavirus : pourquoi la dynamique n’est pas celle du covid",
       "Hantavirus - Le MV Hondius attendu à Rotterdam dimanche soir, annonce l'armateur",
-      "Origine, mode de transmission, dangerosité… : l’hantavirus est-il « un nouveau Covid » ?"
+      "Deux avions évacuant des passagers décolleront de Tenerife"
     ],
     "map_focus": {
       "label": "Global",
@@ -333,6 +333,152 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:20:03+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "52c9ce157381c848ca",
+    "slug": "new-york",
+    "keyword": "new york",
+    "title": "new york trend tracker",
+    "description": "new york is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: ABC7 New York.",
+    "category": "public-health",
+    "geo": "DE",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-05-11T21:10:00+00:00",
+    "updated_at": "2026-05-11T21:31:57+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=DE",
+    "sources": [
+      {
+        "title": "Hantavirus outbreak: Hochul says 3 passengers on virus-infected ship are from New York",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUE1QNEFfM096clhGb2ZfbFBMNVdRNWYyR2dqUENpZ0tFVVBqX25sMkp3Si0zekJUT0Via3hOZHFDeUQzTlRXclBIWW1yUEtRMkhTLXpUeEgwNGNPZVAxMTNkbjIyS2RzNGdfSXBfdnFQNC1zcl81WDRGLUMxVXExU2pTR2ZxS3RnRVZDZEZXYjVheGNSdy10U194LUbSAaIBQVVfeXFMUFVLXzItck1SSXJ0NS03bW1qX2VpcDM3RU1zdnpZeTdUTFNSY0lidkRxVllXM0hBelAzNjJVWGNYNUtFc2RoQ29STW9VUTBhSVM0eFcwT0ZCVnBkemZrcXA3YVVKRGYya1piaU1JcDZ1WG1ERzlmaWlrcVloVUc0WGxPbUlXd3VpTUJLb1VLUmR6QVF1WXlla3E0Uk9meElWaVNn?oc=5",
+        "source": "ABC7 New York",
+        "published_at": "2026-05-11T18:49:01+00:00",
+        "summary": "Hantavirus outbreak: Hochul says 3 passengers on virus-infected ship are from New York ABC7 New York"
+      },
+      {
+        "title": "3 New York residents among those aboard hantavirus-hit cruise ship",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWXlMWlpLMERNdkxkc0x3ZnpBMDlZdG1kaVd2Q3RkZ2dmbENOby16bDU0dmgtNmh4WDNsLUlESDdZQzYydnRRdVptdzBDMHZYc0YxLWFDWTNkYkozWGVJdy1qbGkwcDRwOTA3N1NDSHllWDRPa0ZTLVJMOFNDVFFxeXBWNEU?oc=5",
+        "source": "amNewYork",
+        "published_at": "2026-05-11T20:05:18+00:00",
+        "summary": "3 New York residents among those aboard hantavirus-hit cruise ship amNewYork"
+      },
+      {
+        "title": "U.S. Passengers Exposed to Hantavirus Begin Quarantine, Including One With Positive Test",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcG5qc3BjMExONDhHWXFFazZEMUdJR3V0cW5EZlIzalFnSHlHdy1IcU5VSkVEX2swVkdYVmVLUHFNeWU0SFdtMV9DRmlMajlyOGNRSkt6dnRNazhZelpVLTdaZlM0clozUlVRWVhEWFJlMlpCLUd6VzZ5VDZydzU1dGx3dTNzUDVaT3BMYjFEVWR4Zw?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-05-11T18:52:00+00:00",
+        "summary": "U.S. Passengers Exposed to Hantavirus Begin Quarantine, Including One With Positive Test The New York Times"
+      },
+      {
+        "title": "2026 NFL schedule release: Giants to host Cowboys on 'Sunday Night Football' in Week 1",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmpJOVFyeEFHSDBRXzltb1p5Unl5Z0FjT1c5a2Z4eFFtVjhxVWVSbDlZOXV2QmQ1MERwLVY4enJvcVYxMVJCbzFfeENOZE56eC1NQlVaN3JScURSZzU0X1k2RGVPSmVVaXE2TzEzSjBLZG9iZ3BhckEyd3N1YktBZTk2WnVhenM?oc=5",
+        "source": "NFL.com",
+        "published_at": "2026-05-11T12:02:00+00:00",
+        "summary": "2026 NFL schedule release: Giants to host Cowboys on 'Sunday Night Football' in Week 1 NFL.com"
+      }
+    ],
+    "related_queries": [
+      "5 Standout Neighborhoods for the Best Restaurants in New York City",
+      "How to Eat Like a Local in New York City — a Guide to the Best Restaurants, Culinary-Focused Hotels, and More",
+      "Harlem Is Named as One of the \"Standout Neighborhoods for the Best Restaurants\" in NYC by the New York Times"
+    ],
+    "map_focus": {
+      "label": "Multi-country / cruise travel",
+      "lat": 16.5388,
+      "lng": -23.0418,
+      "zoom": 3
+    },
+    "seo": {
+      "title": "new york Live Trend Tracker | HantaUpdates",
+      "description": "new york is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without p",
+      "canonical": "https://hantamap.online/trend/new-york",
+      "keywords": [
+        "new york",
+        "new york tracker",
+        "new york updates",
+        "new york live updates",
+        "new york outbreak",
+        "new york symptoms",
+        "new york public health",
+        "new york source links"
+      ]
+    },
+    "first_seen_at": "2026-05-11T21:31:57+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "b51f64cdd1797aeeef",
+    "slug": "santa-clara",
+    "keyword": "santa clara",
+    "title": "santa clara trend tracker",
+    "description": "santa clara is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: NBC Bay Area.",
+    "category": "public-health",
+    "geo": "ID",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-05-11T19:30:00+00:00",
+    "updated_at": "2026-05-11T21:31:42+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=ID",
+    "sources": [
+      {
+        "title": "Santa Clara County resident was on the cruise with Andes hantavirus outbreak",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNRFFmQVd4Smd6R2hRYjh1NGh6S2NJN2x2XzZtTXJHRzFnaTgxM2hiMEczRjl6eVQ0S3czeVBYNkV5WTFvZlMxaVhkeDZ3M21PNzhib0Vya2h1cXF6UXJOVGVFT3ZCSzE1Qkc0REhnNlMxTEl3aENSZzlNcDNBanhNYndXOXRfb1BhMVlZMi15eHZGamd6UnlFaDRSOW93OFNEcHfSAaoBQVVfeXFMUGY4UVRfVHZxQ0JmZ3VMZlNXT25rWXlUZFhzR1o5a1dXQUVCWDlBNzk1WUJYSTc2M0h4dmFPUHZyOV9LZjlNdV9xZm9TUXp6SUtqaWVWZVNGU0ZiMlVGMVpMdkhNRndxTEJtUEZ4N2tlMDF0ZzJ4eUJWbDVfZWtiWm45WUVrVEpjSTBycTNTcF94M1BNLWRqczIzYjc2eTU4SzlVUUZCeUg3Z1E?oc=5",
+        "source": "NBC Bay Area",
+        "published_at": "2026-05-10T20:46:48+00:00",
+        "summary": "Santa Clara County resident was on the cruise with Andes hantavirus outbreak NBC Bay Area Santa Clara County resident exposed to Hantavirus KRON4 Santa Clara County Resident Exposed to Deadly Hantavirus on Ship, Officials Say KQED"
+      },
+      {
+        "title": "Santa Clara County is suing Meta over allegations it profited from scam advertisements",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTWg0QThPaloxYm84Y1lYV0xlb0RDOW02Y3VaeDVVYlVSQTNib2RscXNMVlBVNnkxU1ZyLXBac1NialF4VmhMOHZVZHN0Zmcwdl9XRVd1NDIxRndBR3lOOVpoT1lEZ0hvY1FOTHF5YjQ0NXp1MVB6SXdqbEZZTUI2Uk5ZbUJHSUk?oc=5",
+        "source": "Fortune",
+        "published_at": "2026-05-11T18:31:00+00:00",
+        "summary": "Santa Clara County is suing Meta over allegations it profited from scam advertisements Fortune"
+      },
+      {
+        "title": "Santa Clara County sues Meta over misleading ads",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQVHl5aHlCQXc1bkZKZUdvSExTeDhRUmhCMlJ3NDg4SUFWRGZLd3Q2RnNvZHB5dWZVZWFueWJHTHphRHlDejZJYnBBUXRnVWhnM3NXRF9iRXJYVDRka093RWxmYzBYbkcxNzFENk1JV2VaamVQVFF5UzE2Yk5KbldfTdIBiAFBVV95cUxPckVSaV9MMXE5RnlXdEk0Z1FFRGxZMThuTjBlcDI2RHhzTndLVkJ0NkF1TjNaVVFYYlFDNEJlTWdfNlM0bHEzcTVtYzJHVTFCekN6dlhvaF9sNWNJbjNZWmJud0RrT1Z3S2F6Mjg1X3p0bUp0Zmg1cy1CVXk3VVR4WmlubURiRF84?oc=5",
+        "source": "NBC Bay Area",
+        "published_at": "2026-05-11T18:05:32+00:00",
+        "summary": "Santa Clara County sues Meta over misleading ads NBC Bay Area"
+      },
+      {
+        "title": "Santa Clara County sues Meta over $7 billion in scam ads",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYnRSRHdoV3NoQTRTbFZEWTYxdXdPa0czVEsxbUxNNGFYUDhjX001N3EtbUlsUUViU20wcWlWdHRZREFzaU1KRVdldTlDZU5GRjJKOGNRaVhoZ1k2R3M2cDVzc29Md29MYlBJTVFvODBXV2ZpdzFsc09LUmRDMVFqS3FKX00?oc=5",
+        "source": "qz.com",
+        "published_at": "2026-05-11T18:56:01+00:00",
+        "summary": "Santa Clara County sues Meta over $7 billion in scam ads qz.com"
+      }
+    ],
+    "related_queries": [
+      "Hakim ragukan tuntutan reformasi keamanan New Mexico yang luas terhadap Meta pasca putusan perlindungan anak",
+      "Santa Clara Gugat Meta Atas Iklan Penipuan di Facebook dan Instagram",
+      "Meta menghadapi kasus pengadilan yang dapat memaksa perombakan total cara kerja Facebook."
+    ],
+    "map_focus": {
+      "label": "Multi-country / cruise travel",
+      "lat": 16.5388,
+      "lng": -23.0418,
+      "zoom": 3
+    },
+    "seo": {
+      "title": "santa clara Live Trend Tracker | HantaUpdates",
+      "description": "santa clara is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/santa-clara",
+      "keywords": [
+        "santa clara",
+        "santa clara tracker",
+        "santa clara updates",
+        "santa clara live updates",
+        "santa clara outbreak",
+        "santa clara symptoms",
+        "santa clara public health",
+        "santa clara source links"
+      ]
+    },
+    "first_seen_at": "2026-05-11T21:31:42+00:00",
     "views_hint": 0
   },
   {

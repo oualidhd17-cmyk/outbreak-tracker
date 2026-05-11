@@ -1,5 +1,5 @@
 {
-  "checked_at": "2026-05-11T21:16:52+00:00",
+  "checked_at": "2026-05-11T21:31:23+00:00",
   "source": "ArcGIS independent research dashboard",
   "dashboard_url": "https://www.arcgis.com/apps/dashboards/5c68442d2afc42d7ba2696e4cd393729",
   "dashboard_item_id": "5c68442d2afc42d7ba2696e4cd393729",
@@ -3024,7 +3024,7 @@
       "lat": 52.403105637352596,
       "lng": -1.3123271808336847,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-19-united-kingdom-monitoring",
@@ -3721,7 +3721,7 @@
       "lat": 41.428733268202116,
       "lng": -99.1485988018821,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-49-nebraska-usa-suspected",
@@ -4222,7 +4222,7 @@
       "lat": 43.97461947838846,
       "lng": -80.58330139651338,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-23-canada-monitoring",
@@ -4443,7 +4443,7 @@
       "lat": 50.299181425008484,
       "lng": 8.805737906223005,
       "risk_level": "moderate",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-10-netherlands-suspected",
@@ -4636,7 +4636,7 @@
       "lat": 47.888475675599125,
       "lng": 2.314863177643511,
       "risk_level": "moderate",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-29-france-suspected",
@@ -4829,7 +4829,7 @@
       "lat": -31.549939775179247,
       "lng": 115.87139632934117,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-50-australia-monitoring",
@@ -5022,7 +5022,7 @@
       "lat": -15.952282492099062,
       "lng": -5.702941289412571,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-32-st-helena-monitoring",
@@ -5159,7 +5159,7 @@
       "lat": 49.65583273924735,
       "lng": 11.04158526186398,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-79-germany-monitoring",
@@ -5296,7 +5296,7 @@
       "lat": -26.20264493136836,
       "lng": 28.044931284381246,
       "risk_level": "high",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-3-johannesburg-confirmed",
@@ -5377,7 +5377,7 @@
       "lat": 47.48469518365129,
       "lng": 8.605431148291489,
       "risk_level": "moderate",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-1-zurich-confirmed",
@@ -5458,7 +5458,7 @@
       "lat": -37.09426006367794,
       "lng": -12.29090295049648,
       "risk_level": "moderate",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-36-tristan-da-cunha-confirmed",
@@ -5539,7 +5539,7 @@
       "lat": -54.79292342934494,
       "lng": -68.26852239597913,
       "risk_level": "high",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-6-mv-hondius-deceased",
@@ -5620,7 +5620,7 @@
       "lat": 1.3231371449927924,
       "lng": 103.8496838888311,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-15-singapore-suspected",
@@ -5701,7 +5701,7 @@
       "lat": 32.85961584592401,
       "lng": -83.45490316004464,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-17-georgia-usa-monitoring",
@@ -5782,7 +5782,7 @@
       "lat": 30.911950230161985,
       "lng": -97.91973388328137,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-26-texas-monitoring",
@@ -5863,7 +5863,7 @@
       "lat": 40.581484204793874,
       "lng": 30.00750136896146,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-37-turkey-monitoring",
@@ -5944,7 +5944,7 @@
       "lat": 17.320531927795017,
       "lng": -62.747912532265495,
       "risk_level": "unknown",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-46-unknown-unknown",
@@ -6025,7 +6025,7 @@
       "lat": 51.22168187822184,
       "lng": 4.397907869364554,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-72-belgium-monitoring",
@@ -6106,7 +6106,7 @@
       "lat": 53.34833396900198,
       "lng": -6.330686549503271,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-86-ireland-monitoring",
@@ -6187,7 +6187,7 @@
       "lat": 41.29570158640485,
       "lng": -99.86563977280343,
       "risk_level": "moderate",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-48-united-states-confirmed",
@@ -6240,7 +6240,7 @@
       "lat": 40.46621945703035,
       "lng": -3.66564730234434,
       "risk_level": "moderate",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-111-spain-confirmed",
@@ -6293,7 +6293,7 @@
       "lat": 33.30511579638059,
       "lng": -111.68410769237683,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-21-arizona-usa-monitoring",
@@ -6346,7 +6346,7 @@
       "lat": 15.114180635921926,
       "lng": -23.524314971128653,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-22-praia-cape-verde-monitoring",
@@ -6399,7 +6399,7 @@
       "lat": 36.13519953674742,
       "lng": -119.36504101885762,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-28-california-monitoring",
@@ -6452,7 +6452,7 @@
       "lat": 40.280159888755755,
       "lng": -74.22960965829394,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-30-new-jersey-monitoring",
@@ -6505,7 +6505,7 @@
       "lat": 37.5437225069258,
       "lng": -4.898003218066296,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-31-alicante-spain-suspected",
@@ -6558,7 +6558,7 @@
       "lat": 38.25005686118773,
       "lng": -77.58938433149221,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-39-virginia-monitoring",
@@ -6611,7 +6611,7 @@
       "lat": -50.04427587504247,
       "lng": -70.49244160232595,
       "risk_level": "unknown",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-74-mv-hondus-unknown",
@@ -6664,7 +6664,7 @@
       "lat": 38.007189186138255,
       "lng": 23.7805309896045,
       "risk_level": "low",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-83-greece-monitoring",
@@ -6717,7 +6717,7 @@
       "lat": 42.59856817849485,
       "lng": 12.606521107837029,
       "risk_level": "unknown",
-      "last_updated": "2026-05-11T21:16:52+00:00",
+      "last_updated": "2026-05-11T21:31:23+00:00",
       "items": [
         {
           "id": "r0-inital-88-tenerife-unknown",
