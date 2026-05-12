@@ -5,7 +5,7 @@ import './globals.css';
 import { MonetagScripts } from '@/components/monetag/MonetagScripts';
 import { SmartDirectLink } from '@/components/monetag/SmartDirectLink';
 import { ScrollControls } from '@/components/ui/ScrollControls';
-
+import { InstallPrompt } from '@/components/ui/InstallPrompt'; // 👈 استدعاء مكون التثبيت
 
 const siteUrl = (
   process.env.NEXT_PUBLIC_SITE_URL || 'https://hantamap.online'
@@ -25,6 +25,7 @@ export const metadata: Metadata = {
   },
   description:
     'Independent ANDV Hantavirus 2026 live tracker with confirmed, suspected, deceased and monitoring map signals.',
+  manifest: '/manifest.json', // 👈 إضافة الـ Manifest هنا
   keywords: [
     'hantavirus',
     'hantavirus map',
@@ -40,20 +41,14 @@ export const metadata: Metadata = {
     shortcut: '/favicon.ico',
     apple: '/favicon.ico',
   },
-  authors: [
-    {
-      name: 'HantaMap',
-    },
-  ],
+  authors: [{ name: 'HantaMap' }],
   creator: 'HantaMap',
   publisher: 'HantaMap',
   alternates: {
     canonical: siteUrl,
   },
   verification: googleSiteVerification
-    ? {
-        google: googleSiteVerification,
-      }
+    ? { google: googleSiteVerification }
     : undefined,
   openGraph: {
     type: 'website',
@@ -112,7 +107,6 @@ export default function RootLayout({
               src={`https://www.googletagmanager.com/gtag/js?id=${googleAnalyticsId}`}
               strategy="afterInteractive"
             />
-
             <Script id="google-analytics" strategy="afterInteractive">
               {`
                 window.dataLayer = window.dataLayer || [];
@@ -127,6 +121,9 @@ export default function RootLayout({
         <MonetagScripts />
         <SmartDirectLink />
         <ScrollControls />
+        
+        {/* 👇 ظهور شريط التثبيت هنا 👇 */}
+        <InstallPrompt />
 
         {children}
       </body>
