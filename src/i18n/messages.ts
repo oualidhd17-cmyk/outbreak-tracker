@@ -1,4 +1,4 @@
-export type AppLocale = 'en' | 'ar' | 'fr' | 'es';
+export type AppLocale = 'en' | 'ar' | 'fr' | 'es' | 'de';
 
 export type TranslationKey =
   | 'app.title'
@@ -77,35 +77,90 @@ export const LOCALES: Array<{
   nativeName: string;
   dir: 'ltr' | 'rtl';
 }> = [
-  {
-    code: 'en',
-    label: 'English',
-    nativeName: 'English',
-    dir: 'ltr',
-  },
-  {
-    code: 'ar',
-    label: 'Arabic',
-    nativeName: 'العربية',
-    dir: 'rtl',
-  },
-  {
-    code: 'fr',
-    label: 'French',
-    nativeName: 'Français',
-    dir: 'ltr',
-  },
-  {
-    code: 'es',
-    label: 'Spanish',
-    nativeName: 'Español',
-    dir: 'ltr',
-  },
+  { code: 'en', label: 'English', nativeName: 'English', dir: 'ltr' },
+  { code: 'ar', label: 'Arabic', nativeName: 'العربية', dir: 'rtl' },
+  { code: 'fr', label: 'French', nativeName: 'Français', dir: 'ltr' },
+  { code: 'es', label: 'Spanish', nativeName: 'Español', dir: 'ltr' },
+  { code: 'de', label: 'German', nativeName: 'Deutsch', dir: 'ltr' }, // 👈 إضافة الألمانية
 ];
 
 export const DEFAULT_LOCALE: AppLocale = 'en';
 
 export const messages: Record<AppLocale, Record<TranslationKey, string>> = {
+
+    de: {
+    'app.title': 'Live-Ausbruch-Tracker',
+    'app.subtitle': 'Offizielles Dashboard zur Verfolgung bestätigter und unbestätigter Ausbruchssignale.',
+    'stats.totalConfirmed': 'Bestätigt',
+    'stats.totalIdentified': 'Gesamt Identifiziert',
+    'stats.totalSuspected': 'Verdachtsfälle',
+    'stats.totalProbable': 'Wahrscheinlich',
+    'stats.totalPossible': 'Möglich',
+    'stats.totalUnderInvestigation': 'In Untersuchung',
+    'stats.totalPending': 'Ausstehend',
+    'stats.totalUnconfirmed': 'Unbestätigt',
+    'stats.totalRuledOut': 'Ausgeschlossen',
+    'stats.totalNegative': 'Negativ',
+    'stats.totalHospitalized': 'Hospitalisiert',
+    'stats.deaths': 'Todesfälle',
+    'stats.recovered': 'Genesen',
+    'stats.countries': 'Länder',
+    'stats.lastUpdate': 'Letztes Update',
+    'stats.confirmedByCountry': 'Bestätigte Fälle nach Land/Region',
+    'stats.unconfirmedByCountry': 'Unbestätigte Fälle nach Land/Region',
+    'map.title': 'Interaktive Karte',
+    'map.subtitle': 'Ausbruchsorte nach bestätigten, verdächtigen und identifizierten Gesamtfällen',
+    'chart.title': 'Fall-Zeitachse',
+    'chart.subtitle': 'Bestätigte, unbestätigte Fälle, Todesfälle und identifizierte Gesamtfälle im Zeitverlauf',
+    'chart.confirmed': 'Bestätigt',
+    'chart.suspected': 'Verdachtsfälle',
+    'chart.probable': 'Wahrscheinlich',
+    'chart.possible': 'Möglich',
+    'chart.underInvestigation': 'In Untersuchung',
+    'chart.pending': 'Ausstehend',
+    'chart.unconfirmed': 'Unbestätigt',
+    'chart.totalIdentified': 'Gesamt identifiziert',
+    'chart.deaths': 'Todesfälle',
+    'sources.verified': 'Verifizierte Quellen',
+    'sources.officialEvents': 'Offizielle Ereignisse',
+    'actions.refresh': 'Aktualisieren',
+    'status.title': 'Datenstatus',
+    'status.officialUpdate': 'Offizielles Update',
+    'status.browserRefresh': 'Browser-Aktualisierung',
+    'status.mode': 'Modus',
+    'status.staticJson': 'Statisches JSON',
+    'status.primaryEvent': 'Primäres Ereignis',
+    'status.riskLevel': 'Risikostufe',
+    'status.source': 'Quelle',
+    'ads.topBanner': 'Top-Banner-Anzeige',
+    'ads.sidebar': 'Seitenleisten-Anzeige',
+    'ads.chartSide': 'Diagramm-Anzeige',
+    'ads.mobile': 'Mobile Anzeige',
+    'loading.dashboard': 'Lade Dashboard...',
+    'error.title': 'Daten konnten nicht geladen werden',
+    'error.message': 'Die Dashboard-Daten sind derzeit nicht verfügbar.',
+    'error.retry': 'Wiederholen',
+    'language.label': 'Sprache',
+
+    'trust.badge': 'Verifizierte Gesundheitsinformationen',
+    'trust.title': 'Auf Klarheit ausgelegt, nicht auf Panik',
+    'trust.description': 'Dieses Dashboard fasst Ausbruchssignale aus offiziellen und vertrauenswürdigen Gesundheitsquellen zusammen. Es soll Nutzern helfen, Updates ohne Übertreibung zu verfolgen.',
+    'trust.sourcesTitle': 'Datenquellen',
+    'trust.sourcesDescription': 'Daten werden von Gesundheits- und humanitären Quellen wie WHO, CDC, ECDC und ReliefWeb gesammelt, sofern verfügbar.',
+    'trust.disclaimerTitle': 'Medizinischer Haftungsausschluss',
+    'trust.disclaimerDescription': 'Diese Website dient nur zu Informationszwecken. Sie bietet keine medizinische Beratung, Diagnose oder Behandlung. Befolgen Sie immer die Anweisungen Ihrer örtlichen Gesundheitsbehörde.',
+    'faq.title': 'Häufig gestellte Fragen',
+    'faq.subtitle': 'Einfache Antworten basierend auf offiziellen Richtlinien.',
+    'faq.q1': 'Was ist das Hantavirus?',
+    'faq.a1': 'Hantaviren sind eine Familie von Viren, die hauptsächlich durch Nagetiere verbreitet werden. Einige Arten können beim Menschen schwere Krankheiten verursachen.',
+    'faq.q2': 'Wie verbreitet sich das Hantavirus?',
+    'faq.a2': 'Die meisten Infektionen erfolgen durch Kontakt mit infizierten Nagetieren oder deren Ausscheidungen. Das Andes-Virus kann selten auch zwischen Menschen übertragen werden.',
+    'faq.q3': 'Ist dies eine medizinische Beratung?',
+    'faq.a3': 'Nein. Dieses Dashboard fasst nur öffentliche Informationen zusammen und ersetzt keine professionelle medizinische Beratung.',
+    'faq.q4': 'Warum ändern sich die Zahlen?',
+    'faq.a4': 'Die Zahlen können sich ändern, wenn offizielle Quellen Fälle bestätigen, neu klassifizieren oder ausschließen.',
+  },
+  
   en: {
     'app.title': 'Live Outbreak Tracker',
     'app.subtitle':

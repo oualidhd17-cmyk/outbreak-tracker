@@ -15,7 +15,8 @@ const STORAGE_KEY = 'outbreak_tracker_locale';
 const LOCALE_CHANGE_EVENT = 'outbreak-tracker-locale-change';
 
 function isAppLocale(value: string | null): value is AppLocale {
-  return value === 'en' || value === 'ar' || value === 'fr' || value === 'es';
+  // أضف 'de' هنا 👇
+  return value === 'en' || value === 'ar' || value === 'fr' || value === 'es' || value === 'de';
 }
 
 function getBrowserLocale(): AppLocale {
