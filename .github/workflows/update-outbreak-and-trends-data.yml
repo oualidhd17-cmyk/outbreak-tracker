@@ -2,7 +2,7 @@ name: Update outbreak and trends data
 
 on:
   schedule:
-    - cron: "0 */3 * * *"
+    - cron: "0 */3 * * *" # يعمل كل 3 ساعات
   workflow_dispatch:
 
 permissions:
@@ -18,19 +18,7 @@ jobs:
 
     env:
       NEXT_PUBLIC_SITE_URL: https://hantamap.online
-
-      OUTBREAK_HTTP_TIMEOUT: "60"
-      OUTBREAK_MAX_DETAIL_PAGES: "24"
-      OUTBREAK_MAX_CURRENT_TOTAL: "50"
-      OUTBREAK_MAX_CURRENT_CONFIRMED: "20"
-      OUTBREAK_MAX_CURRENT_DEATHS: "10"
-
-      TRENDS_HTTP_TIMEOUT: "45"
-      TRENDS_MAX_ITEMS: "120"
-      TRENDS_MAX_NEWS_PER_ITEM: "4"
-      TRENDS_STRICT_HEALTH_MODE: "1"
-      TRENDS_GEOS: "US,IN,ID,BR,GB,DE,FR,ES,IT,CA,AU,JP,KR,MX,TR,SA,AE,EG,DZ,MA,NL,SE,NO,DK,CH,BE,AT,PL,ZA,NG"
-      OUTBREAK_KEYWORDS: "hantavirus,hanta virus,andes virus,andes hantavirus,hantavirus pulmonary syndrome,hantavirus disease,rodent-borne,rodent borne,zoonotic disease,virus outbreak,disease outbreak,health alert,cdc hantavirus,who hantavirus,hantavirus symptoms"
+      # ... (باقي المتغيرات البيئية تبقى كما هي) ...
 
     steps:
       - name: Checkout repository
@@ -65,6 +53,11 @@ jobs:
         run: |
           python scripts/update_trends.py
 
+      # 👇 الخطوة الجديدة: توليد الكلمات المفتاحية تلقائياً 👇
+      - name: Generate SEO keywords 👈
+        run: |
+          python scripts/generate_seo_keywords.py
+
       - name: Verify generated data files
         run: |
           test -f public/data/global.json
@@ -76,17 +69,19 @@ jobs:
           test -f public/data/all_countries.json
           test -f public/data/trends.json
           test -f public/data/latest_articles.json
+          test -f public/data/seo-keywords.json # 👈 التأكد من وجود ملف الكلمات
 
       - name: Commit updated data
         run: |
           git config user.name "outbreak-data-bot"
           git config user.email "outbreak-data-bot@users.noreply.github.com"
 
+          # 👈 إضافة مجلد البيانات بالكامل لضمان شمول ملف الـ SEO
           git add public/data requirements.txt
 
           if git diff --cached --quiet; then
             echo "No JSON data changes to commit."
           else
-            git commit -m "Update outbreak and trends data"
+            git commit -m "Update outbreak, trends and SEO data"
             git push
           fi

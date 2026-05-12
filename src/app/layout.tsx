@@ -5,7 +5,10 @@ import './globals.css';
 import { MonetagScripts } from '@/components/monetag/MonetagScripts';
 import { SmartDirectLink } from '@/components/monetag/SmartDirectLink';
 import { ScrollControls } from '@/components/ui/ScrollControls';
-import { InstallPrompt } from '@/components/ui/InstallPrompt'; // 👈 استدعاء مكون التثبيت
+import { InstallPrompt } from '@/components/ui/InstallPrompt';
+
+// 👇 استيراد البيانات المولدة برمجياً لمحركات البحث
+import seoKeywords from '../../public/data/seo-keywords.json';
 
 const siteUrl = (
   process.env.NEXT_PUBLIC_SITE_URL || 'https://hantamap.online'
@@ -19,22 +22,15 @@ const googleSiteVerification =
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
+  // 👇 استخدام العناوين الديناميكية من السكربت
   title: {
-    default: 'ANDV Hantavirus 2026 Live Map Tracker',
-    template: '%s | HantaMap',
+    default: seoKeywords.seo_title,
+    template: `%s | Hantavirus Map Live 2026`,
   },
-  description:
-    'Independent ANDV Hantavirus 2026 live tracker with confirmed, suspected, deceased and monitoring map signals.',
-  manifest: '/manifest.json', // 👈 إضافة الـ Manifest هنا
-  keywords: [
-    'hantavirus',
-    'hantavirus map',
-    'hantavirus tracker',
-    'hantavirus outbreak 2026',
-    'ANDV hantavirus',
-    'MV Hondius hantavirus',
-    'hantavirus cruise ship',
-  ],
+  description: seoKeywords.seo_description,
+  keywords: seoKeywords.keywords, // حقن مئات الكلمات المفتاحية تلقائياً
+  
+  manifest: '/manifest.json',
   applicationName: 'HantaMap',
   icons: {
     icon: '/favicon.ico',
@@ -54,9 +50,8 @@ export const metadata: Metadata = {
     type: 'website',
     url: siteUrl,
     siteName: 'HantaMap',
-    title: 'ANDV Hantavirus 2026 Live Map Tracker',
-    description:
-      'Independent ANDV Hantavirus 2026 live tracker with confirmed, suspected, deceased and monitoring map signals.',
+    title: seoKeywords.seo_title, // مزامنة مع SEO Title الجديد
+    description: seoKeywords.seo_description,
     images: [
       {
         url: `${siteUrl}/opengraph-image`,
@@ -68,9 +63,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'ANDV Hantavirus 2026 Live Map Tracker',
-    description:
-      'Independent ANDV Hantavirus 2026 live tracker with confirmed, suspected, deceased and monitoring map signals.',
+    title: seoKeywords.seo_title,
+    description: seoKeywords.seo_description,
     images: [`${siteUrl}/opengraph-image`],
   },
   robots: {
@@ -118,11 +112,10 @@ export default function RootLayout({
           </>
         ) : null}
 
+        {/* 👇 الإعلانات والبيانات الحساسة - لا يتم تغييرها 👇 */}
         <MonetagScripts />
         <SmartDirectLink />
         <ScrollControls />
-        
-        {/* 👇 ظهور شريط التثبيت هنا 👇 */}
         <InstallPrompt />
 
         {children}

@@ -2,6 +2,8 @@
 
 import Link from 'next/link';
 import { useI18n } from '@/i18n/useI18n';
+// 👇 استيراد البيانات المولدة برمجياً
+import seoData from '../../../public/data/seo-keywords.json';
 
 export function DashboardInfoLinks() {
   const { locale } = useI18n();
@@ -80,6 +82,7 @@ export function DashboardInfoLinks() {
       dir={isArabic ? 'rtl' : 'ltr'}
       className="mx-auto w-full max-w-[1480px] bg-[#000] px-4 pb-10 pt-6 sm:px-6 lg:px-8"
     >
+      {/* شبكة الروابط الأساسية */}
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5">
         {links.map((item) => (
           <Link
@@ -104,6 +107,30 @@ export function DashboardInfoLinks() {
             </div>
           </Link>
         ))}
+      </div>
+
+      {/* 👇 قسم الكلمات المفتاحية الأكثر بحثاً (SEO) 👇 */}
+      <div className="mt-12 border-t border-white/5 pt-8">
+        <p className="text-[10px] font-bold text-gray-600 uppercase tracking-[0.2em] mb-4">
+          {isArabic ? 'عمليات البحث الشائعة' : 'Popular Searches'}
+        </p>
+        
+        <div className="flex flex-wrap gap-x-4 gap-y-2">
+          {seoData.primary.map((word) => (
+            <span 
+              key={word} 
+              className="text-[10px] font-medium text-gray-500 hover:text-red-400 transition-colors cursor-default"
+            >
+              {word} {isArabic ? '•' : '•'}
+            </span>
+          ))}
+        </div>
+
+        <p className="mt-6 text-[9px] leading-relaxed text-gray-700 max-w-5xl">
+          {isArabic 
+            ? 'يتم تحديث هذه البيانات تلقائياً بناءً على تقارير الصحة العامة العالمية وتوجهات البحث الحية لضمان دقة المعلومات.' 
+            : 'This data is automatically updated based on global public health reports and live search trends to ensure information accuracy.'}
+        </p>
       </div>
     </section>
   );
