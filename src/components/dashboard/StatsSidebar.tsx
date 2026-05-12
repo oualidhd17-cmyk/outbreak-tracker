@@ -61,9 +61,10 @@ export function StatsSidebar({
     <aside
       dir={dir}
       className="
-        sticky top-0 z-[900]
-        flex w-full lg:w-[340px] xl:w-[380px] max-h-[75dvh] lg:max-h-dvh flex-col overflow-hidden
+        relative z-[900]
+        flex w-full lg:w-[340px] xl:w-[380px] flex-col
         border-b lg:border-b-0 lg:border-r border-white/5 bg-[#030303]/95 backdrop-blur-2xl
+        h-auto lg:h-dvh lg:max-h-dvh lg:overflow-hidden
       "
     >
       {/* App Header */}
@@ -129,8 +130,8 @@ export function StatsSidebar({
         </div>
       </div>
 
-      {/* List Header */}
-      <div className="sticky top-0 z-10 flex shrink-0 items-center justify-between gap-3 border-b border-white/5 bg-[#030303]/90 px-5 py-3.5 backdrop-blur-md">
+      {/* List Header - يظهر في الكمبيوتر فقط (مخفي في الجوال) */}
+      <div className="hidden lg:flex sticky top-0 z-10 shrink-0 items-center justify-between gap-3 border-b border-white/5 bg-[#030303]/90 px-5 py-3.5 backdrop-blur-md">
         <div className="min-w-0 text-[11px] font-black uppercase tracking-widest text-gray-400">
           {labels.confirmedByCountry}
         </div>
@@ -140,8 +141,8 @@ export function StatsSidebar({
         </div>
       </div>
 
-      {/* Countries List */}
-      <div className="min-h-0 flex-1 overflow-y-auto overscroll-contain pb-4 scrollbar-thin scrollbar-track-transparent scrollbar-thumb-white/10 hover:scrollbar-thumb-white/20">
+      {/* Countries List - يظهر في الكمبيوتر فقط (مخفي في الجوال) */}
+      <div className="hidden lg:block min-h-0 flex-1 overflow-y-auto overscroll-contain pb-4 scrollbar-thin scrollbar-track-transparent scrollbar-thumb-white/10 hover:scrollbar-thumb-white/20">
         {sortedCountries.length === 0 ? (
           <div className="px-5 py-8 text-center text-sm text-gray-500">
             No affected locations available.

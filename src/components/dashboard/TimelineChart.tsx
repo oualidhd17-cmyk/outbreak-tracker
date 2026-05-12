@@ -50,7 +50,9 @@ export function TimelineChart({ data, labels }: TimelineChartProps) {
         </div>
       </div>
 
-      <div className="relative min-h-0 min-w-0 flex-1">
+      <div className="relative flex-1 w-full min-h-[200px]">
+        <div className="absolute inset-0">
+
         <ResponsiveContainer width="100%" height="100%" minWidth={1} minHeight={1}>
           <LineChart data={data} margin={{ top: 10, right: 10, bottom: 0, left: 0 }}>
             <CartesianGrid stroke="rgba(255,255,255,0.05)" strokeDasharray="3 3" vertical={false} />
@@ -115,6 +117,7 @@ export function TimelineChart({ data, labels }: TimelineChartProps) {
             />
           </LineChart>
         </ResponsiveContainer>
+      </div>
       </div>
     </div>
   );
