@@ -37,8 +37,8 @@ const DarkOutbreakMap = dynamic<{
   {
     ssr: false,
     loading: () => (
-      <div className="flex h-full w-full items-center justify-center bg-[#000] text-gray-500">
-        Loading map...
+      <div className="flex h-full w-full items-center justify-center bg-[#030303] text-gray-500">
+        <div className="animate-pulse">Loading map...</div>
       </div>
     ),
   },
@@ -50,7 +50,6 @@ function getTopSource(sources: OutbreakSource[]): OutbreakSource | null {
   if (sources.length === 0) {
     return null;
   }
-
   return sources.find((source) => source.confidence === 'high') ?? sources[0];
 }
 
@@ -84,19 +83,10 @@ export function OutbreakDashboard() {
           loadSources(),
         ]);
 
-        setData({
-          global,
-          countries,
-          points,
-          timeline,
-          sources,
-        });
-
+        setData({ global, countries, points, timeline, sources });
         setLastClientRefresh(new Date().toISOString());
       } catch (err) {
-        setError(
-          err instanceof Error ? err.message : 'Failed to load outbreak data',
-        );
+        setError(err instanceof Error ? err.message : 'Failed to load outbreak data');
       } finally {
         setIsLoading(false);
         setIsRefreshing(false);
@@ -124,11 +114,10 @@ export function OutbreakDashboard() {
 
   if (isLoading) {
     return (
-      <main className="flex min-h-dvh items-center justify-center bg-black text-white">
+      <main className="flex min-h-dvh items-center justify-center bg-[#030303] text-white">
         <div className="text-center">
-          <div className="mx-auto h-10 w-10 animate-spin rounded-full border-2 border-[#333] border-t-red-500" />
-
-          <p className="mt-4 text-sm font-bold uppercase tracking-widest text-gray-500">
+          <div className="mx-auto h-12 w-12 animate-spin rounded-full border-2 border-white/10 border-t-red-500 shadow-[0_0_15px_rgba(239,68,68,0.5)]" />
+          <p className="mt-6 text-sm font-bold uppercase tracking-widest text-gray-400">
             {t('loading.dashboard')}
           </p>
         </div>
@@ -138,18 +127,16 @@ export function OutbreakDashboard() {
 
   if (error || !data) {
     return (
-      <main className="flex min-h-dvh items-center justify-center bg-black px-6 text-white">
-        <div className="max-w-md rounded-lg border border-red-500/30 bg-red-500/10 p-6 text-center">
-          <h1 className="text-xl font-bold text-red-400">{t('error.title')}</h1>
-
-          <p className="mt-2 text-sm text-red-200/70">
+      <main className="flex min-h-dvh items-center justify-center bg-[#030303] px-6 text-white">
+        <div className="max-w-md rounded-2xl border border-red-500/20 bg-red-500/5 p-8 text-center backdrop-blur-md">
+          <h1 className="text-2xl font-bold text-red-400">{t('error.title')}</h1>
+          <p className="mt-3 text-sm leading-relaxed text-red-200/70">
             {error ?? t('error.message')}
           </p>
-
           <button
             type="button"
             onClick={() => void loadData('initial')}
-            className="mt-5 rounded border border-[#333] bg-[#111] px-4 py-2 text-sm font-bold text-white transition hover:bg-[#222]"
+            className="mt-6 inline-flex rounded-lg border border-white/10 bg-white/5 px-6 py-2.5 text-sm font-bold text-white transition hover:bg-white/10"
           >
             {t('error.retry')}
           </button>
@@ -159,16 +146,10 @@ export function OutbreakDashboard() {
   }
 
   return (
-    <main dir="ltr" className="min-h-dvh bg-[#000] pb-16 text-white">
+    <main dir="ltr" className="min-h-dvh bg-[#030303] pb-16 text-white selection:bg-red-500/30">
       <OutbreakStructuredData global={data.global} />
 
-      <div
-        className="
-          grid min-h-dvh grid-cols-1 items-start bg-black
-          lg:grid-cols-[280px_minmax(0,1fr)]
-          xl:grid-cols-[320px_minmax(0,1fr)]
-        "
-      >
+      <div className="flex flex-col lg:flex-row min-h-dvh items-stretch bg-[#030303]">
         <StatsSidebar
           global={data.global}
           countries={data.countries}
@@ -187,20 +168,19 @@ export function OutbreakDashboard() {
           }}
         />
 
-        <section className="min-w-0 bg-[#000]">
-          <header className="sticky top-0 z-[800] grid min-w-0 gap-3 border-b border-[#222] bg-[#0a0a0a]/95 px-4 py-3 backdrop-blur lg:grid-cols-[minmax(0,1fr)_auto] lg:items-center">
+        <section className="flex-1 flex flex-col min-w-0 bg-[#050505]">
+          <header className="sticky top-0 z-[800] flex flex-col sm:flex-row sm:items-center justify-between gap-4 border-b border-white/5 bg-[#030303]/80 px-5 py-4 backdrop-blur-xl">
             <div className="min-w-0" dir={isRtl ? 'rtl' : 'ltr'}>
-              <div className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-gray-500">
-                <ShieldCheck className="h-3.5 w-3.5 shrink-0 text-green-500" />
+              <div className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-gray-400">
+                <ShieldCheck className="h-4 w-4 shrink-0 text-emerald-400" />
                 <span className="truncate">{t('sources.verified')}</span>
               </div>
-
-              <div className="mt-1 truncate text-sm font-bold text-gray-300">
+              <div className="mt-1.5 truncate text-sm font-bold text-gray-200">
                 {topSource ? topSource.name : 'Official health agencies'}
               </div>
             </div>
 
-            <div className="flex flex-wrap items-center gap-2" dir="ltr">
+            <div className="flex flex-wrap items-center gap-3" dir="ltr">
               <LanguageSwitcher
                 locale={locale}
                 locales={locales}
@@ -211,15 +191,9 @@ export function OutbreakDashboard() {
               <button
                 type="button"
                 onClick={() => void loadData('refresh')}
-                className="inline-flex h-9 items-center gap-2 rounded border border-[#333] bg-[#1a1a1a] px-3 text-xs font-bold uppercase tracking-wider text-gray-400 transition-colors hover:bg-[#2a2a2a] hover:text-white"
+                className="inline-flex h-9 items-center gap-2 rounded-lg border border-white/10 bg-white/5 px-4 text-xs font-bold uppercase tracking-wider text-gray-300 transition-colors hover:bg-white/10 hover:text-white"
               >
-                <RefreshCw
-                  className={
-                    isRefreshing
-                      ? 'h-3.5 w-3.5 animate-spin'
-                      : 'h-3.5 w-3.5'
-                  }
-                />
+                <RefreshCw className={isRefreshing ? 'h-3.5 w-3.5 animate-spin' : 'h-3.5 w-3.5'} />
                 {t('actions.refresh')}
               </button>
 
@@ -227,7 +201,7 @@ export function OutbreakDashboard() {
                 <button
                   type="button"
                   onClick={() => setSelectedCountry(null)}
-                  className="inline-flex h-9 items-center rounded border border-yellow-400/25 bg-yellow-400/10 px-3 text-xs font-bold uppercase tracking-wider text-yellow-200 transition hover:bg-yellow-400/15"
+                  className="inline-flex h-9 items-center rounded-lg border border-yellow-400/20 bg-yellow-400/10 px-4 text-xs font-bold uppercase tracking-wider text-yellow-300 transition hover:bg-yellow-400/20"
                 >
                   Clear focus
                 </button>
@@ -242,7 +216,7 @@ export function OutbreakDashboard() {
             isArabic={isRtl}
           />
 
-          <div className="h-[520px] min-h-0 border-b border-[#222] bg-black sm:h-[620px] lg:h-[calc(100dvh-140px)] lg:min-h-[560px]">
+          <div className="relative h-[55vh] min-h-[450px] lg:h-[60vh] border-b border-white/5 bg-[#080808]">
             <DarkOutbreakMap
               points={data.points}
               selectedCountry={selectedCountry}
@@ -250,52 +224,55 @@ export function OutbreakDashboard() {
             />
           </div>
 
-          <div className="grid min-h-[360px] min-w-0 gap-px border-t border-[#222] bg-[#222] lg:grid-cols-[minmax(0,1fr)_320px]">
-            <TimelineChart
-              data={data.timeline}
-              labels={{
-                title: t('chart.title'),
-                subtitle: t('chart.subtitle'),
-                confirmed: t('chart.confirmed'),
-                deaths: t('chart.deaths'),
-              }}
-            />
+          <div className="grid lg:grid-cols-[1fr_320px] gap-6 p-4 sm:p-6 bg-[#030303]">
+            <div className="rounded-2xl border border-white/5 bg-white/[0.02] p-4 backdrop-blur-sm shadow-xl">
+              <TimelineChart
+                data={data.timeline}
+                labels={{
+                  title: t('chart.title'),
+                  subtitle: t('chart.subtitle'),
+                  confirmed: t('chart.confirmed'),
+                  deaths: t('chart.deaths'),
+                }}
+              />
+            </div>
 
-            <aside className="flex flex-col justify-center bg-[#000] p-4">
+            <aside className="flex flex-col gap-4">
               <div
-                className="w-full rounded border border-[#333] bg-[#0a0a0a] p-4"
+                className="rounded-2xl border border-white/5 bg-white/[0.02] p-5 backdrop-blur-sm shadow-xl"
                 dir={isRtl ? 'rtl' : 'ltr'}
               >
-                <div className="text-[10px] font-bold uppercase tracking-widest text-gray-500">
+                <div className="flex items-center gap-2 text-[10px] font-bold uppercase tracking-widest text-gray-400">
+                  <div className="h-2 w-2 rounded-full bg-emerald-500 animate-pulse"></div>
                   {t('status.title')}
                 </div>
 
-                <div className="mt-4 space-y-4 text-xs font-bold text-gray-400">
-                  <div className="flex justify-between gap-3">
+                <div className="mt-5 space-y-4 text-xs font-medium text-gray-400">
+                  <div className="flex justify-between items-center gap-3">
                     <span>{t('status.officialUpdate')}</span>
-                    <span dir="ltr" className="text-gray-200">
+                    <span dir="ltr" className="text-gray-200 font-bold bg-white/5 px-2 py-1 rounded">
                       {formatDateTime(data.global.last_updated)}
                     </span>
                   </div>
 
-                  <div className="flex justify-between gap-3">
+                  <div className="flex justify-between items-center gap-3">
                     <span>{t('status.browserRefresh')}</span>
-                    <span dir="ltr" className="text-gray-200">
+                    <span dir="ltr" className="text-gray-200 font-bold bg-white/5 px-2 py-1 rounded">
                       {formatDateTime(lastClientRefresh)}
                     </span>
                   </div>
 
-                  <div className="flex justify-between gap-3">
+                  <div className="flex justify-between items-center gap-3">
                     <span>{t('status.mode')}</span>
-                    <span className="text-green-500">
+                    <span className="text-emerald-400 font-bold bg-emerald-400/10 px-2 py-1 rounded">
                       {t('status.staticJson')}
                     </span>
                   </div>
 
                   {selectedCountry ? (
-                    <div className="flex justify-between gap-3 border-t border-white/10 pt-4">
+                    <div className="flex justify-between items-center gap-3 border-t border-white/5 pt-4 mt-2">
                       <span>{isRtl ? 'النقطة المحددة' : 'Focused location'}</span>
-                      <span className="text-yellow-200">{selectedCountry}</span>
+                      <span className="text-yellow-300 font-bold">{selectedCountry}</span>
                     </div>
                   ) : null}
                 </div>
