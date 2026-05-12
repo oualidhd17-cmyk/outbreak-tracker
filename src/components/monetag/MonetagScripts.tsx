@@ -30,6 +30,12 @@ const MONETAG_ZONES: MonetagZone[] = [
     zone: '10978400',
     src: 'https://n6wxm.com/vignette.min.js',
   },
+  // 👇 تم إضافة سكربت الإشعارات (Push Notifications) الجديد هنا 👇
+  {
+    id: 'monetag-push-notifications',
+    zone: '10994721',
+    src: 'https://5gvci.com/act/files/tag.min.js',
+  },
 ];
 
 function appendMonetagScript(item: MonetagZone): void {
@@ -41,15 +47,23 @@ function appendMonetagScript(item: MonetagZone): void {
 
   script.id = item.id;
   script.async = true;
-  script.dataset.zone = item.zone;
+  
+  // بناء الرابط مع الـ Zone كما هو مطلوب في الكود الخاص بك
+  if (item.id === 'monetag-push-notifications') {
+    script.src = `${item.src}?z=${item.zone}`;
+  } else {
+    script.src = item.src;
+    script.dataset.zone = item.zone;
+  }
+  
   script.dataset.cfasync = 'false';
-  script.src = item.src;
 
   document.body.appendChild(script);
 }
 
 export function MonetagScripts() {
   useEffect(() => {
+    // التأكد من عدم تحميل السكربتات أكثر من مرة
     if (window.__hantamapMonetagLoaded) {
       return;
     }
