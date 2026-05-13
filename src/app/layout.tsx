@@ -2,12 +2,12 @@ import type { Metadata, Viewport } from 'next';
 import Script from 'next/script';
 import 'leaflet/dist/leaflet.css';
 import './globals.css';
-
 import { MonetagScripts } from '@/components/monetag/MonetagScripts';
 import { SmartDirectLink } from '@/components/monetag/SmartDirectLink';
 import { ScrollControls } from '@/components/ui/ScrollControls';
 import { InstallPrompt } from '@/components/ui/InstallPrompt';
 
+// 👇 استيراد البيانات المولدة برمجياً لمحركات البحث
 import seoKeywords from '../../public/data/seo-keywords.json';
 
 const siteUrl = (
@@ -20,17 +20,16 @@ const googleAnalyticsId =
 const googleSiteVerification =
   process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || '';
 
-const adsEnabled = process.env.NEXT_PUBLIC_ADS_ENABLED === 'false';
-
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
+  // 👇 استخدام العناوين الديناميكية من السكربت
   title: {
     default: seoKeywords.seo_title,
     template: `%s | Hantavirus Map Live 2026`,
   },
   description: seoKeywords.seo_description,
-  keywords: seoKeywords.keywords,
-
+  keywords: seoKeywords.keywords, // حقن مئات الكلمات المفتاحية تلقائياً
+  
   manifest: '/manifest.json',
   applicationName: 'HantaMap',
   icons: {
@@ -51,7 +50,7 @@ export const metadata: Metadata = {
     type: 'website',
     url: siteUrl,
     siteName: 'HantaMap',
-    title: seoKeywords.seo_title,
+    title: seoKeywords.seo_title, // مزامنة مع SEO Title الجديد
     description: seoKeywords.seo_description,
     images: [
       {
@@ -113,13 +112,9 @@ export default function RootLayout({
           </>
         ) : null}
 
-        {adsEnabled ? (
-          <>
-            <MonetagScripts />
-            <SmartDirectLink />
-          </>
-        ) : null}
-
+        {/* 👇 الإعلانات والبيانات الحساسة - لا يتم تغييرها 👇 */}
+        <MonetagScripts />
+        <SmartDirectLink />
         <ScrollControls />
         <InstallPrompt />
 
