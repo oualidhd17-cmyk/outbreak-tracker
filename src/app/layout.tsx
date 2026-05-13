@@ -20,7 +20,7 @@ const googleAnalyticsId =
 const googleSiteVerification =
   process.env.NEXT_PUBLIC_GOOGLE_SITE_VERIFICATION || '';
 
-const adsEnabled = process.env.NEXT_PUBLIC_ADS_ENABLED === 'true';
+const adsEnabled = process.env.NEXT_PUBLIC_ADS_ENABLED === 'false';
 
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),

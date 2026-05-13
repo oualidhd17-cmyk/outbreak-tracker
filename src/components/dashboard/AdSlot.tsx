@@ -24,7 +24,7 @@ const ADSENSE_MULTIPLEX_SLOT_ID = '6995061524';
 const MIN_AD_WIDTH = 120;
 
 function adsAreEnabled(): boolean {
-  return process.env.NEXT_PUBLIC_ADS_ENABLED === 'true';
+  return process.env.NEXT_PUBLIC_ADS_ENABLED === 'false';
 }
 
 function getAdSenseSlot(id: string, variant: AdSlotProps['variant']): string {
