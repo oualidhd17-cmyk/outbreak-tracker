@@ -1,5 +1,12 @@
 [
   {
+    "country": "Unknown",
+    "region": "",
+    "lat": 47.48469518370268,
+    "lng": 8.605431148431775,
+    "is_country": false
+  },
+  {
     "country": "UNITED KINGDOM",
     "region": "",
     "lat": 52.403105637352596,

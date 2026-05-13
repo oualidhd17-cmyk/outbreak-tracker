@@ -1,15 +1,5451 @@
 {
-  "checked_at": "2026-05-11T21:49:43+00:00",
+  "checked_at": "2026-05-13T18:28:47+00:00",
   "dashboard_item_id": "5c68442d2afc42d7ba2696e4cd393729",
   "dashboard_url": "https://www.arcgis.com/apps/dashboards/5c68442d2afc42d7ba2696e4cd393729",
   "service_urls": [
+    "https://services1.arcgis.com/wb4Og4gH5mvzQAIV/arcgis/rest/services/HANTAVIRUS_W1/FeatureServer",
+    "https://services1.arcgis.com/wb4Og4gH5mvzQAIV/arcgis/rest/services/HANTAVIRUS_W1/FeatureServer/0",
     "https://services1.arcgis.com/wb4Og4gH5mvzQAIV/arcgis/rest/services/Tracking_Hantavirus_2026/FeatureServer",
     "https://services1.arcgis.com/wb4Og4gH5mvzQAIV/arcgis/rest/services/Tracking_Hantavirus_2026/FeatureServer/1"
   ],
   "layer_urls": [
+    "https://services1.arcgis.com/wb4Og4gH5mvzQAIV/arcgis/rest/services/HANTAVIRUS_W1/FeatureServer/0",
     "https://services1.arcgis.com/wb4Og4gH5mvzQAIV/arcgis/rest/services/Tracking_Hantavirus_2026/FeatureServer/1"
   ],
   "layers": [
+    {
+      "layer_url": "https://services1.arcgis.com/wb4Og4gH5mvzQAIV/arcgis/rest/services/HANTAVIRUS_W1/FeatureServer/0",
+      "layer_name": "HANTAVIRUS_W1",
+      "geometry_type": "esriGeometryPoint",
+      "object_id_field": "FID",
+      "fields": [
+        {
+          "name": "FID",
+          "type": "esriFieldTypeOID",
+          "alias": "FID",
+          "sqlType": "sqlTypeOther",
+          "nullable": false,
+          "editable": false,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "CASE_",
+          "type": "esriFieldTypeInteger",
+          "alias": "CASE_",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "STATUS",
+          "type": "esriFieldTypeString",
+          "alias": "STATUS",
+          "sqlType": "sqlTypeOther",
+          "length": 254,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "AGE",
+          "type": "esriFieldTypeInteger",
+          "alias": "AGE",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "SEX",
+          "type": "esriFieldTypeInteger",
+          "alias": "SEX",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "ONSET",
+          "type": "esriFieldTypeDate",
+          "alias": "ONSET",
+          "sqlType": "sqlTypeOther",
+          "length": 8,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null,
+          "precision": 1
+        },
+        {
+          "name": "DEATH",
+          "type": "esriFieldTypeDate",
+          "alias": "DEATH",
+          "sqlType": "sqlTypeOther",
+          "length": 8,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null,
+          "precision": 1
+        },
+        {
+          "name": "SOURCE",
+          "type": "esriFieldTypeString",
+          "alias": "SOURCE",
+          "sqlType": "sqlTypeOther",
+          "length": 254,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "LASTLOCATI",
+          "type": "esriFieldTypeString",
+          "alias": "LASTLOCATI",
+          "sqlType": "sqlTypeOther",
+          "length": 254,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "DETAILS",
+          "type": "esriFieldTypeString",
+          "alias": "DETAILS",
+          "sqlType": "sqlTypeOther",
+          "length": 254,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "TCLASS",
+          "type": "esriFieldTypeString",
+          "alias": "TCLASS",
+          "sqlType": "sqlTypeOther",
+          "length": 254,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "Exposure_G",
+          "type": "esriFieldTypeString",
+          "alias": "Exposure_G",
+          "sqlType": "sqlTypeOther",
+          "length": 254,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "CONF_CASE",
+          "type": "esriFieldTypeInteger",
+          "alias": "CONF_CASE",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "CONFIRMEDD",
+          "type": "esriFieldTypeString",
+          "alias": "CONFIRMEDD",
+          "sqlType": "sqlTypeOther",
+          "length": 15,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "MIN_EXP_DA",
+          "type": "esriFieldTypeInteger",
+          "alias": "MIN_EXP_DA",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "DISEMBARK",
+          "type": "esriFieldTypeString",
+          "alias": "DISEMBARK",
+          "sqlType": "sqlTypeOther",
+          "length": 15,
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "DIS_DATE",
+          "type": "esriFieldTypeInteger",
+          "alias": "DIS_DATE",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "MAX_EXP_DA",
+          "type": "esriFieldTypeInteger",
+          "alias": "MAX_EXP_DA",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "EXP_45_DAY",
+          "type": "esriFieldTypeInteger",
+          "alias": "EXP_45_DAY",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "EXPOSE_DAT",
+          "type": "esriFieldTypeInteger",
+          "alias": "EXPOSE_DAT",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "EXP_TO_CON",
+          "type": "esriFieldTypeInteger",
+          "alias": "EXP_TO_CON",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        },
+        {
+          "name": "arcid",
+          "type": "esriFieldTypeInteger",
+          "alias": "arcid",
+          "sqlType": "sqlTypeOther",
+          "nullable": true,
+          "editable": true,
+          "domain": null,
+          "defaultValue": null
+        }
+      ],
+      "features_count": 173,
+      "features": [
+        {
+          "attributes": {
+            "FID": 1,
+            "CASE_": 7,
+            "STATUS": "CONFIRMED",
+            "AGE": 0,
+            "SEX": 1,
+            "ONSET": 1778025600000,
+            "DEATH": null,
+            "SOURCE": "https://www.bag.admin.ch/en/newnsb/p--A7yPSfxdBqR0N9kZMC",
+            "LASTLOCATI": "ZURICH",
+            "DETAILS": "Departed ship, Swiss national, confirmed case",
+            "TCLASS": "7",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 7,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 0
+          },
+          "geometry": {
+            "x": 8.605431148431775,
+            "y": 47.48469518370268
+          }
+        },
+        {
+          "attributes": {
+            "FID": 2,
+            "CASE_": 999,
+            "STATUS": "SUSPECTED",
+            "AGE": 0,
+            "SEX": 2,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/health/hondius-ship-hantavirus-andes-strain-9.7189281",
+            "LASTLOCATI": "ZURICH",
+            "DETAILS": "Departed ship, wife of case 7, in isolation",
+            "TCLASS": "A",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 1
+          },
+          "geometry": {
+            "x": 8.532996508796423,
+            "y": 47.39431802422519
+          }
+        },
+        {
+          "attributes": {
+            "FID": 3,
+            "CASE_": 3,
+            "STATUS": "CONFIRMED",
+            "AGE": 0,
+            "SEX": 1,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+            "LASTLOCATI": "JOHANNESBURG",
+            "DETAILS": "Confirmed Hantavirus, British National",
+            "TCLASS": "3",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 3,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 2
+          },
+          "geometry": {
+            "x": 28.044931284294403,
+            "y": -26.202644931361263
+          }
+        },
+        {
+          "attributes": {
+            "FID": 4,
+            "CASE_": 1,
+            "STATUS": "DECEASED",
+            "AGE": 70,
+            "SEX": 1,
+            "ONSET": 1775433600000,
+            "DEATH": 1775865600000,
+            "SOURCE": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON600",
+            "LASTLOCATI": "MV HONDIUS",
+            "DETAILS": "Initial case",
+            "TCLASS": "1",
+            "Exposure_G": "MV Hondus, Passed away onboard",
+            "CONF_CASE": 1,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 60,
+            "DISEMBARK": " ",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 91,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 3
+          },
+          "geometry": {
+            "x": -68.26852239571332,
+            "y": -54.79292342935453
+          }
+        },
+        {
+          "attributes": {
+            "FID": 5,
+            "CASE_": 2,
+            "STATUS": "DECEASED",
+            "AGE": 69,
+            "SEX": 2,
+            "ONSET": 1776729600000,
+            "DEATH": 1777161600000,
+            "SOURCE": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+            "LASTLOCATI": "JOHANNESBURG",
+            "DETAILS": "Wife of initial case, confirmed case",
+            "TCLASS": "2",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 2,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 4
+          },
+          "geometry": {
+            "x": 28.689493910198316,
+            "y": -25.586680735704142
+          }
+        },
+        {
+          "attributes": {
+            "FID": 6,
+            "CASE_": 9,
+            "STATUS": "SUSPECTED",
+            "AGE": 65,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "German woman, ship passenger & connected to case 4 unknown if in hospital",
+            "TCLASS": "D",
+            "Exposure_G": "MV Hondius, Evacuated",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": " ",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 5
+          },
+          "geometry": {
+            "x": 8.805737906404701,
+            "y": 50.29918142508097
+          }
+        },
+        {
+          "attributes": {
+            "FID": 7,
+            "CASE_": 6,
+            "STATUS": "CONFIRMED",
+            "AGE": 56,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Dutch crew member, confirmed positive",
+            "TCLASS": "6",
+            "Exposure_G": "MV Hondius, Evacuated",
+            "CONF_CASE": 6,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": " ",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 6
+          },
+          "geometry": {
+            "x": 5.757338398988857,
+            "y": 52.7175068401031
+          }
+        },
+        {
+          "attributes": {
+            "FID": 8,
+            "CASE_": 5,
+            "STATUS": "CONFIRMED",
+            "AGE": 41,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Ship crew, doctor, evacuated from ship, confirmed hantavirus",
+            "TCLASS": "5",
+            "Exposure_G": "MV Hondius, Evacuated",
+            "CONF_CASE": 5,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": " ",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 7
+          },
+          "geometry": {
+            "x": 5.8653704023182085,
+            "y": 52.656460736743554
+          }
+        },
+        {
+          "attributes": {
+            "FID": 9,
+            "CASE_": 4,
+            "STATUS": "DECEASED",
+            "AGE": 0,
+            "SEX": 2,
+            "ONSET": 1776988800000,
+            "DEATH": 1777680000000,
+            "SOURCE": "https://www.who.int/emergencies/disease-outbreak-news/item/2026-DON599",
+            "LASTLOCATI": "MV HONDIUS",
+            "DETAILS": "German National, ship passenger, confirmed hantavirus",
+            "TCLASS": "4",
+            "Exposure_G": "MV Hondus, Passed away onboard",
+            "CONF_CASE": 4,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": " ",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 8
+          },
+          "geometry": {
+            "x": 5.707900257826136,
+            "y": 52.64201926262007
+          }
+        },
+        {
+          "attributes": {
+            "FID": 10,
+            "CASE_": 10,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 2,
+            "ONSET": 1778025600000,
+            "DEATH": null,
+            "SOURCE": "https://nos.nl/artikel/2613426-stewardess-mogelijk-ook-besmet-met-hanta-ligt-in-amsterdam-umc",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Flight attendant, monitoring but not confirmed case. Symptomatic",
+            "TCLASS": "B",
+            "Exposure_G": "Airplane: April 24th Flight",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 114,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 9
+          },
+          "geometry": {
+            "x": 5.654473359646691,
+            "y": 52.502196886173365
+          }
+        },
+        {
+          "attributes": {
+            "FID": 11,
+            "CASE_": 11,
+            "STATUS": "SUSPECTED",
+            "AGE": 67,
+            "SEX": 1,
+            "ONSET": 1778025600000,
+            "DEATH": null,
+            "SOURCE": "https://www.channelnewsasia.com/singapore/hantavirus-mv-hondius-ncid-test-virus-isolated-cda-6106671",
+            "LASTLOCATI": "SINGAPORE",
+            "DETAILS": "Has runny nose, awaiting test results. Was onbord MV Hondius, raveled on same flight from St Helena to Johannesbug on April 25.",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 10
+          },
+          "geometry": {
+            "x": 103.84968388840795,
+            "y": 1.323137145243891
+          }
+        },
+        {
+          "attributes": {
+            "FID": 12,
+            "CASE_": 12,
+            "STATUS": "MONITORING",
+            "AGE": 65,
+            "SEX": 1,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.channelnewsasia.com/singapore/hantavirus-mv-hondius-ncid-test-virus-isolated-cda-6106671",
+            "LASTLOCATI": "SINGAPORE",
+            "DETAILS": "Onboard MV Hondius, traveled on same flight from St Helena to Johannesbug on April 25. no symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 11
+          },
+          "geometry": {
+            "x": 103.8505994019382,
+            "y": 1.3238236073197884
+          }
+        },
+        {
+          "attributes": {
+            "FID": 13,
+            "CASE_": 24,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl",
+            "LASTLOCATI": "GEORGIA, USA",
+            "DETAILS": "Onboard ship, departed April 24th, no symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 12
+          },
+          "geometry": {
+            "x": -83.45490316024113,
+            "y": 32.85961584569218
+          }
+        },
+        {
+          "attributes": {
+            "FID": 14,
+            "CASE_": 14,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl",
+            "LASTLOCATI": "GEORGIA, USA",
+            "DETAILS": "Onboard ship, departed April 24th, no symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 13
+          },
+          "geometry": {
+            "x": -83.26154271233922,
+            "y": 32.75126818181849
+          }
+        },
+        {
+          "attributes": {
+            "FID": 15,
+            "CASE_": 15,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.gov.uk/government/news/ukhsa-update-on-the-hantavirus-cruise-ship-outbreak",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard ship, departed April 24th. No symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 14
+          },
+          "geometry": {
+            "x": -1.312327180612892,
+            "y": 52.403105637110244
+          }
+        },
+        {
+          "attributes": {
+            "FID": 16,
+            "CASE_": 16,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.gov.uk/government/news/ukhsa-update-on-the-hantavirus-cruise-ship-outbreak",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard Ship, departed April 24th. No symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 15
+          },
+          "geometry": {
+            "x": -1.5379116880612316,
+            "y": 52.736085679739524
+          }
+        },
+        {
+          "attributes": {
+            "FID": 17,
+            "CASE_": 17,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cnn.com/2026/05/07/world/hantavirus-ship-tenerife-outbreak-intl",
+            "LASTLOCATI": "ARIZONA, USA",
+            "DETAILS": "Onboard ship, departed April 24th, no symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 16
+          },
+          "geometry": {
+            "x": -111.68410769222845,
+            "y": 33.30511579672596
+          }
+        },
+        {
+          "attributes": {
+            "FID": 18,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "PRAIA, CAPE VERDE",
+            "DETAILS": "MV Hondius crew still on board People on board",
+            "TCLASS": "Group onboard MV Hondius",
+            "Exposure_G": " ",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": " ",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 17
+          },
+          "geometry": {
+            "x": -23.524314970709813,
+            "y": 15.114180636291582
+          }
+        },
+        {
+          "attributes": {
+            "FID": 19,
+            "CASE_": 18,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/toronto/hantavirus-cruise-ontario-passengers-isolating-9.7191211",
+            "LASTLOCATI": "CANADA",
+            "DETAILS": "Onboard ship, departed on April 24th, no symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 18
+          },
+          "geometry": {
+            "x": -80.58330139650654,
+            "y": 43.97461947860552
+          }
+        },
+        {
+          "attributes": {
+            "FID": 20,
+            "CASE_": 19,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/toronto/hantavirus-cruise-ontario-passengers-isolating-9.7191211",
+            "LASTLOCATI": "CANADA",
+            "DETAILS": "Onboard ship, departed April 24th, no symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 19
+          },
+          "geometry": {
+            "x": -80.55400496892895,
+            "y": 43.773989391553386
+          }
+        },
+        {
+          "attributes": {
+            "FID": 21,
+            "CASE_": 20,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/toronto/hantavirus-cruise-ontario-passengers-isolating-9.7191211",
+            "LASTLOCATI": "CANADA",
+            "DETAILS": "Onboard ship, departed April 24th no symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 20
+          },
+          "geometry": {
+            "x": -71.26689648745116,
+            "y": 46.50115255815366
+          }
+        },
+        {
+          "attributes": {
+            "FID": 22,
+            "CASE_": 21,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.dshs.texas.gov/news-alerts/dshs-statement-texas-residents-who-were-board-mv-hondius",
+            "LASTLOCATI": "TEXAS",
+            "DETAILS": "Onboard ship, departed April 24th, no symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 21
+          },
+          "geometry": {
+            "x": -97.91973388328371,
+            "y": 30.91195023000821
+          }
+        },
+        {
+          "attributes": {
+            "FID": 23,
+            "CASE_": 22,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.dshs.texas.gov/news-alerts/dshs-statement-texas-residents-who-were-board-mv-hondius",
+            "LASTLOCATI": "TEXAS",
+            "DETAILS": "Onboard ship, departed April 24th, no symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 22
+          },
+          "geometry": {
+            "x": -98.09551513291537,
+            "y": 30.811357051186985
+          }
+        },
+        {
+          "attributes": {
+            "FID": 24,
+            "CASE_": 23,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.forbes.com/sites/maryroeloffs/2026/05/08/hantavirus-infected-cruise-ship-new-suspected-case-identified-dutch-flight-attendant-tests-negative--latest-updates/?streamIndex=0",
+            "LASTLOCATI": "CALIFORNIA",
+            "DETAILS": "Undisclosed number of people being monitored. Onboard ship & departed April 24th",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 23
+          },
+          "geometry": {
+            "x": -119.36504101852125,
+            "y": 36.13519953667731
+          }
+        },
+        {
+          "attributes": {
+            "FID": 25,
+            "CASE_": 13,
+            "STATUS": "SUSPECTED",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.ctvnews.ca/canada/article/people-on-hantavirus-ship-ate-every-meal-side-by-side-even-after-first-death-passenger-says-live-updates-here/#:~:text=A%20French%20citizen%20with%20%E2%80%9Cbenign,said%20in%20a%20statement%20Thursday.",
+            "LASTLOCATI": "FRANCE",
+            "DETAILS": "Onboard ship, departed April 24th. CONFIRMED to have been onboard ship prior to air travel.",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 24
+          },
+          "geometry": {
+            "x": 2.3148631777209947,
+            "y": 47.88847567541612
+          }
+        },
+        {
+          "attributes": {
+            "FID": 26,
+            "CASE_": 25,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.nj.gov/health/news/2026/approved/20260508a.shtml",
+            "LASTLOCATI": "NEW JERSEY",
+            "DETAILS": "Not passenger on ship, was on April 24th flight",
+            "TCLASS": " ",
+            "Exposure_G": "Airplane: April 24th Flight",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 114,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 25
+          },
+          "geometry": {
+            "x": -74.229609657892,
+            "y": 40.28015988896072
+          }
+        },
+        {
+          "attributes": {
+            "FID": 27,
+            "CASE_": 26,
+            "STATUS": "SUSPECTED",
+            "AGE": 32,
+            "SEX": 0,
+            "ONSET": 1778112000000,
+            "DEATH": null,
+            "SOURCE": "https://www.forbes.com/sites/maryroeloffs/2026/05/08/another-hantavirus-case-suspected-in-spanish-woman-authorities-say-latest-updates/",
+            "LASTLOCATI": "ALICANTE, SPAIN",
+            "DETAILS": "Passenger on April 24th flight, being tested",
+            "TCLASS": "E",
+            "Exposure_G": "Airplane: April 24th Flight",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 114,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 26
+          },
+          "geometry": {
+            "x": -4.898003217716364,
+            "y": 37.543722506764595
+          }
+        },
+        {
+          "attributes": {
+            "FID": 28,
+            "CASE_": 27,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.google.com/search?q=disembarked&oq=disembarked&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyOTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+            "LASTLOCATI": "ST HELENA",
+            "DETAILS": "Disembarked ship on April 24, no symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 27
+          },
+          "geometry": {
+            "x": -5.702941289759828,
+            "y": -15.952282491752165
+          }
+        },
+        {
+          "attributes": {
+            "FID": 29,
+            "CASE_": 28,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.google.com/search?q=disembarked&oq=disembarked&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyOTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+            "LASTLOCATI": "ST HELENA",
+            "DETAILS": "Disembarked ship on April 24th, no symptoms. British passenger",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 28
+          },
+          "geometry": {
+            "x": -5.657622685946167,
+            "y": -15.958092190324505
+          }
+        },
+        {
+          "attributes": {
+            "FID": 30,
+            "CASE_": 29,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.google.com/search?q=disembarked&oq=disembarked&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyOTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+            "LASTLOCATI": "ST HELENA",
+            "DETAILS": "Disembarked ship on April 24th. No symptoms, British passenger",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 29
+          },
+          "geometry": {
+            "x": -5.733153691703415,
+            "y": -15.970679337527624
+          }
+        },
+        {
+          "attributes": {
+            "FID": 31,
+            "CASE_": 30,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.google.com/search?q=disembarked&oq=disembarked&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDMyOTVqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8",
+            "LASTLOCATI": "ST HELENA",
+            "DETAILS": "Disembarked ship on April 24th. No symptoms, British passenger",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 30
+          },
+          "geometry": {
+            "x": -5.706969631937882,
+            "y": -15.930010390820952
+          }
+        },
+        {
+          "attributes": {
+            "FID": 32,
+            "CASE_": 31,
+            "STATUS": "CONFIRMED",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.gov.uk/government/news/ukhsa-update-on-the-hantavirus-cruise-ship-outbreak#full-publication-update-history",
+            "LASTLOCATI": "TRISTAN DA CUNHA",
+            "DETAILS": "British national, Onboard ship departed, CONFIRMED",
+            "TCLASS": "8",
+            "Exposure_G": "Disembarked April 14th",
+            "CONF_CASE": 8,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 104,
+            "MAX_EXP_DA": 104,
+            "EXP_45_DAY": 149,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 31
+          },
+          "geometry": {
+            "x": -12.290902950147816,
+            "y": -37.09426006332706
+          }
+        },
+        {
+          "attributes": {
+            "FID": 33,
+            "CASE_": 32,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 1,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.turkishminute.com/2026/05/08/turkey-says-no-hantavirus-cases-found-after-cruise-ship-outbreak-involving-turkish-nationals/",
+            "LASTLOCATI": "TURKEY",
+            "DETAILS": "Onboard shio, disembarked April 24 Travel Vlogger, no symptoms",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 32
+          },
+          "geometry": {
+            "x": 30.00750136921972,
+            "y": 40.581484205068634
+          }
+        },
+        {
+          "attributes": {
+            "FID": 34,
+            "CASE_": 33,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.turkishminute.com/2026/05/08/turkey-says-no-hantavirus-cases-found-after-cruise-ship-outbreak-involving-turkish-nationals/",
+            "LASTLOCATI": "TURKEY",
+            "DETAILS": "Onboard ship, Disembarked April 24th, cameraman Turkish national",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 33
+          },
+          "geometry": {
+            "x": 30.249200587463246,
+            "y": 40.59372089357473
+          }
+        },
+        {
+          "attributes": {
+            "FID": 35,
+            "CASE_": 34,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.vdh.virginia.gov/blog/2026/05/07/hantavirus-statement-from-the-virginia-department-of-health/",
+            "LASTLOCATI": "VIRGINIA",
+            "DETAILS": "On the MV Hondius disembarked the ship April 24th and has returned home",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 34
+          },
+          "geometry": {
+            "x": -77.58938433108516,
+            "y": 38.2500568612941
+          }
+        },
+        {
+          "attributes": {
+            "FID": 36,
+            "CASE_": 35,
+            "STATUS": "SUSPECTED",
+            "AGE": 0,
+            "SEX": 2,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "TRISTAN DA CUNHA",
+            "DETAILS": "Not on ship, Wife of case 8, in isolation",
+            "TCLASS": "F",
+            "Exposure_G": "Not Passenger- Close contact",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 104,
+            "DISEMBARK": " April 14",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 35
+          },
+          "geometry": {
+            "x": -12.285142890562316,
+            "y": -37.113387648627246
+          }
+        },
+        {
+          "attributes": {
+            "FID": 37,
+            "CASE_": 36,
+            "STATUS": "CONFIRMED",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html",
+            "LASTLOCATI": "FRANCE",
+            "DETAILS": "French passenger, started experiencing symptoms on repatriation flight back to France on 10 May",
+            "TCLASS": "9",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 9,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 36
+          },
+          "geometry": {
+            "x": 2.9796710471482206,
+            "y": 47.06884402231532
+          }
+        },
+        {
+          "attributes": {
+            "FID": 38,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html",
+            "LASTLOCATI": "FRANCE",
+            "DETAILS": "Onboard ship, one of 5 French citizens flown back on May 10",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 37
+          },
+          "geometry": {
+            "x": 1.841397504958629,
+            "y": 47.319485099598516
+          }
+        },
+        {
+          "attributes": {
+            "FID": 39,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html",
+            "LASTLOCATI": "FRANCE",
+            "DETAILS": "Onboard ship, one of 5 French citizens flown back on May 10",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 38
+          },
+          "geometry": {
+            "x": 1.607755642112716,
+            "y": 47.540219975565435
+          }
+        },
+        {
+          "attributes": {
+            "FID": 40,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html",
+            "LASTLOCATI": "FRANCE",
+            "DETAILS": "Onboard ship, one of 5 French citizens flown back on May 10",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 39
+          },
+          "geometry": {
+            "x": 1.9300210436552176,
+            "y": 47.54565854006283
+          }
+        },
+        {
+          "attributes": {
+            "FID": 41,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html",
+            "LASTLOCATI": "FRANCE",
+            "DETAILS": "Onboard ship, one of 5 French citizens flown back May 10",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 40
+          },
+          "geometry": {
+            "x": 1.5312174668185015,
+            "y": 47.35770297627187
+          }
+        },
+        {
+          "attributes": {
+            "FID": 42,
+            "CASE_": 0,
+            "STATUS": "UNKNOWN",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "UNKNOWN",
+            "DETAILS": "Disembarked ship on April 24. No Details or information can be found",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 41
+          },
+          "geometry": {
+            "x": -62.74791253197206,
+            "y": 17.32053192763674
+          }
+        },
+        {
+          "attributes": {
+            "FID": 43,
+            "CASE_": 0,
+            "STATUS": "UNKNOWN",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "UNKNOWN",
+            "DETAILS": "British passenger, Disembarked April 24th",
+            "TCLASS": " ",
+            "Exposure_G": "Disembarked April 24th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "April 24",
+            "DIS_DATE": 114,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 159,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 42
+          },
+          "geometry": {
+            "x": -1.0524031934134361,
+            "y": 53.113161783151504
+          }
+        },
+        {
+          "attributes": {
+            "FID": 44,
+            "CASE_": 0,
+            "STATUS": "CONFIRMED",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.tagesschau.de/ausland/europa/hantavirus-schiff-102.html",
+            "LASTLOCATI": "UNITED STATES",
+            "DETAILS": "Disembarked ship with Americans on May 10. No symptoms and tested positive",
+            "TCLASS": "10",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 10,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 43
+          },
+          "geometry": {
+            "x": -99.86563977322595,
+            "y": 41.295701586351065
+          }
+        },
+        {
+          "attributes": {
+            "FID": 45,
+            "CASE_": 0,
+            "STATUS": "SUSPECTED",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "  https://abcnews.com/International/live-updates/hantavirus-live-updates-mv-hondius-canary-islands/?id=132746955&entryId=132836441",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Disembarked ship with Americans on May 10. Symptoms but tested negative",
+            "TCLASS": "H",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 44
+          },
+          "geometry": {
+            "x": -99.14859880195317,
+            "y": 41.42873326790645
+          }
+        },
+        {
+          "attributes": {
+            "FID": 46,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202",
+            "LASTLOCATI": "AUSTRALIA",
+            "DETAILS": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 45
+          },
+          "geometry": {
+            "x": 115.87139632945035,
+            "y": -31.54993977531474
+          }
+        },
+        {
+          "attributes": {
+            "FID": 47,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202",
+            "LASTLOCATI": "AUSTRALIA",
+            "DETAILS": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 46
+          },
+          "geometry": {
+            "x": 115.98418858272534,
+            "y": -30.528311235823953
+          }
+        },
+        {
+          "attributes": {
+            "FID": 48,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202",
+            "LASTLOCATI": "AUSTRALIA",
+            "DETAILS": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 47
+          },
+          "geometry": {
+            "x": 116.725400950946,
+            "y": -31.081904814394967
+          }
+        },
+        {
+          "attributes": {
+            "FID": 49,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202",
+            "LASTLOCATI": "AUSTRALIA",
+            "DETAILS": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 48
+          },
+          "geometry": {
+            "x": 116.85430791591452,
+            "y": -31.988310880104216
+          }
+        },
+        {
+          "attributes": {
+            "FID": 50,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202",
+            "LASTLOCATI": "AUSTRALIA",
+            "DETAILS": "Passenger on the MV Hondus, disembarked on May 10 and to be in Perth for quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 49
+          },
+          "geometry": {
+            "x": 116.19366374232072,
+            "y": -32.26123443624248
+          }
+        },
+        {
+          "attributes": {
+            "FID": 51,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.abc.net.au/news/2026-05-11/australian-repatriation-flight-hantavirus-cruise-ship/106665202",
+            "LASTLOCATI": "AUSTRALIA",
+            "DETAILS": "Passenger on the MV Hondus, New Zealander, disembarked on May 10 and to be in Perth for quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 50
+          },
+          "geometry": {
+            "x": 116.80596646320345,
+            "y": -32.587662741396656
+          }
+        },
+        {
+          "attributes": {
+            "FID": 52,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 51
+          },
+          "geometry": {
+            "x": -99.14115482790966,
+            "y": 40.900955675673394
+          }
+        },
+        {
+          "attributes": {
+            "FID": 53,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 52
+          },
+          "geometry": {
+            "x": -99.88236451376089,
+            "y": 40.827840793399986
+          }
+        },
+        {
+          "attributes": {
+            "FID": 54,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 53
+          },
+          "geometry": {
+            "x": -98.2710354947205,
+            "y": 41.156222044559236
+          }
+        },
+        {
+          "attributes": {
+            "FID": 55,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 54
+          },
+          "geometry": {
+            "x": -98.174357953139,
+            "y": 41.313748358252006
+          }
+        },
+        {
+          "attributes": {
+            "FID": 56,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 55
+          },
+          "geometry": {
+            "x": -98.36771571867146,
+            "y": 41.05909433632607
+          }
+        },
+        {
+          "attributes": {
+            "FID": 57,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 56
+          },
+          "geometry": {
+            "x": -99.4311928173931,
+            "y": 41.495037169767414
+          }
+        },
+        {
+          "attributes": {
+            "FID": 58,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 57
+          },
+          "geometry": {
+            "x": -99.23783236949119,
+            "y": 40.998316762020785
+          }
+        },
+        {
+          "attributes": {
+            "FID": 59,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 58
+          },
+          "geometry": {
+            "x": -99.67289203653492,
+            "y": 40.9618234949687
+          }
+        },
+        {
+          "attributes": {
+            "FID": 60,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 59
+          },
+          "geometry": {
+            "x": -98.46439594262242,
+            "y": 41.05909433632607
+          }
+        },
+        {
+          "attributes": {
+            "FID": 61,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus disembarked May 10 and transported to Nebraska.",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 60
+          },
+          "geometry": {
+            "x": -99.5439850706681,
+            "y": 41.241090844274076
+          }
+        },
+        {
+          "attributes": {
+            "FID": 62,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 61
+          },
+          "geometry": {
+            "x": -99.20560562847363,
+            "y": 40.98615441452919
+          }
+        },
+        {
+          "attributes": {
+            "FID": 63,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 62
+          },
+          "geometry": {
+            "x": -99.59232652427747,
+            "y": 41.034790342297754
+          }
+        },
+        {
+          "attributes": {
+            "FID": 64,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 63
+          },
+          "geometry": {
+            "x": -98.59330290759092,
+            "y": 41.21685420608424
+          }
+        },
+        {
+          "attributes": {
+            "FID": 65,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 64
+          },
+          "geometry": {
+            "x": -98.62552964950679,
+            "y": 41.1076764023499
+          }
+        },
+        {
+          "attributes": {
+            "FID": 66,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 65
+          },
+          "geometry": {
+            "x": -99.39896607637556,
+            "y": 40.86440857814657
+          }
+        },
+        {
+          "attributes": {
+            "FID": 67,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.npr.org/2026/05/10/nx-s1-5817578/hantavirus-cruise-ship-nebraska-us-passengers",
+            "LASTLOCATI": "NEBRASKA, USA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Nebraska",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 66
+          },
+          "geometry": {
+            "x": -99.68900406585897,
+            "y": 41.35004627818283
+          }
+        },
+        {
+          "attributes": {
+            "FID": 68,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.belganewsagency.eu/four-belgians-cleared-after-hantavirus-contact-tracing-linked-to-cruise-ship-outbreak",
+            "LASTLOCATI": "BELGIUM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Netherlands then to Antwerp Belgium",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 67
+          },
+          "geometry": {
+            "x": 4.397907869603562,
+            "y": 51.22168187829926
+          }
+        },
+        {
+          "attributes": {
+            "FID": 69,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.belganewsagency.eu/four-belgians-cleared-after-hantavirus-contact-tracing-linked-to-cruise-ship-outbreak",
+            "LASTLOCATI": "BELGIUM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Netherlands then to Antwerp Belgium",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 68
+          },
+          "geometry": {
+            "x": 4.4321486146235,
+            "y": 51.19644520192758
+          }
+        },
+        {
+          "attributes": {
+            "FID": 70,
+            "CASE_": 0,
+            "STATUS": "UNKNOWN",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10. Unknowns where",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 69
+          },
+          "geometry": {
+            "x": -70.49244160191724,
+            "y": -50.04427587479113
+          }
+        },
+        {
+          "attributes": {
+            "FID": 71,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/british-columbia/hantavirus-cruise-ship-canadians-b-c-9.7194477",
+            "LASTLOCATI": "CANADA",
+            "DETAILS": " Onboard MV Hondus, disembarked May 10 and will be transported to British Columbia",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 70
+          },
+          "geometry": {
+            "x": -124.02418942823837,
+            "y": 49.982096450188095
+          }
+        },
+        {
+          "attributes": {
+            "FID": 72,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/british-columbia/hantavirus-cruise-ship-canadians-b-c-9.7194477",
+            "LASTLOCATI": "CANADA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to British Columbia",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 71
+          },
+          "geometry": {
+            "x": -124.00807471654488,
+            "y": 50.57930228148645
+          }
+        },
+        {
+          "attributes": {
+            "FID": 73,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/british-columbia/hantavirus-cruise-ship-canadians-b-c-9.7194477",
+            "LASTLOCATI": "CANADA",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to British Columbia",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 72
+          },
+          "geometry": {
+            "x": -123.47633750881796,
+            "y": 49.99245666587584
+          }
+        },
+        {
+          "attributes": {
+            "FID": 74,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.cbc.ca/news/canada/british-columbia/hantavirus-cruise-ship-canadians-b-c-9.7194477",
+            "LASTLOCATI": "CANADA",
+            "DETAILS": "  Onboard MV Hondus, disembarked May 10 and will be transported to British Columbia",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 73
+          },
+          "geometry": {
+            "x": -124.20143516444679,
+            "y": 50.17855824788832
+          }
+        },
+        {
+          "attributes": {
+            "FID": 75,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.reuters.com/business/healthcare-pharmaceuticals/germany-monitors-four-contacts-hantavirus-hit-cruise-frankfurt-2026-05-11/",
+            "LASTLOCATI": "GERMANY",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to home state in Germany",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 74
+          },
+          "geometry": {
+            "x": 11.041585261853074,
+            "y": 49.65583273932339
+          }
+        },
+        {
+          "attributes": {
+            "FID": 76,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.reuters.com/business/healthcare-pharmaceuticals/germany-monitors-four-contacts-hantavirus-hit-cruise-frankfurt-2026-05-11/",
+            "LASTLOCATI": "GERMANY",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to home state in Germany",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 75
+          },
+          "geometry": {
+            "x": 13.410237337253458,
+            "y": 52.460079776014936
+          }
+        },
+        {
+          "attributes": {
+            "FID": 77,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.reuters.com/business/healthcare-pharmaceuticals/germany-monitors-four-contacts-hantavirus-hit-cruise-frankfurt-2026-05-11/",
+            "LASTLOCATI": "GERMANY",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to home state in Germany",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 76
+          },
+          "geometry": {
+            "x": 8.495687450244315,
+            "y": 50.22617989226636
+          }
+        },
+        {
+          "attributes": {
+            "FID": 78,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.reuters.com/business/healthcare-pharmaceuticals/germany-monitors-four-contacts-hantavirus-hit-cruise-frankfurt-2026-05-11/",
+            "LASTLOCATI": "GERMANY",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to home state in Germany",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 77
+          },
+          "geometry": {
+            "x": 10.26009147868842,
+            "y": 53.56516144047742
+          }
+        },
+        {
+          "attributes": {
+            "FID": 79,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.ekathimerini.com/news/1303396/greek-passenger-from-hantavirus-hit-cruise-ship-quarantined-in-athens/",
+            "LASTLOCATI": "GREECE",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and will be transported to Athens",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 78
+          },
+          "geometry": {
+            "x": 23.780530989995853,
+            "y": 38.00718918583394
+          }
+        },
+        {
+          "attributes": {
+            "FID": 80,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Onboard MV Hondus, crew member disembarked May 10 and monitoring in Netherlands",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 79
+          },
+          "geometry": {
+            "x": 5.881783440924295,
+            "y": 52.59697502488167
+          }
+        },
+        {
+          "attributes": {
+            "FID": 81,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.thehindu.com/news/national/two-indians-aboard-cruise-ship-with-hantavirus-cases-evacuated-to-netherlands/article70964200.ece",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Onboard MV Hondus, crew member disembarked May 10 and monitoring in Netherlands",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 80
+          },
+          "geometry": {
+            "x": 5.924080704111944,
+            "y": 52.60064517603896
+          }
+        },
+        {
+          "attributes": {
+            "FID": 82,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 2,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.bbc.com/news/articles/czx20wzlveeo",
+            "LASTLOCATI": "IRELAND",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Dublin",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 81
+          },
+          "geometry": {
+            "x": -6.330686549839878,
+            "y": 53.34833396894264
+          }
+        },
+        {
+          "attributes": {
+            "FID": 83,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.bbc.com/news/articles/czx20wzlveeo",
+            "LASTLOCATI": "IRELAND",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Dublin",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 82
+          },
+          "geometry": {
+            "x": -6.2581770517952675,
+            "y": 53.33751148530777
+          }
+        },
+        {
+          "attributes": {
+            "FID": 84,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "TENERIFE",
+            "DETAILS": " Onboard MV Hondus, disembarked May 10 as per ocean liner data - and currently unknown location",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 83
+          },
+          "geometry": {
+            "x": 12.606521107845365,
+            "y": 42.59856817838557
+          }
+        },
+        {
+          "attributes": {
+            "FID": 85,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": " Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 84
+          },
+          "geometry": {
+            "x": -2.2642079289427715,
+            "y": 53.50856269094491
+          }
+        },
+        {
+          "attributes": {
+            "FID": 86,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 85
+          },
+          "geometry": {
+            "x": -2.1775990643917673,
+            "y": 53.513353752698656
+          }
+        },
+        {
+          "attributes": {
+            "FID": 87,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 86
+          },
+          "geometry": {
+            "x": -2.2521229006120143,
+            "y": 53.46182175346952
+          }
+        },
+        {
+          "attributes": {
+            "FID": 88,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 87
+          },
+          "geometry": {
+            "x": -2.2037831241573005,
+            "y": 53.45942337826966
+          }
+        },
+        {
+          "attributes": {
+            "FID": 89,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 88
+          },
+          "geometry": {
+            "x": -2.2219104986684615,
+            "y": 53.522934150438765
+          }
+        },
+        {
+          "attributes": {
+            "FID": 90,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 89
+          },
+          "geometry": {
+            "x": -2.2984486739626755,
+            "y": 53.53969470930753
+          }
+        },
+        {
+          "attributes": {
+            "FID": 91,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 90
+          },
+          "geometry": {
+            "x": -2.3145617093998356,
+            "y": 53.46901596567778
+          }
+        },
+        {
+          "attributes": {
+            "FID": 92,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 91
+          },
+          "geometry": {
+            "x": -2.1856557496461395,
+            "y": 53.520539229393584
+          }
+        },
+        {
+          "attributes": {
+            "FID": 93,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 92
+          },
+          "geometry": {
+            "x": -2.2057971281596838,
+            "y": 53.454626221953006
+          }
+        },
+        {
+          "attributes": {
+            "FID": 94,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 93
+          },
+          "geometry": {
+            "x": -2.2460805544316105,
+            "y": 53.513353752698656
+          }
+        },
+        {
+          "attributes": {
+            "FID": 95,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 94
+          },
+          "geometry": {
+            "x": -2.2017687850833325,
+            "y": 53.48459935953734
+          }
+        },
+        {
+          "attributes": {
+            "FID": 96,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 95
+          },
+          "geometry": {
+            "x": -2.2400378731795887,
+            "y": 53.470214898998236
+          }
+        },
+        {
+          "attributes": {
+            "FID": 97,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 96
+          },
+          "geometry": {
+            "x": -2.2037831241573005,
+            "y": 53.51095828952601
+          }
+        },
+        {
+          "attributes": {
+            "FID": 98,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 97
+          },
+          "geometry": {
+            "x": -2.3085193632194314,
+            "y": 53.53251248181143
+          }
+        },
+        {
+          "attributes": {
+            "FID": 99,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 98
+          },
+          "geometry": {
+            "x": -2.2118398094116722,
+            "y": 53.47740778880255
+          }
+        },
+        {
+          "attributes": {
+            "FID": 100,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 99
+          },
+          "geometry": {
+            "x": -2.2762929563751637,
+            "y": 53.496582767789526
+          }
+        },
+        {
+          "attributes": {
+            "FID": 101,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 100
+          },
+          "geometry": {
+            "x": -2.2400378731795887,
+            "y": 53.47381149629523
+          }
+        },
+        {
+          "attributes": {
+            "FID": 102,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 101
+          },
+          "geometry": {
+            "x": -2.3548451356717957,
+            "y": 53.50856269094491
+          }
+        },
+        {
+          "attributes": {
+            "FID": 103,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 102
+          },
+          "geometry": {
+            "x": -2.3206043906518574,
+            "y": 53.46302078998868
+          }
+        },
+        {
+          "attributes": {
+            "FID": 104,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, crew member disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 103
+          },
+          "geometry": {
+            "x": -2.1473866624481803,
+            "y": 53.514551433240804
+          }
+        },
+        {
+          "attributes": {
+            "FID": 105,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, crew member disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 104
+          },
+          "geometry": {
+            "x": -2.2400378731795887,
+            "y": 53.43783200653919
+          }
+        },
+        {
+          "attributes": {
+            "FID": 106,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://www.theguardian.com/world/2026/may/10/hantavirus-cruise-ship-tenerife-evacuate-passengers-mv-hondius",
+            "LASTLOCATI": "UNITED KINGDOM",
+            "DETAILS": "Onboard MV Hondus, crew member disembarked May 10 and 72 hour quarantine in Wirral then 45 days in home isolation",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 105
+          },
+          "geometry": {
+            "x": -2.288377649634303,
+            "y": 53.47381149629523
+          }
+        },
+        {
+          "attributes": {
+            "FID": 107,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 106
+          },
+          "geometry": {
+            "x": -3.663993253952658,
+            "y": 40.43327654854699
+          }
+        },
+        {
+          "attributes": {
+            "FID": 108,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 107
+          },
+          "geometry": {
+            "x": -3.7500450112122317,
+            "y": 40.456254834180065
+          }
+        },
+        {
+          "attributes": {
+            "FID": 109,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 108
+          },
+          "geometry": {
+            "x": -3.7787289305981657,
+            "y": 40.38269667347803
+          }
+        },
+        {
+          "attributes": {
+            "FID": 110,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 109
+          },
+          "geometry": {
+            "x": -3.651915813691117,
+            "y": 40.33438042843699
+          }
+        },
+        {
+          "attributes": {
+            "FID": 111,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 110
+          },
+          "geometry": {
+            "x": -3.6926771724402956,
+            "y": 40.37694655474328
+          }
+        },
+        {
+          "attributes": {
+            "FID": 112,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 111
+          },
+          "geometry": {
+            "x": -3.602096375419539,
+            "y": 40.38269667347803
+          }
+        },
+        {
+          "attributes": {
+            "FID": 113,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 112
+          },
+          "geometry": {
+            "x": -3.6187028545439666,
+            "y": 40.497595951115606
+          }
+        },
+        {
+          "attributes": {
+            "FID": 114,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 113
+          },
+          "geometry": {
+            "x": -3.731928851269069,
+            "y": 40.53202743406807
+          }
+        },
+        {
+          "attributes": {
+            "FID": 115,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 114
+          },
+          "geometry": {
+            "x": -3.827038688949372,
+            "y": 40.5159616086747
+          }
+        },
+        {
+          "attributes": {
+            "FID": 116,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 115
+          },
+          "geometry": {
+            "x": -3.87685812722095,
+            "y": 40.460849548503894
+          }
+        },
+        {
+          "attributes": {
+            "FID": 117,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 116
+          },
+          "geometry": {
+            "x": -3.8360967684717715,
+            "y": 40.35854287909025
+          }
+        },
+        {
+          "attributes": {
+            "FID": 118,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 117
+          },
+          "geometry": {
+            "x": -3.751554691132637,
+            "y": 40.27451235096274
+          }
+        },
+        {
+          "attributes": {
+            "FID": 119,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": "https://elpais.com/sociedad/2026-05-11/ultima-hora-del-brote-de-hantavirus-en-directo.html",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and transported to Madrid military for hospital quarantine",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 118
+          },
+          "geometry": {
+            "x": -3.611154454941972,
+            "y": 40.28718117643206
+          }
+        },
+        {
+          "attributes": {
+            "FID": 120,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 119
+          },
+          "geometry": {
+            "x": 4.887588858184709,
+            "y": 52.30179823240825
+          }
+        },
+        {
+          "attributes": {
+            "FID": 121,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 120
+          },
+          "geometry": {
+            "x": 4.757850736881044,
+            "y": 52.365220874099464
+          }
+        },
+        {
+          "attributes": {
+            "FID": 122,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 121
+          },
+          "geometry": {
+            "x": 4.7767217358860785,
+            "y": 52.42855259752646
+          }
+        },
+        {
+          "attributes": {
+            "FID": 123,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 122
+          },
+          "geometry": {
+            "x": 4.868717858281376,
+            "y": 52.461621650648425
+          }
+        },
+        {
+          "attributes": {
+            "FID": 124,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 123
+          },
+          "geometry": {
+            "x": 4.918254232017031,
+            "y": 52.42423741287997
+          }
+        },
+        {
+          "attributes": {
+            "FID": 125,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 124
+          },
+          "geometry": {
+            "x": 4.970149481077489,
+            "y": 52.35657768653154
+          }
+        },
+        {
+          "attributes": {
+            "FID": 126,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 125
+          },
+          "geometry": {
+            "x": 4.873435608032619,
+            "y": 52.382502176414654
+          }
+        },
+        {
+          "attributes": {
+            "FID": 127,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 126
+          },
+          "geometry": {
+            "x": 4.790874986038169,
+            "y": 52.225281988125346
+          }
+        },
+        {
+          "attributes": {
+            "FID": 128,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 127
+          },
+          "geometry": {
+            "x": 4.963072856001443,
+            "y": 52.225281988125346
+          }
+        },
+        {
+          "attributes": {
+            "FID": 129,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 128
+          },
+          "geometry": {
+            "x": 5.062145602574489,
+            "y": 52.300355751445935
+          }
+        },
+        {
+          "attributes": {
+            "FID": 130,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 129
+          },
+          "geometry": {
+            "x": 5.168294975121843,
+            "y": 52.24261798490619
+          }
+        },
+        {
+          "attributes": {
+            "FID": 131,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 130
+          },
+          "geometry": {
+            "x": 5.066863353224062,
+            "y": 52.13994816507837
+          }
+        },
+        {
+          "attributes": {
+            "FID": 132,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 131
+          },
+          "geometry": {
+            "x": 4.908818732514513,
+            "y": 52.14284351854255
+          }
+        },
+        {
+          "attributes": {
+            "FID": 133,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 132
+          },
+          "geometry": {
+            "x": 4.738979736977711,
+            "y": 52.15876459849193
+          }
+        },
+        {
+          "attributes": {
+            "FID": 134,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 133
+          },
+          "geometry": {
+            "x": 4.687084488815584,
+            "y": 52.25705947739084
+          }
+        },
+        {
+          "attributes": {
+            "FID": 135,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 134
+          },
+          "geometry": {
+            "x": 4.675290113988264,
+            "y": 52.38826110848097
+          }
+        },
+        {
+          "attributes": {
+            "FID": 136,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 135
+          },
+          "geometry": {
+            "x": 4.774362861459606,
+            "y": 52.60367910508943
+          }
+        },
+        {
+          "attributes": {
+            "FID": 137,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 136
+          },
+          "geometry": {
+            "x": 5.088093227553867,
+            "y": 52.32198802903465
+          }
+        },
+        {
+          "attributes": {
+            "FID": 138,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 137
+          },
+          "geometry": {
+            "x": 5.309827470354499,
+            "y": 52.23250614297701
+          }
+        },
+        {
+          "attributes": {
+            "FID": 139,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 138
+          },
+          "geometry": {
+            "x": 5.184807099700406,
+            "y": 52.10229143833013
+          }
+        },
+        {
+          "attributes": {
+            "FID": 140,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 139
+          },
+          "geometry": {
+            "x": 5.102246476807626,
+            "y": 52.20793922026336
+          }
+        },
+        {
+          "attributes": {
+            "FID": 141,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 140
+          },
+          "geometry": {
+            "x": 4.845129109525099,
+            "y": 52.055901013129144
+          }
+        },
+        {
+          "attributes": {
+            "FID": 142,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 141
+          },
+          "geometry": {
+            "x": 4.795592735789411,
+            "y": 52.11967541959131
+          }
+        },
+        {
+          "attributes": {
+            "FID": 143,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "NETHERLANDS",
+            "DETAILS": "Crew member of MV Hondus, travel to Netherlands where they will be quarantined",
+            "TCLASS": " ",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 142
+          },
+          "geometry": {
+            "x": 4.649342489907183,
+            "y": 52.08779960975496
+          }
+        },
+        {
+          "attributes": {
+            "FID": 144,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 143
+          },
+          "geometry": {
+            "x": -16.01619465463574,
+            "y": 28.196309458385826
+          }
+        },
+        {
+          "attributes": {
+            "FID": 145,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 144
+          },
+          "geometry": {
+            "x": -16.031291454738057,
+            "y": 28.16304098059795
+          }
+        },
+        {
+          "attributes": {
+            "FID": 146,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 145
+          },
+          "geometry": {
+            "x": -15.93467193713738,
+            "y": 28.18433399890912
+          }
+        },
+        {
+          "attributes": {
+            "FID": 147,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 146
+          },
+          "geometry": {
+            "x": -15.987510736148101,
+            "y": 28.188325967794096
+          }
+        },
+        {
+          "attributes": {
+            "FID": 148,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 147
+          },
+          "geometry": {
+            "x": -15.995059135750095,
+            "y": 28.15239288272318
+          }
+        },
+        {
+          "attributes": {
+            "FID": 149,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 148
+          },
+          "geometry": {
+            "x": -16.008646255033714,
+            "y": 28.188325967794096
+          }
+        },
+        {
+          "attributes": {
+            "FID": 150,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 149
+          },
+          "geometry": {
+            "x": -16.032801134658463,
+            "y": 28.1710263596298
+          }
+        },
+        {
+          "attributes": {
+            "FID": 151,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 150
+          },
+          "geometry": {
+            "x": -15.973923615966157,
+            "y": 28.167033744208464
+          }
+        },
+        {
+          "attributes": {
+            "FID": 152,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 151
+          },
+          "geometry": {
+            "x": -15.973923615966157,
+            "y": 28.210944309715437
+          }
+        },
+        {
+          "attributes": {
+            "FID": 153,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 152
+          },
+          "geometry": {
+            "x": -15.999588175511315,
+            "y": 28.20429235343961
+          }
+        },
+        {
+          "attributes": {
+            "FID": 154,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 153
+          },
+          "geometry": {
+            "x": -16.007136575113307,
+            "y": 28.190987197576717
+          }
+        },
+        {
+          "attributes": {
+            "FID": 155,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 154
+          },
+          "geometry": {
+            "x": -16.035820494499276,
+            "y": 28.168364633097674
+          }
+        },
+        {
+          "attributes": {
+            "FID": 156,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 155
+          },
+          "geometry": {
+            "x": -16.01317529479493,
+            "y": 28.140412506719198
+          }
+        },
+        {
+          "attributes": {
+            "FID": 157,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 156
+          },
+          "geometry": {
+            "x": -15.986001055329368,
+            "y": 28.167033744208464
+          }
+        },
+        {
+          "attributes": {
+            "FID": 158,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 157
+          },
+          "geometry": {
+            "x": -15.998078495590907,
+            "y": 28.18300330949323
+          }
+        },
+        {
+          "attributes": {
+            "FID": 159,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 158
+          },
+          "geometry": {
+            "x": -16.041859214180896,
+            "y": 28.156386043548945
+          }
+        },
+        {
+          "attributes": {
+            "FID": 160,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 159
+          },
+          "geometry": {
+            "x": -15.984491375408963,
+            "y": 28.15771706405951
+          }
+        },
+        {
+          "attributes": {
+            "FID": 161,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 160
+          },
+          "geometry": {
+            "x": -15.976942975806967,
+            "y": 28.198970489404175
+          }
+        },
+        {
+          "attributes": {
+            "FID": 162,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 161
+          },
+          "geometry": {
+            "x": -15.952788097080512,
+            "y": 28.190987197576717
+          }
+        },
+        {
+          "attributes": {
+            "FID": 163,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 162
+          },
+          "geometry": {
+            "x": -16.01619465463574,
+            "y": 28.190987197576717
+          }
+        },
+        {
+          "attributes": {
+            "FID": 164,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 163
+          },
+          "geometry": {
+            "x": -16.01619465463574,
+            "y": 28.190987197576717
+          }
+        },
+        {
+          "attributes": {
+            "FID": 165,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 164
+          },
+          "geometry": {
+            "x": -16.034310814578866,
+            "y": 28.151061796018272
+          }
+        },
+        {
+          "attributes": {
+            "FID": 166,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 165
+          },
+          "geometry": {
+            "x": -15.982981695488556,
+            "y": 28.1470684366218
+          }
+        },
+        {
+          "attributes": {
+            "FID": 167,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 166
+          },
+          "geometry": {
+            "x": -15.99354945582969,
+            "y": 28.17768038623884
+          }
+        },
+        {
+          "attributes": {
+            "FID": 168,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 167
+          },
+          "geometry": {
+            "x": -16.047897933862487,
+            "y": 28.190987197576717
+          }
+        },
+        {
+          "attributes": {
+            "FID": 169,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 168
+          },
+          "geometry": {
+            "x": -15.984491375408963,
+            "y": 28.197639982177616
+          }
+        },
+        {
+          "attributes": {
+            "FID": 170,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 169
+          },
+          "geometry": {
+            "x": -15.973923615966157,
+            "y": 28.218926110419776
+          }
+        },
+        {
+          "attributes": {
+            "FID": 171,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 170
+          },
+          "geometry": {
+            "x": -15.904478337831044,
+            "y": 28.217595851732895
+          }
+        },
+        {
+          "attributes": {
+            "FID": 172,
+            "CASE_": 0,
+            "STATUS": "MONITORING",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " https://oceanwide-expeditions.com/blog/press-update-m-v-hondius-8-may-2026-19-00-hrs-cet?_gl=1*g1ile6*_up*MQ..*_ga*MTU1OTQ5OTM2MS4xNzc4MjA1MDEw*_ga_4NF7C856F1*czE3Nzg0MzA5MzQkbzQkZzEkdDE3Nzg0MzA5NDQkajUwJGwwJGgxNDc3NjExMzI2",
+            "LASTLOCATI": "MV HONDUS",
+            "DETAILS": "Crew member, Quarantine & currently remaining on ship",
+            "TCLASS": " ",
+            "Exposure_G": "Currently onboard MV Hondus",
+            "CONF_CASE": 0,
+            "CONFIRMEDD": " ",
+            "MIN_EXP_DA": 0,
+            "DISEMBARK": "Onboard",
+            "DIS_DATE": 0,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 171
+          },
+          "geometry": {
+            "x": -15.960336496682539,
+            "y": 28.16570283955773
+          }
+        },
+        {
+          "attributes": {
+            "FID": 173,
+            "CASE_": 0,
+            "STATUS": "CONFIRMED",
+            "AGE": 0,
+            "SEX": 0,
+            "ONSET": null,
+            "DEATH": null,
+            "SOURCE": " ",
+            "LASTLOCATI": "SPAIN",
+            "DETAILS": "Onboard MV Hondus, disembarked May 10 and tested positve with no symptoms",
+            "TCLASS": "11",
+            "Exposure_G": "MV Hondus, Disembarked May 10th",
+            "CONF_CASE": 11,
+            "CONFIRMEDD": "MAY 11",
+            "MIN_EXP_DA": 91,
+            "DISEMBARK": "May 10",
+            "DIS_DATE": 130,
+            "MAX_EXP_DA": 0,
+            "EXP_45_DAY": 0,
+            "EXPOSE_DAT": 0,
+            "EXP_TO_CON": 0,
+            "arcid": 172
+          },
+          "geometry": {
+            "x": -3.701370242208278,
+            "y": 40.4089763154344
+          }
+        }
+      ]
+    },
     {
       "layer_url": "https://services1.arcgis.com/wb4Og4gH5mvzQAIV/arcgis/rest/services/Tracking_Hantavirus_2026/FeatureServer/1",
       "layer_name": "R0_INITAL",
@@ -678,7 +6114,7 @@
             "STATUS": "SUSPECTED",
             "AGE": 32,
             "SEX": null,
-            "ONSET": 1778178243000,
+            "ONSET": 1778178243275,
             "DEATH": null,
             "SOURCE": "https://www.forbes.com/sites/maryroeloffs/2026/05/08/another-hantavirus-case-suspected-in-spanish-woman-authorities-say-latest-updates/",
             "LASTLOCATION": "ALICANTE, SPAIN",
