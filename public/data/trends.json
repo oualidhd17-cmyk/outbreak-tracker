@@ -146,53 +146,126 @@
     "views_hint": 0
   },
   {
-    "id": "65103d8e4febe2bdad",
+    "id": "56abb7b874523e465a",
     "slug": "trend",
-    "keyword": "亚利桑那州",
-    "title": "亚利桑那州 trend tracker",
-    "description": "亚利桑那州 is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: azcentral.com and The Arizona Republic.",
+    "keyword": "الفيروس هانتا",
+    "title": "الفيروس هانتا trend tracker",
+    "description": "الفيروس هانتا is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: المتداول العربي.",
     "category": "public-health",
-    "geo": "US",
-    "search_volume": "500+",
-    "traffic_label": "500+",
-    "published_at": "2026-05-10T09:00:00+00:00",
-    "updated_at": "2026-05-10T09:16:13+00:00",
-    "score": 500,
-    "source_url": "https://trends.google.com/trending/rss?geo=US",
+    "geo": "MA",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-13T20:40:00+00:00",
+    "updated_at": "2026-05-14T07:37:24+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=MA",
     "sources": [
       {
-        "title": "Yes, it really will be an extra rainy summer in Arizona, 2 groups say",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbi0xOXhDYVpTNnVYZTRvMnJzVXRIRXVxN2VVeTdJVzFFUmhJY1NjdGlidU1pRXp3ZGtYcFMwTDZoQktvTnJKd0VLRjFJbjlHZUp1QTF6R2ZvSWVvQmFLeVE5S21rX3M3RkU2dmdpOU5KbGN1NWlYdHNBaERham1BeFlUeW4ySmlxc29XSGRuY1pFcmVadkE5a0ExTThGUFBGaXRHWjE5NmI2UQ?oc=5",
-        "source": "azcentral.com and The Arizona Republic",
-        "published_at": "2026-05-09T11:01:00+00:00",
-        "summary": "Yes, it really will be an extra rainy summer in Arizona, 2 groups say azcentral.com and The Arizona Republic"
+        "title": "Is the Hanta virus turning into a new Covid? The World Health Organization responds",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcW5pM0xpUURhTWl4SEQzanVFamJPb1AxVnJNY3ZTb3FPYzAxZHdlX2FmWlVOeHBWTHl2X1lGYTB2bTBScGx5bE9uU0tBNXc2TGY0QjJiSmUxQ2NYbGFOdVI0eUZxWDJDVG9LQzc1eFRUbTlONHlLdkV4RThERjZDZlJoYTdrWS1qSzZFUTlXUG9PS19KZDdwV0ZFaXRoc1gwRExRYWhDZXh0YS1CNXJrY1BHcnlUVFd3UzhRTElibV9yN2xEdlhuYVp5R1FMREU?oc=5",
+        "source": "المتداول العربي",
+        "published_at": "2026-05-10T15:52:17+00:00",
+        "summary": "Is the Hanta virus turning into a new Covid? The World Health Organization responds المتداول العربي"
       },
       {
-        "title": "Goodbye, dry heat? Arizona expects a moist summer",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMEsxcUpaeXM3bC1Id2ZFd3cyUXhxYnpuTjRDX2wzM2J5Z1pmOWtaRE9UT0pHNjRjOS1PZEJNQ0pTWDN5dTI1QXJoY0RWNlhnNEg3T2IzVTF2aFVxaTFvYzBOOGZENnF0Z1FhaUItTXJONmJnRFRQZm1pcFNxSnBNMzhPU1FEaEJ5WlZSTnlCRXJ6cl9qQnc?oc=5",
-        "source": "Deseret News",
-        "published_at": "2026-05-08T21:23:50+00:00",
-        "summary": "Goodbye, dry heat? Arizona expects a moist summer Deseret News"
+        "title": "Public Health Experts Warn of Hantavirus Misinformation in the US",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX3pNQjJodHMyZGFRVG5pSmQ5bUlfTGFRZmszSTdBb0tfekp1V05UbHFkcG42eVdWU2czVTduTG1UUTd5WHZObm5DSHo5aDlXVHg4QXpzZURJb2FiNWlzSkQzaVBXemtlTE1aNmRoUmZ6QzVVdTlYZTFIZnJ1dzRZcG1mWHRRemV3SXAweEp4RVM?oc=5",
+        "source": "Oz Arab Media",
+        "published_at": "2026-05-08T18:00:53+00:00",
+        "summary": "Public Health Experts Warn of Hantavirus Misinformation in the US Oz Arab Media"
       },
       {
-        "title": "Arizona’s monsoon season projected to be wetter than usual, but not enough to end the drought",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5Ja0tzQTZNdWh1aGlCVkM1dG9vVVdpV1hkcVg2My13ejVmTjdvbkJXQzdtbHdrYVo1c2tyRV92WTFYV3JJV2dpamMweU5XX0QtX0ozWUdTMi1wRko4eTBCRDgydlYxdTJIem82VC1NQjJ2QzI1Y05vZkw0ZzF3WFE?oc=5",
-        "source": "KTAR News 92.3 FM",
-        "published_at": "2026-05-08T17:56:53+00:00",
-        "summary": "Arizona’s monsoon season projected to be wetter than usual, but not enough to end the drought KTAR News 92.3 FM"
+        "title": "The United States announces the infection of one citizen with the hantavirus",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3RDSjQ3cWNLUmstLWZtdFZfRldTSmNPLUdmek42ZVJqQmc4TWJjeUdlWEdmT1l6SUhIYi0yS1Q1bl8yZEJuWDFENHZJY3F3dnpxbnZNbGlVaWppNFAxc2tJcmxNN3NyMmk4R2xwNllwVHg1S1dXckpUc1Rabzcwc1N5VlNpd3F3TUxFRUhkcV96T0JwcHk1eS0tZ2FjNEVTeVV4WmlmS1RDTU92VGdqMXMxcmptWUFvYkJocWRTeGJoYmlIWDFV?oc=5",
+        "source": "المتداول العربي",
+        "published_at": "2026-05-11T10:24:12+00:00",
+        "summary": "The United States announces the infection of one citizen with the hantavirus المتداول العربي"
       },
       {
-        "title": "AZ resident linked to deadly hantavirus outbreak; cartel tied to truck stop cargo heist l Morning News Brief",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPT2x6V3RVSk1BODZTQi1HQWI1dV9TZkRUbXlkTjlnazFqenFDc2tZdVBqaVlyeTlRQ0tZa21TOV9NVWg1TWRRaGlCcG9EOXlmakJaaFdVbURQSVJJMGxhQjRrUTQyc0tydEZITjRpLUFvSkxxS0JOVnEtZjEwMHFFQzdxbzMwcllxZFU3Qmg4SE5Oa1c3d0pCalgzSUdta2NvZkFxVm5uTkhtNWlVUDFXb0xyXzVKelJ4cG56QkJPSThtdXQtOHpxc2J3TVRlQdIB0wFBVV95cUxQYWlNNmdPQ0ZzTE5KNlhNRDItV0hjSzJXVkhLc3hpVExRUDBpbkpjRHVEMFMzV1BrOTRudjR4VE0wX3ltc2JxaTZjc1ozUEFqNkhlMHlBOTZLV3AxY1BHNm5ZX0lLblpKYTQ5dUFTd3dneWdCamJTQVI3ZFVjakkwOFlMV2JqRW13T0x1d0dvQnVzUFRkSjdtVjVwNEllNU14bmdZNzd5bzFISlVFZEtRNUVTOUhqODRid0ZVZTV1eXk4UXFYeTlfZHhNc3BpRzh1OEdv?oc=5",
-        "source": "FOX 10 Phoenix",
-        "published_at": "2026-05-07T16:58:33+00:00",
-        "summary": "AZ resident linked to deadly hantavirus outbreak; cartel tied to truck stop cargo heist l Morning News Brief FOX 10 Phoenix"
+        "title": "Hantavirus Vaccine May Take 18 Months, Russian Scientist Says",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTjRkYzcwdVFaX2ZRWXFZLU9XUWI0NW5WeGFMVl9jcl8xcGE4dmR0aVJ0OHlEb1hsazY5TDUyX2tsNlp6OXdjX05veHVmcS0wZUVVa0xuLVBRenQ0V0w3V1BrcFFRVjBWc1lVQnZmVEdCZUZOcHN6a0ItbTNjNW96bFRMVFNlN1lGSnlsSWpuajJlcjNqQXlPX3p2Y25JQQ?oc=5",
+        "source": "Daily Beirut",
+        "published_at": "2026-05-08T03:15:56+00:00",
+        "summary": "Hantavirus Vaccine May Take 18 Months, Russian Scientist Says Daily Beirut"
       }
     ],
     "related_queries": [
-      "California, Nevada and Arizona announce temporary plan to save water from the Colorado River",
-      "台积电在美分公司 TSMC Arizona 第三晶圆厂建筑主体结构完工",
-      "台37家新創來矽谷 8團隊闖進SelectUSA全球前8強 連3年稱霸"
+      "فيروس \"هانتا\" يستنفر أوروبا ومنظمة الصحة تستبعد تحوله لجائحة",
+      "بعد تفشي هانتا.. قبطان \"السفينة الموبوءة\" يوجه رسالة للعالم",
+      "فرنسا: تحور سلالة \"هانتا\" على السفينة الموبوءة غير مؤكد"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "الفيروس هانتا Live Trend Tracker | HantaUpdates",
+      "description": "الفيروس هانتا is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links with",
+      "canonical": "https://hantamap.online/trend/trend",
+      "keywords": [
+        "الفيروس هانتا",
+        "الفيروس هانتا tracker",
+        "الفيروس هانتا updates",
+        "الفيروس هانتا live updates",
+        "الفيروس هانتا outbreak",
+        "الفيروس هانتا symptoms",
+        "الفيروس هانتا public health",
+        "الفيروس هانتا source links"
+      ]
+    },
+    "first_seen_at": "2026-05-10T09:16:13+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "c71359acb389f75a78",
+    "slug": "shahid",
+    "keyword": "shahid",
+    "title": "shahid trend tracker",
+    "description": "shahid is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Yahoo Sports.",
+    "category": "public-health",
+    "geo": "MA",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-13T22:30:00+00:00",
+    "updated_at": "2026-05-14T07:37:22+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=MA",
+    "sources": [
+      {
+        "title": "Pakistan honours Shahid Afridi with Hilal-e-Imtiaz, fourth cricketer to receive honour — Watch",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORkFVNmRtcXhHSFBXQ2VRX21LY3RhMUtDQ1hoWjF4ZjQyVVhGcnVlYjlXYVJyaVk1M1I4eWhldURLa0pRaDFOY1JZUTlxWVU5VGpoNk9mazBzRFB2RC1GWW1tc05FeXlDd3YwaDlicDhOMEN0UHpJUC1sQkN1UUt2dWg2WkZGS1lhQnpoMC13?oc=5",
+        "source": "Yahoo Sports",
+        "published_at": "2026-05-13T19:40:00+00:00",
+        "summary": "Pakistan honours Shahid Afridi with Hilal-e-Imtiaz, fourth cricketer to receive honour — Watch Yahoo Sports"
+      },
+      {
+        "title": "Hantavirus response appropriate, but preparedness gaps remain: Top virologist Dr Shahid Jameel",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFV1Y2hZQUd1QWdzQTZ6U0NvLUpZOE93TGZlaGRTanl5VkMzSUhNcHpvLU4wUHVoY2JaeGMtc2FiZXplTVctcG1YUzJPeU1qVTh1OXZxaHFaMmxqLW1TTXNPQnJNa0d0LWx3UHo1YzYxSmF3Vi1TRlVHcmp3WW9SYjRRdUFYZnBHMlAzelJsbHhURlJ0bXNvWVRVdGlTQm1iOVZfTFZ6d0oyUjF2QV9xTVV2RkIwSFY1aUc1dnNkVnNSUGQ4WGdIZVJNM1hNZ9IB0wFBVV95cUxONUNuYTIydXdobUE5cU44RHUxTFhkdDFfT2JOeGk0ckpJTWx3dWRkV19PWmliczR5VUlaM2l3Mjc4MGtQemtlNGlkRGxUbVR0eWs4Q29wZnVHRmlRYThpQWxzUENiejhHbUhGMlI0X01fT1prSi1kYXAybEdWN2dVaHZZR0tVcTVIRGJ6TUNHNWxVazVzOGozTTlwTGhxZHNIN0tyaDVxQ3phMDVhb2xQTldQQVhEOWl2Qk1nLWFUSDFWYlpOR3FBY3ljN0t3VmIwS3FF?oc=5",
+        "source": "India Today",
+        "published_at": "2026-05-14T06:19:07+00:00",
+        "summary": "Hantavirus response appropriate, but preparedness gaps remain: Top virologist Dr Shahid Jameel India Today"
+      },
+      {
+        "title": "Shahid Afridi becomes only fourth cricketer to receive Pakistan's ‘Hilal-e-Imtiaz’",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQbXYyZXU0RzFlRXR0NVo1LU50UDlBT3k1VVYzLVRtX05MSGZrNnUzSEIyeDZ4R0toY1RMNFZOQkpsTjN1UWNSZzBZSzZiTThfYk1HSFlVbHRvNU1EWlg1bXhpQmpidkJGM0hRbTJxajVvdEI1VFRLWDBEc2hqR3JBQ2hGR0xiQnhRMnhMNTV2UkVYUTJZU0NqekdBSjY1ZlgwaG5qXzRIRUVUMkpmTkw1NFZxUkQ4NlNFdlBMb2lHakxpZ2xrVWdjSWxSLW9mVURSNDFYTHl4R1JPaHFZaVNEd1NocXFkNURDZGV1ak9WMjZkVXVyLTJaV1hQWXZtemxoaUJNaFRPRHVQQkxy0gGSAkFVX3lxTE0yMkRKQlNKVVNmc0N1ZEhFbm1qWUpuWXZlR0xYNktSZE5uaDdjU1F3M3BOaE51QkU1NmNxN2xoVS13NFUySDNGT19yYWlCS0YwalNNVVFFOGt6NzFNQzZ4UEFsVUl4U3Fwd3M3bWVpMzhWUnRHaHJnUWFTandSLTJrNjd2TU9SUVdmanI4X3FWb29UbEJvMXgtanRHRWNYNUJINDQ1eTJ2N0wzc0xWOGpPSmtxOXVzRkU2bGRjWno1cE91ejBsWGdwUDFIeVczRXVEdVJVWURzRlB5M19zWjRSOXU2Ry1ncTJUdkxjbVA2SVJ4OHN6M2dsanlUU3FKWE14aklJZldwbGdQZ0JOcGMzTEE?oc=5",
+        "source": "WION",
+        "published_at": "2026-05-13T15:50:00+00:00",
+        "summary": "Shahid Afridi becomes only fourth cricketer to receive Pakistan's ‘Hilal-e-Imtiaz’ WION"
+      },
+      {
+        "title": "MBC GROUP DELIVERS RESILIENT 1Q 2026 PERFORMANCE ANCHORED BY STRONG MBC SHAHID GROWTH | Corporate",
+        "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQeUw4WFpPSjNzeG1ESk1jMkhMX0JXcEUtdFJscjFnUjVBallRRDRvbnFveTA3bHR4aTdILWJrRi1reVphSjRkYnE5NkU1c3lxUnp5eW1sZC1jUDRNSm9UUkRUeG02Q0hFcDNoSlV2V1FiTWtrS3pWcTF4MlNQcjZmUjR4dWdtTUJFblU4T2VsbmtqR2lVbERtNVhqcEtnbU1XbF9DU2I0X0JwblpCdXRHczZiMGtmQVpRMGZ3VnJVem5ZNzRHVmxpaF9fc1k5Vl8tQlhyZ1ZZek5uaENqM21Wa2RQVUo5MW5pOFI4bkxuU3E4TmxT?oc=5",
+        "source": "EQS News",
+        "published_at": "2026-05-10T12:01:33+00:00",
+        "summary": "MBC GROUP DELIVERS RESILIENT 1Q 2026 PERFORMANCE ANCHORED BY STRONG MBC SHAHID GROWTH | Corporate EQS News"
+      }
+    ],
+    "related_queries": [
+      "Pakistan honours Shahid Afridi with Hilal-e-Imtiaz, fourth cricketer to receive honour — Watch",
+      "President confers civil awards. See full list of awardees",
+      "Zardari awards Tamgha-i-Imtiaz to Naveed Chaudhry"
     ],
     "map_focus": {
       "label": "Global",
@@ -201,21 +274,21 @@
       "zoom": 2
     },
     "seo": {
-      "title": "亚利桑那州 Live Trend Tracker | HantaUpdates",
-      "description": "亚利桑那州 is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/trend",
+      "title": "shahid Live Trend Tracker | HantaUpdates",
+      "description": "shahid is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pro",
+      "canonical": "https://hantamap.online/trend/shahid",
       "keywords": [
-        "亚利桑那州",
-        "亚利桑那州 tracker",
-        "亚利桑那州 updates",
-        "亚利桑那州 live updates",
-        "亚利桑那州 outbreak",
-        "亚利桑那州 symptoms",
-        "亚利桑那州 public health",
-        "亚利桑那州 source links"
+        "shahid",
+        "shahid tracker",
+        "shahid updates",
+        "shahid live updates",
+        "shahid outbreak",
+        "shahid symptoms",
+        "shahid public health",
+        "shahid source links"
       ]
     },
-    "first_seen_at": "2026-05-10T09:16:13+00:00",
+    "first_seen_at": "2026-05-14T07:37:22+00:00",
     "views_hint": 0
   },
   {
