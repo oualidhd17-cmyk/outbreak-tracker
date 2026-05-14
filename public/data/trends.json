@@ -73,6 +73,152 @@
     "views_hint": 0
   },
   {
+    "id": "c5ed69d66a9d724659",
+    "slug": "hantavirus-cases",
+    "keyword": "hantavirus cases",
+    "title": "hantavirus cases trend tracker",
+    "description": "hantavirus cases is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Reuters.",
+    "category": "public-health",
+    "geo": "US",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-05-14T21:20:00+00:00",
+    "updated_at": "2026-05-14T21:55:47+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=US",
+    "sources": [
+      {
+        "title": "U.S. reports no hantavirus cases from cruise outbreak, monitors 41",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSk1rZUZPSVowU3YxdHh2NHNwVURVMlQ2X2VCWEhHTjNkVklzYlpIT3dLNk8zSVZWREhIOU1nN0NLV0dENUlUajUzY1RiTjVXWEVqVGNzcXpoUU9LeUxxRXItZVJYRGk0N1k5MFBhQUxDcGNaRkxMSS1XSlNZZGF0NjNRRTNEVFJxMmF3RDRPUzQzWVMycF9kYktoWkh2d0dLbGRfR1h6cFM4c1lFZS1OV0tMQnhoRXR6YWJQTw?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-05-14T21:18:10+00:00",
+        "summary": "U.S. reports no hantavirus cases from cruise outbreak, monitors 41 Reuters"
+      },
+      {
+        "title": "41 people being monitored for hantavirus exposure. See map of states.",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbW9Sam9ScXlkbVZCVUMyZ3diZ1lnaGIwWVMtS3VqZW9FcVR4cDhYVmVCTHlZanBLUFBUX1hHc0xYLVBqYWJfRWRnRTFTRkRjY1dtUUM4NktOZEMyeVBSYmlsRnZNekZfWnl3clZWT1NPcjJWZUczTDVKdnpjeE8tLUgwTWd5dGdVcDJoS3dadEFvRU5JRldseGpBRQ?oc=5",
+        "source": "USA Today",
+        "published_at": "2026-05-14T18:54:00+00:00",
+        "summary": "41 people being monitored for hantavirus exposure. See map of states. USA Today"
+      },
+      {
+        "title": "Osterholm on hantavirus: We’re missing ‘main point of this outbreak’",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPeDlqbS13UlZ1TGtIcTkydlRad2MyN2hidV9UUWtnQkk5dmZpQzFRaHl5SHJZQXZsdWRSTlJjX3c0MkZVekdvVjBzVl9Ud0JTbVhiUWU0ZEhYcEFpVTNCbjlmN2xlMnp4cl84V0JoY0dKdTROY0E4Y25HYklLQUFhRnNRM3p5ZzJXMzYzYlI4X3JPbmFTMU1aejdzTDVONjh1VmUzNA?oc=5",
+        "source": "CIDRAP",
+        "published_at": "2026-05-14T21:17:37+00:00",
+        "summary": "Osterholm on hantavirus: We’re missing ‘main point of this outbreak’ CIDRAP"
+      },
+      {
+        "title": "French Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNN1NRLUlYZ29jYkR6SEFBTWZVTE02d2gtR01yTmhTZmFKbEtidzdsV0ZjMmJXcTB2anB3Y1RmNEl0MTRUSkx3Qzl0b2UzVWhOdnNyZDJuYUVXNzlRUGt1TWd0VGE3OWFQeE5ockxUQkU5RXFOVEdjWVc0cGdYZG83ZWZiM2RiV3EyV1o5SnV3?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-05-13T13:35:19+00:00",
+        "summary": "French Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases The New York Times"
+      }
+    ],
+    "related_queries": [
+      "16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says",
+      "U.S. reports no hantavirus cases from cruise outbreak, monitors 41",
+      "41 people being monitored for hantavirus exposure. See map of states."
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "hantavirus cases Live Trend Tracker | HantaUpdates",
+      "description": "hantavirus cases is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links w",
+      "canonical": "https://hantamap.online/trend/hantavirus-cases",
+      "keywords": [
+        "hantavirus cases",
+        "hantavirus cases tracker",
+        "hantavirus cases updates",
+        "hantavirus cases live updates",
+        "hantavirus cases outbreak",
+        "hantavirus cases symptoms",
+        "hantavirus cases public health",
+        "hantavirus cases source links"
+      ]
+    },
+    "first_seen_at": "2026-05-14T21:55:47+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "bea8deb517e8f5e234",
+    "slug": "hantavirus-outbreak-canada",
+    "keyword": "hantavirus outbreak canada",
+    "title": "hantavirus outbreak canada trend tracker",
+    "description": "hantavirus outbreak canada is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CBC.",
+    "category": "public-health",
+    "geo": "CA",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-05-14T21:10:00+00:00",
+    "updated_at": "2026-05-14T21:56:32+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=CA",
+    "sources": [
+      {
+        "title": "26 more Canadians being contacted for 'low-risk' hantavirus exposure",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeHdyYzFWVHJZaW92MnJROE90OUJsX1JyM2JRN05jZW1nNUl6U0hiN29QWGhZUWpMVkdYWnB6dXo0NFpNUUVmMDhzSWxrTnNOV0xfN0ZXem1HY01adEh6Y1NFZGE1MGpDRlhURTBaNWJpOExJLUw1c1lEZjVvZm9kLUV3?oc=5",
+        "source": "CBC",
+        "published_at": "2026-05-14T20:42:41+00:00",
+        "summary": "26 more Canadians being contacted for 'low-risk' hantavirus exposure CBC"
+      },
+      {
+        "title": "26 ‘low-risk’ Canadian air passengers may have hantavirus exposure - National",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQR09Xdm11dWxXLWQ3Y1hKMEQtcVlqRnZzQ3RqQncxLTZYd2lJaFhhRkxqZHNwZ0xVaC1MN21UUUltRTlTTUhKUEtvVE1UNVF4VmpzcU9zSmo1TFFqMGZxbmZKSXdXMzBYOGFacy1PaUZBU2FaaWdxSVh6dmVUdnYzTQ?oc=5",
+        "source": "Global News",
+        "published_at": "2026-05-14T16:26:02+00:00",
+        "summary": "26 ‘low-risk’ Canadian air passengers may have hantavirus exposure - National Global News"
+      },
+      {
+        "title": "Canada informed of 26 additional hantavirus contacts, says top doctor",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOGI3SHp6cU9yMlNYWERVS2JOT2U4MVZDZG1OMEJvc1REb3dwcWpFMml3cS1qYW1vZUZmNE10MzQxaUpOaHV6SmpBQlhPZ25DSWdFc2phd0MxbTN6NWdpTDFvVllEeUQyeHhJaTN5OHgzVjJHTjBjOGFZRWFjTWlQYTRXZXRBMDB1X0FtaGZabjYwOGM4WEFkT1NDM1dqdkVzQkVmSEV0Vjg?oc=5",
+        "source": "CTV News",
+        "published_at": "2026-05-14T15:45:59+00:00",
+        "summary": "Canada informed of 26 additional hantavirus contacts, says top doctor CTV News"
+      },
+      {
+        "title": "26 more people in Canada tied to hantavirus outbreak identified but considered ‘low-risk’",
+        "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPcTNqNE0zeklocWxuMHRhLTlfbTd5RFpWemx2RDJ6WFg0Um9qUGN5bjhuMW9LV1JDLWUwZWs5dWVGWkJuY0NSYl91WnJXOThHbndsSGhjQWFVam00c1hjQzNuaV9odVdtYnZOZlhFNlRzeVZ5WEZpYWZtdDU2Z3BpaDNyVEU2aVVuRTlOcHBTTVRyOS1wMUdOYmVJLTVidjBzd185U1NNNll4TWxKSGJ6bjJDWE9ScVQ1TmtXa0ZfbHpOcUo2TWRIZ2Qyd3RZNy1kUFBYcW5WdmZtVlFvUEJJZHlyYXlWb0g3by00OUVRUnJ1eHptWHJtemc3WWZMVUNBUFVZ?oc=5",
+        "source": "Toronto Star",
+        "published_at": "2026-05-14T16:30:00+00:00",
+        "summary": "26 more people in Canada tied to hantavirus outbreak identified but considered ‘low-risk’ Toronto Star"
+      }
+    ],
+    "related_queries": [
+      "26 ‘low-risk’ Canadian air passengers may have hantavirus exposure - National",
+      "More than two dozen 'low risk' air passengers being contacted about hantavirus",
+      "Canada informed of 26 additional hantavirus contacts, says top doctor"
+    ],
+    "map_focus": {
+      "label": "Canada",
+      "lat": 56.1304,
+      "lng": -106.3468,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "hantavirus outbreak canada Live Trend Tracker | HantaUpdates",
+      "description": "hantavirus outbreak canada is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and sour",
+      "canonical": "https://hantamap.online/trend/hantavirus-outbreak-canada",
+      "keywords": [
+        "hantavirus outbreak canada",
+        "hantavirus outbreak canada tracker",
+        "hantavirus outbreak canada updates",
+        "hantavirus outbreak canada live updates",
+        "hantavirus outbreak canada outbreak",
+        "hantavirus outbreak canada symptoms",
+        "hantavirus outbreak canada public health",
+        "hantavirus outbreak canada source links"
+      ]
+    },
+    "first_seen_at": "2026-05-14T21:56:32+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "112472cdb135e4e1e3",
     "slug": "hantavirus-peel-region",
     "keyword": "hantavirus peel region",
@@ -143,6 +289,79 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "76e4e54417fe1d45f7",
+    "slug": "virus-hanta",
+    "keyword": "virus hanta",
+    "title": "virus hanta trend tracker",
+    "description": "virus hanta is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The New York Times.",
+    "category": "public-health",
+    "geo": "ID",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-14T21:30:00+00:00",
+    "updated_at": "2026-05-14T21:55:54+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=ID",
+    "sources": [
+      {
+        "title": "Hantavirus Doesn’t Spread Easily, but Officials May Be Downplaying Risks",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE91VnFNY3d0UDZmVmVycEZUNVg4LVExcktzb2s5TGl3QkJfUm5LRWF4TUN5ZDZXLVR2OE1HLUpGMFh3NDVneEdQVnBFQmFvS0lhMy0yMGpHR2VMOEYwTk1GQ2hieXYwazhWTkdHczd0NEV3Rl8tTXdyZA?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-05-14T19:53:09+00:00",
+        "summary": "Hantavirus Doesn’t Spread Easily, but Officials May Be Downplaying Risks The New York Times"
+      },
+      {
+        "title": "More hantavirus cases are expected, WHO chief says",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUs1S3ZnSURvOTVMak9Sbl9XZEszRVpabGRKWHAzbllTVUVRZXN6OVhRMzZ0NVFQazU3dnpWR3dqZFN5SHpnVFE0OGNwSUF3NFlRdEI4RnFRaEhYaF9raTdXTVI1cnVKWGRtOGxZZEtTWGk4bVZFMTlqNU1kVTM0ZmFyT21pZmR0RnZoZ3lPc2poNG4xUklSeXowMndpTi1XdEY4UlVn?oc=5",
+        "source": "USA Today",
+        "published_at": "2026-05-12T23:35:00+00:00",
+        "summary": "More hantavirus cases are expected, WHO chief says USA Today People begin leaving hospital after hantavirus isolation BBC Argentina Races To Find Origin of Hantavirus Outbreak The New York Times"
+      },
+      {
+        "title": "16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMUsxVkl6Mmw4VG1qS3g1SXJMUEFxcjByQ0pQRXV2bGttOEd2NmxnV2FIMEt3b2dRRlJjYWZVLVo3aVc5bjJvZ0RNTEc0LU93eEM1aXpBcy1hVVRoYUFwRDRDVWhjSFpOSnhUXzhKbTl6VVJvRDVqRldTckM3Q1BKY3hrYw?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-05-14T21:09:58+00:00",
+        "summary": "16 More People in the U.S. Are Being Monitored for Hantavirus, C.D.C. Says The New York Times"
+      },
+      {
+        "title": "Three Kansans possibly exposed to hantavirus under observation at KU Hospital",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcTNFczlwcDVEc0wtd1B4YXBGd25wQm56Q2Q4WXZqNW5GTUdhQmgyUVlaZlhHT1lFMUNvNmdpY1Y2blR2Uk5FQ0ktU2FzY2FndHh5VFhvOF9ZSmttSVBRM0IxVnRQbm1nTzFfaVNyQ2NFc2E1cGhSbEdOSm9BNHBNbTNTaVJ4LTRmSU82QjlJLU92bElxczR1Y0NvX1RqSWFqU1NJVUQ2SVrSAbwBQVVfeXFMUGwtaWtFUFYydE5WY0pDNDR1TjB6OE56N09meklxdjZwOG1ZVUF4VlVJUXdTQ3FvUEQ2alRLUjJ0d0c4MFZObXAxSmlZU2RteTFDVklvZTNFVXpfall0U3dua0w3dzRVa3V0SXhFNzBBQ1RtWDlKaTJqZlVEeVNRU1Q3R0VjTWFxTjJoMHFWMlI4UllUWEVFRHhaS0JVcERIbnNiVFYybnNobDNCVUtRbENaR0VfT2JLUW9vd20?oc=5",
+        "source": "KCTV",
+        "published_at": "2026-05-13T21:58:00+00:00",
+        "summary": "Three Kansans possibly exposed to hantavirus under observation at KU Hospital KCTV"
+      }
+    ],
+    "related_queries": [
+      "Hantavirus. The sick woman in France is in serious condition.",
+      "EEUU mantiene bajo vigilancia a 41 personas en el país por exposición al hantarivus",
+      "La OMS confirma ocho casos del virus de los Andes, el único hantavirus conocido por transmitirse entre humanos"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "virus hanta Live Trend Tracker | HantaUpdates",
+      "description": "virus hanta is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/virus-hanta",
+      "keywords": [
+        "virus hanta",
+        "virus hanta tracker",
+        "virus hanta updates",
+        "virus hanta live updates",
+        "virus hanta outbreak",
+        "virus hanta symptoms",
+        "virus hanta public health",
+        "virus hanta source links"
+      ]
+    },
+    "first_seen_at": "2026-05-14T21:55:54+00:00",
     "views_hint": 0
   },
   {
