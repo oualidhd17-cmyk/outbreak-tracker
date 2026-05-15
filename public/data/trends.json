@@ -146,6 +146,79 @@
     "views_hint": 0
   },
   {
+    "id": "4e920e5c93cc0f8489",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: AP News.",
+    "category": "public-health",
+    "geo": "SE",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-05-15T07:50:00+00:00",
+    "updated_at": "2026-05-15T10:02:45+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=SE",
+    "sources": [
+      {
+        "title": "Africa top health body confirms new Ebola outbreak in remote Congo province",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRENXZi1QSFpVMVNWZVZPQi1UR1FRejYwNkJCUWtEWGZ2eGhtMXhJeVJtbEsycjIzWVZwQVJoQnNnZWFka3VLSW1XYmVQSVY0dTY3Z1d0dXJIbzRlQlRKVWF3eF93WGF1RU83ZWxBVTQ5RUkzc0RmcC1MUEtHZzM4b1hweXl2bG5STmJPQWFyQkxabGo5Qnk4UW5QQQ?oc=5",
+        "source": "AP News",
+        "published_at": "2026-05-15T07:11:00+00:00",
+        "summary": "Africa top health body confirms new Ebola outbreak in remote Congo province AP News Ebola outbreak kills 65 in eastern DR Congo's Ituri province BBC African public health agency says there is a confirmed Ebola outbreak in Congo Reuters A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded News4JAX A new Ebola outbreak is spreading through a remote Congo province, with 65 deaths recorded 10TV Africa CDC Calls Urgent Regional Coordination Meeting Following Ebola Virus Disease Outbreak in Ituri Province, DRC Africa CDC Ebola in Congo Linked to 65 Deaths, Spurring R"
+      },
+      {
+        "title": "New Ebola outbreak in Congo suspected of causing 15 deaths",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlRIRmtNYjlCNDU2SS1xSDhqS19oN2JrVUIwTWxoYWhvbGpCekhkSmNxUmNCZF9MTkVGU2daZE5OTEh2akpNdG9ybWhwT3JqY0ZMSXB4TDBRd3hQaFhiZzNxY0FObDJGcEszd2xhTFdiSDlDNkJQbklXVUp3c0hzRU9PUjZfUms?oc=5",
+        "source": "AP News",
+        "published_at": "2025-09-04T07:00:00+00:00",
+        "summary": "New Ebola outbreak in Congo suspected of causing 15 deaths AP News"
+      },
+      {
+        "title": "Ebola outbreak in Congo kills dozens, may be hitting hundreds more, Africa's CDC says",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOUVxT19HQl9QTFBEV18weW13WDJWS3RZalhScUlRYXdVZDl0Z1Y5VWdOSVRZelJ3MWs0cWp3TWJpT0FIVnA5aS1TYnlLbWxxWWYxOGljemlFcmttTC03MHBPR1hGdWRyTFJjTmhfajl3RHZBbEt3NGdEZVNvNU1TdmVaUk00bEJsZGfSAY8BQVVfeXFMUDY2aUVZMUFnNThrNGltS2FGSTBWR1VBbC1CTGJVNTMzUndDeDE0Sy02T3dwZDd6ZV9veEVGVU02STc1dnpiZHdzU3p2WjlGM21Mc3FVOXdDUmZ3OGU2M0Y5VXUtaXB3VWdHTXM2WHgtVVJ6MnpMTmkxVEMtZWRUTnhlUi02ZHVXbTJmWVVaQXM?oc=5",
+        "source": "CBS News",
+        "published_at": "2026-05-15T09:01:55+00:00",
+        "summary": "Ebola outbreak in Congo kills dozens, may be hitting hundreds more, Africa's CDC says CBS News"
+      },
+      {
+        "title": "A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded",
+        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSTJtYThZSng0Z1RrTURiUXBiZk1uNWNYX1MyU0hSZTQ5blhuVThZeVdKU0tNc3QyejAxOWlJdndkMzRWVFVLN0hKa2RYSXdjUEo1RTRDb3k1ZmNRWml5ZldMdmQ2LWs4dTZwMmFfalk4X0F6NDNhSkVpQjRxajU5akRrME93N3ZibTFOamlrOHJONW84TmZ1a1FOdXczZjFOb2ZycjhHaEx0eVM3ZjFDc3k0TmpMNk85cVhTYXM3TnB0cmE2bXNIN3o3MUszOVlHRGNLc28zNFh1WHE3aF9tbVh1UWNvdU1UOEpRVnhwMWdOaVJkaDZJaTJlOFlBNkR5dmxzR1FaZw?oc=5",
+        "source": "Journal-News.com",
+        "published_at": "2026-05-15T09:50:17+00:00",
+        "summary": "A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded Journal-News.com"
+      }
+    ],
+    "related_queries": [
+      "Ebola outbreak kills 65 in eastern DR Congo's Ituri province",
+      "Africa CDC links 65 deaths to Ebola outbreak in DR Congo",
+      "Africa CDC Calls Urgent Regional Coordination Meeting Following Ebola Virus Disease Outbreak in Ituri Province, DRC"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "bea8deb517e8f5e234",
     "slug": "hantavirus-outbreak-canada",
     "keyword": "hantavirus outbreak canada",
