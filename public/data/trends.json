@@ -365,6 +365,72 @@
     "views_hint": 0
   },
   {
+    "id": "03f2f8c5a887e7f3a2",
+    "slug": "ramalan-shio",
+    "keyword": "ramalan shio",
+    "title": "ramalan shio trend tracker",
+    "description": "ramalan shio is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: indonesiakini.",
+    "category": "public-health",
+    "geo": "ID",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-15T16:50:00+00:00",
+    "updated_at": "2026-05-15T17:16:53+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=ID",
+    "sources": [
+      {
+        "title": "Australia’s deadly hantavirus threat takes unique stance",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVU5aWHdTb1JGaW9USENpMGhoUHVSQkZWMmpBWjRtaTk1ZG9XRFhoZll5Ym9VblZNbm8welVHaEozVE9nSklCMkRxdWd2SlBvbWs3c0UwZGJxbVZldjBzOWFGanU1OGlBN0ZIWGVGNTRQNm1lalVzdE92YzJmeWxDb1B5Q1BkM3g2eEMycXZIdU1hbmJhNDJV?oc=5",
+        "source": "indonesiakini",
+        "published_at": "2026-05-08T10:25:08+00:00",
+        "summary": "Australia’s deadly hantavirus threat takes unique stance indonesiakini"
+      },
+      {
+        "title": "Lunar New Year 2026: How people with Chinese zodiac horse see their fortunes this year",
+        "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQ05HeVp6aEtmLVE4UFI0OGk5VV94aVlIQjNsWWFMOEJ3XzBzVDNmTV9Rclp0V1l0cXJtUjBCVEFPSTdGUmh4c2hpdUxRX0dmUktueGczb0xmT2c5VmR0dDJoeVdjb0J0cXB2dzd1QWFrUjRjME9yc0hPbm9BNmR6NGpnNFpqR1R0N0NOMHh5ZmhUOEo2MzBRY3dlamdQQVJwMUJvdjdHRl84WVJ5WV9selhDZTYxU0dqc3ctUmNGSVY0OGc0TzQ5RzNBNms5bkN5dEZoYXljY3lVMUhEdlhYdXV3M1VIUkJjR0xFRW1R?oc=5",
+        "source": "SBS Australia",
+        "published_at": "2026-02-17T08:00:00+00:00",
+        "summary": "Lunar New Year 2026: How people with Chinese zodiac horse see their fortunes this year SBS Australia"
+      },
+      {
+        "title": "Texts That Could Save Drivers Hundreds",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOMVNuLXAxQVNSNk9hWjB5SkZzNEExYng4ZlF4eEJrQ0dLYUJpT19HSWZWejFaSlFha2FIM0dOejBXOVhyR0pMM21QLTAyWHlzWWtZWmNkX3JsY243b3pZTW0yVTJPZE82YWFDR0c5TEgybFFNZkhTZDU1TXI3dDlISw?oc=5",
+        "source": "indonesiakini",
+        "published_at": "2026-05-14T07:46:08+00:00",
+        "summary": "Texts That Could Save Drivers Hundreds indonesiakini"
+      }
+    ],
+    "related_queries": [
+      "4 Shio yang Hidupnya Lebih Mudah pada 15 Mei 2026, Kamu Termasuk?",
+      "Zodiak Babi dan Kelinci Besok Jumat, Ada Kabar Baik soal Karier dan Cinta",
+      "Siap-Siap Kaya, 7 Shio Ini Mendadak Banjir Rejeki Tanpa Diduga pada Bulan Mei 2026"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ramalan shio Live Trend Tracker | HantaUpdates",
+      "description": "ramalan shio is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links witho",
+      "canonical": "https://hantamap.online/trend/ramalan-shio",
+      "keywords": [
+        "ramalan shio",
+        "ramalan shio tracker",
+        "ramalan shio updates",
+        "ramalan shio live updates",
+        "ramalan shio outbreak",
+        "ramalan shio symptoms",
+        "ramalan shio public health",
+        "ramalan shio source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T17:16:53+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "76e4e54417fe1d45f7",
     "slug": "virus-hanta",
     "keyword": "virus hanta",
