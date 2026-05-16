@@ -365,6 +365,152 @@
     "views_hint": 0
   },
   {
+    "id": "d1b8f3cae24ba50c2f",
+    "slug": "ebola-virus",
+    "keyword": "ebola virus",
+    "title": "ebola virus trend tracker",
+    "description": "ebola virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CBS News.",
+    "category": "public-health",
+    "geo": "AT",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-16T17:30:00+00:00",
+    "updated_at": "2026-05-16T18:08:12+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=AT",
+    "sources": [
+      {
+        "title": "Frequent burials and at least 80 dead as Congo grapples with Ebola outbreak",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FSUN5OU9RQlhzdl9ibDVveEJzc2hkNWZmbWJxcHhRY1hZNFJDUUVwcldWZ0FyaFBxNWZNdFY5aTYwVVVLc0p5VTM5QTQ0WmlPSi0wLXRGaVNnX3A3bUgzS3gyU29lcFNfbXVKOS1IWmxoa2RaVEdqc09n0gF_QVVfeXFMT3BxSzN4anFZaGlDQjFpX0dnMnRldHNoRnJCSnVFZmJrUVgwWVNFUmVzWlJDYlNJV2hJVjRjOTFEWkdoem83aHJjakZFUzVNNlNhZFBucWNvdmRzUEtmaW9wSG9xVjQ5NVY5R0dUaGZaemtfcTVmV0ZjVXYxZXVBWQ?oc=5",
+        "source": "CBS News",
+        "published_at": "2026-05-16T16:13:43+00:00",
+        "summary": "Frequent burials and at least 80 dead as Congo grapples with Ebola outbreak CBS News Large Ebola Outbreak Is Declared in Congo The New York Times No vaccine for new highly lethal Ebola outbreak, DR Congo warns, as death toll hits 80 France 24 Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support WHO | Regional Office for Africa Uganda confirms Ebola case in man from neighboring Congo who died in Ugandan capital PBS US monitoring Ebola outbreak in DRC and Uganda, providing assistance Reuters Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo"
+      },
+      {
+        "title": "New Ebola outbreak in remote Congo province kills 80",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jVkpWRjRtcmhqLU11MGM4dnNuVkFsb1NNcDBEdVVyWklCbDJ1WkhwSUtuTm1FM0xiWjlyNFdtdkxEVHIwdjBqX2dIV2U4WWVxczhSM3VOVmo2SnFoN1RiWHo0aUw4bVhfRWZVcmh4ekQ0QTQ?oc=5",
+        "source": "CNN",
+        "published_at": "2026-05-15T13:15:47+00:00",
+        "summary": "New Ebola outbreak in remote Congo province kills 80 CNN"
+      },
+      {
+        "title": "Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOak5PTEhnbVpQaFUtRFdMdlpoUGMwYS1HVGNLbVY2NnJGMzI0NU00eEtLQXFzMWtuUlpYYXM1YkN2X2x6ZTFKcXJaeU5ULURTRTZvRUcxYlNQY3hsYkZzQTdROHVvcGtHU3g3aHNRWmJCQ0F0bERxY0dnelQ5ZmhMUHRCOHpLN2lZRC1yRXBvVHM5ODBON0x1Y2VSaklvTW02U2NZMG9GZ0x3Y0RPdWF3U3VWV1p1bHlBNG5lTTF5TllZVV9aMllocklqWEQtX2JjX0FYV2hxM1luMmhOTUFrSDBlQ19xNUxHREJnNTdoZW1yM082b2xVNmNRLTJIbHUyQ1VNRGMybEk5M29qN0RDbDBDQWFRQ0Vldmk4ajJBUUdTNWM?oc=5",
+        "source": "Africa CDC",
+        "published_at": "2026-05-16T07:45:43+00:00",
+        "summary": "Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda Africa CDC"
+      },
+      {
+        "title": "Ebola outbreak kills 65 in eastern DR Congo's Ituri province",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kUDQ5T3g2TUdia0ZhTWZWS2x2MmZwdzhMU3hZMm1HbnNPSnBVOEhjVzd6dmtrdExrblJPVW45UFFwM2kxWVBHLUI2XzVoVTl2aUk2RFBQVFY2UQ?oc=5",
+        "source": "BBC",
+        "published_at": "2026-05-16T04:11:26+00:00",
+        "summary": "Ebola outbreak kills 65 in eastern DR Congo's Ituri province BBC"
+      }
+    ],
+    "related_queries": [
+      "Ebola outbreak kills 65 in eastern DR Congo's Ituri province",
+      "Africa CDC Calls Urgent Regional Coordination Meeting Following Ebola Virus Disease Outbreak in Ituri Province, DRC",
+      "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo"
+    ],
+    "map_focus": {
+      "label": "France",
+      "lat": 46.2276,
+      "lng": 2.2137,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "ebola virus Live Trend Tracker | HantaUpdates",
+      "description": "ebola virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/ebola-virus",
+      "keywords": [
+        "ebola virus",
+        "ebola virus tracker",
+        "ebola virus updates",
+        "ebola virus live updates",
+        "ebola virus outbreak",
+        "ebola virus symptoms",
+        "ebola virus public health",
+        "ebola virus source links"
+      ]
+    },
+    "first_seen_at": "2026-05-16T18:08:12+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "acb0dc0715ae18da48",
+    "slug": "gen-ve",
+    "keyword": "genève",
+    "title": "genève trend tracker",
+    "description": "genève is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: WHEC.com.",
+    "category": "public-health",
+    "geo": "CH",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-16T16:10:00+00:00",
+    "updated_at": "2026-05-16T18:08:06+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=CH",
+    "sources": [
+      {
+        "title": "Ontario County residents react to possible hantavirus case at Geneva High School",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOU2l5aHBrWXZCTEZrOGlGemNxRFVaRkEtSm1DWExYcnlWd1lOczFXQUxrN0RvRjg2eHEweFlpOGdpclVSVGxoQ19HNFFNYzJCWWh3bGkwZUd5YU9MMUR0empHMWRMdGIxTTNCMmloT1lxS3pTby1oQUJ5RFB3VWt5dExLT0REU01yM0ZCcUFzd0l2eWlfQ3daQ1NGT2QxRDNTZ3dSYlhULThWbk9hcXRBVA?oc=5",
+        "source": "WHEC.com",
+        "published_at": "2026-05-15T23:13:07+00:00",
+        "summary": "Ontario County residents react to possible hantavirus case at Geneva High School WHEC.com"
+      },
+      {
+        "title": "Suspected hantavirus case in Ontario County involves Geneva HS student, district says",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYnd4RHVnWGRiNHYwY2xsbDhVb3U4d0c5dWFqYU1ZZ3gxcWg3M1ZVNHRSODZMbUhLZ0swUzl1THRtUWo5SG5FQjYwSVQ2ZWxOeFRVQjR3Q1FMWVc2OXpkazFuNUZWNl9yaUpJeFFWTUxfa2t0NnFZSDB3dTJNV3V5R1hZcDZFRExzSlR1em96d2ZfM2Vma2xoc19vYkhzdlVjTmJ2R3pLZjBWbTVCdVF3czR6QmtSR3czbkNNMkMwUUc?oc=5",
+        "source": "13wham.com",
+        "published_at": "2026-05-15T21:43:34+00:00",
+        "summary": "Suspected hantavirus case in Ontario County involves Geneva HS student, district says 13wham.com"
+      },
+      {
+        "title": "What to know after suspected hantavirus case at Geneva High",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVjFQTXVOVzM1SnJJZmcwR1d1UjZOZlNkZ1dHMnV6M3Bjbkx6d2Vaa2I0OTNnaFlobURIQjB6bmZWdkFkYndsSmtTQmFyZU1DNVRlZ3lsS1FGQTRiTW1YWEdROHJmbXNJbWt4cXlxMktSLUl5X2RQSGNldVlYT3FmeWNmTTRBMHNXdUJTenpRaTc3ekl3TVZxaUNYN25mZzdZUVRZemJPWFPSAa4BQVVfeXFMUDFWRTZUWkFrWS1aS1pLNnNVYVE1NXNyVFdjTk1NNFl1QzQxZmZVa09Dblk2M0xCaVJ0MTlZSE96LUNyWjNkTy1CQ2JSQUI0QkNyMGVaZk1mRnFwYUo1VF9GbVF0VGtHSzBWY2w5QTczSkZiSV81MmU4Rl8tWnpOU2VPb2hEU3dQUmxBMjRFWGI0c1p0QmxSM0l0enR4VEM2VW0wYVZZNXRYdDBaMXd3?oc=5",
+        "source": "RochesterFirst",
+        "published_at": "2026-05-15T15:44:09+00:00",
+        "summary": "What to know after suspected hantavirus case at Geneva High RochesterFirst"
+      },
+      {
+        "title": "African stork in Wisconsin captured, Safari Lake Geneva says",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE51Z1I1U0NHbkVsS0E2X093Y3FSUDBCV2EyUk5kWGhNaW5JdGRqYWkyMG9RQ0ZwYUdMTkhOaTRIQkxuWEhoS0puQjRERzkxdG5aak1tNExsaFVDb2JrMy1vREE3YVdyalRLTGpiNmdn0gFzQVVfeXFMT0U0OGZCaDc2VUNUR1FtdWFZQmNleWRvVHFVVXpFNU5oNThTUlVrOTloOTVXV1lvODRsdnllUWkxLUFHRXl1OXFMQTRILWZtMU04bmdaRzhObjk2ZUt4Zml0REJLLS1rSnJqaDRmT1JxSWpSaw?oc=5",
+        "source": "FOX6 News Milwaukee",
+        "published_at": "2026-05-15T20:33:55+00:00",
+        "summary": "African stork in Wisconsin captured, Safari Lake Geneva says FOX6 News Milwaukee"
+      }
+    ],
+    "related_queries": [
+      "Stan Wawrinka s'apprête à faire ses adieux au public romand",
+      "Tennis: Wawrinka affrontera Tabilo au premier tour du Geneva Open",
+      "«Je sais que les tournois en Suisse vont être difficiles»"
+    ],
+    "map_focus": {
+      "label": "United Kingdom",
+      "lat": 55.3781,
+      "lng": -3.436,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "genève Live Trend Tracker | HantaUpdates",
+      "description": "genève is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pro",
+      "canonical": "https://hantamap.online/trend/gen-ve",
+      "keywords": [
+        "genève",
+        "genève tracker",
+        "genève updates",
+        "genève live updates",
+        "genève outbreak",
+        "genève symptoms",
+        "genève public health",
+        "genève source links"
+      ]
+    },
+    "first_seen_at": "2026-05-16T18:08:06+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "94e0cfc599ebcda574",
     "slug": "fernando-grande-marlaska",
     "keyword": "fernando grande-marlaska",
