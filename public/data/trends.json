@@ -438,6 +438,79 @@
     "views_hint": 0
   },
   {
+    "id": "cfc4652f362c358582",
+    "slug": "evacuatie",
+    "keyword": "evacuatie",
+    "title": "evacuatie trend tracker",
+    "description": "evacuatie is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Rijksoverheid.",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-17T17:00:00+00:00",
+    "updated_at": "2026-05-17T18:14:15+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "Updates over het andesvirus (hantavirus) op cruiseschip m/v Hondius",
+        "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPRDRtUzBUbmE1RlZfQnlBTkZZYzZIVEVFNmp3YzJFZXNUbmdVcnJxeHozeW42UkFKbkJsLVBfMnMyM0dVQUltUWQxU1RUbDZ0QTc1SDFQNnBVN0N3NnJaX0IwVEk2TENIZ1FCR21ncTNhZ2pBbWp6alVGUUpuWnFlSmlHR1JjUi1GZUNNbjBPQzNiYjczYUFySWtPUTFXZm5QQ3lJaVlUNnRKODdESkd5Q2FpNzJ3YUZjLVhVVnA2dldOeGQ0SGhZNTVibUNKUTBGMTVfUE9HbnhsZkFzTUtvVHlzcXR3aF9aREJDZy1IbVdVWkRrcjdSZw?oc=5",
+        "source": "Rijksoverheid",
+        "published_at": "2026-05-12T07:00:00+00:00",
+        "summary": "Updates over het andesvirus (hantavirus) op cruiseschip m/v Hondius Rijksoverheid"
+      },
+      {
+        "title": "Dag 6 van de oorlog: Israël beveelt massa-evacuatie in Libanon en Iran valt Koerden aan",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQNm5CZnEtRzZIZlBVa0I3Y20zUXF4MXRSZVVTcFJqVnVCa1VjRTJXd2NZaUg1Mm1EWGNOT2dWZ2phTTRfUm1NQUdXMnpnQTFqeDF5NENhN1R6c3lXcWZUaFBMUXF0WmNqYnlMUUs0WHFjTkNzeDAxZ1U5bGpST2dRdXptS1hrdkpUWURXREdESkt5bEt2N185YVhnRkJscDBZaWhsbEgxaThKbW41QXU1eWZRb2gydGtMLWZmMnd1UG9UWVVHbHkzSW01SkpyQQ?oc=5",
+        "source": "NOS",
+        "published_at": "2026-03-05T08:00:00+00:00",
+        "summary": "Dag 6 van de oorlog: Israël beveelt massa-evacuatie in Libanon en Iran valt Koerden aan NOS"
+      },
+      {
+        "title": "Threat of war: the evacuation of Philips",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT052dThSeU1nV1lhdzNNanl6TV9uYTFCcVR5OFo0NWItUkRibzFmNVdSelNfVHZGb3NOODZZeEpzZS1tSFNob1loUG1XWlVteDNSR1Z1S2ttZ1N4M2Zkd25RaU9iem1IYzFEcHBJRlRKRWVkd2lkdXI5MEhFNk1seS1n?oc=5",
+        "source": "PSV",
+        "published_at": "2019-09-12T07:00:00+00:00",
+        "summary": "Threat of war: the evacuation of Philips PSV"
+      },
+      {
+        "title": "De ‘zeer complexe’ evacuatie van de Hondius: Spanje onderhandelt met 22 landen, terwijl op Tenerife angst heerst",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOWnFSbGdnS0JMOXk0VFRSYmhEcnFuOHVGcHVjdG53ZE1pZVpnMnVLeHdWRTlsbUhFYS1qak4yQ0lmQWE1cm5ERmFyQmlKaFRYcjVZTnc1YWFlQUJqZGt0RnpEVXhCVTcyN2Y3ZWl2NDRLU0l4OTJPbUdjRlZteVR3MWI0YVU2cWpIZ0d4ZU5YeW1kRGw1WE1BSXhPUTc5eHBpX0JfOVFUcTZBOEY3ZXF3dkxqOGVSSVlHZmJDYzZCOGN1RjE2cldMUzNiTXFhWktBeG16d3dwcU1BQndGWlVBeGdmZC1fVGd1UEFsSTJYaUNTbzhsZ3VpWWlfd0tBVGh1ek9URGM0dmEyTnM?oc=5",
+        "source": "NRC",
+        "published_at": "2026-05-09T10:28:13+00:00",
+        "summary": "De ‘zeer complexe’ evacuatie van de Hondius: Spanje onderhandelt met 22 landen, terwijl op Tenerife angst heerst NRC"
+      }
+    ],
+    "related_queries": [
+      "Zeldzaam grote evacuatie in Duitsland om ontmanteling van WO II-bommen",
+      "Tienduizenden mensen in Duitsland geëvacueerd vanwege bom uit WO II",
+      "30.000 mensen hun huis uit door bom uit Tweede Wereldoorlog"
+    ],
+    "map_focus": {
+      "label": "Multi-country / cruise travel",
+      "lat": 16.5388,
+      "lng": -23.0418,
+      "zoom": 3
+    },
+    "seo": {
+      "title": "evacuatie Live Trend Tracker | HantaUpdates",
+      "description": "evacuatie is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
+      "canonical": "https://hantamap.online/trend/evacuatie",
+      "keywords": [
+        "evacuatie",
+        "evacuatie tracker",
+        "evacuatie updates",
+        "evacuatie live updates",
+        "evacuatie outbreak",
+        "evacuatie symptoms",
+        "evacuatie public health",
+        "evacuatie source links"
+      ]
+    },
+    "first_seen_at": "2026-05-17T18:14:15+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "61945211ce6954af2f",
     "slug": "ebola-virus",
     "keyword": "ebola virus",
@@ -1202,6 +1275,79 @@
       ]
     },
     "first_seen_at": "2026-05-10T15:38:16+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "32e45c44670d130f0e",
+    "slug": "uganda",
+    "keyword": "uganda",
+    "title": "uganda trend tracker",
+    "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Reuters.",
+    "category": "public-health",
+    "geo": "AT",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-05-17T17:40:00+00:00",
+    "updated_at": "2026-05-17T18:14:42+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=AT",
+    "sources": [
+      {
+        "title": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaVdNLS1iQmlTb0JLUERsUzRLS1N5MWJSQVNiR285d1ZBOF84Y2RsWl9fSTZYNlFuXzdyUkxjYVg3T1VNckpCaFRMLTFmRkMwOXRKOUJsQ2FyYmVDVWtLaTlZNHk4dDJYeGQ1M0JqUExlYzZRY0dJM1d6ME1IQzg1UDJPUTRNOVBoWER0SnRNQXZaUElVbVpvdnRadjM2UHdqWW96YzdjM1VMRTgzTzBudnlLMllhcTJ2VDhYcEN4UFJNOFQwRGFPZUx0V2lqVlNsT3c?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-05-17T00:10:00+00:00",
+        "summary": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern Reuters What is Ebola and why is WHO treating outbreak as global health emergency? The Guardian WHO declares Ebola outbreak in DRC, Uganda a global emergency: What to know Al Jazeera WHO declares global health emergency over Ebola outbreak in Congo and Uganda NBC News WHO declares Ebola outbreak in Congo and Uganda a global health emergency, with at least 80 dead CBS News Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo"
+      },
+      {
+        "title": "Elon Musk’s Starlink secures approval to operate in Uganda after prolonged regulatory standoff",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONGxEaFVYdFNHQ3hPMmZMOGVtRnB3dDhjMjFFNHBPSTZLdVRPaWJBel9zem5kdHAyWXZvSGlTWnByUElQdmJtNGpOSXctRHpFZ3RaajBtbi1SenZFVy1yd3BZSG85T1FMUkNqR2pYaUQ1NXNWbHVsUGtNYUtlV2FhaTJ6T0JDaWI3QjJKUTJUaVhxcTZvWHJpSTdmVG13N1FxUGF2d281a2VwM0w5RklzZWZzTzMwb2JYVDk4TDlHVkk2ajJoaEhmZW8wYnRYdkNDbFc4TGVZM3E?oc=5",
+        "source": "Business Insider Africa",
+        "published_at": "2026-05-16T04:00:13+00:00",
+        "summary": "Elon Musk’s Starlink secures approval to operate in Uganda after prolonged regulatory standoff Business Insider Africa"
+      },
+      {
+        "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLWc5YmNSd040d0pkM2czRzRXWmNBdk9NemR2MjE0RFF3eUg4TmpqQWNpYUpvbjdfbXRQVi1LUC1nbWdBQXRJaE9obE9oSGZ4M0lFY0VpOFVwb3ZLWjVnY3BjZkc1eERKOC1IbGt4cXZBX1lXVGxHZ3Q5c0RESnFTelNETGE4VW0tdnNNTjBRMEgzaFAzNVFPZ29INDN1MzN4MmM3SkhWSHJQUENwN21GbDhNLUdUOUhsbEpDS3VJMDhxWHBDZmt1THQwSzg0ZzZIdC0xRnFZT1VRRFNDaFZ1ZjhhR25wTW9jem5nWGJoX0Zzd29Yb3hGUTVaV1lyRVFPc2gwNUxzUVFrME0?oc=5",
+        "source": "World Health Organization (WHO)",
+        "published_at": "2026-05-17T00:45:10+00:00",
+        "summary": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO)"
+      },
+      {
+        "title": "WHO declares Ebola outbreak in Congo and Uganda a global health emergency",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWcydzM1S2RHZVFXUThUTWc0UnJOYmtpUlh3VHc4LVpJWXdyMW1NVkhwN0ZnejJ4NVdFMXBjZGVIOU9yX084a2JOc0NGd3ZnMVhVTzRpODdYRjR3Uy1McnNRMC1OME1aVWVoTkdxOGotWEltbEppc3k0Q0hVRTZmaTc1SW5VNmpiQVc2eUE4SXFDcHFHdWp5bk52bFBMWERqLWc4TmFITVMxQk1a?oc=5",
+        "source": "PBS",
+        "published_at": "2026-05-17T12:58:14+00:00",
+        "summary": "WHO declares Ebola outbreak in Congo and Uganda a global health emergency PBS"
+      }
+    ],
+    "related_queries": [
+      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+      "WHO declares Ebola outbreak in DR Congo an international emergency",
+      "WHO says Ebola outbreak in DRC and Uganda is ‘emergency’ of international concern"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "uganda Live Trend Tracker | HantaUpdates",
+      "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pro",
+      "canonical": "https://hantamap.online/trend/uganda",
+      "keywords": [
+        "uganda",
+        "uganda tracker",
+        "uganda updates",
+        "uganda live updates",
+        "uganda outbreak",
+        "uganda symptoms",
+        "uganda public health",
+        "uganda source links"
+      ]
+    },
+    "first_seen_at": "2026-05-17T18:14:42+00:00",
     "views_hint": 0
   },
   {
