@@ -1,5 +1,78 @@
 [
   {
+    "id": "6d4bb33d72d687039c",
+    "slug": "guardia-civil",
+    "keyword": "guardia civil",
+    "title": "guardia civil trend tracker",
+    "description": "guardia civil is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Diari ARA.",
+    "category": "public-health",
+    "geo": "ES",
+    "search_volume": "5000+",
+    "traffic_label": "5000+",
+    "published_at": "2026-05-17T07:50:00+00:00",
+    "updated_at": "2026-05-17T08:35:52+00:00",
+    "score": 5000,
+    "source_url": "https://trends.google.com/trending/rss?geo=ES",
+    "sources": [
+      {
+        "title": "Investigate if a civil guard has killed his wife and son in Alicante",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObFVfTUxSREFBNVJzMEpFMFY0WDV1Zmk3MTBRd052cUViMjJCUkhJX1ZNS2pfMmkwdU5iZHQ1bUR5QVVvbWFzVW5ZQ1NRVThoOUFubnNLZ1puU2xoSVhzb3h5WFRkbDBXdE9uMVFGM2Fmd2JMVVkwZkFGSDFHQnlYYWFhd253TlBOYlRnUnl3eGlYclppLUFWUEtrcmpVN2p3Y21GeVdFQ2w4SU3SAbABQVVfeXFMT0d4bWJkaHY2YVhRb2xpQXh6WTc2Nm81dkpIRGNUMkxKcGhleUo2SThfTGk3VnRiY05pMHhDYzZ6WE5xUXZQS0lYeUg5ZmtUNTNMamllZGlPOTRlNTVDOTcwaFA0Smo0QzdPSUwwaFhBY3haQXJxVklwN09iUHozLWZSVzVXdHlpdU5NZmJJTzduMGhVbjZuN0lSSk9tTGY2QXUwcjNfQ0UzOGoxVXpQTE4?oc=5",
+        "source": "Diari ARA",
+        "published_at": "2026-05-16T11:41:57+00:00",
+        "summary": "Investigate if a civil guard has killed his wife and son in Alicante Diari ARA"
+      },
+      {
+        "title": "Two Spanish Police Officers Killed in High Speed Drug Boat Chase",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaXJPSnJqQWw3ZEJkYnRjWl9qeDlhTGhKb0VFTWFWMlNwd1pVcXFSaGs3cjZBTWxNVzNKbmJrZ0dJdkpkZ1FlRnFmNlA2MDVBQ1pqWVJuQ3R2a3JNZ0QxQVRnU2MtdnR3OVJTWHpJd19iY1pxN3VaUExES053YnJFakpkQy1CMlpKMGFSSmtwMnI5Qm96YjJsbGx0Znc5ajczTWZ1bVNB?oc=5",
+        "source": "The Maritime Executive",
+        "published_at": "2026-05-09T02:44:00+00:00",
+        "summary": "Two Spanish Police Officers Killed in High Speed Drug Boat Chase The Maritime Executive"
+      },
+      {
+        "title": "Spanish officer dies on duty during hantavirus cruise ship emergency",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQzhmRDFEUnR1ZDh0OFRZbUZBUU8zb2x2OGlITlVsZUMzZm1DcGVKbjFRdW1jWEp4ZlFKc2NzeW5LdTNhdThaNTdFbWZXWEpJUEQtS01tejVJaUtYeXRrTEF5SGJ3TUpMcFFDMXV2SHBlTWxHMjVqS1ZNRFZSVlRQVlhPb3hOXzBWTlRqbmpYMlBSa1RRaVZ1TGkzVjZJM3FwQnplcUtnZTBZR3BfallHUA?oc=5",
+        "source": "Euronews.com",
+        "published_at": "2026-05-11T11:45:02+00:00",
+        "summary": "Spanish officer dies on duty during hantavirus cruise ship emergency Euronews.com"
+      },
+      {
+        "title": "How the raid of the ‘Arconian’ led to the largest cocaine haul in history",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHl1M01VT2ZVeWxGMExUMUJsTWVWdG1QR3F1RFNnNWI4SUQwekpCUGlhLWUxeVA5clhESlZyblNHQXdlOGNQUmJDSUxEYXdEZkxfQl83N0kxdUR6OVRmYUNNZk5CU3BJc3p6RVRWZ3dLbEJTOThJaEdNb3lXTmRpMnlDT0JMYjg5Sm4zcFlUMHd1ZWlvanJ5YXR3M2IxUWNkQk10SUR2bk5DeGs3dXhBalpidXlPUDRVV0JXRHl5d3htMVdnYmd30gHbAUFVX3lxTE52ajFjamtNYzRRRXoyeUNzV3BYdGpOUkpSSjVZNnZhVXNNbXR0Nk8yRkZqM0d6el9HOGczdEdNMExhQm1PODB2X1pkeHZtWUVWM2RjTHRiUTZFbHMyWDBDNjJfYllWX3BQS1psaGwtSGo5UjVxcXotNXR5elNkekRZSW51UXJsTU80d1hIcHJYZ1hJRjgtUDhKdF94R2w1dmo3VTRQNEJuUWtBNDJWRkxYRUV3WkR4cS1kUUVZLVZDSHJhX3B4aHlYeGNaeWdCX1U2VDZ3S3RRb3d2bw?oc=5",
+        "source": "EL PAÍS English",
+        "published_at": "2026-05-12T16:37:52+00:00",
+        "summary": "How the raid of the ‘Arconian’ led to the largest cocaine haul in history EL PAÍS English"
+      }
+    ],
+    "related_queries": [
+      "Encuentran los cadáveres de un guardia civil, su mujer y el hijo de ambos en el cuartel de Dolores, en Alicante",
+      "Hallados los cuerpos de un guardia civil, su mujer y su hijo en un cuartel de Alicante, en un presunto caso de violencia machista",
+      "La muerte de un guardia civil, su mujer y su hijo en el cuartel de Dolores (Alicante) se investiga como violencia machista"
+    ],
+    "map_focus": {
+      "label": "Multi-country / cruise travel",
+      "lat": 16.5388,
+      "lng": -23.0418,
+      "zoom": 3
+    },
+    "seo": {
+      "title": "guardia civil Live Trend Tracker | HantaUpdates",
+      "description": "guardia civil is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links with",
+      "canonical": "https://hantamap.online/trend/guardia-civil",
+      "keywords": [
+        "guardia civil",
+        "guardia civil tracker",
+        "guardia civil updates",
+        "guardia civil live updates",
+        "guardia civil outbreak",
+        "guardia civil symptoms",
+        "guardia civil public health",
+        "guardia civil source links"
+      ]
+    },
+    "first_seen_at": "2026-05-17T08:35:52+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "bf1edf75bd8799dbb4",
     "slug": "caribbean-princess",
     "keyword": "caribbean princess",
@@ -73,6 +146,79 @@
     "views_hint": 0
   },
   {
+    "id": "4bb980e30ec40df703",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The New York Times.",
+    "category": "public-health",
+    "geo": "DK",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-05-17T03:10:00+00:00",
+    "updated_at": "2026-05-17T08:37:09+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=DK",
+    "sources": [
+      {
+        "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlBNcWJWdDIyakJkanY1eTFnLUJYaU10S0FXbzNrNWtfeDhJczA0c1VSeUZHejdWelNjZjZNVWZ2SW1HOUVJblNXeVZJV2p1UTJ2SDdRbFJKX29KMC1YQmF3allUaTV1NHJLSjNnblRrMVNYR2toLWxuY0lZYWU0TEt1dHVSc2dqdmhfemhYTjUzOXFOdmU2eGxJLXJzVmta?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-05-17T05:48:22+00:00",
+        "summary": "W.H.O. Declares Ebola Outbreak a Global Health Emergency The New York Times World Health Organization declares Ebola outbreak in Congo a global health emergency NPR WHO declares global health emergency over Ebola outbreak in Congo and Uganda AP News Latest Ebola outbreak an emergency of international concern, WHO declares CNN At least 80 dead as Congo grapples with Ebola outbreak; WHO declares public health emergency CBS News No vaccine for new highly lethal Ebola outbreak, DR Congo warns, as death toll hits 80 France 24 WHO Declares Congo Ebola Outbreak Global Health Emergency Bloomberg.com W"
+      },
+      {
+        "title": "New Ebola outbreak in Congo suspected of causing 15 deaths",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlRIRmtNYjlCNDU2SS1xSDhqS19oN2JrVUIwTWxoYWhvbGpCekhkSmNxUmNCZF9MTkVGU2daZE5OTEh2akpNdG9ybWhwT3JqY0ZMSXB4TDBRd3hQaFhiZzNxY0FObDJGcEszd2xhTFdiSDlDNkJQbklXVUp3c0hzRU9PUjZfUms?oc=5",
+        "source": "AP News",
+        "published_at": "2025-09-04T07:00:00+00:00",
+        "summary": "New Ebola outbreak in Congo suspected of causing 15 deaths AP News"
+      },
+      {
+        "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLWc5YmNSd040d0pkM2czRzRXWmNBdk9NemR2MjE0RFF3eUg4TmpqQWNpYUpvbjdfbXRQVi1LUC1nbWdBQXRJaE9obE9oSGZ4M0lFY0VpOFVwb3ZLWjVnY3BjZkc1eERKOC1IbGt4cXZBX1lXVGxHZ3Q5c0RESnFTelNETGE4VW0tdnNNTjBRMEgzaFAzNVFPZ29INDN1MzN4MmM3SkhWSHJQUENwN21GbDhNLUdUOUhsbEpDS3VJMDhxWHBDZmt1THQwSzg0ZzZIdC0xRnFZT1VRRFNDaFZ1ZjhhR25wTW9jem5nWGJoX0Zzd29Yb3hGUTVaV1lyRVFPc2gwNUxzUVFrME0?oc=5",
+        "source": "World Health Organization (WHO)",
+        "published_at": "2026-05-17T00:45:10+00:00",
+        "summary": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO)"
+      },
+      {
+        "title": "What to know about the Ebola outbreak that the WHO has declared a global health emergency",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmJrcDhBR2lUUkh2UUk0OUlVc1VJUTE0Q29GTFVyVTJBanRGSjdBdzdobHVhc2w5ckxIeWJxV1hpMzVZajB1VzZqcEVCcE9YbVJ1Q0xFVHMzdlFSRGxKakdtd2FPOHlYWjltUEpOUUNPV1hja2lFcmM1Sy1QMlJyTkdkbl9YTy1palVCTksxWW9abFlx?oc=5",
+        "source": "AP News",
+        "published_at": "2026-05-17T06:21:00+00:00",
+        "summary": "What to know about the Ebola outbreak that the WHO has declared a global health emergency AP News"
+      }
+    ],
+    "related_queries": [
+      "WHO declares Ebola outbreak in DR Congo a global health emergency",
+      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+      "WHO declares Ebola outbreak in Congo and Uganda ‘emergency’ of international concern"
+    ],
+    "map_focus": {
+      "label": "France",
+      "lat": 46.2276,
+      "lng": 2.2137,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "c5ed69d66a9d724659",
     "slug": "hantavirus-cases",
     "keyword": "hantavirus cases",
@@ -143,79 +289,6 @@
       ]
     },
     "first_seen_at": "2026-05-14T21:55:47+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "4e920e5c93cc0f8489",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: AP News.",
-    "category": "public-health",
-    "geo": "SE",
-    "search_volume": "500+",
-    "traffic_label": "500+",
-    "published_at": "2026-05-15T07:50:00+00:00",
-    "updated_at": "2026-05-15T10:02:45+00:00",
-    "score": 500,
-    "source_url": "https://trends.google.com/trending/rss?geo=SE",
-    "sources": [
-      {
-        "title": "Africa top health body confirms new Ebola outbreak in remote Congo province",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRENXZi1QSFpVMVNWZVZPQi1UR1FRejYwNkJCUWtEWGZ2eGhtMXhJeVJtbEsycjIzWVZwQVJoQnNnZWFka3VLSW1XYmVQSVY0dTY3Z1d0dXJIbzRlQlRKVWF3eF93WGF1RU83ZWxBVTQ5RUkzc0RmcC1MUEtHZzM4b1hweXl2bG5STmJPQWFyQkxabGo5Qnk4UW5QQQ?oc=5",
-        "source": "AP News",
-        "published_at": "2026-05-15T07:11:00+00:00",
-        "summary": "Africa top health body confirms new Ebola outbreak in remote Congo province AP News Ebola outbreak kills 65 in eastern DR Congo's Ituri province BBC African public health agency says there is a confirmed Ebola outbreak in Congo Reuters A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded News4JAX A new Ebola outbreak is spreading through a remote Congo province, with 65 deaths recorded 10TV Africa CDC Calls Urgent Regional Coordination Meeting Following Ebola Virus Disease Outbreak in Ituri Province, DRC Africa CDC Ebola in Congo Linked to 65 Deaths, Spurring R"
-      },
-      {
-        "title": "New Ebola outbreak in Congo suspected of causing 15 deaths",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlRIRmtNYjlCNDU2SS1xSDhqS19oN2JrVUIwTWxoYWhvbGpCekhkSmNxUmNCZF9MTkVGU2daZE5OTEh2akpNdG9ybWhwT3JqY0ZMSXB4TDBRd3hQaFhiZzNxY0FObDJGcEszd2xhTFdiSDlDNkJQbklXVUp3c0hzRU9PUjZfUms?oc=5",
-        "source": "AP News",
-        "published_at": "2025-09-04T07:00:00+00:00",
-        "summary": "New Ebola outbreak in Congo suspected of causing 15 deaths AP News"
-      },
-      {
-        "title": "Ebola outbreak in Congo kills dozens, may be hitting hundreds more, Africa's CDC says",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOUVxT19HQl9QTFBEV18weW13WDJWS3RZalhScUlRYXdVZDl0Z1Y5VWdOSVRZelJ3MWs0cWp3TWJpT0FIVnA5aS1TYnlLbWxxWWYxOGljemlFcmttTC03MHBPR1hGdWRyTFJjTmhfajl3RHZBbEt3NGdEZVNvNU1TdmVaUk00bEJsZGfSAY8BQVVfeXFMUDY2aUVZMUFnNThrNGltS2FGSTBWR1VBbC1CTGJVNTMzUndDeDE0Sy02T3dwZDd6ZV9veEVGVU02STc1dnpiZHdzU3p2WjlGM21Mc3FVOXdDUmZ3OGU2M0Y5VXUtaXB3VWdHTXM2WHgtVVJ6MnpMTmkxVEMtZWRUTnhlUi02ZHVXbTJmWVVaQXM?oc=5",
-        "source": "CBS News",
-        "published_at": "2026-05-15T09:01:55+00:00",
-        "summary": "Ebola outbreak in Congo kills dozens, may be hitting hundreds more, Africa's CDC says CBS News"
-      },
-      {
-        "title": "A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOSTJtYThZSng0Z1RrTURiUXBiZk1uNWNYX1MyU0hSZTQ5blhuVThZeVdKU0tNc3QyejAxOWlJdndkMzRWVFVLN0hKa2RYSXdjUEo1RTRDb3k1ZmNRWml5ZldMdmQ2LWs4dTZwMmFfalk4X0F6NDNhSkVpQjRxajU5akRrME93N3ZibTFOamlrOHJONW84TmZ1a1FOdXczZjFOb2ZycjhHaEx0eVM3ZjFDc3k0TmpMNk85cVhTYXM3TnB0cmE2bXNIN3o3MUszOVlHRGNLc28zNFh1WHE3aF9tbVh1UWNvdU1UOEpRVnhwMWdOaVJkaDZJaTJlOFlBNkR5dmxzR1FaZw?oc=5",
-        "source": "Journal-News.com",
-        "published_at": "2026-05-15T09:50:17+00:00",
-        "summary": "A new Ebola outbreak is confirmed in a remote Congo province, with 65 deaths recorded Journal-News.com"
-      }
-    ],
-    "related_queries": [
-      "Ebola outbreak kills 65 in eastern DR Congo's Ituri province",
-      "Africa CDC links 65 deaths to Ebola outbreak in DR Congo",
-      "Africa CDC Calls Urgent Regional Coordination Meeting Following Ebola Virus Disease Outbreak in Ituri Province, DRC"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
-      "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
     "views_hint": 0
   },
   {
@@ -365,59 +438,59 @@
     "views_hint": 0
   },
   {
-    "id": "d1b8f3cae24ba50c2f",
+    "id": "61945211ce6954af2f",
     "slug": "ebola-virus",
     "keyword": "ebola virus",
     "title": "ebola virus trend tracker",
-    "description": "ebola virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CBS News.",
+    "description": "ebola virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
     "category": "public-health",
-    "geo": "AT",
+    "geo": "AU",
     "search_volume": "200+",
     "traffic_label": "200+",
-    "published_at": "2026-05-16T17:30:00+00:00",
-    "updated_at": "2026-05-16T18:08:12+00:00",
+    "published_at": "2026-05-17T07:50:00+00:00",
+    "updated_at": "2026-05-17T08:36:09+00:00",
     "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=AT",
+    "source_url": "https://trends.google.com/trending/rss?geo=AU",
     "sources": [
       {
-        "title": "Frequent burials and at least 80 dead as Congo grapples with Ebola outbreak",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1FSUN5OU9RQlhzdl9ibDVveEJzc2hkNWZmbWJxcHhRY1hZNFJDUUVwcldWZ0FyaFBxNWZNdFY5aTYwVVVLc0p5VTM5QTQ0WmlPSi0wLXRGaVNnX3A3bUgzS3gyU29lcFNfbXVKOS1IWmxoa2RaVEdqc09n0gF_QVVfeXFMT3BxSzN4anFZaGlDQjFpX0dnMnRldHNoRnJCSnVFZmJrUVgwWVNFUmVzWlJDYlNJV2hJVjRjOTFEWkdoem83aHJjakZFUzVNNlNhZFBucWNvdmRzUEtmaW9wSG9xVjQ5NVY5R0dUaGZaemtfcTVmV0ZjVXYxZXVBWQ?oc=5",
-        "source": "CBS News",
-        "published_at": "2026-05-16T16:13:43+00:00",
-        "summary": "Frequent burials and at least 80 dead as Congo grapples with Ebola outbreak CBS News Large Ebola Outbreak Is Declared in Congo The New York Times No vaccine for new highly lethal Ebola outbreak, DR Congo warns, as death toll hits 80 France 24 Democratic Republic of the Congo confirms new Ebola outbreak, WHO scales up support WHO | Regional Office for Africa Uganda confirms Ebola case in man from neighboring Congo who died in Ugandan capital PBS US monitoring Ebola outbreak in DRC and Uganda, providing assistance Reuters Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo"
-      },
-      {
-        "title": "New Ebola outbreak in remote Congo province kills 80",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9jVkpWRjRtcmhqLU11MGM4dnNuVkFsb1NNcDBEdVVyWklCbDJ1WkhwSUtuTm1FM0xiWjlyNFdtdkxEVHIwdjBqX2dIV2U4WWVxczhSM3VOVmo2SnFoN1RiWHo0aUw4bVhfRWZVcmh4ekQ0QTQ?oc=5",
-        "source": "CNN",
-        "published_at": "2026-05-15T13:15:47+00:00",
-        "summary": "New Ebola outbreak in remote Congo province kills 80 CNN"
-      },
-      {
-        "title": "Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda",
-        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOak5PTEhnbVpQaFUtRFdMdlpoUGMwYS1HVGNLbVY2NnJGMzI0NU00eEtLQXFzMWtuUlpYYXM1YkN2X2x6ZTFKcXJaeU5ULURTRTZvRUcxYlNQY3hsYkZzQTdROHVvcGtHU3g3aHNRWmJCQ0F0bERxY0dnelQ5ZmhMUHRCOHpLN2lZRC1yRXBvVHM5ODBON0x1Y2VSaklvTW02U2NZMG9GZ0x3Y0RPdWF3U3VWV1p1bHlBNG5lTTF5TllZVV9aMllocklqWEQtX2JjX0FYV2hxM1luMmhOTUFrSDBlQ19xNUxHREJnNTdoZW1yM082b2xVNmNRLTJIbHUyQ1VNRGMybEk5M29qN0RDbDBDQWFRQ0Vldmk4ajJBUUdTNWM?oc=5",
-        "source": "Africa CDC",
-        "published_at": "2026-05-16T07:45:43+00:00",
-        "summary": "Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda Africa CDC"
-      },
-      {
-        "title": "Ebola outbreak kills 65 in eastern DR Congo's Ituri province",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kUDQ5T3g2TUdia0ZhTWZWS2x2MmZwdzhMU3hZMm1HbnNPSnBVOEhjVzd6dmtrdExrblJPVW45UFFwM2kxWVBHLUI2XzVoVTl2aUk2RFBQVFY2UQ?oc=5",
+        "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wWW1NemgwbjdYVFJZZGlOVTZrdUd2R2p5d3lKeFlSS2NoWkU0dU9KZmJFcjRPLTJBYkxYMjhWX3ZqX0M4V19ZNHBTcU1SUDNNMDF1R1hkOGxPQQ?oc=5",
         "source": "BBC",
-        "published_at": "2026-05-16T04:11:26+00:00",
-        "summary": "Ebola outbreak kills 65 in eastern DR Congo's Ituri province BBC"
+        "published_at": "2026-05-17T02:55:08+00:00",
+        "summary": "WHO declares Ebola outbreak in DR Congo a global health emergency BBC World Health Organization declares Ebola outbreak in Congo a global health emergency NPR WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency Al Jazeera W.H.O. Declares Ebola Outbreak a Global Health Emergency The New York Times Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO) WHO declares Ebola outbreak in Congo and Uganda ‘emergency’ of international conce"
+      },
+      {
+        "title": "New Ebola outbreak in Congo suspected of causing 15 deaths",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlRIRmtNYjlCNDU2SS1xSDhqS19oN2JrVUIwTWxoYWhvbGpCekhkSmNxUmNCZF9MTkVGU2daZE5OTEh2akpNdG9ybWhwT3JqY0ZMSXB4TDBRd3hQaFhiZzNxY0FObDJGcEszd2xhTFdiSDlDNkJQbklXVUp3c0hzRU9PUjZfUms?oc=5",
+        "source": "AP News",
+        "published_at": "2025-09-04T07:00:00+00:00",
+        "summary": "New Ebola outbreak in Congo suspected of causing 15 deaths AP News"
+      },
+      {
+        "title": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSGFES1R4VTFWMlJyU05fTXV6NGp1RjNuVWJOUXJnR2xpWDJ1SFQ0TU44NDlJTUcwdTJ6TlZYWl95ZkR4cWR2anBwbDJrM21TWGJtVU5RNlFOZlVPcV9wUkM1ZGk3MndVckE2cXVkNHR6Z0JIczF1ZFNzN056aWliNFVtNFotUURVQllaYWdlUlh5WmQ0cVJDMXhzREhJRS0wRHQzY0RtVGVFWWg3?oc=5",
+        "source": "NBC News",
+        "published_at": "2026-05-17T05:05:00+00:00",
+        "summary": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda NBC News"
+      },
+      {
+        "title": "Death toll climbs to at least 80 in Congo Ebola outbreak",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVhacVVVWVlUWHlYNGxrZ2U3LThXcjdlVE1YOEROb2hST3JXVDdsUmRENkQxdWV5UEZMYlVXRHhPQ1JWTzBvOWI2cndlaXlhVmNZZFdneFhqUERXYlYxNDBmUjhYazU3blRvY2dNbmRuTDBYWU05RzlYUFV5ZHNoWDdQZldtZkdhdVBJRXBTNHJnX2xJbHc?oc=5",
+        "source": "PBS",
+        "published_at": "2026-05-16T14:45:29+00:00",
+        "summary": "Death toll climbs to at least 80 in Congo Ebola outbreak PBS"
       }
     ],
     "related_queries": [
-      "Ebola outbreak kills 65 in eastern DR Congo's Ituri province",
-      "Africa CDC Calls Urgent Regional Coordination Meeting Following Ebola Virus Disease Outbreak in Ituri Province, DRC",
-      "Ebola outbreak kills 65 people in eastern Democratic Republic of the Congo"
+      "WHO declares Ebola outbreak in Congo and Uganda ‘emergency’ of international concern",
+      "WHO declares Ebola outbreak in DR Congo a global health emergency",
+      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern"
     ],
     "map_focus": {
-      "label": "France",
-      "lat": 46.2276,
-      "lng": 2.2137,
-      "zoom": 5
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
     },
     "seo": {
       "title": "ebola virus Live Trend Tracker | HantaUpdates",
