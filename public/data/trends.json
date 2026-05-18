@@ -511,6 +511,79 @@
     "views_hint": 0
   },
   {
+    "id": "05cc403af7c4ead28d",
+    "slug": "drachten",
+    "keyword": "drachten",
+    "title": "drachten trend tracker",
+    "description": "drachten is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: | Eurodressage.",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-18T14:00:00+00:00",
+    "updated_at": "2026-05-18T14:47:39+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "14_drachten_minderhoud_zanardi_01",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1uaElRcTkwV2stcXk3MTNRMVdhZ2t0MXZOMFhtbkxHOWk3ZE9wTDh5TkV5LTQxMnRjckFDRjN5OVdxUGdiRWZmMjFOY0R4a1d6MDlJRzJSeU1ueXFqZlE?oc=5",
+        "source": "| Eurodressage",
+        "published_at": "2026-05-17T00:23:03+00:00",
+        "summary": "14_drachten_minderhoud_zanardi_01 | Eurodressage"
+      },
+      {
+        "title": "Thousands left without water in Drachten after main pipeline break; Issue now resolved",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOVRUcTNqQlNWSmlSdjU1RVJLdXNOUGJCMjlMMVdWMlo2UEZObnZPaDZGa2R5Zllza05DRThSeUNvZmEwQVBwNnZSU1ViOHF5TDVaRVUwVmJqTlZtd1dTZk5jekxRRHlrTUtHOHgtbDN1M3BRdEYtck5HeXFxT2VUYndjNEpYeEM5X2JUWDRFWkRBWS1hdGE2R1UyeWg4a3h6NFphNlRRVDZRZw?oc=5",
+        "source": "NL Times",
+        "published_at": "2025-12-26T08:00:00+00:00",
+        "summary": "Thousands left without water in Drachten after main pipeline break; Issue now resolved NL Times"
+      },
+      {
+        "title": "An autonomous industry: how the Netherlands remains competitive",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOMktzRE9xbEVIYm5yYTd1elhTakdsVEtiTVk5NGRPQTg5NmJjR3lRbEVRMkVTYzhzRy1QSWtDVjV3NlFaRThMSm15R2owRlVnMkFWWGFtcjMzRUZtbk1GdDUySklUWFduZzZvU1BPLTV3Z2lKNEMxb0xyMjdKd1V4V2NaSnlfVndIV2FvWkxBUHNVT0E?oc=5",
+        "source": "ioplus.nl",
+        "published_at": "2025-11-12T08:00:00+00:00",
+        "summary": "An autonomous industry: how the Netherlands remains competitive ioplus.nl"
+      },
+      {
+        "title": "Dutch National Swimmers Train In Drachten During Coronavirus Outbreak",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTE9IQ2ZKM3p0cDhFSnJJR3h3WHd0ODd3aFdqNFQ1YnBGTHdFV3A4Mk9YcU8wRUQtRkpSZzdlcVJTYXIwLWRPVkdveDY1RFM2N1hvdXhXLUo1SmtvbXlibWZmNEdfekczNjdLWHVrbVpJM3ZHVmRobThuS1NLT2hmX2F0c056bHFXMW5FcDh4TVV1cHNs?oc=5",
+        "source": "SwimSwam",
+        "published_at": "2020-03-14T07:00:00+00:00",
+        "summary": "Dutch National Swimmers Train In Drachten During Coronavirus Outbreak SwimSwam"
+      }
+    ],
+    "related_queries": [
+      "Vrachtwagen lekt beton: afrit richting Drachten voor onbepaalde tijd dicht",
+      "Verkeershinder op Wâldwei bij Drachten door beton op de weg",
+      "Vrachtwagen lekt beton: afrit richting Drachten voor onbepaalde tijd dicht"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "drachten Live Trend Tracker | HantaUpdates",
+      "description": "drachten is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without p",
+      "canonical": "https://hantamap.online/trend/drachten",
+      "keywords": [
+        "drachten",
+        "drachten tracker",
+        "drachten updates",
+        "drachten live updates",
+        "drachten outbreak",
+        "drachten symptoms",
+        "drachten public health",
+        "drachten source links"
+      ]
+    },
+    "first_seen_at": "2026-05-18T14:47:39+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "cfc4652f362c358582",
     "slug": "evacuatie",
     "keyword": "evacuatie",
