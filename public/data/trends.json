@@ -146,6 +146,79 @@
     "views_hint": 0
   },
   {
+    "id": "14f571e971d084604f",
+    "slug": "contagion",
+    "keyword": "contagion",
+    "title": "contagion trend tracker",
+    "description": "contagion is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: NBC News.",
+    "category": "public-health",
+    "geo": "IT",
+    "search_volume": "2000+",
+    "traffic_label": "2000+",
+    "published_at": "2026-05-17T21:40:00+00:00",
+    "updated_at": "2026-05-18T00:14:23+00:00",
+    "score": 2000,
+    "source_url": "https://trends.google.com/trending/rss?geo=IT",
+    "sources": [
+      {
+        "title": "Omaha Steaks, Nerf basketball and Hazmat suits: Former contagion patients describe life in quarantine amid Hantavirus",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNkhXaWlMR19CVnBsSjIzQVFPeFZOUEtQa1ZrNUZqVnVvYzZnOHNBeVFTNUtDemhaZEVRRTc1TEdmT0JqdzFZc3NKdEluOC1uRjRIUGNNdEdpbmJVRURtT3BKT3RUbE5sMUltQ3g3WjFhZWZuSjh3UmV5M3BTWmswVXNXdjFfSHhRTmJ6X29FNm5mMHZneDF2UnNVZlIzVjZ5RTVFU05YbXBpelV2Qi1CT1lleHA3c0YyRHlyM0w2OEQ?oc=5",
+        "source": "NBC News",
+        "published_at": "2026-05-17T14:30:40+00:00",
+        "summary": "Omaha Steaks, Nerf basketball and Hazmat suits: Former contagion patients describe life in quarantine amid Hantavirus NBC News"
+      },
+      {
+        "title": "WHO Declares Bundibugyo Ebola Outbreak a Health Emergency",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPT015QVlrQTNNVEIyMXh4ZGZTUDFpY1hrYjRpM1NYaTJTc05ieTJtM3BVeGx5bmhYbE53NlIxaWxLSElINHF1VVFsM1dDSzJvR2Y4Vk5QN2pTY1hUWEM0R0t4NHRULW5RcnFsNTVnbW5mWTdUaGxveEdTOTdxZjdjY3BLbEtPcmh1MmRUdnU3eUZGb1o5UVpz?oc=5",
+        "source": "Contagion Live",
+        "published_at": "2026-05-17T13:44:56+00:00",
+        "summary": "WHO Declares Bundibugyo Ebola Outbreak a Health Emergency Contagion Live"
+      },
+      {
+        "title": "Argentina Races to Find Origin of Hantavirus Contagion",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdGxZU29EZEFGSHR3MDM0UWVpdkctNklXZTlzQUdBRkc3Nkpvc2djaW1oY01qdlB2UGJ1Wm5CdU1tLVBfN2JkM0x4MFU2RDV3RXFxZm1CeE5XeEh3WHRuM1FSM3ZDeVlhSnRrM2pENy11el8zY0ZVNlNvdDFHRzFIQkI3RTkyZDN3eHdwTmRMWGw?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-05-14T09:04:59+00:00",
+        "summary": "Argentina Races to Find Origin of Hantavirus Contagion The New York Times"
+      },
+      {
+        "title": "Housing Market Silver Linings: Why Homebuyers Are Finding Relief Despite 'Inflation Contagion'",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSDd6RExvTmk2d1JRNTRnbkt4em9URGU5bEtRd0VFcHpUR3BRVDVZeHR1c0RlN0xobWpORXBrbFExWFBhSFZQZE1aeTNfajFBQWlaZDN0UUJiTWM4dzNIX0k0MWlUUDZ0clVYSVBSZ19PaFgxQ2h0QjFOUDVyUE5laU5FT252aXEyb0piRkJVYThNUUthd0FFOURxU0RmV1o4YmhmNVZXV0c?oc=5",
+        "source": "Realtor.com",
+        "published_at": "2026-05-15T21:52:40+00:00",
+        "summary": "Housing Market Silver Linings: Why Homebuyers Are Finding Relief Despite 'Inflation Contagion' Realtor.com"
+      }
+    ],
+    "related_queries": [
+      "Omaha Steaks, Nerf basketball and Hazmat suits: Former contagion patients describe life in quarantine amid Hantavirus",
+      "Hantavirus Attacks Patients’ Bodies. This Doctor Tends to Their Minds.",
+      "Ebola patient reflects on time at UNMC biocontainment unit"
+    ],
+    "map_focus": {
+      "label": "Argentina",
+      "lat": -38.4161,
+      "lng": -63.6167,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "contagion Live Trend Tracker | HantaUpdates",
+      "description": "contagion is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
+      "canonical": "https://hantamap.online/trend/contagion",
+      "keywords": [
+        "contagion",
+        "contagion tracker",
+        "contagion updates",
+        "contagion live updates",
+        "contagion outbreak",
+        "contagion symptoms",
+        "contagion public health",
+        "contagion source links"
+      ]
+    },
+    "first_seen_at": "2026-05-18T00:14:23+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "4bb980e30ec40df703",
     "slug": "ebola",
     "keyword": "ebola",

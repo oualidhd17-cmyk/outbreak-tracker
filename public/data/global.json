@@ -17,7 +17,7 @@
   "total_hospitalized": 0,
   "affected_countries": 31,
   "global_risk_level": "high",
-  "last_updated": "2026-05-17T18:12:31+00:00",
+  "last_updated": "2026-05-18T00:13:33+00:00",
   "source_label": "ArcGIS independent research dashboard",
   "primary_event_url": "https://www.arcgis.com/apps/dashboards/5c68442d2afc42d7ba2696e4cd393729",
   "current_outbreak": {
@@ -39,7 +39,7 @@
     "source": "ArcGIS independent research dashboard",
     "source_id": "arcgis_independent_dashboard",
     "source_url": "https://www.arcgis.com/apps/dashboards/5c68442d2afc42d7ba2696e4cd393729",
-    "published_at": "2026-05-17"
+    "published_at": "2026-05-18"
   },
   "historical_context": null,
   "data_notes": [
