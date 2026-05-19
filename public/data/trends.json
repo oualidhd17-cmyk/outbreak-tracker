@@ -219,6 +219,79 @@
     "views_hint": 0
   },
   {
+    "id": "bc4048633a0601dec1",
+    "slug": "uganda",
+    "keyword": "uganda",
+    "title": "uganda trend tracker",
+    "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Reuters.",
+    "category": "public-health",
+    "geo": "TR",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-05-19T17:20:00+00:00",
+    "updated_at": "2026-05-19T17:44:29+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=TR",
+    "sources": [
+      {
+        "title": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaVdNLS1iQmlTb0JLUERsUzRLS1N5MWJSQVNiR285d1ZBOF84Y2RsWl9fSTZYNlFuXzdyUkxjYVg3T1VNckpCaFRMLTFmRkMwOXRKOUJsQ2FyYmVDVWtLaTlZNHk4dDJYeGQ1M0JqUExlYzZRY0dJM1d6ME1IQzg1UDJPUTRNOVBoWER0SnRNQXZaUElVbVpvdnRadjM2UHdqWW96YzdjM1VMRTgzTzBudnlLMllhcTJ2VDhYcEN4UFJNOFQwRGFPZUx0V2lqVlNsT3c?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-05-17T17:23:49+00:00",
+        "summary": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern Reuters WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency Al Jazeera Ebola strain in Congo-Uganda outbreak has no vaccine, no treatment for often deadly symptoms CBS News Citing Ebola Outbreak, U.S. Restricts Entry From Congo, Uganda and South Sudan The New York Times Ebola outbreak in DRC and Uganda: What you need to know International Rescue Committee Ebola strain spreading in Congo and Uganda has no approved vaccine The Conversation U.S. deploys $13 million, imposes travel restrictions"
+      },
+      {
+        "title": "Uganda bans hugs and handshakes as two cases of Ebola are confirmed",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUp1V0ppMkpUYzU0bGtrbVJ5WGRNVmFnZlo2eHpOWjVVVGFtM3AxbEdrQm55bko2MG42WjFqaXQzRkRWQlRWa21aR0RyNGNzSV9CUGVxNW1Ga2NMLVh5NlBZRjBvbWRRQ1ZaRzVGY05HWEtPd3R4MDhvbE51dm1WbTB2bDJ5MlpOSzdqbXdyS0pHZXV6XzJnS1E3ZjZDcGd0QlRWRHFwUU9DakhQS3hPbnJCekZFQmxNVGdOem5n?oc=5",
+        "source": "The Telegraph",
+        "published_at": "2026-05-19T12:32:00+00:00",
+        "summary": "Uganda bans hugs and handshakes as two cases of Ebola are confirmed The Telegraph"
+      },
+      {
+        "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLWc5YmNSd040d0pkM2czRzRXWmNBdk9NemR2MjE0RFF3eUg4TmpqQWNpYUpvbjdfbXRQVi1LUC1nbWdBQXRJaE9obE9oSGZ4M0lFY0VpOFVwb3ZLWjVnY3BjZkc1eERKOC1IbGt4cXZBX1lXVGxHZ3Q5c0RESnFTelNETGE4VW0tdnNNTjBRMEgzaFAzNVFPZ29INDN1MzN4MmM3SkhWSHJQUENwN21GbDhNLUdUOUhsbEpDS3VJMDhxWHBDZmt1THQwSzg0ZzZIdC0xRnFZT1VRRFNDaFZ1ZjhhR25wTW9jem5nWGJoX0Zzd29Yb3hGUTVaV1lyRVFPc2gwNUxzUVFrME0?oc=5",
+        "source": "World Health Organization (WHO)",
+        "published_at": "2026-05-17T00:45:10+00:00",
+        "summary": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO)"
+      },
+      {
+        "title": "U.S. raises Uganda and Rwanda travel alerts due to Ebola outbreak",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDl6SFRiclpSYlNOMUJVRDZNQklGY1JxcFd4Q0dNRXVxeWV5TmxZSWdfNnYwUlhDUnlkbHlUNEVHNlZCMjZBdUpHMjNQS0xUOGY2cmplazRZV2N1ZF8xT1h1VVZqSWJuQUJ0MEFNZE14c2RMNHk0Qzh2QWJLSUxFU1gxY0JoWEVpWWxuVFJsQ29tdkhueWh6bnFTbHB1akpxMjNCWVJOUkdpUHkzQnpn?oc=5",
+        "source": "Travel Weekly",
+        "published_at": "2026-05-19T17:06:39+00:00",
+        "summary": "U.S. raises Uganda and Rwanda travel alerts due to Ebola outbreak Travel Weekly"
+      }
+    ],
+    "related_queries": [
+      "Uganda bans hugs and handshakes as two cases of Ebola are confirmed",
+      "Gov’t releases school guidelines amid Ebola outbreak",
+      "Health: Ebola: Uganda Tourism Board guarantees visitor safet"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "uganda Live Trend Tracker | HantaUpdates",
+      "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pro",
+      "canonical": "https://hantamap.online/trend/uganda",
+      "keywords": [
+        "uganda",
+        "uganda tracker",
+        "uganda updates",
+        "uganda live updates",
+        "uganda outbreak",
+        "uganda symptoms",
+        "uganda public health",
+        "uganda source links"
+      ]
+    },
+    "first_seen_at": "2026-05-17T18:14:42+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "4bb980e30ec40df703",
     "slug": "ebola",
     "keyword": "ebola",
@@ -1497,53 +1570,53 @@
     "views_hint": 0
   },
   {
-    "id": "32e45c44670d130f0e",
-    "slug": "uganda",
-    "keyword": "uganda",
-    "title": "uganda trend tracker",
-    "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Reuters.",
+    "id": "d58535fdc4aa6f4c50",
+    "slug": "what-is-ebola",
+    "keyword": "what is ebola",
+    "title": "what is ebola trend tracker",
+    "description": "what is ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
     "category": "public-health",
-    "geo": "AT",
+    "geo": "ZA",
     "search_volume": "100+",
     "traffic_label": "100+",
-    "published_at": "2026-05-17T17:40:00+00:00",
-    "updated_at": "2026-05-17T18:14:42+00:00",
+    "published_at": "2026-05-19T17:30:00+00:00",
+    "updated_at": "2026-05-19T17:45:45+00:00",
     "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=AT",
+    "source_url": "https://trends.google.com/trending/rss?geo=ZA",
     "sources": [
       {
-        "title": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaVdNLS1iQmlTb0JLUERsUzRLS1N5MWJSQVNiR285d1ZBOF84Y2RsWl9fSTZYNlFuXzdyUkxjYVg3T1VNckpCaFRMLTFmRkMwOXRKOUJsQ2FyYmVDVWtLaTlZNHk4dDJYeGQ1M0JqUExlYzZRY0dJM1d6ME1IQzg1UDJPUTRNOVBoWER0SnRNQXZaUElVbVpvdnRadjM2UHdqWW96YzdjM1VMRTgzTzBudnlLMllhcTJ2VDhYcEN4UFJNOFQwRGFPZUx0V2lqVlNsT3c?oc=5",
-        "source": "Reuters",
-        "published_at": "2026-05-17T00:10:00+00:00",
-        "summary": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern Reuters What is Ebola and why is WHO treating outbreak as global health emergency? The Guardian WHO declares Ebola outbreak in DRC, Uganda a global emergency: What to know Al Jazeera WHO declares global health emergency over Ebola outbreak in Congo and Uganda NBC News WHO declares Ebola outbreak in Congo and Uganda a global health emergency, with at least 80 dead CBS News Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo"
+        "title": "'Ebola has tortured us': Fear as DR Congo outbreak spreads",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbUNZMk50Nk5FcGY1ZXVvLUtPN2hwaFlOWmVfWDRQUzFYMDg3aUtpTFhxaFpWQWh5ckRzcG1CV3VqSjViQjJoZEdFRS1QdnpyMUVNdWdMeEt4dw?oc=5",
+        "source": "BBC",
+        "published_at": "2026-05-19T14:20:15+00:00",
+        "summary": "'Ebola has tortured us': Fear as DR Congo outbreak spreads BBC What we know about the latest Ebola outbreak after WHO declares global health emergency CNN As Ebola outbreak spreads in DRC and Uganda, what is risk to US? Good Morning America Why this Ebola outbreak will be so difficult to contain The Washington Post What to Know About the Ebola Outbreak as Cases and Deaths Rise The New York Times Ebola deaths rise sharply as outbreak’s ‘scale and speed’ worry WHO chief NBC News This Ebola outbreak raises questions about when it all began — and the U.S. response NPR The Ebola outbreak started we"
       },
       {
-        "title": "Elon Musk’s Starlink secures approval to operate in Uganda after prolonged regulatory standoff",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxONGxEaFVYdFNHQ3hPMmZMOGVtRnB3dDhjMjFFNHBPSTZLdVRPaWJBel9zem5kdHAyWXZvSGlTWnByUElQdmJtNGpOSXctRHpFZ3RaajBtbi1SenZFVy1yd3BZSG85T1FMUkNqR2pYaUQ1NXNWbHVsUGtNYUtlV2FhaTJ6T0JDaWI3QjJKUTJUaVhxcTZvWHJpSTdmVG13N1FxUGF2d281a2VwM0w5RklzZWZzTzMwb2JYVDk4TDlHVkk2ajJoaEhmZW8wYnRYdkNDbFc4TGVZM3E?oc=5",
-        "source": "Business Insider Africa",
-        "published_at": "2026-05-16T04:00:13+00:00",
-        "summary": "Elon Musk’s Starlink secures approval to operate in Uganda after prolonged regulatory standoff Business Insider Africa"
+        "title": "Ebola international emergency, hantavirus update, ticks, heat, opioid deaths decline, and more.",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnFGOGREZzktNnNrc2pYaVc5OG1GVmRzMnB1ZnA5VXdDM29yclFKU0JRWk9YX18za19NRUVLSGhpTlhXcnJ4bUI1OHBwYjFldWttSm1JYmM0TzhHSkgzaUJjS3hwRW1YNlVMcUg4X29TcHBTU3NaNkJjeTViMlhwQ05uXy1kRllVMV9VRGg0WHc?oc=5",
+        "source": "Your Local Epidemiologist",
+        "published_at": "2026-05-19T10:31:36+00:00",
+        "summary": "Ebola international emergency, hantavirus update, ticks, heat, opioid deaths decline, and more. Your Local Epidemiologist"
       },
       {
-        "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLWc5YmNSd040d0pkM2czRzRXWmNBdk9NemR2MjE0RFF3eUg4TmpqQWNpYUpvbjdfbXRQVi1LUC1nbWdBQXRJaE9obE9oSGZ4M0lFY0VpOFVwb3ZLWjVnY3BjZkc1eERKOC1IbGt4cXZBX1lXVGxHZ3Q5c0RESnFTelNETGE4VW0tdnNNTjBRMEgzaFAzNVFPZ29INDN1MzN4MmM3SkhWSHJQUENwN21GbDhNLUdUOUhsbEpDS3VJMDhxWHBDZmt1THQwSzg0ZzZIdC0xRnFZT1VRRFNDaFZ1ZjhhR25wTW9jem5nWGJoX0Zzd29Yb3hGUTVaV1lyRVFPc2gwNUxzUVFrME0?oc=5",
-        "source": "World Health Organization (WHO)",
-        "published_at": "2026-05-17T00:45:10+00:00",
-        "summary": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO)"
+        "title": "What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wVERtZkpCMzNrZ1lKNHVlQ1RaS2N1QVcyaVRMT3JTV2puMTVvWm1IUEhVWklQVVFteDkyWEtXbmRiRHY5alpBN0hydEJuZDF6WXhxa003NXRqdw?oc=5",
+        "source": "BBC",
+        "published_at": "2026-05-19T12:24:50+00:00",
+        "summary": "What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'? BBC"
       },
       {
-        "title": "WHO declares Ebola outbreak in Congo and Uganda a global health emergency",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZWcydzM1S2RHZVFXUThUTWc0UnJOYmtpUlh3VHc4LVpJWXdyMW1NVkhwN0ZnejJ4NVdFMXBjZGVIOU9yX084a2JOc0NGd3ZnMVhVTzRpODdYRjR3Uy1McnNRMC1OME1aVWVoTkdxOGotWEltbEppc3k0Q0hVRTZmaTc1SW5VNmpiQVc2eUE4SXFDcHFHdWp5bk52bFBMWERqLWc4TmFITVMxQk1a?oc=5",
-        "source": "PBS",
-        "published_at": "2026-05-17T12:58:14+00:00",
-        "summary": "WHO declares Ebola outbreak in Congo and Uganda a global health emergency PBS"
+        "title": "Ebola outbreak in DRC and Uganda: What you need to know",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFgyVm1mcHUzYV8yX25OeWhvZ2I1WkpCVkpuODdOa0Y0Wks0Skx4U2hpYzJpdnlZZ0dwTUhqd1FiMU5NUFRMTU03bUpXd1hBd1NpZHgzc1lqODNkemlaVm5aZHp5WEpmTVlaZ0d2TTRiVTlQYkVyZ2o4SWJKOVJydkplVWE2dw?oc=5",
+        "source": "International Rescue Committee",
+        "published_at": "2026-05-19T14:08:25+00:00",
+        "summary": "Ebola outbreak in DRC and Uganda: What you need to know International Rescue Committee"
       }
     ],
     "related_queries": [
-      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
-      "WHO declares Ebola outbreak in DR Congo an international emergency",
-      "WHO says Ebola outbreak in DRC and Uganda is ‘emergency’ of international concern"
+      "'Ebola has tortured us': Fear as DR Congo outbreak spreads",
+      "WHO worried about 'scale and speed' of deadly Ebola outbreak",
+      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern"
     ],
     "map_focus": {
       "label": "Global",
@@ -1552,21 +1625,21 @@
       "zoom": 2
     },
     "seo": {
-      "title": "uganda Live Trend Tracker | HantaUpdates",
-      "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pro",
-      "canonical": "https://hantamap.online/trend/uganda",
+      "title": "what is ebola Live Trend Tracker | HantaUpdates",
+      "description": "what is ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links with",
+      "canonical": "https://hantamap.online/trend/what-is-ebola",
       "keywords": [
-        "uganda",
-        "uganda tracker",
-        "uganda updates",
-        "uganda live updates",
-        "uganda outbreak",
-        "uganda symptoms",
-        "uganda public health",
-        "uganda source links"
+        "what is ebola",
+        "what is ebola tracker",
+        "what is ebola updates",
+        "what is ebola live updates",
+        "what is ebola outbreak",
+        "what is ebola symptoms",
+        "what is ebola public health",
+        "what is ebola source links"
       ]
     },
-    "first_seen_at": "2026-05-17T18:14:42+00:00",
+    "first_seen_at": "2026-05-19T17:45:45+00:00",
     "views_hint": 0
   },
   {
