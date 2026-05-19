@@ -438,6 +438,79 @@
     "views_hint": 0
   },
   {
+    "id": "adc07c70a7331c358c",
+    "slug": "ebola-virus",
+    "keyword": "ebola virus",
+    "title": "ebola virus trend tracker",
+    "description": "ebola virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNN.",
+    "category": "public-health",
+    "geo": "AE",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-05-19T18:30:00+00:00",
+    "updated_at": "2026-05-19T22:43:50+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=AE",
+    "sources": [
+      {
+        "title": "Potential spread of Ebola warrants ‘serious concern,’ WHO chief says",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVExwX3BfdGUwOFZRdG9NUDlLNG1xNUlkbnI0QWVoZHBqZTBJc2R5SE1IRjU2Z181YnVtaTR5aDdJQURTN0Fzc3dHcHNlT1Uwc1o4NTRrSk9BVnlWX1h4TUozMmFkWUQ0V3czaWcwQnlHNkJCbEh4TmlxWDVQbVFnV2pockk?oc=5",
+        "source": "CNN",
+        "published_at": "2026-05-19T10:16:52+00:00",
+        "summary": "Potential spread of Ebola warrants ‘serious concern,’ WHO chief says CNN This Ebola outbreak raises questions about when it all began — and the U.S. response NPR Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda Centers for Disease Control and Prevention | CDC (.gov) Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says The New York Times Why this Ebola outbreak will be so difficult to contain The Washington Post Trump 'Concerned' About Ebola Outbreak After American Tests Positive for Virus and Deaths Rise Time Magazine This Ebola Outbreak Will Be Hard to Cont"
+      },
+      {
+        "title": "Texas Impact: Ebola outbreak sparks travel rules ahead of World Cup matches",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWFFJR01vNVdPcUhGaHotRlVoYTg5aWF2Si1CR0N3bGQ4ZmVSMTZ0UzVQcW5BVm5xbmhiWWtRYWlFUUNPSElqaXgwWlRSamtnckF1NjV3aktoNWtsRVVyWVpYQUJXYnk0R0NjRnE3R2VGSGdjaG9ZLWRZbllVRUF5VEh6NTZ6R1RDMVHSAY8BQVVfeXFMT1BubHRSVFFGakVMdWRGc0g0azJON0x4aUkxdDFnbTVHRnJ4dEpmRlZ5MC15SXA2YVBwV3lzQ01BUFRYVkJ6NEVzbEZHbVd4WUpVSy15Uk90anBZMDcyVmVjYWF5U0hOMXllTkhFZ3lLaTFwM20zbjAxbFNad0pCUjJWNjRWLXByMHZSR3FkWkE?oc=5",
+        "source": "FOX 4 News Dallas-Fort Worth",
+        "published_at": "2026-05-19T13:30:09+00:00",
+        "summary": "Texas Impact: Ebola outbreak sparks travel rules ahead of World Cup matches FOX 4 News Dallas-Fort Worth"
+      },
+      {
+        "title": "'Ebola has tortured us': Fear as DR Congo outbreak spreads",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbUNZMk50Nk5FcGY1ZXVvLUtPN2hwaFlOWmVfWDRQUzFYMDg3aUtpTFhxaFpWQWh5ckRzcG1CV3VqSjViQjJoZEdFRS1QdnpyMUVNdWdMeEt4dw?oc=5",
+        "source": "BBC",
+        "published_at": "2026-05-19T19:32:22+00:00",
+        "summary": "'Ebola has tortured us': Fear as DR Congo outbreak spreads BBC"
+      },
+      {
+        "title": "What to Know About the Ebola Outbreak as Cases and Deaths Rise",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHV6V1hhbU9LLU1vQVg2a21DRldHRU1ILWpjaEZLcUhpMkhiTnJFaDhPUjAtQ0tPTUpGazdtWUpDWEw2eDFEQmZzRzRfMVB4dVNoTEZmRVRpdVFISmtCNEFqOVEwVnYxM1h6c21DblJkQy04QTV5emFjakFlYWFMa3hSQ1Y?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-05-19T21:30:00+00:00",
+        "summary": "What to Know About the Ebola Outbreak as Cases and Deaths Rise The New York Times"
+      }
+    ],
+    "related_queries": [
+      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+      "DRC Ebola outbreak: hundreds of suspected cases, no vaccine",
+      "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola virus Live Trend Tracker | HantaUpdates",
+      "description": "ebola virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/ebola-virus",
+      "keywords": [
+        "ebola virus",
+        "ebola virus tracker",
+        "ebola virus updates",
+        "ebola virus live updates",
+        "ebola virus outbreak",
+        "ebola virus symptoms",
+        "ebola virus public health",
+        "ebola virus source links"
+      ]
+    },
+    "first_seen_at": "2026-05-16T18:08:12+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "bea8deb517e8f5e234",
     "slug": "hantavirus-outbreak-canada",
     "keyword": "hantavirus outbreak canada",
@@ -581,6 +654,79 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "4a4969a2e280656a86",
+    "slug": "mouse",
+    "keyword": "mouse",
+    "title": "mouse trend tracker",
+    "description": "mouse is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: NBC News.",
+    "category": "public-health",
+    "geo": "AU",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-19T21:50:00+00:00",
+    "updated_at": "2026-05-19T22:43:18+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=AU",
+    "sources": [
+      {
+        "title": "Where does hantavirus lurk in the U.S.? Scientists found ‘hot spots’ in surprising areas",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxORDJ0dnhpdUFWX3VKeE01cENXRzRCenMxQ21fUC16RlAtTS1hU09IMnAyZWZQUWhMM2NRaDFGMFhsV01vS0tYU19hWXhzbnhDaUs4QzVWS3VxNFNBUWhLcEo0ckVFdTRHdGZoOE93b1ZVRFZwMk5mdkFlQWZFLWtiT0V3SXdiR0R4VG5RWENyNm9zVlF2ajNMN0hKbnlWQ1VlRVVPYW05QjlKWUVmLUJaTmVYeXBDTGxa?oc=5",
+        "source": "NBC News",
+        "published_at": "2026-05-17T10:30:40+00:00",
+        "summary": "Where does hantavirus lurk in the U.S.? Scientists found ‘hot spots’ in surprising areas NBC News"
+      },
+      {
+        "title": "Cannabis Linked to Lower Weight And Reduced Diabetes Risk in Mouse Study",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPaDdTNVpQSGdicC1LMllSbF91U0RFS1U5Y0hWN3EwVWVSYlljVkoxV0RIcU9yQUtOR0xpMGNPOXJHZ01BMzZrZ3NtemY2d3BmNzRZN211ZUJnRjZQdXFERXZEQ2tCNjd2eG0xZGJUY3VEdG5aUVBvQTBUQlJHNWxqNEhIU1NYc2VLRjBjN08wRFZ1aUJKcE94YnZDUmV0dTFLaF9j?oc=5",
+        "source": "ScienceAlert",
+        "published_at": "2026-05-19T03:18:03+00:00",
+        "summary": "Cannabis Linked to Lower Weight And Reduced Diabetes Risk in Mouse Study ScienceAlert"
+      },
+      {
+        "title": "Mouse Plague Drives Australia to Allow Potent Bait to Save Crops",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZVg1Z2dWMFdsUnl0empya2dvZWhsdVlmN1Q4cXNWTTBrYVM5c0NDWmdnMFdpNlV0RndLNWE0X2pBV3JMQ0tUSTFObUxoamdkS0dQcmE4ZWFyRDNJRUZLcndLZkZZZ0lTQ1N5NlZITEpGS0M3RTgxYXU1WlFSOC1lMzdRRENnN0dsenZIdmwycy05dnJUWXk5eVROYXoxV3ZGbXg0Nnh5UUtxYW50WHBsS19taDd1Zw?oc=5",
+        "source": "Bloomberg.com",
+        "published_at": "2026-05-18T07:15:34+00:00",
+        "summary": "Mouse Plague Drives Australia to Allow Potent Bait to Save Crops Bloomberg.com"
+      },
+      {
+        "title": "How to Buy The New Citizen Mickey Mouse £280 Eco-Drive With a Football-Inspired Metallic Green Dial",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQM2J0Z2dLN1dyeXJhSHl5dDFIVF95U25uNE1oOWUwd2MzaXR1b0UxbVU3UU9TWjN1cGZoNmQ5RnAxcXdLQ0VfNm9ReWlLTWw5MXUxMEFaU2tSazZ2bUxGdWpqMmRtLUlZUXNFRTNHN0JrSnZjMnN6VE83d0hwWUd6UVgyTmVla09DLVBQNVBvSGJMOHlsOVVUOVo2YXA5TG1pcHA3aW1YeFRmRHFMUVJLdmM0YWhGYjlfWVE?oc=5",
+        "source": "Esquire",
+        "published_at": "2026-05-18T10:19:01+00:00",
+        "summary": "How to Buy The New Citizen Mickey Mouse £280 Eco-Drive With a Football-Inspired Metallic Green Dial Esquire"
+      }
+    ],
+    "related_queries": [
+      "A mouse plague has broken out, here's what you need to know",
+      "WA’s regions have been hit by thousands of mice. Will stronger baits help turn the tide?",
+      "Farmers given new weapon in fight against mouse plague gripping rural Australia"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "mouse Live Trend Tracker | HantaUpdates",
+      "description": "mouse is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/mouse",
+      "keywords": [
+        "mouse",
+        "mouse tracker",
+        "mouse updates",
+        "mouse live updates",
+        "mouse outbreak",
+        "mouse symptoms",
+        "mouse public health",
+        "mouse source links"
+      ]
+    },
+    "first_seen_at": "2026-05-19T22:43:18+00:00",
     "views_hint": 0
   },
   {
@@ -800,79 +946,6 @@
       ]
     },
     "first_seen_at": "2026-05-17T18:14:15+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "61945211ce6954af2f",
-    "slug": "ebola-virus",
-    "keyword": "ebola virus",
-    "title": "ebola virus trend tracker",
-    "description": "ebola virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
-    "category": "public-health",
-    "geo": "AU",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-05-17T07:50:00+00:00",
-    "updated_at": "2026-05-17T08:36:09+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=AU",
-    "sources": [
-      {
-        "title": "WHO declares Ebola outbreak in DR Congo a global health emergency",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wWW1NemgwbjdYVFJZZGlOVTZrdUd2R2p5d3lKeFlSS2NoWkU0dU9KZmJFcjRPLTJBYkxYMjhWX3ZqX0M4V19ZNHBTcU1SUDNNMDF1R1hkOGxPQQ?oc=5",
-        "source": "BBC",
-        "published_at": "2026-05-17T02:55:08+00:00",
-        "summary": "WHO declares Ebola outbreak in DR Congo a global health emergency BBC World Health Organization declares Ebola outbreak in Congo a global health emergency NPR WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency Al Jazeera W.H.O. Declares Ebola Outbreak a Global Health Emergency The New York Times Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO) WHO declares Ebola outbreak in Congo and Uganda ‘emergency’ of international conce"
-      },
-      {
-        "title": "New Ebola outbreak in Congo suspected of causing 15 deaths",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlRIRmtNYjlCNDU2SS1xSDhqS19oN2JrVUIwTWxoYWhvbGpCekhkSmNxUmNCZF9MTkVGU2daZE5OTEh2akpNdG9ybWhwT3JqY0ZMSXB4TDBRd3hQaFhiZzNxY0FObDJGcEszd2xhTFdiSDlDNkJQbklXVUp3c0hzRU9PUjZfUms?oc=5",
-        "source": "AP News",
-        "published_at": "2025-09-04T07:00:00+00:00",
-        "summary": "New Ebola outbreak in Congo suspected of causing 15 deaths AP News"
-      },
-      {
-        "title": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSGFES1R4VTFWMlJyU05fTXV6NGp1RjNuVWJOUXJnR2xpWDJ1SFQ0TU44NDlJTUcwdTJ6TlZYWl95ZkR4cWR2anBwbDJrM21TWGJtVU5RNlFOZlVPcV9wUkM1ZGk3MndVckE2cXVkNHR6Z0JIczF1ZFNzN056aWliNFVtNFotUURVQllaYWdlUlh5WmQ0cVJDMXhzREhJRS0wRHQzY0RtVGVFWWg3?oc=5",
-        "source": "NBC News",
-        "published_at": "2026-05-17T05:05:00+00:00",
-        "summary": "WHO declares global health emergency over Ebola outbreak in Congo and Uganda NBC News"
-      },
-      {
-        "title": "Death toll climbs to at least 80 in Congo Ebola outbreak",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTVhacVVVWVlUWHlYNGxrZ2U3LThXcjdlVE1YOEROb2hST3JXVDdsUmRENkQxdWV5UEZMYlVXRHhPQ1JWTzBvOWI2cndlaXlhVmNZZFdneFhqUERXYlYxNDBmUjhYazU3blRvY2dNbmRuTDBYWU05RzlYUFV5ZHNoWDdQZldtZkdhdVBJRXBTNHJnX2xJbHc?oc=5",
-        "source": "PBS",
-        "published_at": "2026-05-16T14:45:29+00:00",
-        "summary": "Death toll climbs to at least 80 in Congo Ebola outbreak PBS"
-      }
-    ],
-    "related_queries": [
-      "WHO declares Ebola outbreak in Congo and Uganda ‘emergency’ of international concern",
-      "WHO declares Ebola outbreak in DR Congo a global health emergency",
-      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "ebola virus Live Trend Tracker | HantaUpdates",
-      "description": "ebola virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
-      "canonical": "https://hantamap.online/trend/ebola-virus",
-      "keywords": [
-        "ebola virus",
-        "ebola virus tracker",
-        "ebola virus updates",
-        "ebola virus live updates",
-        "ebola virus outbreak",
-        "ebola virus symptoms",
-        "ebola virus public health",
-        "ebola virus source links"
-      ]
-    },
-    "first_seen_at": "2026-05-16T18:08:12+00:00",
     "views_hint": 0
   },
   {
