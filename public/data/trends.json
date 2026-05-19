@@ -511,6 +511,79 @@
     "views_hint": 0
   },
   {
+    "id": "7ea5659df41287d497",
+    "slug": "ebola-symptoms",
+    "keyword": "ebola symptoms",
+    "title": "ebola symptoms trend tracker",
+    "description": "ebola symptoms is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: World Health Organization (WHO).",
+    "category": "public-health",
+    "geo": "AU",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-19T08:30:00+00:00",
+    "updated_at": "2026-05-19T08:48:03+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=AU",
+    "sources": [
+      {
+        "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLWc5YmNSd040d0pkM2czRzRXWmNBdk9NemR2MjE0RFF3eUg4TmpqQWNpYUpvbjdfbXRQVi1LUC1nbWdBQXRJaE9obE9oSGZ4M0lFY0VpOFVwb3ZLWjVnY3BjZkc1eERKOC1IbGt4cXZBX1lXVGxHZ3Q5c0RESnFTelNETGE4VW0tdnNNTjBRMEgzaFAzNVFPZ29INDN1MzN4MmM3SkhWSHJQUENwN21GbDhNLUdUOUhsbEpDS3VJMDhxWHBDZmt1THQwSzg0ZzZIdC0xRnFZT1VRRFNDaFZ1ZjhhR25wTW9jem5nWGJoX0Zzd29Yb3hGUTVaV1lyRVFPc2gwNUxzUVFrME0?oc=5",
+        "source": "World Health Organization (WHO)",
+        "published_at": "2026-05-17T00:45:10+00:00",
+        "summary": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO) Ebola strain in Congo, Uganda has no vaccine, no treatment for often deadly symptoms CBS News What to Know About the Ebola Outbreak, as U.S. Restricts Travelers The New York Times Opinion | Why Congo’s Ebola outbreak is far more alarming than hantavirus The Washington Post With no approved vaccine for Ebola outbreak, experts weigh testing a long shot statnews.com Congo opens more centers to treat ra"
+      },
+      {
+        "title": "Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda",
+        "url": "https://news.google.com/rss/articles/CBMiowJBVV95cUxOak5PTEhnbVpQaFUtRFdMdlpoUGMwYS1HVGNLbVY2NnJGMzI0NU00eEtLQXFzMWtuUlpYYXM1YkN2X2x6ZTFKcXJaeU5ULURTRTZvRUcxYlNQY3hsYkZzQTdROHVvcGtHU3g3aHNRWmJCQ0F0bERxY0dnelQ5ZmhMUHRCOHpLN2lZRC1yRXBvVHM5ODBON0x1Y2VSaklvTW02U2NZMG9GZ0x3Y0RPdWF3U3VWV1p1bHlBNG5lTTF5TllZVV9aMllocklqWEQtX2JjX0FYV2hxM1luMmhOTUFrSDBlQ19xNUxHREJnNTdoZW1yM082b2xVNmNRLTJIbHUyQ1VNRGMybEk5M29qN0RDbDBDQWFRQ0Vldmk4ajJBUUdTNWM?oc=5",
+        "source": "Africa CDC",
+        "published_at": "2026-05-16T07:45:43+00:00",
+        "summary": "Africa CDC Calls for Urgent Regional Coordination Following Ebola Virus Disease Outbreak in Ituri Province, DRC, and Imported Ebola Bundibugyo Case Reported by Uganda Africa CDC"
+      },
+      {
+        "title": "American Doctor Has Ebola, Will Be Transferred for Care",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQLVdvajdOZ1hRUXJWREg2ajF1Mk9WRHBxWm1KczF1V3g1RHAtWDJxWGJacFZkQWc4SHVPR3VNM0czU21OR1pJTnRSUDFxZFVXa0dCY0RqdWtMS29qTW96M2lsZ0RnOGZMNTA0d1FORjJGQUg1M0Z5c2FTVmhjU1JJbFhoSV9VWGtoeVMxSXdrUi1icUY0VXR6WGVDczVEd2dJM3NYMFdaN0FyQlJjRmUw?oc=5",
+        "source": "Medscape",
+        "published_at": "2026-05-18T20:28:16+00:00",
+        "summary": "American Doctor Has Ebola, Will Be Transferred for Care Medscape"
+      },
+      {
+        "title": "American tests positive for Ebola; U.S. to screen travelers at airports",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYW5FTWdWSWpjMGowc3NfWHM4UWlrUy1vZlFfMlh4bDFqdHc1NzhGX3o3MjcwaExJNkQ1SDRVdHVPbkMtcmhkSkpiN2pMQXBueXFVRERnXzFKeTZXSEJKVk05c3JNU0lmQ29oeG5IeVM0RkFvcF9SMFBrVTFicWlZN2Z4VXFxUDJzNHROZ0s5OUJReWlQa01FeVBwR0tfdllWSGpMajh2dGFnZGtLcmNRdnYyUFlDY2NaZjJv?oc=5",
+        "source": "The Washington Post",
+        "published_at": "2026-05-19T05:25:00+00:00",
+        "summary": "American tests positive for Ebola; U.S. to screen travelers at airports The Washington Post"
+      }
+    ],
+    "related_queries": [
+      "At least 131 dead in Ebola outbreak in DR Congo, official says",
+      "What is Ebola? - Behind The News",
+      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola symptoms Live Trend Tracker | HantaUpdates",
+      "description": "ebola symptoms is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links wit",
+      "canonical": "https://hantamap.online/trend/ebola-symptoms",
+      "keywords": [
+        "ebola symptoms",
+        "ebola symptoms tracker",
+        "ebola symptoms updates",
+        "ebola symptoms live updates",
+        "ebola symptoms outbreak",
+        "ebola symptoms symptoms",
+        "ebola symptoms public health",
+        "ebola symptoms source links"
+      ]
+    },
+    "first_seen_at": "2026-05-19T08:48:03+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "05cc403af7c4ead28d",
     "slug": "drachten",
     "keyword": "drachten",
