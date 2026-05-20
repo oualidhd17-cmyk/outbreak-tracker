@@ -292,79 +292,6 @@
     "views_hint": 0
   },
   {
-    "id": "4bb980e30ec40df703",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The New York Times.",
-    "category": "public-health",
-    "geo": "DK",
-    "search_volume": "1000+",
-    "traffic_label": "1000+",
-    "published_at": "2026-05-17T03:10:00+00:00",
-    "updated_at": "2026-05-17T08:37:09+00:00",
-    "score": 1000,
-    "source_url": "https://trends.google.com/trending/rss?geo=DK",
-    "sources": [
-      {
-        "title": "W.H.O. Declares Ebola Outbreak a Global Health Emergency",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNTlBNcWJWdDIyakJkanY1eTFnLUJYaU10S0FXbzNrNWtfeDhJczA0c1VSeUZHejdWelNjZjZNVWZ2SW1HOUVJblNXeVZJV2p1UTJ2SDdRbFJKX29KMC1YQmF3allUaTV1NHJLSjNnblRrMVNYR2toLWxuY0lZYWU0TEt1dHVSc2dqdmhfemhYTjUzOXFOdmU2eGxJLXJzVmta?oc=5",
-        "source": "The New York Times",
-        "published_at": "2026-05-17T05:48:22+00:00",
-        "summary": "W.H.O. Declares Ebola Outbreak a Global Health Emergency The New York Times World Health Organization declares Ebola outbreak in Congo a global health emergency NPR WHO declares global health emergency over Ebola outbreak in Congo and Uganda AP News Latest Ebola outbreak an emergency of international concern, WHO declares CNN At least 80 dead as Congo grapples with Ebola outbreak; WHO declares public health emergency CBS News No vaccine for new highly lethal Ebola outbreak, DR Congo warns, as death toll hits 80 France 24 WHO Declares Congo Ebola Outbreak Global Health Emergency Bloomberg.com W"
-      },
-      {
-        "title": "New Ebola outbreak in Congo suspected of causing 15 deaths",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVlRIRmtNYjlCNDU2SS1xSDhqS19oN2JrVUIwTWxoYWhvbGpCekhkSmNxUmNCZF9MTkVGU2daZE5OTEh2akpNdG9ybWhwT3JqY0ZMSXB4TDBRd3hQaFhiZzNxY0FObDJGcEszd2xhTFdiSDlDNkJQbklXVUp3c0hzRU9PUjZfUms?oc=5",
-        "source": "AP News",
-        "published_at": "2025-09-04T07:00:00+00:00",
-        "summary": "New Ebola outbreak in Congo suspected of causing 15 deaths AP News"
-      },
-      {
-        "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLWc5YmNSd040d0pkM2czRzRXWmNBdk9NemR2MjE0RFF3eUg4TmpqQWNpYUpvbjdfbXRQVi1LUC1nbWdBQXRJaE9obE9oSGZ4M0lFY0VpOFVwb3ZLWjVnY3BjZkc1eERKOC1IbGt4cXZBX1lXVGxHZ3Q5c0RESnFTelNETGE4VW0tdnNNTjBRMEgzaFAzNVFPZ29INDN1MzN4MmM3SkhWSHJQUENwN21GbDhNLUdUOUhsbEpDS3VJMDhxWHBDZmt1THQwSzg0ZzZIdC0xRnFZT1VRRFNDaFZ1ZjhhR25wTW9jem5nWGJoX0Zzd29Yb3hGUTVaV1lyRVFPc2gwNUxzUVFrME0?oc=5",
-        "source": "World Health Organization (WHO)",
-        "published_at": "2026-05-17T00:45:10+00:00",
-        "summary": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO)"
-      },
-      {
-        "title": "What to know about the Ebola outbreak that the WHO has declared a global health emergency",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUmJrcDhBR2lUUkh2UUk0OUlVc1VJUTE0Q29GTFVyVTJBanRGSjdBdzdobHVhc2w5ckxIeWJxV1hpMzVZajB1VzZqcEVCcE9YbVJ1Q0xFVHMzdlFSRGxKakdtd2FPOHlYWjltUEpOUUNPV1hja2lFcmM1Sy1QMlJyTkdkbl9YTy1palVCTksxWW9abFlx?oc=5",
-        "source": "AP News",
-        "published_at": "2026-05-17T06:21:00+00:00",
-        "summary": "What to know about the Ebola outbreak that the WHO has declared a global health emergency AP News"
-      }
-    ],
-    "related_queries": [
-      "WHO declares Ebola outbreak in DR Congo a global health emergency",
-      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
-      "WHO declares Ebola outbreak in Congo and Uganda ‘emergency’ of international concern"
-    ],
-    "map_focus": {
-      "label": "France",
-      "lat": 46.2276,
-      "lng": 2.2137,
-      "zoom": 5
-    },
-    "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
-      "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "c5ed69d66a9d724659",
     "slug": "hantavirus-cases",
     "keyword": "hantavirus cases",
@@ -1640,6 +1567,79 @@
       ]
     },
     "first_seen_at": "2026-05-10T15:38:16+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "4bb980e30ec40df703",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNN.",
+    "category": "public-health",
+    "geo": "DK",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-05-20T04:40:00+00:00",
+    "updated_at": "2026-05-20T10:40:19+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=DK",
+    "sources": [
+      {
+        "title": "Potential spread of Ebola warrants ‘serious concern,’ WHO chief says",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVExwX3BfdGUwOFZRdG9NUDlLNG1xNUlkbnI0QWVoZHBqZTBJc2R5SE1IRjU2Z181YnVtaTR5aDdJQURTN0Fzc3dHcHNlT1Uwc1o4NTRrSk9BVnlWX1h4TUozMmFkWUQ0V3czaWcwQnlHNkJCbEh4TmlxWDVQbVFnV2pockk?oc=5",
+        "source": "CNN",
+        "published_at": "2026-05-19T10:16:52+00:00",
+        "summary": "Potential spread of Ebola warrants ‘serious concern,’ WHO chief says CNN What to know about the outbreak of a rare kind of Ebola as cases and deaths rise AP News What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'? BBC Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says The New York Times This U.S. doctor went to Congo to heal others. Then Ebola hit his hospital. The Washington Post American doctor with Ebola flown to Germany as wife and four children are monitored NBC News Why health officials are worried about containing the Ebola outbreak Axios The fast"
+      },
+      {
+        "title": "What Ebola is — and why it's not a pandemic",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPTldta18wd1FjdFFHN3ZzU3pOSzJyTnNZSElQUldUd09NcDlHbS1sWVlBZUtqSGRuR2J5bDZpWjhoZjdtZHhLdlZtYUgzaFpySHlNVERUZ2dIbWhYSnBtQVhhSUtVbWJoQ0FIQ0ZjUFhudFUxTnVWRlpRanJ1OFZhZ3VFMG5oNU8wTjY3NjNZcFBla2lKZFE?oc=5",
+        "source": "Axios",
+        "published_at": "2026-05-20T10:29:45+00:00",
+        "summary": "What Ebola is — and why it's not a pandemic Axios"
+      },
+      {
+        "title": "Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAySUhsald1T2Z1Wk5pcHhHMlhzZExOWHFETW9IQjFBZTlSaXVsYnRrOUVuTEg1UUFLV2dOdks1Z0x2N2xlNXYyeEMzSGtPakhwUjlyLUZVUXpMUDNIbFE?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-05-19T21:42:03+00:00",
+        "summary": "Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "Ebola outbreak in the Democratic Republic of the Congo prompts public health emergency and U.S. border restrictions",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1UclBBVHdMQUJOb2VYN25ockdSUnZ0ZV9sR1I2X1lCMEFRM0h1Q3o0bDhtbm1rc2J2YjNBaEdNZFBJcjZyYnlJd1Zoay1JMktuR2pqZG9MRk5kQQ?oc=5",
+        "source": "UCHealth",
+        "published_at": "2026-05-19T20:23:55+00:00",
+        "summary": "Ebola outbreak in the Democratic Republic of the Congo prompts public health emergency and U.S. border restrictions UCHealth"
+      }
+    ],
+    "related_queries": [
+      "'Ebola has tortured us': Fear grips eastern DR Congo as deadly virus spreads",
+      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+      "Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says"
+    ],
+    "map_focus": {
+      "label": "Germany",
+      "lat": 51.1657,
+      "lng": 10.4515,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
     "views_hint": 0
   },
   {
