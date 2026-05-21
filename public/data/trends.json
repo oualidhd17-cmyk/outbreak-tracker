@@ -365,6 +365,79 @@
     "views_hint": 0
   },
   {
+    "id": "0f7b197e2b29a59db4",
+    "slug": "piet-maes",
+    "keyword": "piet maes",
+    "title": "piet maes trend tracker",
+    "description": "piet maes is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Brussels Times.",
+    "category": "public-health",
+    "geo": "BE",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-05-21T06:20:00+00:00",
+    "updated_at": "2026-05-21T08:50:14+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=BE",
+    "sources": [
+      {
+        "title": "'Toxic climate' and claims of harassment at KU Leuven laboratory",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZVdHTU9FZkxld2dJUUh1a3NvVEc3bnJMZklQYjF0djdoUG5jdnBOOTlmeWNacXE3a3hiREpqT080eWpmYjVCeWZFaXJyZ0dReUJyODJrOUJFeXFJUlhtUEtRTUV3NUg4enhaSDRuOVkzdTZtMEM4cVFmMVB6LUFjZjZ5MVh0TndvV1ZMbVUyTEl1c21JaWloajdLSzhHWmRoR0otQWdrS3RWSG1Ca0E?oc=5",
+        "source": "The Brussels Times",
+        "published_at": "2026-05-21T08:01:40+00:00",
+        "summary": "'Toxic climate' and claims of harassment at KU Leuven laboratory The Brussels Times"
+      },
+      {
+        "title": "Fact Check: No evidence that ivermectin ‘should work’ against hantaviruses",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdE5uTkRVTVNaLXJ4QkV1MVlCai0yTm1rZVlYUllKalpuSnFJMC1BaTdnTl9HczJGcGRBa2poVDRHNlB0bDBTakVneGdaX2VIMk4xWnFUVmVnX2RUV0pBX2kxY2ZKWDQwTWZPNzM1dXQ4c21Na0lhVUxtMnJLazJnNHN6WUVaUkI1WkkzdlJKTTdjWDg4RkpYUmNQODc5Ul9VQmxhZWJtSDVQa2M?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-05-13T15:16:00+00:00",
+        "summary": "Fact Check: No evidence that ivermectin ‘should work’ against hantaviruses Reuters"
+      },
+      {
+        "title": "EU working ‘around the clock’ to prepare for hantavirus ship passengers",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaUhvanVUNGRjWGlEWGhLZ0V6RGFNeTlNT3JBZlFJRy1LZlV4bnh1Y3hhckNycDhleVFPQUI1cnBmRHhtUWplSTB4eDRmMmZKQ21IMU4yYWpmX2dvSEppSHo0cVdFY1ExRVVqZ05wMGgtS1NBZHdudFgxZHNQY0xraG1NQWdyWTl1eUxSNTJRYmJ3T0da?oc=5",
+        "source": "politico.eu",
+        "published_at": "2026-05-08T07:00:00+00:00",
+        "summary": "EU working ‘around the clock’ to prepare for hantavirus ship passengers politico.eu"
+      },
+      {
+        "title": "SOFICO names new CEO and CTO",
+        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxNURZSVN1YWllbVJ6elJjS0pyalVPWlE0ZEZwUnh5Ykx2Vkk1LXFHYktMT0kyekp5X2ZZU3oycHpkRjFPWXNid0dOUU1kNVlvbWJQOW9MbmhxRlI4R0FLU1B6aTVlYUhuallnWFVlMV9RZjE4?oc=5",
+        "source": "Yahoo Finance",
+        "published_at": "2025-09-01T07:00:00+00:00",
+        "summary": "SOFICO names new CEO and CTO Yahoo Finance"
+      }
+    ],
+    "related_queries": [
+      "EXCLUSIEF. Marc Van Ranst verwikkeld in hevige strijd met collega-viroloog: “Toxisch leiderschap, pesterijen en diefstal”",
+      "Bekende viroloog moet opstappen aan KU Leuven na ruzie met Marc Van Ranst: “Hij liet een student inbreken in mijn bureau”",
+      "KU Leuven ontslaat professor van Rega Instituut na klachten over toxisch leiderschap"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "piet maes Live Trend Tracker | HantaUpdates",
+      "description": "piet maes is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
+      "canonical": "https://hantamap.online/trend/piet-maes",
+      "keywords": [
+        "piet maes",
+        "piet maes tracker",
+        "piet maes updates",
+        "piet maes live updates",
+        "piet maes outbreak",
+        "piet maes symptoms",
+        "piet maes public health",
+        "piet maes source links"
+      ]
+    },
+    "first_seen_at": "2026-05-21T08:50:14+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "bea8deb517e8f5e234",
     "slug": "hantavirus-outbreak-canada",
     "keyword": "hantavirus outbreak canada",
