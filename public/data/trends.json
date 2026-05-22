@@ -365,6 +365,79 @@
     "views_hint": 0
   },
   {
+    "id": "9e546709a866ce2d26",
+    "slug": "rotterdam",
+    "keyword": "rotterdam",
+    "title": "rotterdam trend tracker",
+    "description": "rotterdam is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-05-22T09:30:00+00:00",
+    "updated_at": "2026-05-22T10:39:15+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "Cruise ship hit by hantavirus outbreak docks in Rotterdam",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YNXdzUmhnNzhwYVBjODIxd1RFWkh6MDR1cVNSMHpqYWhPdEMyOXJBcGQxa2g0Uy1RQ1pOWGs4eWozSW14R1RGSzNiMVZlMEtaR2FUR3BIVHA3dw?oc=5",
+        "source": "BBC",
+        "published_at": "2026-05-18T11:13:42+00:00",
+        "summary": "Cruise ship hit by hantavirus outbreak docks in Rotterdam BBC"
+      },
+      {
+        "title": "Hantavirus-hit cruise ship docks in the Netherlands after long, deadly voyage",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNV25yN0ZMdTZNLUlXeE9xazNwRnBuZC1CV3A1bTdDUk5PUkNKSnkwTWFneGxyd3Nxd1VDSDFsZEZmQWFzR013Q196WDVKRjZQam45Q0RMNEhUUmxPY0JZTVRRejU4NGFnSzBSdlA0emEyek9lS2plZlhlYUlfWk9QdjFoM1c0YTNEN0tUb1BYT0xHT1U1bkJyYmRwTFV2TGtWd05TbDNXek42eWRfdnlnOGZSQmpuNXlsN3diNVZDZw?oc=5",
+        "source": "NBC News",
+        "published_at": "2026-05-18T17:59:42+00:00",
+        "summary": "Hantavirus-hit cruise ship docks in the Netherlands after long, deadly voyage NBC News"
+      },
+      {
+        "title": "Hantavirus-hit cruise ship MV Hondius arrives in Rotterdam for disinfection",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaFpBU2xQeTVqZVJodXpWS3ZQbVpFTGhlQ1c5WHJvNVNSN2RWZTc4WVlLQVJrWGF3QjlPZGgyVGdSQkphS3h6Q3NKM0w4RllVb3h6MHY4bHBtbVotNTZXZU1SWnBIcFI3eDI5d1JINDFXaTJsLXhEUTBYWnQ5UE9KLWpLNk1BcHc5WTRPbDdndE1sdVZLQ3NBSUp4U0YxQ2FOdWRSOF9WTmptU3dsUFpPbVNkSlIyYzluVWNJ?oc=5",
+        "source": "France 24",
+        "published_at": "2026-05-18T00:36:28+00:00",
+        "summary": "Hantavirus-hit cruise ship MV Hondius arrives in Rotterdam for disinfection France 24"
+      },
+      {
+        "title": "Once Upon A Team VS mCon esports Rotterdam ➥ LoL ➥ Betting Tips, Stream, LiveScore, Results on EGW",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOay0zR00zWXJURndIeTJVNGJtQ3ZZaWxHNkNPODJpUXRvcER5SU9ERzYteVljZHlkRFhZN1dieFh2a05zN2ppaFZ4ZEFyWFRraU5PVXZ5UTkzTlFZZnlDMkxIcm03SU15OUJ1b3V4bkhZWHFOYmpUNmZkVl96a1RmVUZ5SDVseHNrTXg1dXgydU4yMEUxR280aU1xVHNIUQ?oc=5",
+        "source": "EGamersWorld",
+        "published_at": "2026-05-22T02:32:18+00:00",
+        "summary": "Once Upon A Team VS mCon esports Rotterdam ➥ LoL ➥ Betting Tips, Stream, LiveScore, Results on EGW EGamersWorld"
+      }
+    ],
+    "related_queries": [
+      "Meterslange rij voor huurwoning in Rotterdam wekt verbazing: ‘Dit is niet meer normaal’",
+      "Meterslange rij voor huurwoning van amper 30 vierkante meter in Rotterdam wekt verbazing: “Dit is niet meer normaal”",
+      "Meterslange rij voor huurwoning in Rotterdam wekt verbazing"
+    ],
+    "map_focus": {
+      "label": "France",
+      "lat": 46.2276,
+      "lng": 2.2137,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "rotterdam Live Trend Tracker | HantaUpdates",
+      "description": "rotterdam is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
+      "canonical": "https://hantamap.online/trend/rotterdam",
+      "keywords": [
+        "rotterdam",
+        "rotterdam tracker",
+        "rotterdam updates",
+        "rotterdam live updates",
+        "rotterdam outbreak",
+        "rotterdam symptoms",
+        "rotterdam public health",
+        "rotterdam source links"
+      ]
+    },
+    "first_seen_at": "2026-05-22T10:39:15+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "0f7b197e2b29a59db4",
     "slug": "piet-maes",
     "keyword": "piet maes",
