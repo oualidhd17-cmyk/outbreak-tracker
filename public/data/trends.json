@@ -657,6 +657,79 @@
     "views_hint": 0
   },
   {
+    "id": "ecdab376aa0a9efb23",
+    "slug": "cruise-ship",
+    "keyword": "cruise ship",
+    "title": "cruise ship trend tracker",
+    "description": "cruise ship is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Fox News.",
+    "category": "public-health",
+    "geo": "CA",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-24T20:30:00+00:00",
+    "updated_at": "2026-05-24T20:40:44+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=CA",
+    "sources": [
+      {
+        "title": "Chair-hogging wars heat up as cruise travelers use sneaky tactics amid crackdowns",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeE9obXdjRW9JOEZITFBhUUZPLXZzLVFMV2lrWktFWHFsT01OV2xwQkN5SGtiNkEyanNBRG43RXZ5WmRLUG9MT2FBOVNZQXVBT3QzTUc0ZDFSYjc5VXl0X1prRVNMNXJBVjFOd184cEZvc0NLdnhvMkxnQ0tUeS1jWDBNSXgyMjY2VnRrcEhoZ1RETDFIRXhLYWpnd2FTVlZhZTFoeEZpSdIBrAFBVV95cUxOa3A5UnVfLW1ZcHVhVWtmb1ZSZGtObVA5b2dQc3dBbzlOMVFnOFdOX01KbGpoc1JSamJ3ZjdRVWFNTXNuR2EtRi03SDQ1ZHRPOWwxSUhCOG10eDJZc0lxZ1Y2YXZLUWgwSVlxTlZXSXZmWkNBMG4wWk9kYXZVTG5kVExnaUVfX3ZqVmFuaUYwMUN1MndwZ2hZQU5LaGQ4clpBcWprdnhic3o3N2pm?oc=5",
+        "source": "Fox News",
+        "published_at": "2026-05-23T15:00:45+00:00",
+        "summary": "Chair-hogging wars heat up as cruise travelers use sneaky tactics amid crackdowns Fox News"
+      },
+      {
+        "title": "Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxORE40dkRqT3RkOFl3YjVlV1Vpb1RHTzRqYWl4SlE5dFRJVVJSNmRlRkNUQ0FFbkhtNVYtQkh0T1VudlQtOUtHTlZXVjlGZ0I3MnRYdHZrT0Z2N2RXS0ZXcXFGS1pZNS1nSXBNRlRyRi00d0dwbnhOdGdZWDVwNXl2bzM5b194V0VkYno4QWd6aXVESHdxV0FKUEpFbVJVUG1vUDBWcUtDbk5UdjlzalYwV0NwT2lSWUFDdzNlX2dXSS1UQQ?oc=5",
+        "source": "NBC News",
+        "published_at": "2026-05-22T14:45:31+00:00",
+        "summary": "Hantavirus cases linked to cruise ship rise to 12 after crew member tests positive NBC News"
+      },
+      {
+        "title": "Supreme Court revives damages suit against cruise ship companies that docked in Cuba",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5XMUpRN1REajIzbzhXaFoxQWhBbTdkTnVDbk9jT05IMk9YYkRTTWktejZNWDQ3ZmhVUWI2S0h3SDhHWXVlVEFRWmhkbi1XMkliNjFrMnNKUzE1LTdpek5NRmV6RjJTRnFXdkQ5UFA4WUhLdw?oc=5",
+        "source": "CNN",
+        "published_at": "2026-05-21T14:16:23+00:00",
+        "summary": "Supreme Court revives damages suit against cruise ship companies that docked in Cuba CNN"
+      },
+      {
+        "title": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks",
+        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNRW9nMlF6Y2plVWEzbVY2YVBScW9EYU02QnRmbjl4WDJ1R21IeWQ5WGpwNHZPUkRsUmVoVE1MUUNUbkFLdlY1UFhkRWlLVnpDQV9RTngtZmVoUUZidFhNMGhxcXRHTGlOci03U3U4UmhnaU5jSy1KRVRuSHRqZHJWcUZNYkZRNHBLODNjSnQ3UGxYbnIzVWFxamFnRjE0X2NKNmpFaTgzMGRPUWxKTktxSXRvQjRFRFRrOFlqUjdBMF9DeHduNGl4WHhmLTZmRjRZNWV3ZWZTTzN6NFFwVmYtV2FmS01KWGpGQVBMSklEdmtSN2M?oc=5",
+        "source": "Yahoo",
+        "published_at": "2026-05-24T18:50:39+00:00",
+        "summary": "Hantavirus latest updates: WHO says outbreak is stabilizing as the Netherlands reports new case and ship captain disembarks Yahoo"
+      }
+    ],
+    "related_queries": [
+      "Mexico blocks Royal Caribbean's massive cruise destination",
+      "Popular cruise line's giant beach park blocked by Mexico after local backlash erupts",
+      "Royal Caribbean News Round-Up: May 24, 2026"
+    ],
+    "map_focus": {
+      "label": "Multi-country / cruise travel",
+      "lat": 16.5388,
+      "lng": -23.0418,
+      "zoom": 3
+    },
+    "seo": {
+      "title": "cruise ship Live Trend Tracker | HantaUpdates",
+      "description": "cruise ship is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/cruise-ship",
+      "keywords": [
+        "cruise ship",
+        "cruise ship tracker",
+        "cruise ship updates",
+        "cruise ship live updates",
+        "cruise ship outbreak",
+        "cruise ship symptoms",
+        "cruise ship public health",
+        "cruise ship source links"
+      ]
+    },
+    "first_seen_at": "2026-05-24T20:40:44+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "b34e9994a2e5b68394",
     "slug": "virus",
     "keyword": "virus",
