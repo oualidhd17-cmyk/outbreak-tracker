@@ -365,6 +365,79 @@
     "views_hint": 0
   },
   {
+    "id": "27a705bae1e5616dbb",
+    "slug": "teneriffa",
+    "keyword": "teneriffa",
+    "title": "teneriffa trend tracker",
+    "description": "teneriffa is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Guardian.",
+    "category": "public-health",
+    "geo": "DE",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-05-27T08:10:00+00:00",
+    "updated_at": "2026-05-27T08:54:25+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=DE",
+    "sources": [
+      {
+        "title": "First plane carrying passengers evacuated from hantavirus-hit cruise ship leaves Tenerife – as it happened",
+        "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOTlhCRlI4bUQ4b2xPa1RZSGh1X1JDbS1nek8zcDB2N3pRQjZiSmJOTkVtUXNzNlRITHZXcmVybmo2UjhlOHhCVW1OSTg5MVo2Tl9oWW9kcXNPTThtdUV2ZUo0aTF5OEpLb1JiSjNYZ3hBNURuckRqMU04NE4yZ2trd0tVc3Rha3Y2RmxBRlU2akFCTTlRb28tMDFtMW9XeUJrdU5VaDdQZlQxWnZRRGhuTzBxSHpXQnZaN251WVNRYVBMc0lnbkVzZmNSVUlzVWpoRWNGSlJvNkhPa25VVTlkVUo5U1p3c1ExNUE?oc=5",
+        "source": "The Guardian",
+        "published_at": "2026-05-10T07:00:00+00:00",
+        "summary": "First plane carrying passengers evacuated from hantavirus-hit cruise ship leaves Tenerife – as it happened The Guardian"
+      },
+      {
+        "title": "‘This is not another Covid,’ WHO chief tells Tenerife as hantavirus cruise ship heads to island – as it happened",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPTWVHNU5xMmFfRVNjRWh2RjhtSFZ6UlNuWlgxa2VUMXNNSmpzb3FGdlo0MU5hN25xVzVmMHhtYjUxM1BKZDVvcWtHSnI4QTdXZnU3MVdKajBNd0dNd29vNnZLNkc4ZVlDLWFVYVN6eFJObHBPS0xCZDVlX2Q0eFNNQkc0cVBsY0JzMTVsdm50WVlVaVBVZW42bnVtUHFNd0d2bGRXU1JUcmdhYmZDSEtSeWJKUFhTR3psSWlObDdXb0VRdmJZX00yS1k1WjJJSEwxRXUwSnFoVFpURzBxWWE5eDduVQ?oc=5",
+        "source": "The Guardian",
+        "published_at": "2026-05-09T07:00:00+00:00",
+        "summary": "‘This is not another Covid,’ WHO chief tells Tenerife as hantavirus cruise ship heads to island – as it happened The Guardian"
+      },
+      {
+        "title": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1IMzgyMm1yWFlqRm1iTEwyWmFCY3h5VmpVREMxbXphMDdkb2hmSnJCQzdlRjBya3JrbXdiN1pDWjVwUHZzdkU4T0U2Sk13aVdONGhxTzN5dGwydFpNZ3hNN1Z5UVA1V1FlX2xFaUpoRkJ5VGdreXh1dFFReURSRGs?oc=5",
+        "source": "CNN",
+        "published_at": "2026-05-10T07:00:00+00:00",
+        "summary": "MV Hondius docks in Tenerife, Canary Islands; passengers disembark ship hit by hantavirus CNN"
+      },
+      {
+        "title": "Anger and resignation in Tenerife as hantavirus ship approaches",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB3ajFBVWtkZ0J3M1ljR2sydFBZY2FJNVFCQUVrZ3RJdThXUUZhVldKd2xSa01pRUx1cFl5TWQtSlVxcGcwZS1wMmJNZmxtbEZySTN6WmJJdXE0QQ?oc=5",
+        "source": "BBC",
+        "published_at": "2026-05-08T07:00:00+00:00",
+        "summary": "Anger and resignation in Tenerife as hantavirus ship approaches BBC"
+      }
+    ],
+    "related_queries": [
+      "Urlaubsschock auf Teneriffa: Behörden schließen Strand La Pinta",
+      "Große Sorge im Urlaubsparadies: Beliebter Strand auf Teneriffa gesperrt",
+      "Schock für Urlauber – Bakterien-Alarm! Beliebter Teneriffa-Strand gesperrt"
+    ],
+    "map_focus": {
+      "label": "Multi-country / cruise travel",
+      "lat": 16.5388,
+      "lng": -23.0418,
+      "zoom": 3
+    },
+    "seo": {
+      "title": "teneriffa Live Trend Tracker | HantaUpdates",
+      "description": "teneriffa is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
+      "canonical": "https://hantamap.online/trend/teneriffa",
+      "keywords": [
+        "teneriffa",
+        "teneriffa tracker",
+        "teneriffa updates",
+        "teneriffa live updates",
+        "teneriffa outbreak",
+        "teneriffa symptoms",
+        "teneriffa public health",
+        "teneriffa source links"
+      ]
+    },
+    "first_seen_at": "2026-05-27T08:54:25+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "9e546709a866ce2d26",
     "slug": "rotterdam",
     "keyword": "rotterdam",
