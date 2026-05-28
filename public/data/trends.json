@@ -730,53 +730,53 @@
     "views_hint": 0
   },
   {
-    "id": "2cf2062ab7bb1dd9bc",
+    "id": "4bb980e30ec40df703",
     "slug": "ebola",
     "keyword": "ebola",
     "title": "ebola trend tracker",
     "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Breaking News, Latest News and Videos.",
     "category": "public-health",
-    "geo": "NO",
+    "geo": "DK",
     "search_volume": "200+",
     "traffic_label": "200+",
-    "published_at": "2026-05-25T21:20:00+00:00",
-    "updated_at": "2026-05-26T09:01:22+00:00",
+    "published_at": "2026-05-28T19:40:00+00:00",
+    "updated_at": "2026-05-28T22:09:36+00:00",
     "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=NO",
+    "source_url": "https://trends.google.com/trending/rss?geo=DK",
     "sources": [
       {
-        "title": "Ebola outbreak in DRC, Uganda 'will get worse before it gets better': WHO chief - ABC News",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPM29rUVVMZFRiVTFUNWxzeXRkM09OQjhxNFZEaVhWdm5JYUlMLWxFNDIxc2JTOGRNRHZobUQ5Q2I4RGdmYlhkRVVJRDdsUmFJdHMwbVRWSFpUTDFZbjd4cnB1aXFpNFVkU1cyQ0xmQlEtazJqUS1MNTNicTBsUVUyelRHYjkxMWl5R1lDanduRndXUU5VQWRwNmV4VdIBoAFBVV95cUxQNVozV2tZYXFHZkdPejltcU1RVmdOQkZacTMxMkctdmZmdU9oQ0VxMXlpMUlwXzM1NE5aRmxySkNlRHctanEyclJ3Y3hxMjZuSm9ERGM1dnRrdGNtZmtjM0xMcUVERGd2eS1sSmZvMFpIeXEwY2xQN3JTU2N1SHZoakxWaGJPTFg5YkJLSE1iVzZhVXl4SVB1M2dWRDNfcGVF?oc=5",
+        "title": "'Out of control': Doctors on the front line of Ebola outbreak speak out - ABC News",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHZ3Nk40NDVnUi03bWNkdGlqcHFpMUdFYmlxZU1yY2F1V0F4S1lCcUZuQ1VwVENibExZaV9mR1JxVlp1MG5qbHVjeWFxVTdwdGpzaVRZWnp2S1dUa0JrLWh5SWc3c3JwejNMSm1FNjFIM1lxRlgwRjZXNFFzNXNaanZna1kyb3NwVGdpVWdEZWF5MjFoM25oNU1pX0E5S3Vp0gGmAUFVX3lxTE1nT1VVdjRjUHF0dHdVMlVCSnhRczduZUdVWkRlUzRwMUhxVkVad3NLMEFqU0dEQ3Z4RkptTE55a1NFdjdkaFh0R2lvZWNQakF4YmxFVjZqcW82bXVGVW9ESHRYT0thblVJVDMzXzRiMVpkTk10NUl3RGdUX0lpNmFtaTBueFAzNjFTdkV1bWFXMDBlNU1IblV1U0pnY0ZOTXAzZjVpaUE?oc=5",
         "source": "Breaking News, Latest News and Videos",
-        "published_at": "2026-05-25T16:55:25+00:00",
-        "summary": "Ebola outbreak in DRC, Uganda 'will get worse before it gets better': WHO chief ABC News - Breaking News, Latest News and Videos DR Congo Ebola cases rise amid distrust, armed conflict zone NPR DRC is no stranger to Ebola outbreaks. Why isn’t there a vaccine or treatment to help now? CNN Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO | Democratic Republic of the Congo The Guardian Ebola Death Toll Rises To 220, Officials Say 11 Countries Now At Risk (Live Updates) Forbes In City at Center of Ebola Crisis, ‘the Virus Is Far Ahead of Us’ The New York Times Ebola outbreak death to"
+        "published_at": "2026-05-28T15:13:58+00:00",
+        "summary": "'Out of control': Doctors on the front line of Ebola outbreak speak out ABC News - Breaking News, Latest News and Videos"
       },
       {
-        "title": "Attacks from residents complicate the fight against a rare type of Ebola",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQN3FRbWVCYS1qVFlJSVplczYtRFRlQ3dmanNLWEREUzU0TGxPdjBCOTNCRUk4SzNtNnl0Y0VRcUhuN05fN0VhTkJuVkFhbTJvYjRraUJLRUZuMTVCakg4bGxaWDlDeHN2UmRwYWhIcmMtYVIycGRhUFBiQWdBVXVydE4xNkJucTNHUHl3?oc=5",
-        "source": "NPR",
-        "published_at": "2026-05-26T06:46:25+00:00",
-        "summary": "Attacks from residents complicate the fight against a rare type of Ebola NPR"
+        "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3M0eDRKTnBWTUphYTdaZ0ROanJlNzdhckFMQjdiOUVyc05xQVpxWUFodFhvbVlIYzV2dFVfUGlwQnJoZ1I1ZUlvcVEzaW0zdVRkYWpmdDhLTE9iRGtGaW4wSUFTQjYzM3NxU2NuS2NkNnZwUGtuOF92eU1HMFFuZEp2bTRnR0E?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-05-27T14:00:08+00:00",
+        "summary": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists The New York Times"
       },
       {
-        "title": "Bundibugyo virus: Why this Ebola disease outbreak is different",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSHJfaWpKTHM2U2g1OXk0dTJxaVlKMHZ5ZHVvSWN2ZmxUbU8yNzN3NVpaSjFSOGtqUmh1OWR4NzIzQ1Y3VkthdTFjR2swTzN0MUw5b19DdjA4cmpkTjR1LVRjVlZPOHZfeG1UZmpQMjNLTThzczhrUWIxd1htdWs1ZW4yOXJ6ejc3WW9fbjFPYnhCQzZYTGFKUXk2RGpWa2c?oc=5",
-        "source": "Doctors Without Borders",
-        "published_at": "2026-05-26T05:40:10+00:00",
-        "summary": "Bundibugyo virus: Why this Ebola disease outbreak is different Doctors Without Borders"
+        "title": "Trump administration defends sending Americans exposed to Ebola to Kenya",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFRNaWhLV1hwM280RlB4WU8tc1RJRzJFT25wMGxBcGJBSjRjdzd3Zl8wcEc3bVd4dUZnaXEyZmtuS3Y5Ukgxa05LT1IzWGZJV3VQOWxfYXpaVW80ZGxORl9mQXZLZ25yMGdEMXpIZUNORHJqNjhicF9XSWpYVl9nR1pHYXJsTFQ1UjZr?oc=5",
+        "source": "Politico",
+        "published_at": "2026-05-28T21:23:07+00:00",
+        "summary": "Trump administration defends sending Americans exposed to Ebola to Kenya Politico"
       },
       {
-        "title": "IRC Watchlist Flash Alert: Ebola outbreak in eastern DRC spreading faster than response",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQOGpseW93LWlTOTJqN3VEbGdseEp4MDBJa3NTSE1LSHF2TzlSVEN5ckdfRHotRnY1SU1iSEJsZE1VeDdXQWNydW02MWJQMWhqYS1qQVBPRkJ4c2lmeGVoSlBBRGlqaVBQYTNoX2hVTGo1SnA1T0xiSzhCV1NhbWZ6bTRRUEdNNncwV0hOY0xuMmltZDZMWjlWLVBsUlVuS2ZyYmZaWU05NG9kUE9ob25YVDBjMk9XUQ?oc=5",
-        "source": "International Rescue Committee",
-        "published_at": "2026-05-26T06:50:19+00:00",
-        "summary": "IRC Watchlist Flash Alert: Ebola outbreak in eastern DRC spreading faster than response International Rescue Committee"
+        "title": "U.S. Ebola quarantine facility in Kenya to open Friday",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTDAxdHNDQ01Ia2hJME4xLWhZYkFwTFByaXVpM05HSXZqWFhHMnlEc09CR1UtNnladFhKWWRHRkNhTnh2c1VodW9QZExFbmlINklLUEp5cUpzSlVIaVBZR0RVTGFtdUhOLWVZbXVsQWZDbEQyeUF2UnZmUi1XaFZPVWp5aGrSAYoBQVVfeXFMUEo0NnVwQmI3Qk52eHRMZnRCcmRIV2JybTBsWEFha2JCdHNUUVV3VUFDMGdiU29MT1dUUGZFQ1hfQS1qcWt1MFNFYjZVMnc5YkEzeWxHVjdzeFpoT1RqcGx1XzRuM25adENFa1dOY0tDbDJoeURhY29QOWFnV21FV0lVdDhrV3pvTUhB?oc=5",
+        "source": "The Hill",
+        "published_at": "2026-05-28T21:54:00+00:00",
+        "summary": "U.S. Ebola quarantine facility in Kenya to open Friday The Hill"
       }
     ],
     "related_queries": [
-      "Police fire shots in air to disperse angry crowds at DR Congo Ebola treatment centre",
-      "Young men storm a Congo hospital treating Ebola patients to demand bodies of their relatives",
-      "Ebola patients flee in attacks on Congo health facilities"
+      "‘Among the things he feared most was death’: the doctors and nurses dying on the Ebola frontline",
+      "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
+      "Message by the WHO Director-General to the people of the Democratic Republic of the Congo"
     ],
     "map_focus": {
       "label": "Global",
