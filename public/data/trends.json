@@ -730,6 +730,79 @@
     "views_hint": 0
   },
   {
+    "id": "af40eabf4e3e6d2700",
+    "slug": "kreuzfahrt",
+    "keyword": "kreuzfahrt",
+    "title": "kreuzfahrt trend tracker",
+    "description": "kreuzfahrt is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Mshale.",
+    "category": "public-health",
+    "geo": "DE",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-29T11:10:00+00:00",
+    "updated_at": "2026-05-29T11:59:08+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=DE",
+    "sources": [
+      {
+        "title": "Mein Schiff 5 Kreuzfahrt September/Oktober 2025 Griechenland Und Zypern Jannik Sinner (YcQg6UmVAe)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9BT2NhRll5Z3EzRFZ3eUhFc3JZYUkxOVl6ZjZCTGZ4S210bjc4ZUR2aWRtT1FwZ1R4U0RjaFZBcVF4blVjejFtN1g2Q3RSZnNvc2JBMU5CV2xKOWM?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-05-28T01:38:15+00:00",
+        "summary": "Mein Schiff 5 Kreuzfahrt September/Oktober 2025 Griechenland Und Zypern Jannik Sinner (YcQg6UmVAe) Mshale"
+      },
+      {
+        "title": "AIDA Kreuzfahrt: What US Travelers Should Know About It",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSll4eFJRQ0VWVGFpdlVqRTM0aFd3S2ZEOURBRklJUzk2X0JiRzlZcURVb09fNDZncGptUTBVSGpwWUU0S2VLR09rRHJXNFFNLUM0X3RWUm1Wd1ZZMXZuWEpYRXJQM1hxR2RJdWV3dzRuNFAyV2pMS1pxU0pJU0pHeVBueUl2Z0lmNldPWXh4dDJaZEFvMmh5NjFEQVRmaG15V2VfZ0JnQXMtYnloaUtNcmxuTQ?oc=5",
+        "source": "AD HOC NEWS",
+        "published_at": "2026-05-19T13:49:06+00:00",
+        "summary": "AIDA Kreuzfahrt: What US Travelers Should Know About It AD HOC NEWS"
+      },
+      {
+        "title": "Nach Kreuzfahrt: Französin positiv auf Hantavirus getestet",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMF8zbl9oTUFmck1Hd21nVUpveFBwbEJTdjQwVEhuemt2V0tiSGxCVmpUTEo1RmU2Zll4MVV0ZXZPdm9jOEpLMDU3cXV2MGxrdTJqYy1OOHNSVjNRMXVwQzN2eno3dk9Rckx6anZlSG9mUkQ4enFXV0hOblVsWmYxNFo3UGxDWnZjYVU2bEVtLWxUaVpNMEE5LU9DQnpfU2wySllyYnhuUGs?oc=5",
+        "source": "fvw",
+        "published_at": "2026-05-11T08:26:00+00:00",
+        "summary": "Nach Kreuzfahrt: Französin positiv auf Hantavirus getestet fvw"
+      },
+      {
+        "title": "Kreuzfahrtranking",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOS3VSc1IzM1RRWkRGOUdCd1lUYlVLSHowbW9iOUJUc0JpdlBvc2pNWWpQbUUyOTRZczYxSzNIMnVDWFpoQ0NtX21MekVPZTZFQ1FMRnVFTUluZUpVUXJUT3NJZ3dVUkRTQXdXSXJfdTk5UXRVZFJXc0RLZzR2V1hNbDhyR1VUVVJ5SWxzVTJ5NGl4Rm10ckRDRDJDa2o5TVk1TVE4?oc=5",
+        "source": "NABU",
+        "published_at": "2025-08-19T11:42:47+00:00",
+        "summary": "Kreuzfahrtranking NABU"
+      }
+    ],
+    "related_queries": [
+      "Schiff kehrt um – Kreuzfahrt fällt kurzfristig aus",
+      "TUI Cruises: Was ist auf der \"Mein Schiff 1\" passiert?",
+      "Technik-Drama um Kreuzfahrt ab Hamburg: Erst Propeller, jetzt Maschine kaputt"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "kreuzfahrt Live Trend Tracker | HantaUpdates",
+      "description": "kreuzfahrt is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without",
+      "canonical": "https://hantamap.online/trend/kreuzfahrt",
+      "keywords": [
+        "kreuzfahrt",
+        "kreuzfahrt tracker",
+        "kreuzfahrt updates",
+        "kreuzfahrt live updates",
+        "kreuzfahrt outbreak",
+        "kreuzfahrt symptoms",
+        "kreuzfahrt public health",
+        "kreuzfahrt source links"
+      ]
+    },
+    "first_seen_at": "2026-05-29T11:59:08+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "4bb980e30ec40df703",
     "slug": "ebola",
     "keyword": "ebola",
