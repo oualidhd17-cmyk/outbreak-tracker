@@ -730,6 +730,79 @@
     "views_hint": 0
   },
   {
+    "id": "bc596f8c9483635300",
+    "slug": "rwanda",
+    "keyword": "rwanda",
+    "title": "rwanda trend tracker",
+    "description": "rwanda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Al Jazeera.",
+    "category": "public-health",
+    "geo": "BR",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-30T18:20:00+00:00",
+    "updated_at": "2026-05-30T18:48:14+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=BR",
+    "sources": [
+      {
+        "title": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQRTUtRHBVVkljdW9URzM0WTA1ckNRX3l1VDJ4di03ZnN4UTkteExnNUpjTFR5U09JUGVFS3NoeHdQODJHZHdHV1poVGEweV9zcWpsVEc1OGpYbTRWbnMzX1p1ZmhQeW1pTlNyaHpLbWQyMG9MZEdETzhKSFBHcVJuUTRBR0Y2RWZQQTRTWU92cjJfa2lMMk5ybFhndGRxRm5BcVpWSUlyRGZmSDg5WHRZ0gG0AUFVX3lxTE01SVBaN0l6VjBCUmNQQ0hjQldUTElETVBxZGEwQVRxNGpCbXhpLTd4bWRyOFlsRmdjVW5NekNPdHM5NU1ENTZvU1BickFfb2xBeDBKR1Y5aU81ZlhRSzBOdUFzeVFpWjBNdE9VamQ3WF82blZSRzZHU1owM3ZubGY2QjRndVBTUmFrZno4VG5QNEx4aWROUkJ3RHdXbFRqbGRGSWdHb0dGM0w0QVBsdEtZNEl6Ng?oc=5",
+        "source": "Al Jazeera",
+        "published_at": "2026-05-30T06:32:28+00:00",
+        "summary": "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance Al Jazeera"
+      },
+      {
+        "title": "Health Alert: U.S. Embassy in Rwanda – May 26, 2026",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1RU0lkdXVsUXZnVk4wM3NwWE1MMUFQTzg1aXl1ano1cXdVQ1dkeGhKY2hZRUxKOHlMM3dDY1lGM3d4SVVoOUhLekV6cEVIUmNENEQ2TXVJX1RLX2wwRkJiYm9aaXZsbVFOSk5ucTFZUXI4OU01V04xbDgtUnE?oc=5",
+        "source": "U.S. Embassy in Rwanda (.gov)",
+        "published_at": "2026-05-27T10:36:20+00:00",
+        "summary": "Health Alert: U.S. Embassy in Rwanda – May 26, 2026 U.S. Embassy in Rwanda (.gov)"
+      },
+      {
+        "title": "Rwanda genocide of 1994 | Summary, History, Date, Background, Deaths, & Facts",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4dlEwYTJyMjRYU2N5SnJqbVBvaktmdnA3RVNSaVhlckRJOXBtbDRXV3dRcGpFa04zbTVaRGFkYTVSRUQ1U1lIbUIyZVZMR19qTW1FMUNHZk1sZ19FTk1TakdqaTZIa0U?oc=5",
+        "source": "Britannica",
+        "published_at": "2026-05-18T07:00:00+00:00",
+        "summary": "Rwanda genocide of 1994 | Summary, History, Date, Background, Deaths, & Facts Britannica"
+      },
+      {
+        "title": "2026 Basketball Africa League Season: By the numbers",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQeUlJVEJvT3NqRF9OU0NrQzJVRUVlamNOVExCSFhZZUZta1dTRlpaaF9ZWEd1VW1HbE01ODFSTDRlU0pXX054Z1R5OGQ2LW4tbGtfYVcyM09hOUpsR0xpU3oxUXJxQzVtOVNYZUNaaG9XM3J3QjJWdnZzVlI0cGtQc2M3UFBTM0UwYTdrYklsVWt2Tkk?oc=5",
+        "source": "FIBA Basketball",
+        "published_at": "2026-05-28T12:52:08+00:00",
+        "summary": "2026 Basketball Africa League Season: By the numbers FIBA Basketball"
+      }
+    ],
+    "related_queries": [
+      "NEA Director-General engages with African leaders on nuclear energy development during visit to Rwanda",
+      "Rwanda-Russia nuclear deal underscores Africa’s shifting power balance",
+      "Stable energy supply key for Africa’s industrial growth"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "rwanda Live Trend Tracker | HantaUpdates",
+      "description": "rwanda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pro",
+      "canonical": "https://hantamap.online/trend/rwanda",
+      "keywords": [
+        "rwanda",
+        "rwanda tracker",
+        "rwanda updates",
+        "rwanda live updates",
+        "rwanda outbreak",
+        "rwanda symptoms",
+        "rwanda public health",
+        "rwanda source links"
+      ]
+    },
+    "first_seen_at": "2026-05-30T18:48:14+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "af40eabf4e3e6d2700",
     "slug": "kreuzfahrt",
     "keyword": "kreuzfahrt",
