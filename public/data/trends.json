@@ -730,6 +730,152 @@
     "views_hint": 0
   },
   {
+    "id": "2e340d88f713f354a5",
+    "slug": "ebola-virus",
+    "keyword": "ebola virus",
+    "title": "ebola virus trend tracker",
+    "description": "ebola virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
+    "category": "public-health",
+    "geo": "DK",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-31T17:30:00+00:00",
+    "updated_at": "2026-05-31T18:58:17+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=DK",
+    "sources": [
+      {
+        "title": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBGVEJsMmpFdEpTUVBFM3dTU1Q4QjgxNkZEX3ZYcDhRYXl0WEM0Z1B2N1plaGM0eTVfdUlYUmhUYWR3ZVhNMTN0NC11NTNzdVk4T1I5V1RZemVYdw?oc=5",
+        "source": "BBC",
+        "published_at": "2026-05-31T06:47:05+00:00",
+        "summary": "Ebola spread in DR Congo 'deeply alarming', MSF warns BBC Over 40 dead in Ebola outbreak in DR Congo and Uganda NBC News Africa CDC Says Over 1,100 Suspected Ebola Cases In DR Congo And Uganda Barron's"
+      },
+      {
+        "title": "WHO chief visits new DRC Ebola center amid efforts to stop outbreak",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5rVF9vai1sbG45SHlDeVNTSEhScjdlVjZmYVhHd253eWRGY2RoamRuUW5OMXJzSktkejZwbzNRdUZRbi1vZk0yNndWaGdYV3ZHdVV0S0lLaEl4Sk40ODVqTXBvc0xaOWs?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-05-31T18:15:42+00:00",
+        "summary": "WHO chief visits new DRC Ebola center amid efforts to stop outbreak Reuters"
+      },
+      {
+        "title": "Brazil identifies 2 possible Ebola patients, as WHO reports some recoveries in Congo",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOOWRDT2NTX2paUGlpMk9QU3VvdE5uTTdMc01qQmFBWWEybTdqdDN2cHJRRGZRNjJtZmZWSk5GLW53aHdQU25naVdxYVNTT0FqUnJWY28ySXJWVG04QkJmbERrZVFKSVFBSTRpY3ZhSkVNc2lNOHVTMC13SnpCNlFaZ1pKdTR6SDRIYXR0VTQ2MVd6OVQtSlZrMTdMaHVYbFliZjJLYmJB?oc=5",
+        "source": "CBS News",
+        "published_at": "2026-05-31T12:38:00+00:00",
+        "summary": "Brazil identifies 2 possible Ebola patients, as WHO reports some recoveries in Congo CBS News"
+      },
+      {
+        "title": "Stop fretting over Ebola: Protect yourself from contagious viruses you may actually encounter",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5VSDVMamdlWWxKT3NPdFFqcWJFd0NTczdsS3lfNW9FWnJfUWpwVnlBbWtjZmkxNUtjNVJ3ZGc4WnR2N1hqd1kzSHQxOF9sanZLbThaNENRWmxTQmp0d2Y1SmhVbkFTLU0yWV9mQ0lqYm42dTQtNjNSWGxNNA?oc=5",
+        "source": "CNN",
+        "published_at": "2026-05-29T12:00:07+00:00",
+        "summary": "Stop fretting over Ebola: Protect yourself from contagious viruses you may actually encounter CNN"
+      }
+    ],
+    "related_queries": [
+      "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+      "IRC Watchlist Flash Alert: Ebola outbreak in eastern DRC spreading faster than response",
+      "Inside the Ebola Epicenter, the Virus Rages With Little to Stop It"
+    ],
+    "map_focus": {
+      "label": "Brazil",
+      "lat": -14.235,
+      "lng": -51.9253,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "ebola virus Live Trend Tracker | HantaUpdates",
+      "description": "ebola virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/ebola-virus",
+      "keywords": [
+        "ebola virus",
+        "ebola virus tracker",
+        "ebola virus updates",
+        "ebola virus live updates",
+        "ebola virus outbreak",
+        "ebola virus symptoms",
+        "ebola virus public health",
+        "ebola virus source links"
+      ]
+    },
+    "first_seen_at": "2026-05-16T18:08:12+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "9e8cb970bdf81e649a",
+    "slug": "trend",
+    "keyword": "وزارة التربية والتعليم",
+    "title": "وزارة التربية والتعليم trend tracker",
+    "description": "وزارة التربية والتعليم is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Dubai Eye 103.8.",
+    "category": "public-health",
+    "geo": "EG",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-05-31T18:30:00+00:00",
+    "updated_at": "2026-05-31T18:57:46+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=EG",
+    "sources": [
+      {
+        "title": "UAE to confirm in-person or remote learning on May 10",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenVYQkM0d3UydFIwTXlZQWpmVnBtdFJsLTFES3Vqcm5hcUN4NWlkeWxxNXhBNXdyZWRLTkhNQ09Ua3U0VFFRVEtteko0cHBVUTJfZmtxSkwySXBvREM0dUlqV0ROY1Q5WWEzTWwtd0xNZ241OWVWbm91bkJrNy1SMDFrcGpOWVRxQ05KTEdOZVJoZ3F2UG9FNHZ3?oc=5",
+        "source": "Dubai Eye 103.8",
+        "published_at": "2026-05-10T07:00:00+00:00",
+        "summary": "UAE to confirm in-person or remote learning on May 10 Dubai Eye 103.8"
+      },
+      {
+        "title": "Update: Suspected hantavirus cases on Atlantic cruise ship leave three dead: WHO",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlR5Z2ZKSTF0ZFQwb1c0ckE3dDJicXNzRG93LUNnY2lkYUhUMjBZM1hQa19nbGxFZ3hra0JBaUVHLXZoWnlSZXhSVmlyRjhCYU5zOGtJbTBkUHVnZDc5QWc5U3VfSklESGxIclpnZzlUR29EWV9nOHJ4Z2FRMWp4OG1rcW1TNnp3elcyWjJFYUhLWFg1SG16RnZhMUpUS0x0RTMydmFhMmNaajVMMWJBZ1Ywcjg?oc=5",
+        "source": "Gulf Business",
+        "published_at": "2026-05-05T08:52:09+00:00",
+        "summary": "Update: Suspected hantavirus cases on Atlantic cruise ship leave three dead: WHO Gulf Business"
+      },
+      {
+        "title": "UAE schools, universities to switch to distance learning",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVZZSG5QLW5LUFB1SXRKZXhxMVVjQU84TEN1Z0o5a2R4eUE2b1hXME9ZY0ZRNDJCNWFkSU11UURlbTIzZEdkY01mdFdIVzh3RXRsNHh4d1FsOXVwME85NkFwN2FQYzB6VXlIcFZNdERvWm1qUFFidWk2Z3pJSlFHVUpYdjc0QUZVZU9XVQ?oc=5",
+        "source": "ARN News Centre",
+        "published_at": "2026-05-04T07:00:00+00:00",
+        "summary": "UAE schools, universities to switch to distance learning ARN News Centre"
+      },
+      {
+        "title": "UAE back to school: Authorities suspend all bus operations",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2JJT1dmQm9pQVNOT08xU3RtLU9FRHRaZUxoc01STE55a1FwLXozRG51MFBDOUZsNVU0T3FJMDVCdTZJOUc2SXRMbkpvMDcyTDV1Ykh3Vm9vTEdSNDlXdTl3a1NhS3Q1ekpWb2FIZU1DR3czSXZ2dThaTlluNHZkVkdvMEx4eG9KTDBTSmhQSVRwLUY4ZmZ6VnlGTWJoYi1EeFNqalAySjZLdy1Pempj?oc=5",
+        "source": "The National",
+        "published_at": "2026-04-16T07:00:00+00:00",
+        "summary": "UAE back to school: Authorities suspend all bus operations The National"
+      }
+    ],
+    "related_queries": [
+      "وزارة التربية والتعليم المصرية. . وزارة التربية والتعليم تستعرض عبر فيديو توعوي الخطوات والإرشادات الواجب على الطلاب اتباعها في ورق إجابة امتحانات الثانوية العامة ٢٠٢٥ / ٢٠٢٦ الأحد ٣١ مايو ٢٠٢٦ تستعرض وزارة التربية والتعليم والتعليم الفني، عبر فيديو توعو",
+      "جدول امتحانات الثانوية العامة 2026 قبل أسابيع من انطلاق الاختبارات رسميا",
+      "قبل بدء اللجنة"
+    ],
+    "map_focus": {
+      "label": "Multi-country / cruise travel",
+      "lat": 16.5388,
+      "lng": -23.0418,
+      "zoom": 3
+    },
+    "seo": {
+      "title": "وزارة التربية والتعليم Live Trend Tracker | HantaUpdates",
+      "description": "وزارة التربية والتعليم is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source l",
+      "canonical": "https://hantamap.online/trend/trend",
+      "keywords": [
+        "وزارة التربية والتعليم",
+        "وزارة التربية والتعليم tracker",
+        "وزارة التربية والتعليم updates",
+        "وزارة التربية والتعليم live updates",
+        "وزارة التربية والتعليم outbreak",
+        "وزارة التربية والتعليم symptoms",
+        "وزارة التربية والتعليم public health",
+        "وزارة التربية والتعليم source links"
+      ]
+    },
+    "first_seen_at": "2026-05-10T09:16:13+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "bc596f8c9483635300",
     "slug": "rwanda",
     "keyword": "rwanda",
@@ -1092,79 +1238,6 @@
       ]
     },
     "first_seen_at": "2026-05-22T18:24:08+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "58f36f8eefacf1c933",
-    "slug": "ebola-virus",
-    "keyword": "ebola virus",
-    "title": "ebola virus trend tracker",
-    "description": "ebola virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNN.",
-    "category": "public-health",
-    "geo": "NO",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-05-20T19:10:00+00:00",
-    "updated_at": "2026-05-20T19:57:39+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=NO",
-    "sources": [
-      {
-        "title": "Should you worry about the Ebola outbreak? Here’s what the numbers tell us",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wQ21GWHZmT2laNEhWbWFXa2ZHNTFaQ2hzdnJ6cTRReW9tRkluYl9UM1NhNlhrTkhTc2t3SWh2ZEVCb2ZGcWZRZS05UncxbnUxaW4zdVpWVVpwa2VRVWRjYXV5Zjl3UzNDV0E?oc=5",
-        "source": "CNN",
-        "published_at": "2026-05-20T07:00:51+00:00",
-        "summary": "Should you worry about the Ebola outbreak? Here’s what the numbers tell us CNN WHO chief concerned over 'scale and speed' of Ebola outbreak NPR Ebola Vaccine Could Take 6 to 9 Months as Suspected Cases Hit 600, WHO Says People.com American doctor with Ebola flown to Germany as his wife and children are monitored NBC News Ebola Outbreak Is Unlikely to Become Global Threat, W.H.O. Head Says The New York Times Ebola Disease Outbreak in the Democratic Republic of the Congo and Uganda Centers for Disease Control and Prevention | CDC (.gov) ‘This is bad’: Bay Area experts warn Ebola outbreak could w"
-      },
-      {
-        "title": "White House resisted letting doctor with Ebola return to U.S.",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeGI5VVZtaDAxWjFZQUFhMm50cWViSnB0TkNCUGtoMWU5ckZTZmNKblJUMnRiX0tSWkc1UFJYX2RfdGR1RTViNW5WakhVd1g4NzFZQ29lU3lvRWIxdU5TS3V3bVprLUoxVnZUUnZnRzhfZ2hTV0c1R092ejFwdTdnRkxyRkJXd1NHbHNrYUk5TTBuXzlHZHRvU3FJZVg2bnpQMTN5UEhoelp5UQ?oc=5",
-        "source": "The Washington Post",
-        "published_at": "2026-05-20T19:31:28+00:00",
-        "summary": "White House resisted letting doctor with Ebola return to U.S. The Washington Post"
-      },
-      {
-        "title": "What to Know About the Ebola Outbreak as Cases and Deaths Rise",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNMHV6V1hhbU9LLU1vQVg2a21DRldHRU1ILWpjaEZLcUhpMkhiTnJFaDhPUjAtQ0tPTUpGazdtWUpDWEw2eDFEQmZzRzRfMVB4dVNoTEZmRVRpdVFISmtCNEFqOVEwVnYxM1h6c21DblJkQy04QTV5emFjakFlYWFMa3hSQ1Y?oc=5",
-        "source": "The New York Times",
-        "published_at": "2026-05-20T16:40:00+00:00",
-        "summary": "What to Know About the Ebola Outbreak as Cases and Deaths Rise The New York Times"
-      },
-      {
-        "title": "No Ebola vaccines exist for the strain in the current outbreak, but scientists are developing some",
-        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOWl3VHlyNFhlZDhXQTVoY2llaHdZUllXVFhOa0tUYk9LYWVEYXNqLWpXaThNcGpxbGJoWTBzVTFEelk3bGhXWjdtdnZwdGRocmdzb3ZESy13YjdJc1hSREQ0MWxTc2E5RnU3Z3JBNk0yR2psSnlKMkpEU2x2bXBwMDFEZi1aTkRuUWJvc2FlSm1fOVRFaHlKQjZ2c25TblBROEpnejFpTllOc3BINUxmT0QzXzQ3Q2FXRjFzWmQyaVdwcUwxMjZrOU1VNA?oc=5",
-        "source": "Scientific American",
-        "published_at": "2026-05-20T16:30:00+00:00",
-        "summary": "No Ebola vaccines exist for the strain in the current outbreak, but scientists are developing some Scientific American"
-      }
-    ],
-    "related_queries": [
-      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
-      "Why does Ebola keep on occurring in DR Congo?",
-      "Should you worry about the Ebola outbreak? Here’s what the numbers tell us"
-    ],
-    "map_focus": {
-      "label": "Germany",
-      "lat": 51.1657,
-      "lng": 10.4515,
-      "zoom": 5
-    },
-    "seo": {
-      "title": "ebola virus Live Trend Tracker | HantaUpdates",
-      "description": "ebola virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
-      "canonical": "https://hantamap.online/trend/ebola-virus",
-      "keywords": [
-        "ebola virus",
-        "ebola virus tracker",
-        "ebola virus updates",
-        "ebola virus live updates",
-        "ebola virus outbreak",
-        "ebola virus symptoms",
-        "ebola virus public health",
-        "ebola virus source links"
-      ]
-    },
-    "first_seen_at": "2026-05-16T18:08:12+00:00",
     "views_hint": 0
   },
   {
@@ -1815,79 +1888,6 @@
       ]
     },
     "first_seen_at": "2026-05-14T21:55:54+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "56abb7b874523e465a",
-    "slug": "trend",
-    "keyword": "الفيروس هانتا",
-    "title": "الفيروس هانتا trend tracker",
-    "description": "الفيروس هانتا is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: المتداول العربي.",
-    "category": "public-health",
-    "geo": "MA",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-05-13T20:40:00+00:00",
-    "updated_at": "2026-05-14T07:37:24+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=MA",
-    "sources": [
-      {
-        "title": "Is the Hanta virus turning into a new Covid? The World Health Organization responds",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNcW5pM0xpUURhTWl4SEQzanVFamJPb1AxVnJNY3ZTb3FPYzAxZHdlX2FmWlVOeHBWTHl2X1lGYTB2bTBScGx5bE9uU0tBNXc2TGY0QjJiSmUxQ2NYbGFOdVI0eUZxWDJDVG9LQzc1eFRUbTlONHlLdkV4RThERjZDZlJoYTdrWS1qSzZFUTlXUG9PS19KZDdwV0ZFaXRoc1gwRExRYWhDZXh0YS1CNXJrY1BHcnlUVFd3UzhRTElibV9yN2xEdlhuYVp5R1FMREU?oc=5",
-        "source": "المتداول العربي",
-        "published_at": "2026-05-10T15:52:17+00:00",
-        "summary": "Is the Hanta virus turning into a new Covid? The World Health Organization responds المتداول العربي"
-      },
-      {
-        "title": "Public Health Experts Warn of Hantavirus Misinformation in the US",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPX3pNQjJodHMyZGFRVG5pSmQ5bUlfTGFRZmszSTdBb0tfekp1V05UbHFkcG42eVdWU2czVTduTG1UUTd5WHZObm5DSHo5aDlXVHg4QXpzZURJb2FiNWlzSkQzaVBXemtlTE1aNmRoUmZ6QzVVdTlYZTFIZnJ1dzRZcG1mWHRRemV3SXAweEp4RVM?oc=5",
-        "source": "Oz Arab Media",
-        "published_at": "2026-05-08T18:00:53+00:00",
-        "summary": "Public Health Experts Warn of Hantavirus Misinformation in the US Oz Arab Media"
-      },
-      {
-        "title": "The United States announces the infection of one citizen with the hantavirus",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQb3RDSjQ3cWNLUmstLWZtdFZfRldTSmNPLUdmek42ZVJqQmc4TWJjeUdlWEdmT1l6SUhIYi0yS1Q1bl8yZEJuWDFENHZJY3F3dnpxbnZNbGlVaWppNFAxc2tJcmxNN3NyMmk4R2xwNllwVHg1S1dXckpUc1Rabzcwc1N5VlNpd3F3TUxFRUhkcV96T0JwcHk1eS0tZ2FjNEVTeVV4WmlmS1RDTU92VGdqMXMxcmptWUFvYkJocWRTeGJoYmlIWDFV?oc=5",
-        "source": "المتداول العربي",
-        "published_at": "2026-05-11T10:24:12+00:00",
-        "summary": "The United States announces the infection of one citizen with the hantavirus المتداول العربي"
-      },
-      {
-        "title": "Hantavirus Vaccine May Take 18 Months, Russian Scientist Says",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTjRkYzcwdVFaX2ZRWXFZLU9XUWI0NW5WeGFMVl9jcl8xcGE4dmR0aVJ0OHlEb1hsazY5TDUyX2tsNlp6OXdjX05veHVmcS0wZUVVa0xuLVBRenQ0V0w3V1BrcFFRVjBWc1lVQnZmVEdCZUZOcHN6a0ItbTNjNW96bFRMVFNlN1lGSnlsSWpuajJlcjNqQXlPX3p2Y25JQQ?oc=5",
-        "source": "Daily Beirut",
-        "published_at": "2026-05-08T03:15:56+00:00",
-        "summary": "Hantavirus Vaccine May Take 18 Months, Russian Scientist Says Daily Beirut"
-      }
-    ],
-    "related_queries": [
-      "فيروس \"هانتا\" يستنفر أوروبا ومنظمة الصحة تستبعد تحوله لجائحة",
-      "بعد تفشي هانتا.. قبطان \"السفينة الموبوءة\" يوجه رسالة للعالم",
-      "فرنسا: تحور سلالة \"هانتا\" على السفينة الموبوءة غير مؤكد"
-    ],
-    "map_focus": {
-      "label": "United States",
-      "lat": 37.0902,
-      "lng": -95.7129,
-      "zoom": 4
-    },
-    "seo": {
-      "title": "الفيروس هانتا Live Trend Tracker | HantaUpdates",
-      "description": "الفيروس هانتا is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links with",
-      "canonical": "https://hantamap.online/trend/trend",
-      "keywords": [
-        "الفيروس هانتا",
-        "الفيروس هانتا tracker",
-        "الفيروس هانتا updates",
-        "الفيروس هانتا live updates",
-        "الفيروس هانتا outbreak",
-        "الفيروس هانتا symptoms",
-        "الفيروس هانتا public health",
-        "الفيروس هانتا source links"
-      ]
-    },
-    "first_seen_at": "2026-05-10T09:16:13+00:00",
     "views_hint": 0
   },
   {
