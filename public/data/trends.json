@@ -219,79 +219,6 @@
     "views_hint": 0
   },
   {
-    "id": "bc4048633a0601dec1",
-    "slug": "uganda",
-    "keyword": "uganda",
-    "title": "uganda trend tracker",
-    "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Reuters.",
-    "category": "public-health",
-    "geo": "TR",
-    "search_volume": "1000+",
-    "traffic_label": "1000+",
-    "published_at": "2026-05-19T17:20:00+00:00",
-    "updated_at": "2026-05-19T17:44:29+00:00",
-    "score": 1000,
-    "source_url": "https://trends.google.com/trending/rss?geo=TR",
-    "sources": [
-      {
-        "title": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPaVdNLS1iQmlTb0JLUERsUzRLS1N5MWJSQVNiR285d1ZBOF84Y2RsWl9fSTZYNlFuXzdyUkxjYVg3T1VNckpCaFRMLTFmRkMwOXRKOUJsQ2FyYmVDVWtLaTlZNHk4dDJYeGQ1M0JqUExlYzZRY0dJM1d6ME1IQzg1UDJPUTRNOVBoWER0SnRNQXZaUElVbVpvdnRadjM2UHdqWW96YzdjM1VMRTgzTzBudnlLMllhcTJ2VDhYcEN4UFJNOFQwRGFPZUx0V2lqVlNsT3c?oc=5",
-        "source": "Reuters",
-        "published_at": "2026-05-17T17:23:49+00:00",
-        "summary": "WHO declares Ebola outbreak in Congo, Uganda an emergency of international concern Reuters WHO declares Ebola outbreak in DR Congo, Uganda a global health emergency Al Jazeera Ebola strain in Congo-Uganda outbreak has no vaccine, no treatment for often deadly symptoms CBS News Citing Ebola Outbreak, U.S. Restricts Entry From Congo, Uganda and South Sudan The New York Times Ebola outbreak in DRC and Uganda: What you need to know International Rescue Committee Ebola strain spreading in Congo and Uganda has no approved vaccine The Conversation U.S. deploys $13 million, imposes travel restrictions"
-      },
-      {
-        "title": "Uganda bans hugs and handshakes as two cases of Ebola are confirmed",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPcUp1V0ppMkpUYzU0bGtrbVJ5WGRNVmFnZlo2eHpOWjVVVGFtM3AxbEdrQm55bko2MG42WjFqaXQzRkRWQlRWa21aR0RyNGNzSV9CUGVxNW1Ga2NMLVh5NlBZRjBvbWRRQ1ZaRzVGY05HWEtPd3R4MDhvbE51dm1WbTB2bDJ5MlpOSzdqbXdyS0pHZXV6XzJnS1E3ZjZDcGd0QlRWRHFwUU9DakhQS3hPbnJCekZFQmxNVGdOem5n?oc=5",
-        "source": "The Telegraph",
-        "published_at": "2026-05-19T12:32:00+00:00",
-        "summary": "Uganda bans hugs and handshakes as two cases of Ebola are confirmed The Telegraph"
-      },
-      {
-        "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLWc5YmNSd040d0pkM2czRzRXWmNBdk9NemR2MjE0RFF3eUg4TmpqQWNpYUpvbjdfbXRQVi1LUC1nbWdBQXRJaE9obE9oSGZ4M0lFY0VpOFVwb3ZLWjVnY3BjZkc1eERKOC1IbGt4cXZBX1lXVGxHZ3Q5c0RESnFTelNETGE4VW0tdnNNTjBRMEgzaFAzNVFPZ29INDN1MzN4MmM3SkhWSHJQUENwN21GbDhNLUdUOUhsbEpDS3VJMDhxWHBDZmt1THQwSzg0ZzZIdC0xRnFZT1VRRFNDaFZ1ZjhhR25wTW9jem5nWGJoX0Zzd29Yb3hGUTVaV1lyRVFPc2gwNUxzUVFrME0?oc=5",
-        "source": "World Health Organization (WHO)",
-        "published_at": "2026-05-17T00:45:10+00:00",
-        "summary": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO)"
-      },
-      {
-        "title": "U.S. raises Uganda and Rwanda travel alerts due to Ebola outbreak",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZDl6SFRiclpSYlNOMUJVRDZNQklGY1JxcFd4Q0dNRXVxeWV5TmxZSWdfNnYwUlhDUnlkbHlUNEVHNlZCMjZBdUpHMjNQS0xUOGY2cmplazRZV2N1ZF8xT1h1VVZqSWJuQUJ0MEFNZE14c2RMNHk0Qzh2QWJLSUxFU1gxY0JoWEVpWWxuVFJsQ29tdkhueWh6bnFTbHB1akpxMjNCWVJOUkdpUHkzQnpn?oc=5",
-        "source": "Travel Weekly",
-        "published_at": "2026-05-19T17:06:39+00:00",
-        "summary": "U.S. raises Uganda and Rwanda travel alerts due to Ebola outbreak Travel Weekly"
-      }
-    ],
-    "related_queries": [
-      "Uganda bans hugs and handshakes as two cases of Ebola are confirmed",
-      "Gov’t releases school guidelines amid Ebola outbreak",
-      "Health: Ebola: Uganda Tourism Board guarantees visitor safet"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "uganda Live Trend Tracker | HantaUpdates",
-      "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pro",
-      "canonical": "https://hantamap.online/trend/uganda",
-      "keywords": [
-        "uganda",
-        "uganda tracker",
-        "uganda updates",
-        "uganda live updates",
-        "uganda outbreak",
-        "uganda symptoms",
-        "uganda public health",
-        "uganda source links"
-      ]
-    },
-    "first_seen_at": "2026-05-17T18:14:42+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "c5ed69d66a9d724659",
     "slug": "hantavirus-cases",
     "keyword": "hantavirus cases",
@@ -727,6 +654,79 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "71a172cd8f1c302d10",
+    "slug": "uganda",
+    "keyword": "uganda",
+    "title": "uganda trend tracker",
+    "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Centers for Disease Control and Prevention | CDC (.gov).",
+    "category": "public-health",
+    "geo": "AE",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-06-06T14:00:00+00:00",
+    "updated_at": "2026-06-06T16:00:26+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=AE",
+    "sources": [
+      {
+        "title": "Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 6/5/2026",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNWENEWmFicVBKREhFMk52dmJvSFM5NERLXzdjTjhoQjdFYkszS3hYM3hpcmJpMVF4UlpZckRfNHpkNlpDbTNhTFBtQkxRRk5IdU9yRS01blI4dlJmTmM4TUtha1BURE9BdEhXVjgtUzJXN2tSZVM3ZU51UVVPU0ZKdC05eEFReFRDX0l2VTdYVklIb1BReTB3SnlNR1V6WW0wa1RWeTVfQ0dORWtmX0RzU1VwN3dsdGY3ZUE4ajkxdXpQQXhqWHZBcw?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-06-05T22:02:15+00:00",
+        "summary": "Update on Ebola Outbreak in the Democratic Republic of the Congo and Uganda, 6/5/2026 Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "WHO and Africa CDC unveil $518m Ebola plan as DRC, Uganda death tolls rise",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWNrOXZKM3JZR2dVOERpX0tPU3BhczdUd0dra1RLcmlFanRfMndGeWJWRXVPQnVKNzFKbWNDMFg5QkU5MU9IVUlnVkRBemNxbExFYVBJaHhhSzZEWWZ2dEJyMDJXZXpRS2pBV200WE1IWV9OSG5xWnpTTzNNdEdTcWRScW4wSTBOakQtanphU3pjelkyV25wdjJSTFdxM2U4SUdhTnY0MNIBrAFBVV95cUxNMk9oZmRFMFNuZVk5X0dnaGROUXRzYTJZR29GbnM4LWM0d2dRRjVIV0x5WjV3Y2puMFVRSDUzOW45QWNaSW9jUlM5OTZwTURQME9WSG9JbU5WcEx5RHlld29PT0dZb2k5TGYxQ2dyU2RQaFdKUjJTd3FNaWkwNFdVQjlfRDRCQWdhWkIzZGh2X29XeUx5SEJiUkVhZzZUb19tZFBhWjRPUEJIZjk5?oc=5",
+        "source": "Al Jazeera",
+        "published_at": "2026-06-05T21:17:08+00:00",
+        "summary": "WHO and Africa CDC unveil $518m Ebola plan as DRC, Uganda death tolls rise Al Jazeera"
+      },
+      {
+        "title": "Traders face big losses after Uganda closes Congo border over Ebola contagion fears",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZ1hoVWFHdGIzdDRPbURqbUpxSERMdzBjak9zV2JUU2tiNk5NWU94TEg0SS1lazJMbVhHUGNkdHc2U19qS2hxMjNKZVZ0YUkzRmZZRWZaWTlWWDNiMG9ORVJyM0lqWWE1Z1UtVm5QbEZDazJqMHpxTTVNZE9VMVVWLU5DY09vb3piUEFab01R?oc=5",
+        "source": "AP News",
+        "published_at": "2026-06-06T09:07:00+00:00",
+        "summary": "Traders face big losses after Uganda closes Congo border over Ebola contagion fears AP News"
+      },
+      {
+        "title": "Intravenous Artesunate in Artemisinin-Resistant Severe Malaria in Uganda",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aOE9NaVFQbndHVWZmN19zbS1vMDdBbHJ6c1o3LWJ2RnFBWG1mZW1FYktmNDhnRUxybzhpZ0JSd3VPZ2E2S3JLWENfUl9qSWNpTmpJNkk2dTdiMEZRMVBv?oc=5",
+        "source": "New England Journal of Medicine",
+        "published_at": "2026-06-04T08:04:46+00:00",
+        "summary": "Intravenous Artesunate in Artemisinin-Resistant Severe Malaria in Uganda New England Journal of Medicine"
+      }
+    ],
+    "related_queries": [
+      "Traders face big losses after Uganda closes Congo border over Ebola contagion fears",
+      "Uganda health ministry confirms six new cases of Ebola",
+      "Ebola border shutdown leaves goods rotting between Uganda and DRC"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "uganda Live Trend Tracker | HantaUpdates",
+      "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pro",
+      "canonical": "https://hantamap.online/trend/uganda",
+      "keywords": [
+        "uganda",
+        "uganda tracker",
+        "uganda updates",
+        "uganda live updates",
+        "uganda outbreak",
+        "uganda symptoms",
+        "uganda public health",
+        "uganda source links"
+      ]
+    },
+    "first_seen_at": "2026-05-17T18:14:42+00:00",
     "views_hint": 0
   },
   {
