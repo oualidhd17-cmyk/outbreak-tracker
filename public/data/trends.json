@@ -219,6 +219,79 @@
     "views_hint": 0
   },
   {
+    "id": "a7a14ae50f93261474",
+    "slug": "yahya-zaini",
+    "keyword": "yahya zaini",
+    "title": "yahya zaini trend tracker",
+    "description": "yahya zaini is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: VOI.id.",
+    "category": "public-health",
+    "geo": "ID",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-06-10T13:50:00+00:00",
+    "updated_at": "2026-06-10T17:55:49+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=ID",
+    "sources": [
+      {
+        "title": "Anticipating the Threat of Hantavirus, Commission IX of the DPR Requests that the Entrance to Indonesia Be Tightened",
+        "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE1peERCQXFOazhLVlkzY1lkRnF2ajR2ak5jWTFiamMwZWxfU2lVcmZRNWZtZDU1WDdoakdNdTRsdGFsNGPSAUJBVV95cUxOTjUwZ0lqVzBZN2VESloxdU54Y09ZNmZJSy1oWVZyWExmNTYwRGp4NzBJN2VEdHBCRkY0OTN3bHZac1E?oc=5",
+        "source": "VOI.id",
+        "published_at": "2026-05-08T04:48:13+00:00",
+        "summary": "Anticipating the Threat of Hantavirus, Commission IX of the DPR Requests that the Entrance to Indonesia Be Tightened VOI.id"
+      },
+      {
+        "title": "Yahya Zaini Values The Proposed Budget For Additional Hundreds Of Trillions For The Nutrition Eating Program Is At Risk If...",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5VZG9WTlA1Nnoyb3gxMlNRM3BRZ0ZSdUNNZnNwZ2lEQnhEQ21kVENCSmJWMmp1WGQyRkgzaHFHSmM3Z9IBQkFVX3lxTE5VZG9WTlA1Nnoyb3gxMlNRM3BRZ0ZSdUNNZnNwZ2lEQnhEQ21kVENCSmJWMmp1WGQyRkgzaHFHSmM3Zw?oc=5",
+        "source": "VOI.id",
+        "published_at": "2025-07-14T07:00:00+00:00",
+        "summary": "Yahya Zaini Values The Proposed Budget For Additional Hundreds Of Trillions For The Nutrition Eating Program Is At Risk If... VOI.id"
+      },
+      {
+        "title": "Amid Hantavirus Alert, Government Urged to Tighten Entry Controls into Indonesia",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMnNIR0RsVExIb0g0RW00RWlPQnNlTmo5cGxDTjJ1VF82Q0hCR2F2LXd0Z05mRmZvQWJ5dkxFVzhSREdQSTB5MXdfNEtsN2pvVHVPZ1o5VEZOWWczLXRuaEw4YTFTeTRUM2N2cmRQMkM2Z0ljanU4TXhzYzhHYm9UQ3BfN0gzZ3ZwcnlXdUd4eDU2YUloQVFibERBRjNNZllWZWJUU3BYUXZvWlEyc3FDVA?oc=5",
+        "source": "Indonesia Expat",
+        "published_at": "2026-05-08T07:00:00+00:00",
+        "summary": "Amid Hantavirus Alert, Government Urged to Tighten Entry Controls into Indonesia Indonesia Expat"
+      },
+      {
+        "title": "Indonesia Considers Vape Ban Over Health, Drug Risks",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMHNPdVdrVzhaOFB3Y3h4YkNfUzBLeXNmX1pfSWxfS3NoOE5ickhFbXVranlRdjNZMFQ0VWdxSjZ0cXQxVTU5bEhEUjlhem1ROVNkVno5emVIdXNheUx1UUtOclhZMHVLSk9nbkM4Rlk5a2hfb0RjOWY1eXNyQl9EbkIxdjQ2MDZKYW5qWA?oc=5",
+        "source": "Tempo.co English",
+        "published_at": "2026-04-12T07:00:00+00:00",
+        "summary": "Indonesia Considers Vape Ban Over Health, Drug Risks Tempo.co English"
+      }
+    ],
+    "related_queries": [
+      "Wakil Ketua KPK Fitroh Rohcahyanto Bantah Terlibat Kasus Korupsi MBG",
+      "Yahya Zaini: Saya Tidak Terlibat Korupsi di BGN",
+      "Ketua DPRD Jateng Bantah Dicatut di Kasus Korupsi MBG"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "yahya zaini Live Trend Tracker | HantaUpdates",
+      "description": "yahya zaini is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/yahya-zaini",
+      "keywords": [
+        "yahya zaini",
+        "yahya zaini tracker",
+        "yahya zaini updates",
+        "yahya zaini live updates",
+        "yahya zaini outbreak",
+        "yahya zaini symptoms",
+        "yahya zaini public health",
+        "yahya zaini source links"
+      ]
+    },
+    "first_seen_at": "2026-06-10T17:55:49+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "c5ed69d66a9d724659",
     "slug": "hantavirus-cases",
     "keyword": "hantavirus cases",
