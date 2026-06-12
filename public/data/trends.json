@@ -365,6 +365,79 @@
     "views_hint": 0
   },
   {
+    "id": "f6ef9f38831f316a94",
+    "slug": "ebolavirus",
+    "keyword": "ebolavirus",
+    "title": "ebolavirus trend tracker",
+    "description": "ebolavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CEPI.",
+    "category": "public-health",
+    "geo": "ES",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-06-12T17:10:00+00:00",
+    "updated_at": "2026-06-12T17:36:02+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=ES",
+    "sources": [
+      {
+        "title": "CEPI awards Public Health Vaccines US$1.9m to accelerate Bundibugyo ebolavirus vaccine",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORHZScmp6dDZIWWdHWGktaW10YnFDNktDN0dZNGRhaFdPWWhCT1JmVXpUZXctdHh0VTZSdENJNW5TcmU1bGhMSUNaVG5pUmpMOVdfelBwZEpGUlFCUTMtaF9BVko3T2s0c2hQRkRDVDZ3X3lIRUJvcFFoemJtcDVPUVo4bC1aWkVFTGJVMk9TNGdBMkdUUXE2LXJkSElNNVU?oc=5",
+        "source": "CEPI",
+        "published_at": "2026-06-08T07:00:00+00:00",
+        "summary": "CEPI awards Public Health Vaccines US$1.9m to accelerate Bundibugyo ebolavirus vaccine CEPI"
+      },
+      {
+        "title": "Ebolavirus | Genus, Symptoms & Treatment",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94a3VwY3pYNU4zdEZHTzZkNHNudlZVMDIzMHI2SGFyQnZ3eklXS1ljdGx6SFlHTHlXMzJDMVJ2UG1FcG9ZMkxNRl9RMkFBYlNwdmlMX25oS1U?oc=5",
+        "source": "Britannica",
+        "published_at": "2026-06-09T05:00:00+00:00",
+        "summary": "Ebolavirus | Genus, Symptoms & Treatment Britannica"
+      },
+      {
+        "title": "Does the Current Ebola Vaccine Protect Against Every Type of Ebola Virus?",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQZWJjcDk3UE5QR21kWTVNM2d6djI2R0x5VkNWZXpvVGppVUtXRWREeFNUdS1UZktJRjdlR3hFdk9XaWp3N1BSdUNFdm83elRHa1hNQm1vdEduaXZFR0dWWmVOMDNjNFlHUllUSWg5aVp5TnJwQmhubmJHdEZPeWFUN1JHTEgtMFNIOXkwSEtrYjdxMEFnTlFlcmhNZVhKMW4zaDZ3UlNrMWZwUHk5RzR1MQ?oc=5",
+        "source": "National Academies of Sciences, Engineering, and Medicine",
+        "published_at": "2026-05-22T07:00:00+00:00",
+        "summary": "Does the Current Ebola Vaccine Protect Against Every Type of Ebola Virus? National Academies of Sciences, Engineering, and Medicine"
+      },
+      {
+        "title": "CEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTUpjQ1doY2pHYV91a3ZYbzZPVTdNUUNOT2VCbWlmRklIMUJPN3h4MWFqTTVINXlxQUxqclA1N2s2bEdGXzhHUk1IeWpXUzRPTkJPcE1rRFcwTWdxX1hMOE5VODZsZmVPTmNaTkhYd0RidW44UEFuenh2NHE1S1dBMzhDMVl4bGs?oc=5",
+        "source": "CEPI",
+        "published_at": "2026-05-31T07:00:00+00:00",
+        "summary": "CEPI fast-tracks three Bundibugyo ebolavirus vaccine candidates CEPI"
+      }
+    ],
+    "related_queries": [
+      "Ebola Virus Alert: Andhra Pradesh Intensifies Screening Measures",
+      "50 years of Ebola virus: Why, despite 'zero cases', low risk, 'take no chances' is India’s strategy",
+      "Ebola screening begins at Andhra Pradesh airports in 2026"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebolavirus Live Trend Tracker | HantaUpdates",
+      "description": "ebolavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without",
+      "canonical": "https://hantamap.online/trend/ebolavirus",
+      "keywords": [
+        "ebolavirus",
+        "ebolavirus tracker",
+        "ebolavirus updates",
+        "ebolavirus live updates",
+        "ebolavirus outbreak",
+        "ebolavirus symptoms",
+        "ebolavirus public health",
+        "ebolavirus source links"
+      ]
+    },
+    "first_seen_at": "2026-06-12T17:36:02+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "27a705bae1e5616dbb",
     "slug": "teneriffa",
     "keyword": "teneriffa",
