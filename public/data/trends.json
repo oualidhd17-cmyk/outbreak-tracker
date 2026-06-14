@@ -1,5 +1,78 @@
 [
   {
+    "id": "91d5e1511f731279e6",
+    "slug": "cuaca-besok",
+    "keyword": "cuaca besok",
+    "title": "cuaca besok trend tracker",
+    "description": "cuaca besok is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Mshale.",
+    "category": "public-health",
+    "geo": "ID",
+    "search_volume": "200000+",
+    "traffic_label": "200000+",
+    "published_at": "2026-06-14T14:00:00+00:00",
+    "updated_at": "2026-06-14T16:19:13+00:00",
+    "score": 200000,
+    "source_url": "https://trends.google.com/trending/rss?geo=ID",
+    "sources": [
+      {
+        "title": "Peringatan Dini Cuaca Besok Selasa 28 April 2026, BMKG: Waspada Hujan Lebat & Angin Kencang Contagio Hantavirus (tQ6sLYBt5A)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fdzYxOWxlT2Z3MUJjMjNqdHhCTkZ2TXE0VWlwWTJjcHROSnpjSlBPLXBhMC1PanAweUlrRWxaWXZoX0lUZTBIRFRsTWQzT182SFZmNmVEWGpkTEJwQzFncA?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-06-05T04:56:14+00:00",
+        "summary": "Peringatan Dini Cuaca Besok Selasa 28 April 2026, BMKG: Waspada Hujan Lebat & Angin Kencang Contagio Hantavirus (tQ6sLYBt5A) Mshale"
+      },
+      {
+        "title": "Peringatan Dini Cuaca Besok Minggu 17 Mei 2026, BMKG: Waspada Hujan Lebat & Angin Kencang Bonnie Tyler Induced Coma (Al3GLXNdeL)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hWWQ3TzU0ZFd1RURYRExLMTdSREo4QUxmVTB6TFNHelVic2dpTkx5MDBFOWZJSDZCR0VtdENGbUpHbG1qM2Zpd0lEbGx4ZWpiUVNTNDFJLUY4ekE?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-05-31T03:29:12+00:00",
+        "summary": "Peringatan Dini Cuaca Besok Minggu 17 Mei 2026, BMKG: Waspada Hujan Lebat & Angin Kencang Bonnie Tyler Induced Coma (Al3GLXNdeL) Mshale"
+      },
+      {
+        "title": "Peringatan Dini Cuaca Besok, Selasa 16 Desember 2025: Siaga Hujan Lebat Di Aceh-Bali New Deal (3fYzgGPVky)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1Ynp5TmYtcTRHNmhaSWZ6UlV0MmNKTEZwdHVpaFlxa3ZpODJOZklDWW9WdHdBTW11SjFSVjF1bm5XN2F0Y0dKYzhmZFpVVU12NUM4c184dTdtdjl6di12SA?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-05-30T11:23:33+00:00",
+        "summary": "Peringatan Dini Cuaca Besok, Selasa 16 Desember 2025: Siaga Hujan Lebat Di Aceh-Bali New Deal (3fYzgGPVky) Mshale"
+      },
+      {
+        "title": "Peringatan Dini Cuaca Besok Kamis 19 Maret 2026, BMKG: Waspada Hujan Lebat & Angin Kencang 250 Poodle Cross Dogs Rescued (yxGbsGgbJM)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xMDlnWUFWRHRfcmdwR21lRmMtVC1TMGlVV2JsM3VtanhQeFRpWkFPaTJqd3RUQkdlbVZzRm03d0xQeXFRLWU5RE1GX3pVM1VneWJLQkFHM2Q2T0VPbnlQcg?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-05-27T14:47:28+00:00",
+        "summary": "Peringatan Dini Cuaca Besok Kamis 19 Maret 2026, BMKG: Waspada Hujan Lebat & Angin Kencang 250 Poodle Cross Dogs Rescued (yxGbsGgbJM) Mshale"
+      }
+    ],
+    "related_queries": [
+      "BMKG prakirakan cuaca di Indonesia berawan hingga hujan pada Minggu",
+      "BMKG: Prakiraan Cuaca 15 Juni 2026, Ini Wilayah Berpotensi Hujan",
+      "Hujan Lebat Berpotensi Guyur Sumut, Jabar dan dan Maluku Utara Hari Ini"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "cuaca besok Live Trend Tracker | HantaUpdates",
+      "description": "cuaca besok is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/cuaca-besok",
+      "keywords": [
+        "cuaca besok",
+        "cuaca besok tracker",
+        "cuaca besok updates",
+        "cuaca besok live updates",
+        "cuaca besok outbreak",
+        "cuaca besok symptoms",
+        "cuaca besok public health",
+        "cuaca besok source links"
+      ]
+    },
+    "first_seen_at": "2026-06-14T16:19:13+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "6d4bb33d72d687039c",
     "slug": "guardia-civil",
     "keyword": "guardia civil",
