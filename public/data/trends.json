@@ -365,6 +365,79 @@
     "views_hint": 0
   },
   {
+    "id": "e2c4c8bfbf9c0ac986",
+    "slug": "hart-van-nederland",
+    "keyword": "hart van nederland",
+    "title": "hart van nederland trend tracker",
+    "description": "hart van nederland is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: NL Times.",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-06-16T10:20:00+00:00",
+    "updated_at": "2026-06-16T11:06:10+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "Half of women sometimes feel unsafe on public transport",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU3psbWEybnI2LXIwR3IxTkwtWDk4dzJNZXQ2ZGUxUWl0QkhIZEZyUFRkT3ZYRkNqV3E5Snc2N241OFcyNmFZSWMzZndncHRyc2JENkJWZl91eDB1WWhKd0VsUkR6bURuS291d0ZVcXBUWHo0ckRXVEJXbmJ6VWgtM3dpTUhxUQ?oc=5",
+        "source": "NL Times",
+        "published_at": "2026-03-14T07:00:00+00:00",
+        "summary": "Half of women sometimes feel unsafe on public transport NL Times"
+      },
+      {
+        "title": "\"Hart van Nederland\": The Netherlands will receive experimental drug against hantavirus",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPY3ZfSHpySzM0Snk1M2Rpc2ZQYVBGcVYwUldGdTM3RDhlNEc4ZGZGaFpqUXF6N3Bsa1RFXzh2TGI1QVNWVWlRVm5yYUZOeFdjYTlobDdvQ1dXSkhYamRPQ190SGp6RDIzeE5QNm5EM2QyMkRzb3VPMVZpbUxvTmlHRFNuS1p5aUIzd0l1YlhQTFR3dk9Odm5pNzRYZFRxeml1QWhZQm9Qb29wcDltUXZZRm12NGZKc05hNkE?oc=5",
+        "source": "Balkanweb.com",
+        "published_at": "2026-05-29T07:00:00+00:00",
+        "summary": "\"Hart van Nederland\": The Netherlands will receive experimental drug against hantavirus Balkanweb.com"
+      },
+      {
+        "title": "Hart van Nederland - Late Editie: Twee kinderen en volwassene omgekomen bij ongeluk in Zeeland",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVk53MEgxb3dRSklHRGV2M0tDMGRGOWNkeXE4d092N1h6VDZmSU9hRFFiOVZXenJLSWFTbFExdlByeE5Oak5JY3M0MTM5clpWR3V6SnJCUWNKUHhXaS10MWV1ajhsM2xKby1qMnhhZzdRVnNyN3VPRWM1Vm1wTlZkcFZR?oc=5",
+        "source": "KIJK",
+        "published_at": "2026-06-11T13:50:28+00:00",
+        "summary": "Hart van Nederland - Late Editie: Twee kinderen en volwassene omgekomen bij ongeluk in Zeeland KIJK"
+      },
+      {
+        "title": "About 1 in 10 Dutch drivers consider switching to electric cars due to rising fuel costs",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQemFQRVFBM2xtWDJfaEQwUkpaVDRiZ3VjNnlpOU5DZ202dy1TdDR5R2dyaEh0VzVwNnR0V1pGTi00QWFUR0s2LUVBRWFzSzhGRVo0SThZc2N4X0E1ekJxMGFQNTh4czNTbkxrY2wyTl84Ulppa2VhQ09NcjVqSDVPOVNmUEZONXY1Rzk5eFh4Tk1yWFhhMVZKX3pCMVFpeUQ0SlJGVllB?oc=5",
+        "source": "NL Times",
+        "published_at": "2026-04-05T07:00:00+00:00",
+        "summary": "About 1 in 10 Dutch drivers consider switching to electric cars due to rising fuel costs NL Times"
+      }
+    ],
+    "related_queries": [
+      "Hoog oplopende emoties bij omstreden staatsbezoek: ’Hiro-Hitler go go’",
+      "Japanse fans kijken reikhalzend uit naar komst keizer Naruhito",
+      "Japanse keizer en keizerin kijken WK-wedstrijd Nederland-Japan op kasteel Het Oude Loo"
+    ],
+    "map_focus": {
+      "label": "United Kingdom",
+      "lat": 55.3781,
+      "lng": -3.436,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "hart van nederland Live Trend Tracker | HantaUpdates",
+      "description": "hart van nederland is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links",
+      "canonical": "https://hantamap.online/trend/hart-van-nederland",
+      "keywords": [
+        "hart van nederland",
+        "hart van nederland tracker",
+        "hart van nederland updates",
+        "hart van nederland live updates",
+        "hart van nederland outbreak",
+        "hart van nederland symptoms",
+        "hart van nederland public health",
+        "hart van nederland source links"
+      ]
+    },
+    "first_seen_at": "2026-06-16T11:06:10+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "a7a14ae50f93261474",
     "slug": "yahya-zaini",
     "keyword": "yahya zaini",
