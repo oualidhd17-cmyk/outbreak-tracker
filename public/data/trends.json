@@ -1022,6 +1022,79 @@
     "views_hint": 0
   },
   {
+    "id": "bcd481306527d4f418",
+    "slug": "dr-congo-ebola-outbreak",
+    "keyword": "dr congo ebola outbreak",
+    "title": "dr congo ebola outbreak trend tracker",
+    "description": "dr congo ebola outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
+    "category": "public-health",
+    "geo": "CA",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-06-24T21:50:00+00:00",
+    "updated_at": "2026-06-24T22:14:23+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=CA",
+    "sources": [
+      {
+        "title": "France confirms first Ebola case",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5OcEEzZEh6VWJ6MHBfWVdyY2cwSlVBa1luUXVZRTFYRk9MUXZBWWJpOWFQcVRDYkNvWmJyMjlnS2FOY1BBaHdmZG04aGZabFFTdTNXRnJOeXJuUVg5?oc=5",
+        "source": "BBC",
+        "published_at": "2026-06-24T09:55:47+00:00",
+        "summary": "France confirms first Ebola case BBC France reports first Ebola patient as cases in Africa surge above 1,000 The Washington Post France reports first Congo outbreak linked Ebola case DW.com France confirms first Ebola case in doctor who had worked in DRC The Guardian France confirms first Ebola case in doctor returning from DR Congo Al Jazeera France reports first Ebola case after doctor returning from DR Congo tests positive Sky News Ebola Outbreak Spreads Outside Africa As France Diagnoses First Case Forbes France confirms first Ebola case in doctor returning from DR Congo mission France 24"
+      },
+      {
+        "title": "In the shadow of Ebola: Scenes from the frontlines of the outbreak",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYi1RQl9UMVB4WC1BVGZUREVVQWFMbS0zTUxxdmlXOEdDdjFwbHRfUEh1eDVqTndfOFdFT0ZFUXFsVU9OSWxQODlfcl96VWxhQmVfb3VSaV9UU0xyM2F6Y0prWHgxaHozV2YtQ3FGeDI2d3JtOHdqS3YyY3JPSXd1YzhVbGZxVjZ1M3pvNQ?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-06-24T20:45:00+00:00",
+        "summary": "In the shadow of Ebola: Scenes from the frontlines of the outbreak Reuters"
+      },
+      {
+        "title": "Lives at risk in DR Congo as Ebola outbreak continues to outpace response",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE11OUI3X1NpSjFNbFhHdnk2TE5nM2pmN29sUHBUd1J5Zmh6Q0gwUHlpMWgxZkRFQTZjenBKNVZBdk45d2EtNnhkWWhGcTg5S3l3R29zNDZpZw?oc=5",
+        "source": "UN News",
+        "published_at": "2026-06-24T18:32:49+00:00",
+        "summary": "Lives at risk in DR Congo as Ebola outbreak continues to outpace response UN News"
+      },
+      {
+        "title": "DR Congo's deadly Ebola outbreak is 'evolving fast', WHO warns",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxONGloWFhFZEZ6RGg2XzN6OUxUN0E2RFdlOUhqUUNmMFBoWUcxRGV4QjRNS0xjMmhESEtnS3N4dmVtOWl4VDFTblpwWVlYTGdrMTJud20wMTlHSnd3OWQzaHVJekFfLThJWWg0OFFxclV0c1A3WVdlNlhhVl9JbS14SThZdTFGeE5sOGN2eWVBMUtweUFtbHc?oc=5",
+        "source": "France 24",
+        "published_at": "2026-06-19T19:55:58+00:00",
+        "summary": "DR Congo's deadly Ebola outbreak is 'evolving fast', WHO warns France 24"
+      }
+    ],
+    "related_queries": [
+      "Inside the gold-mining town where the Ebola outbreak likely started",
+      "Ebola cases in Congo reach highest first-month total of any outbreak, WHO says",
+      "More than 1,000 confirmed cases of Ebola in DRC"
+    ],
+    "map_focus": {
+      "label": "France",
+      "lat": 46.2276,
+      "lng": 2.2137,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "dr congo ebola outbreak Live Trend Tracker | HantaUpdates",
+      "description": "dr congo ebola outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source ",
+      "canonical": "https://hantamap.online/trend/dr-congo-ebola-outbreak",
+      "keywords": [
+        "dr congo ebola outbreak",
+        "dr congo ebola outbreak tracker",
+        "dr congo ebola outbreak updates",
+        "dr congo ebola outbreak live updates",
+        "dr congo ebola outbreak outbreak",
+        "dr congo ebola outbreak symptoms",
+        "dr congo ebola outbreak public health",
+        "dr congo ebola outbreak source links"
+      ]
+    },
+    "first_seen_at": "2026-06-24T22:14:23+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "00a0bdbf9816117351",
     "slug": "ag-ncia-nacional-de-vigil-ncia-sanit-ria",
     "keyword": "agência nacional de vigilância sanitária",
