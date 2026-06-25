@@ -657,6 +657,79 @@
     "views_hint": 0
   },
   {
+    "id": "4693d2eb0360bdb14c",
+    "slug": "epidemia",
+    "keyword": "epidemia",
+    "title": "epidemia trend tracker",
+    "description": "epidemia is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Lexington Times.",
+    "category": "public-health",
+    "geo": "IT",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-06-25T19:10:00+00:00",
+    "updated_at": "2026-06-25T19:54:58+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=IT",
+    "sources": [
+      {
+        "title": "We’re only beginning to understand all the ways the opioid epidemic harmed Appalachia",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPU05vRUFnV3phUThWZWNkTlBiTVMyT1FLN0s4R0RSMWNCOHBSUW5Nb1QzUWNpVlRQc2hZSnZzbTRqb0pSLXRrRTBzSWZXMHVuSGZ4Zk5iZ01GdndsNmVBY3M0MmczY2ZDRWVXWGQxczRsQ0ZwM0FkQ0s4WTB0ay1fUGxCald4MC1SeEMzekEzV3JSYVhIYVhOOHN2Ml9Ob1N5NFdTWmRUZElRVXF6Tzgzdw?oc=5",
+        "source": "The Lexington Times",
+        "published_at": "2026-06-19T09:30:23+00:00",
+        "summary": "We’re only beginning to understand all the ways the opioid epidemic harmed Appalachia The Lexington Times"
+      },
+      {
+        "title": "Ebola Bundibugyo 2026: epidemia OMS in RDC e Uganda - SISMED",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qSFdLUC14b0Y3MF8zM2FjX0Vlcm55aFBhcFp4MmZlSEFlV3dpd2NwVUN5UUFfTW4waEtGeHpsYkc4RGVLcEVHVTlmY1JlZ24wekYxMHdRQkFJcnAzY1NsR2Jib0Z2bzd6UnAwMFdoM0VpdVk0OEljbVBaMA?oc=5",
+        "source": "Società Italiana Scienze Mediche",
+        "published_at": "2026-05-20T07:00:00+00:00",
+        "summary": "Ebola Bundibugyo 2026: epidemia OMS in RDC e Uganda SISMED - Società Italiana Scienze Mediche"
+      },
+      {
+        "title": "‘Blind spots’ could hide full spread of Congo’s Ebola outbreak, WHO suggests",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOV3VaZnpxSnZaZkNrZjVaMi16N3ZxQVlUWHB4dlNGQlBkZ2hlN2NvbzlhYTVzbm95SmF0STNtNXlVcGMySEpJOXZNRlFuNjVwQ3hjMURIR2J6U3JzV3pGVzF3ZksxcmowMVFrbmZCTWdpa3FOaXNQRkhSeWFRMlRmXzd2Tm0tOTE5dklaSnQtZFBKOXl4a1JkZk02S2Z4Nlk2cVRSdWgwenBPM25MMU9McEttUUpBWVJyeHhTeXFQOHZMb3c3eXhvcFMxTTRDU2RpNWNv?oc=5",
+        "source": "Internazionale",
+        "published_at": "2026-06-12T07:00:00+00:00",
+        "summary": "‘Blind spots’ could hide full spread of Congo’s Ebola outbreak, WHO suggests Internazionale"
+      },
+      {
+        "title": "Ebola epidemic in Congo worsens: 254 dead and over 1000 confirmed cases so far",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOV9VOTRMaWZVLW1pelNIb0s5MGFNbC1KUlJKQnBJeWVBZ2xwQ0ZIUEYxS1daLWprcTh0eEFJVDd6RFVUcU95MFo2MjFFYzJvclc2LUIya0Y5NVNfNzY1cHZDV2pLRmpaRjBQdXA5ZjNObTZmNUhpeW5PbXhhS21hVmVRdllqN1NNcHY0bldRUHQ4SmdoMFpuNmtSTkhCY3dWNENpeU5TSmVMSWJNdTRpd01LYlJ2b1hfVHhOSEN5TzJkVmt4Rmc?oc=5",
+        "source": "Balkanweb.com",
+        "published_at": "2026-06-23T00:21:42+00:00",
+        "summary": "Ebola epidemic in Congo worsens: 254 dead and over 1000 confirmed cases so far Balkanweb.com"
+      }
+    ],
+    "related_queries": [
+      "Ebola, hantavirus, caldo estremo: l'Oms lancia l'allarme su tre fronti. \"L'epidemia in Congo corre più veloce della risposta\"",
+      "Ebola in RD Congo, vite a rischio nelle miniere d'oro artigianali",
+      "Alla ricerca del paziente zero dell’epidemia di ebola"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "epidemia Live Trend Tracker | HantaUpdates",
+      "description": "epidemia is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without p",
+      "canonical": "https://hantamap.online/trend/epidemia",
+      "keywords": [
+        "epidemia",
+        "epidemia tracker",
+        "epidemia updates",
+        "epidemia live updates",
+        "epidemia outbreak",
+        "epidemia symptoms",
+        "epidemia public health",
+        "epidemia source links"
+      ]
+    },
+    "first_seen_at": "2026-06-25T19:54:58+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "f6ef9f38831f316a94",
     "slug": "ebolavirus",
     "keyword": "ebolavirus",
