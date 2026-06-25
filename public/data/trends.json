@@ -150,23 +150,16 @@
     "slug": "disease-outbreak",
     "keyword": "disease outbreak",
     "title": "disease outbreak trend tracker",
-    "description": "disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Washington Post.",
+    "description": "disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The New York Times.",
     "category": "public-health",
     "geo": "AU",
     "search_volume": "2000+",
     "traffic_label": "2000+",
     "published_at": "2026-06-25T08:40:00+00:00",
-    "updated_at": "2026-06-25T11:38:56+00:00",
+    "updated_at": "2026-06-25T14:24:09+00:00",
     "score": 2000,
     "source_url": "https://trends.google.com/trending/rss?geo=AU",
     "sources": [
-      {
-        "title": "France reports first Ebola patient as cases in Africa surge above 1,000",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblRxMmhOZmN6dElSczl2TVdGeHhyVUl5WjZIdTREcGJCdW1lQU5mTzBpQ20yV04yYjIyb3VrcUZKM3NoNUdOekVzYkJRZHpBZ1pCV2Fzb1VxVVRlRUFZbm5pdnI2RzRvVjZmNURQY29ZTkZxQUg1b3JpRENFbjhoR0ZRMVNQZzZ2WTVHNFB1Slh0QXlCNFYyMGc5eFliYnkyeEhkdlpOc3NnNWFDMWVlUw?oc=5",
-        "source": "The Washington Post",
-        "published_at": "2026-06-24T19:37:36+00:00",
-        "summary": "France reports first Ebola patient as cases in Africa surge above 1,000 The Washington Post"
-      },
       {
         "title": "The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From?",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkI3LUM1dS1OemZ6X2I0Zi1PQXFSR3h6T095VDJCOXlrOWg0bmZia0ktYXJWSGtVUVhhYkZQUTJCaTVhZ29Ock03NWVPVlF1Qk14aHZoSHkxSHdaZ0hlNUdPdktENWVlT2JBNWhQalg0cFdiWFVobmtXV3Z2cTNwU0g5Sk5GcW1G?oc=5",
@@ -175,24 +168,31 @@
         "summary": "The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From? The New York Times"
       },
       {
-        "title": "Ebola Has Passed 1,000 Cases. This Outbreak Is Different From Any Before",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODIxSjNKVEFrMG9WWmkxOW1rUVViMmdVZUhUMlV4X3pzUGU1Q1B1dVAwVHlmNlhUVHE2dGRhaVV6bHBZeHJ3VkhrNGdhTDc1a1VkRTZjV2dWNEdZMmlPeDk0ajN4OFc5WUFPVmJDRnBweGNSMGhOemNpLVFfOUZ5WW92eG53MU9vdlJiQk11ZXpKTzlycUFZUEU2UUNxNUFYZGpFT2VaY0s5eExoU3hJbndJcV9ESWZhbW94S29n?oc=5",
-        "source": "Forbes",
-        "published_at": "2026-06-24T15:43:41+00:00",
-        "summary": "Ebola Has Passed 1,000 Cases. This Outbreak Is Different From Any Before Forbes"
+        "title": "France reports first Ebola patient as cases in Africa surge above 1,000",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblRxMmhOZmN6dElSczl2TVdGeHhyVUl5WjZIdTREcGJCdW1lQU5mTzBpQ20yV04yYjIyb3VrcUZKM3NoNUdOekVzYkJRZHpBZ1pCV2Fzb1VxVVRlRUFZbm5pdnI2RzRvVjZmNURQY29ZTkZxQUg1b3JpRENFbjhoR0ZRMVNQZzZ2WTVHNFB1Slh0QXlCNFYyMGc5eFliYnkyeEhkdlpOc3NnNWFDMWVlUw?oc=5",
+        "source": "The Washington Post",
+        "published_at": "2026-06-24T19:37:36+00:00",
+        "summary": "France reports first Ebola patient as cases in Africa surge above 1,000 The Washington Post"
       },
       {
-        "title": "The military traded its flu vaccine mandate for ‘medical freedom’ – an outbreak quickly followed",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGxqemZ6Z3Via1JVNGxwaERyNFZyZ0ZLLUFlN3MwMHJfNVYtdnQydG5IQmJuRXd3azJUemJoU0JvN0FFWjI5d1otMmJWbTZVay1uWHBxTTYyWldkV0xvOVFmbmJCT0xIR3BGNU9EU24yaE5ZWTJySG9WZmlPRWlpakVicW45LWhISkVFRmM2Y1BTOXB3ZmNrQWVWV01Pc1FmUTBxMWpibEU0U2hldnQ2Y0NZY2o2RXkwYXF4MXA4bXoyN0RmT0E?oc=5",
-        "source": "The Conversation",
-        "published_at": "2026-06-24T19:55:04+00:00",
-        "summary": "The military traded its flu vaccine mandate for ‘medical freedom’ – an outbreak quickly followed The Conversation"
+        "title": "France confirms 1st Ebola case linked to DRC as UN warns outbreak is fastest-growing in Africa's history - ABC News",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDNPQ1hiaDdYVEM5b2RoTUMwUnROVnRIQjZxZzcweHVDYWZoaUlySTJMZjlsSE9fckl3VkpqM3lQV1dEMzdQbzdtQzdaMDBhQmRxT1lYelc5WnNnZ0dCZnBWcHVDUXNMUnFGQjdZVmw4djgySGlPM2dDaEZSYjJ3NTA5dno0TlY4ZzVXb0l2UTRsWllsUlBHX2szOXAxMmUyN25rSm5R0gGrAUFVX3lxTE5oU0J5UWtyWUpkNnpzLWJTaXhmM182aGx0WlFKVXNPMmZmUFA5cWh2OEphY214LVl2RjVPR21sLW5aUG16V1FEbnhtY1c2eTdGVW8xSUhaR1gtLXZ4T2J0OXc3eW1ZakFnUXREajkzRHFJaDYyOGtXam96RHdpcFZjQjdudmRHTmVQbEIyNk9TN2dhTkI5dWgzTmg5UUo1U2pzYkNfQkRQWmNnNA?oc=5",
+        "source": "Breaking News, Latest News and Videos",
+        "published_at": "2026-06-24T14:03:18+00:00",
+        "summary": "France confirms 1st Ebola case linked to DRC as UN warns outbreak is fastest-growing in Africa's history ABC News - Breaking News, Latest News and Videos"
+      },
+      {
+        "title": "First Ebola Case Outside Africa in 2026 Outbreak Confirmed",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWM4QXpOc3o0aGcxckNDd05fRU5jTmhYMjZpUHdHYURpbzMtVVVvbWY4ckZ0ald3R05XQkFXY0lMM3JCMFZ3dkdSV00wbDduM2hoY1g2OElmckZaNWVRRnI4dDdTaWtUSWVfYl9ybHNxejIzYkVEdG1IbHh0UVp0NjBhV3dxOGdDT2pDV1VqMno?oc=5",
+        "source": "ScienceAlert",
+        "published_at": "2026-06-25T08:04:42+00:00",
+        "summary": "First Ebola Case Outside Africa in 2026 Outbreak Confirmed ScienceAlert"
       }
     ],
     "related_queries": [
       "DRC Ebola outbreak grows to become one of worst recorded",
-      "Worst first month seen in Congo’s Ebola outbreak says WHO",
-      "WHO says Congo's Ebola outbreak still fast-moving and health workers under threat"
+      "WHO says Congo's Ebola outbreak still fast-moving and health workers under threat",
+      "Worst first month seen in Congo’s Ebola outbreak says WHO"
     ],
     "map_focus": {
       "label": "France",
@@ -1092,6 +1092,79 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "373e7d44efe4102e68",
+    "slug": "rivm",
+    "keyword": "rivm",
+    "title": "rivm trend tracker",
+    "description": "rivm is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Pan American Health Organization (PAHO).",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-06-25T13:50:00+00:00",
+    "updated_at": "2026-06-25T14:24:53+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "PAHO Joins RIVM and Dutch Caribbean Public Health Experts at DuCaPHEN 2026",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUHF1Z0w4UlhLVFNwb2FmQzRwT3hhb184ZmZUVVFzMkttc0Y2TzNkOUFVTkFPZmp1MEFTTGJhUy13ZTNPcjdFT3Q5ZDJYZ3ZWYm11cmpPTGdMTjh4VGRaYUJKeTlSYlR6MEhVWWNNM2JCRU5NOXhvZDdGUGZBd1M4U0hvSzgtbmRWQWN1ZlI1VkRTLTZONGNweEZ4YTZiODk5VnFZdVRRckN3MVNseUgw?oc=5",
+        "source": "Pan American Health Organization (PAHO)",
+        "published_at": "2026-06-18T00:49:36+00:00",
+        "summary": "PAHO Joins RIVM and Dutch Caribbean Public Health Experts at DuCaPHEN 2026 Pan American Health Organization (PAHO)"
+      },
+      {
+        "title": "RIVM issues smog warning as temperatures climb and winds drop",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONGxiMlFvVk92RjZYclJxcmZsNXVFeXlyNnBQQ1UtMVFWZUxDaE9ZQTRPbGZtVmtjcDVYX0phXzhTZTVXejJrRG5lazdMRWRpQUthNDlvODhaaFhlRHktc21aN1FKX3BGZEd2aHZCc041UUtQLUtxUkktVVc1X215Q3lTaXVabm9xYnEwX1E1a2NieXJBdmlibmExbw?oc=5",
+        "source": "DutchNews.nl",
+        "published_at": "2026-06-23T14:26:32+00:00",
+        "summary": "RIVM issues smog warning as temperatures climb and winds drop DutchNews.nl"
+      },
+      {
+        "title": "How does human behaviour support health emergency preparedness and resilience?",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPeU12X1NmSzFTQ05iQ1JSTXB3WkVRV09jeE1BNHhSZ0R0RDQtamptQ1E5NGdmeENYeTZKQnU4LWtIYnFDVUs4QzZZbVA1bnNvVUNubzBmWktPSHExSDk1dVJoVU9HeXRvc005dDVoZzRjY3UtRUc1Rll3ZlpNTW5JQTQzVlpXaE1tcjJuVjRmaW1MSElUX09xcm4zUi16TFpxeDN6b0I2UHBITDhGUUF0MFN1RmtXZURFbTRUUmlFdXFOMzg?oc=5",
+        "source": "World Health Organization (WHO)",
+        "published_at": "2026-02-13T08:00:00+00:00",
+        "summary": "How does human behaviour support health emergency preparedness and resilience? World Health Organization (WHO)"
+      },
+      {
+        "title": "Passenger with hantavirus was briefly on board a KLM aircraft in Johannesburg",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPYm1memUzX1pvMS1xZnRmOFNtTTlMWEFiem83Qkl0b0RlRjZscUtTN3hSdWtzWm5wYWRjc1ZlRmJJRXJZV083U3Z4LUFyUDZlYVJQNFMzLU1wWkdtWXpuUlpsVDZmQUdZSUlxc0QtUmRnUGtfbWNNbzlEdlZzYUF4cDMyX1lqM1FUYUNWREMyX0JVdXk1UVdZdm5tYVg1V1FP?oc=5",
+        "source": "KLM Newsroom",
+        "published_at": "2026-05-06T07:00:00+00:00",
+        "summary": "Passenger with hantavirus was briefly on board a KLM aircraft in Johannesburg KLM Newsroom"
+      }
+    ],
+    "related_queries": [
+      "Liveblog extreme hitte: RIVM waarschuwt voor smog op vrijdag en zaterdag",
+      "LIVE hitte | Op deze zwemlocaties mag je absoluut niet zwemmen, RIVM waarschuwt voor smog",
+      "RIVM waarschuwt voor smog rond de Noordkop en West-Friesland"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "rivm Live Trend Tracker | HantaUpdates",
+      "description": "rivm is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without provi",
+      "canonical": "https://hantamap.online/trend/rivm",
+      "keywords": [
+        "rivm",
+        "rivm tracker",
+        "rivm updates",
+        "rivm live updates",
+        "rivm outbreak",
+        "rivm symptoms",
+        "rivm public health",
+        "rivm source links"
+      ]
+    },
+    "first_seen_at": "2026-06-25T14:24:53+00:00",
     "views_hint": 0
   },
   {
