@@ -146,6 +146,79 @@
     "views_hint": 0
   },
   {
+    "id": "d1f388d81aa1c95254",
+    "slug": "disease-outbreak",
+    "keyword": "disease outbreak",
+    "title": "disease outbreak trend tracker",
+    "description": "disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Washington Post.",
+    "category": "public-health",
+    "geo": "AU",
+    "search_volume": "2000+",
+    "traffic_label": "2000+",
+    "published_at": "2026-06-25T08:40:00+00:00",
+    "updated_at": "2026-06-25T11:38:56+00:00",
+    "score": 2000,
+    "source_url": "https://trends.google.com/trending/rss?geo=AU",
+    "sources": [
+      {
+        "title": "France reports first Ebola patient as cases in Africa surge above 1,000",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblRxMmhOZmN6dElSczl2TVdGeHhyVUl5WjZIdTREcGJCdW1lQU5mTzBpQ20yV04yYjIyb3VrcUZKM3NoNUdOekVzYkJRZHpBZ1pCV2Fzb1VxVVRlRUFZbm5pdnI2RzRvVjZmNURQY29ZTkZxQUg1b3JpRENFbjhoR0ZRMVNQZzZ2WTVHNFB1Slh0QXlCNFYyMGc5eFliYnkyeEhkdlpOc3NnNWFDMWVlUw?oc=5",
+        "source": "The Washington Post",
+        "published_at": "2026-06-24T19:37:36+00:00",
+        "summary": "France reports first Ebola patient as cases in Africa surge above 1,000 The Washington Post"
+      },
+      {
+        "title": "The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From?",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkI3LUM1dS1OemZ6X2I0Zi1PQXFSR3h6T095VDJCOXlrOWg0bmZia0ktYXJWSGtVUVhhYkZQUTJCaTVhZ29Ock03NWVPVlF1Qk14aHZoSHkxSHdaZ0hlNUdPdktENWVlT2JBNWhQalg0cFdiWFVobmtXV3Z2cTNwU0g5Sk5GcW1G?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-06-24T15:04:00+00:00",
+        "summary": "The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From? The New York Times"
+      },
+      {
+        "title": "Ebola Has Passed 1,000 Cases. This Outbreak Is Different From Any Before",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQODIxSjNKVEFrMG9WWmkxOW1rUVViMmdVZUhUMlV4X3pzUGU1Q1B1dVAwVHlmNlhUVHE2dGRhaVV6bHBZeHJ3VkhrNGdhTDc1a1VkRTZjV2dWNEdZMmlPeDk0ajN4OFc5WUFPVmJDRnBweGNSMGhOemNpLVFfOUZ5WW92eG53MU9vdlJiQk11ZXpKTzlycUFZUEU2UUNxNUFYZGpFT2VaY0s5eExoU3hJbndJcV9ESWZhbW94S29n?oc=5",
+        "source": "Forbes",
+        "published_at": "2026-06-24T15:43:41+00:00",
+        "summary": "Ebola Has Passed 1,000 Cases. This Outbreak Is Different From Any Before Forbes"
+      },
+      {
+        "title": "The military traded its flu vaccine mandate for ‘medical freedom’ – an outbreak quickly followed",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPVGxqemZ6Z3Via1JVNGxwaERyNFZyZ0ZLLUFlN3MwMHJfNVYtdnQydG5IQmJuRXd3azJUemJoU0JvN0FFWjI5d1otMmJWbTZVay1uWHBxTTYyWldkV0xvOVFmbmJCT0xIR3BGNU9EU24yaE5ZWTJySG9WZmlPRWlpakVicW45LWhISkVFRmM2Y1BTOXB3ZmNrQWVWV01Pc1FmUTBxMWpibEU0U2hldnQ2Y0NZY2o2RXkwYXF4MXA4bXoyN0RmT0E?oc=5",
+        "source": "The Conversation",
+        "published_at": "2026-06-24T19:55:04+00:00",
+        "summary": "The military traded its flu vaccine mandate for ‘medical freedom’ – an outbreak quickly followed The Conversation"
+      }
+    ],
+    "related_queries": [
+      "DRC Ebola outbreak grows to become one of worst recorded",
+      "Worst first month seen in Congo’s Ebola outbreak says WHO",
+      "WHO says Congo's Ebola outbreak still fast-moving and health workers under threat"
+    ],
+    "map_focus": {
+      "label": "France",
+      "lat": 46.2276,
+      "lng": 2.2137,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "disease outbreak Live Trend Tracker | HantaUpdates",
+      "description": "disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links w",
+      "canonical": "https://hantamap.online/trend/disease-outbreak",
+      "keywords": [
+        "disease outbreak",
+        "disease outbreak tracker",
+        "disease outbreak updates",
+        "disease outbreak live updates",
+        "disease outbreak outbreak",
+        "disease outbreak symptoms",
+        "disease outbreak public health",
+        "disease outbreak source links"
+      ]
+    },
+    "first_seen_at": "2026-06-25T11:38:56+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "41b5c1a34a969101cf",
     "slug": "what-is-a-heat-dome",
     "keyword": "what is a heat dome",
