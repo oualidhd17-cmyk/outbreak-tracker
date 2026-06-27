@@ -438,6 +438,78 @@
     "views_hint": 0
   },
   {
+    "id": "f2ce0caacd0c157dee",
+    "slug": "norovirus",
+    "keyword": "norovirus",
+    "title": "norovirus trend tracker",
+    "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Trek.",
+    "category": "public-health",
+    "geo": "MX",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-06-27T04:00:00+00:00",
+    "updated_at": "2026-06-27T10:56:44+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=MX",
+    "sources": [
+      {
+        "title": "Shenandoah National Park Warns of \"Severe\" Norovirus Outbreak on the Appalachian Trail",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3pDelhDNW5WR0R3REJCUUFlUFBwbDhLaXdUazR1Vm00T2JXeEt2Q0dHMG92QkxvbzVfaWg1c2xEdGxZeEhBd1I2dzkxSjYxSlpFcDM3MURhcDdWQ1JJaFpabk1xLUZzZkxNN0l4bWFPQlJYTUx3dHdHbm1IUzhYRlZYa3hNS25WTFN3dEptTlNxNVBlYUFBNjczMnFFazRnNU9VQzRtV041RExsZ3pWSDZ3VDJsNTRCN1lPalRCWQ?oc=5",
+        "source": "The Trek",
+        "published_at": "2026-06-25T14:25:57+00:00",
+        "summary": "Shenandoah National Park Warns of \"Severe\" Norovirus Outbreak on the Appalachian Trail The Trek"
+      },
+      {
+        "title": "Gut punch: New study knocks out norovirus where it strikes",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFZoY2UxdW92RHFmUERuNmx3Z3BVdk5HSVhLYy1xQzhsUkFCV2dnbDJSYkhtcE1aNVhmOF9SVTg0RWowQVBZVG51RkVEUnRCYTFwbzgxa3U3Y25iTXFGaUZ1N0F6alg3NGVFT0gyZWlXR2FFNjBHUXBjNkVDN3o0THBuWTRaTXE3OV9Xc1A4TW5MM2hD?oc=5",
+        "source": "YaleNews",
+        "published_at": "2026-06-24T18:00:00+00:00",
+        "summary": "Gut punch: New study knocks out norovirus where it strikes YaleNews"
+      },
+      {
+        "title": "15 People Report ‘Violently Throwing Up’ and Other Norovirus Symptoms After Dining at Buffet Restaurant",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQWNoazl1MzRoZDZzZnRqWG9Mc1pMTzNqQnd4WnJUcW9CSnR2X1hPOFQyRGJOSGUzMldMVjVKUnRzYTB0Q0g5bWFkbDBXdl9OaDhPZkVPSWZmMU1sbk5MUzhuN2hkTHJndjZTc3hTRmlmVDM2eksxc2VKX2RBcjljUW1jNC0zLURMeU9GQUlORlBCUV9JWWtN?oc=5",
+        "source": "Yahoo",
+        "published_at": "2026-06-24T12:45:13+00:00",
+        "summary": "15 People Report ‘Violently Throwing Up’ and Other Norovirus Symptoms After Dining at Buffet Restaurant Yahoo"
+      },
+      {
+        "title": "Yale study offers critical clues for future norovirus treatments",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYU1XMnVxN0w0M3lBa3NKd2k1aVBKLXU0TXFucC00NFBUQ25Bd1BhODFuUTB1Xy16Y3R2d1N4NC1MZXI1QzhmTGZiY25USTZiMWVabXJ5MjRIRHVGUWplQTY5NE5menBfb1BfcXhoYjNTZVNxaDVLSVdkQXoxU0RyUlF3QkVLam0teFVjenNtNFZRQU10ZEhfMVBoUXhrRWJaVVZnY1ZBeXRNekxhbXpFalBn?oc=5",
+        "source": "News-Medical",
+        "published_at": "2026-06-26T18:55:00+00:00",
+        "summary": "Yale study offers critical clues for future norovirus treatments News-Medical"
+      }
+    ],
+    "related_queries": [
+      "Isolierstation in Kiel stand bereit: Doch die Passagiere der „Costa Diadema“ wollten lieber nach Hause",
+      "Kiel: Magen-Darm-Erkrankungen auf Kreuzfahrtschiff „Costa Diadema\""
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "norovirus Live Trend Tracker | HantaUpdates",
+      "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
+      "canonical": "https://hantamap.online/trend/norovirus",
+      "keywords": [
+        "norovirus",
+        "norovirus tracker",
+        "norovirus updates",
+        "norovirus live updates",
+        "norovirus outbreak",
+        "norovirus symptoms",
+        "norovirus public health",
+        "norovirus source links"
+      ]
+    },
+    "first_seen_at": "2026-05-13T18:29:43+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "e2c4c8bfbf9c0ac986",
     "slug": "hart-van-nederland",
     "keyword": "hart van nederland",
@@ -654,78 +726,6 @@
       ]
     },
     "first_seen_at": "2026-05-14T21:55:47+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "f2ce0caacd0c157dee",
-    "slug": "norovirus",
-    "keyword": "norovirus",
-    "title": "norovirus trend tracker",
-    "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: YaleNews.",
-    "category": "public-health",
-    "geo": "MX",
-    "search_volume": "500+",
-    "traffic_label": "500+",
-    "published_at": "2026-06-27T04:00:00+00:00",
-    "updated_at": "2026-06-27T06:28:15+00:00",
-    "score": 500,
-    "source_url": "https://trends.google.com/trending/rss?geo=MX",
-    "sources": [
-      {
-        "title": "Gut punch: New study knocks out norovirus where it strikes",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFZoY2UxdW92RHFmUERuNmx3Z3BVdk5HSVhLYy1xQzhsUkFCV2dnbDJSYkhtcE1aNVhmOF9SVTg0RWowQVBZVG51RkVEUnRCYTFwbzgxa3U3Y25iTXFGaUZ1N0F6alg3NGVFT0gyZWlXR2FFNjBHUXBjNkVDN3o0THBuWTRaTXE3OV9Xc1A4TW5MM2hD?oc=5",
-        "source": "YaleNews",
-        "published_at": "2026-06-24T18:00:00+00:00",
-        "summary": "Gut punch: New study knocks out norovirus where it strikes YaleNews"
-      },
-      {
-        "title": "Yale study offers critical clues for future norovirus treatments",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYU1XMnVxN0w0M3lBa3NKd2k1aVBKLXU0TXFucC00NFBUQ25Bd1BhODFuUTB1Xy16Y3R2d1N4NC1MZXI1QzhmTGZiY25USTZiMWVabXJ5MjRIRHVGUWplQTY5NE5menBfb1BfcXhoYjNTZVNxaDVLSVdkQXoxU0RyUlF3QkVLam0teFVjenNtNFZRQU10ZEhfMVBoUXhrRWJaVVZnY1ZBeXRNekxhbXpFalBn?oc=5",
-        "source": "News-Medical",
-        "published_at": "2026-06-26T18:55:00+00:00",
-        "summary": "Yale study offers critical clues for future norovirus treatments News-Medical"
-      },
-      {
-        "title": "Avoiding Norovirus When Traveling This Summer",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeUxuQjZaazJYMF9OY1JwVGRZMGhxNk11bUo2NWUyMzJkcHI5RGh5N29aTkc3WW1ZYzlpTWw2d0dQWjIxWU9uU1FPcEU1MWVZY05qZXlDNmZ5TXZ3UFJCVUNldGs5dzRJVktpbGRBRGFZTWljanJ3WU9zSEJMbmNlTUl5MlpsNTgwaklhZFVYSjVWRTAwNGtVeA?oc=5",
-        "source": "Cleveland Clinic Newsroom",
-        "published_at": "2026-06-23T21:26:02+00:00",
-        "summary": "Avoiding Norovirus When Traveling This Summer Cleveland Clinic Newsroom"
-      },
-      {
-        "title": "Shenandoah National Park Warns of \"Severe\" Norovirus Outbreak on the Appalachian Trail",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3pDelhDNW5WR0R3REJCUUFlUFBwbDhLaXdUazR1Vm00T2JXeEt2Q0dHMG92QkxvbzVfaWg1c2xEdGxZeEhBd1I2dzkxSjYxSlpFcDM3MURhcDdWQ1JJaFpabk1xLUZzZkxNN0l4bWFPQlJYTUx3dHdHbm1IUzhYRlZYa3hNS25WTFN3dEptTlNxNVBlYUFBNjczMnFFazRnNU9VQzRtV041RExsZ3pWSDZ3VDJsNTRCN1lPalRCWQ?oc=5",
-        "source": "The Trek",
-        "published_at": "2026-06-25T14:25:57+00:00",
-        "summary": "Shenandoah National Park Warns of \"Severe\" Norovirus Outbreak on the Appalachian Trail The Trek"
-      }
-    ],
-    "related_queries": [
-      "Isolierstation in Kiel stand bereit: Doch die Passagiere der „Costa Diadema“ wollten lieber nach Hause",
-      "Kiel: Magen-Darm-Erkrankungen auf Kreuzfahrtschiff „Costa Diadema\""
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "norovirus Live Trend Tracker | HantaUpdates",
-      "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
-      "canonical": "https://hantamap.online/trend/norovirus",
-      "keywords": [
-        "norovirus",
-        "norovirus tracker",
-        "norovirus updates",
-        "norovirus live updates",
-        "norovirus outbreak",
-        "norovirus symptoms",
-        "norovirus public health",
-        "norovirus source links"
-      ]
-    },
-    "first_seen_at": "2026-05-13T18:29:43+00:00",
     "views_hint": 0
   },
   {
