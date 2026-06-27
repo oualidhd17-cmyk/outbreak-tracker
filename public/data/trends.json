@@ -657,6 +657,78 @@
     "views_hint": 0
   },
   {
+    "id": "f2ce0caacd0c157dee",
+    "slug": "norovirus",
+    "keyword": "norovirus",
+    "title": "norovirus trend tracker",
+    "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: YaleNews.",
+    "category": "public-health",
+    "geo": "MX",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-06-27T04:00:00+00:00",
+    "updated_at": "2026-06-27T06:28:15+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=MX",
+    "sources": [
+      {
+        "title": "Gut punch: New study knocks out norovirus where it strikes",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFZoY2UxdW92RHFmUERuNmx3Z3BVdk5HSVhLYy1xQzhsUkFCV2dnbDJSYkhtcE1aNVhmOF9SVTg0RWowQVBZVG51RkVEUnRCYTFwbzgxa3U3Y25iTXFGaUZ1N0F6alg3NGVFT0gyZWlXR2FFNjBHUXBjNkVDN3o0THBuWTRaTXE3OV9Xc1A4TW5MM2hD?oc=5",
+        "source": "YaleNews",
+        "published_at": "2026-06-24T18:00:00+00:00",
+        "summary": "Gut punch: New study knocks out norovirus where it strikes YaleNews"
+      },
+      {
+        "title": "Yale study offers critical clues for future norovirus treatments",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYU1XMnVxN0w0M3lBa3NKd2k1aVBKLXU0TXFucC00NFBUQ25Bd1BhODFuUTB1Xy16Y3R2d1N4NC1MZXI1QzhmTGZiY25USTZiMWVabXJ5MjRIRHVGUWplQTY5NE5menBfb1BfcXhoYjNTZVNxaDVLSVdkQXoxU0RyUlF3QkVLam0teFVjenNtNFZRQU10ZEhfMVBoUXhrRWJaVVZnY1ZBeXRNekxhbXpFalBn?oc=5",
+        "source": "News-Medical",
+        "published_at": "2026-06-26T18:55:00+00:00",
+        "summary": "Yale study offers critical clues for future norovirus treatments News-Medical"
+      },
+      {
+        "title": "Avoiding Norovirus When Traveling This Summer",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeUxuQjZaazJYMF9OY1JwVGRZMGhxNk11bUo2NWUyMzJkcHI5RGh5N29aTkc3WW1ZYzlpTWw2d0dQWjIxWU9uU1FPcEU1MWVZY05qZXlDNmZ5TXZ3UFJCVUNldGs5dzRJVktpbGRBRGFZTWljanJ3WU9zSEJMbmNlTUl5MlpsNTgwaklhZFVYSjVWRTAwNGtVeA?oc=5",
+        "source": "Cleveland Clinic Newsroom",
+        "published_at": "2026-06-23T21:26:02+00:00",
+        "summary": "Avoiding Norovirus When Traveling This Summer Cleveland Clinic Newsroom"
+      },
+      {
+        "title": "Shenandoah National Park Warns of \"Severe\" Norovirus Outbreak on the Appalachian Trail",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3pDelhDNW5WR0R3REJCUUFlUFBwbDhLaXdUazR1Vm00T2JXeEt2Q0dHMG92QkxvbzVfaWg1c2xEdGxZeEhBd1I2dzkxSjYxSlpFcDM3MURhcDdWQ1JJaFpabk1xLUZzZkxNN0l4bWFPQlJYTUx3dHdHbm1IUzhYRlZYa3hNS25WTFN3dEptTlNxNVBlYUFBNjczMnFFazRnNU9VQzRtV041RExsZ3pWSDZ3VDJsNTRCN1lPalRCWQ?oc=5",
+        "source": "The Trek",
+        "published_at": "2026-06-25T14:25:57+00:00",
+        "summary": "Shenandoah National Park Warns of \"Severe\" Norovirus Outbreak on the Appalachian Trail The Trek"
+      }
+    ],
+    "related_queries": [
+      "Isolierstation in Kiel stand bereit: Doch die Passagiere der „Costa Diadema“ wollten lieber nach Hause",
+      "Kiel: Magen-Darm-Erkrankungen auf Kreuzfahrtschiff „Costa Diadema\""
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "norovirus Live Trend Tracker | HantaUpdates",
+      "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
+      "canonical": "https://hantamap.online/trend/norovirus",
+      "keywords": [
+        "norovirus",
+        "norovirus tracker",
+        "norovirus updates",
+        "norovirus live updates",
+        "norovirus outbreak",
+        "norovirus symptoms",
+        "norovirus public health",
+        "norovirus source links"
+      ]
+    },
+    "first_seen_at": "2026-05-13T18:29:43+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "4693d2eb0360bdb14c",
     "slug": "epidemia",
     "keyword": "epidemia",
@@ -3465,75 +3537,6 @@
       ]
     },
     "first_seen_at": "2026-05-13T18:30:47+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "a7ec8d476a0da74f0c",
-    "slug": "norovirus",
-    "keyword": "norovirus",
-    "title": "norovirus trend tracker",
-    "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Guardian.",
-    "category": "public-health",
-    "geo": "AU",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-05-13T14:10:00+00:00",
-    "updated_at": "2026-05-13T18:29:43+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=AU",
-    "sources": [
-      {
-        "title": "France confines more than 1,700 people to cruise ship after suspected norovirus outbreak",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON2xlTmtIcW1icUdibk9YeW1VN2ZSZUpOMl82ZS1pbzI5bVpScUhkQ19BaXFsbmNZVXYyX3Z3MHN6S3hReTg3TWNjT3A5VWVLZVhJT1pzSkVkeTFLcmdONF9VZkdVYzdWNW9rTGtHRFl5SUFDTXJrbktGRnJWU3ZNTnJ0ZXJOZC1PUGJVYTZTeVR6V0dsVlc1eGlSQTlFUkhZUUY3RlZmX0psc3BlWWc?oc=5",
-        "source": "The Guardian",
-        "published_at": "2026-05-13T11:26:00+00:00",
-        "summary": "France confines more than 1,700 people to cruise ship after suspected norovirus outbreak The Guardian 1,700 confined on cruise ship amid suspected norovirus outbreak in France Global News 1,700 confined to cruise ship after death in ‘food poisoning’ outbreak The Times France confines more than 1,700 on cruise ship after death linked to suspected gastroenteritis France 24 Britons among 1,700 quarantined on cruise ship after norovirus outbreak The Telegraph 1,700 stranded on cruise ship in France after traveler’s death blamed on norovirus New York Post 1 Dead, 50 Others Showing Symptoms After Po"
-      },
-      {
-        "title": "Do cruise outbreaks have you worried about your travel plans? Here’s what health experts say",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSTBsUnZsYnRQODJ0Z2tDcUJOdHdOdk41WVZQOE5NRjJlMWFkN2FHSlBmU2Q3MTBaekNGM00yOWQ2bmFoWTBfakFJdW4xQVBZOUVtdUlmb3VhUFp5a2E1ZFd3QVFIWDlOTjAxX1o0WXJHdVVnM1dVUzZ0RGpJdmhINXFXY3BLd3FWZ3pMT1gzOHdUeERjNmI0N2tWREhvUQ?oc=5",
-        "source": "San Francisco Chronicle",
-        "published_at": "2026-05-13T11:00:57+00:00",
-        "summary": "Do cruise outbreaks have you worried about your travel plans? Here’s what health experts say San Francisco Chronicle"
-      },
-      {
-        "title": "Princess Cruises crew dis­in­fects ship after norovirus outbreak, departs Port Canaveral",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNRTJ5d1hpWFJRRkg2NjlSaU5rTEZOVW1sRXpFckt5dGpPYnJ5dHp5TGJGQncxTXp2SkFYZ3U0T2kzVld1Y0ZfM3dOTmFzejFyS29pNmRZTThoSjlTUXhyY2VTcGhIcU9td3EzUDhUWXVIVUtqNU5RSmhBdHdqWC02OTAzMmhSekhyUFpaMlVIWVA4cHlDOWxEX2UzdVJrVGp3Y0cyYzY2SVlDb2twSEthMnVRdzFBN3E1RGc?oc=5",
-        "source": "Spectrum News 13",
-        "published_at": "2026-05-11T11:41:00+00:00",
-        "summary": "Princess Cruises crew dis­in­fects ship after norovirus outbreak, departs Port Canaveral Spectrum News 13"
-      },
-      {
-        "title": "Norovirus Outbreaks",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9pY291QzRpSlQ5YVhsVG1DOEE0WlN4T0pHNnpmbzlvdXdvbDBPLTNzNjRPcDgzN2FKQXFrWHMySl9HVTMtMGlQZDF2Vl95RzBfN1U4VkVkMTZJdDYtYmkyRFNKbnlZdE0?oc=5",
-        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-        "published_at": "2026-04-22T07:00:00+00:00",
-        "summary": "Norovirus Outbreaks Centers for Disease Control and Prevention | CDC (.gov)"
-      }
-    ],
-    "related_queries": [],
-    "map_focus": {
-      "label": "France",
-      "lat": 46.2276,
-      "lng": 2.2137,
-      "zoom": 5
-    },
-    "seo": {
-      "title": "norovirus Live Trend Tracker | HantaUpdates",
-      "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
-      "canonical": "https://hantamap.online/trend/norovirus",
-      "keywords": [
-        "norovirus",
-        "norovirus tracker",
-        "norovirus updates",
-        "norovirus live updates",
-        "norovirus outbreak",
-        "norovirus symptoms",
-        "norovirus public health",
-        "norovirus source links"
-      ]
-    },
-    "first_seen_at": "2026-05-13T18:29:43+00:00",
     "views_hint": 0
   },
   {
