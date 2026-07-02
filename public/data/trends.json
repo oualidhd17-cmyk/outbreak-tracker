@@ -1240,6 +1240,79 @@
     "views_hint": 0
   },
   {
+    "id": "0318173da5154d6c29",
+    "slug": "mpox",
+    "keyword": "mpox",
+    "title": "mpox trend tracker",
+    "description": "mpox is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Outbreak News Today.",
+    "category": "public-health",
+    "geo": "GB",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-07-02T13:00:00+00:00",
+    "updated_at": "2026-07-02T13:50:53+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=GB",
+    "sources": [
+      {
+        "title": "Philippines: Mpox case confirmed in Mandaluyong City",
+        "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOTmUwcVB2UF9MSDB2UmVKb2Z0NE15LUhjZmZDakVVcHc3SnUzbWg0MFhGTnd0OHl5YTF0N2I4VVliejRiQndoUFVLbktSTV81VEsxWGtONTJhNWlraFBZbXM0WWFJQjBndGZPSG1CTGNPT196TUx3NV96WVB0dkdNcQ?oc=5",
+        "source": "Outbreak News Today",
+        "published_at": "2026-06-29T22:26:44+00:00",
+        "summary": "Philippines: Mpox case confirmed in Mandaluyong City Outbreak News Today"
+      },
+      {
+        "title": "Recent advances in Mpox across innate immunity, evasion, and clinical outcomes",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9aRnpaMUNSNTV0YTJUN25PcVRGVFdZS2psQlY1Z01vNG5oMmNHWUsxdV9EdVJ6N3pxVFZpbWhjUzczc0Ztakl2SU1oQ1VqYXZlY1l1cFNDWGozV2JoXzVv?oc=5",
+        "source": "Nature",
+        "published_at": "2026-06-15T07:00:00+00:00",
+        "summary": "Recent advances in Mpox across innate immunity, evasion, and clinical outcomes Nature"
+      },
+      {
+        "title": "Mpox smuggling case prompts congressional scrutiny of National Institutes of Health",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mVGFLSVZ3VUpwYTF3VGlIZ1NrZFh4cUF1VnlCdUxtUlBNSGRQYkU5eEJENVVIak5sbXJId3dkLUZyZkYzc0FHUDJZRmsxZ0lDVkY0QlJxd25lMnFhZlR3R2l5RjNBZzJpTXlKdFJZT2NXUS13QXFJNXM0dGJFMjQ?oc=5",
+        "source": "The Guardian",
+        "published_at": "2026-06-26T11:00:00+00:00",
+        "summary": "Mpox smuggling case prompts congressional scrutiny of National Institutes of Health The Guardian"
+      },
+      {
+        "title": "Public Health Alerts: Public health response to clade Ib mpox with multiple exposures in congregate living settings—New Hampshire, February 2025",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPQm5penJlb2k4N1pyM3RDZHd3bGJzal9Ocjg3M2hFT2czclpLQTd3bk9YYVFZZU4zMTJORnZGd2VXa3BNVlpBcjVLSmZqeTFvemJQVVRraGg3TkpSODBaMzlzRWYzc0JPbnUtZ2lhUVBycDNzV3FuQ0tPVlFLNzBnVW0yblc3bnRKdDRKeGhoeUxXcElZUVdVRno0c1hVVXdGQ0c5R3FXZ1ZNZmV3UGtJU3JVeEdsM3VXMlh5M3RwbDBHbmpR?oc=5",
+        "source": "CIDRAP",
+        "published_at": "2026-06-26T14:05:55+00:00",
+        "summary": "Public Health Alerts: Public health response to clade Ib mpox with multiple exposures in congregate living settings—New Hampshire, February 2025 CIDRAP"
+      }
+    ],
+    "related_queries": [
+      "More than 20 mpox cases last month in NI",
+      "More than 20 mpox cases last month in NI",
+      "Mpox smuggling case prompts congressional scrutiny of National Institutes of Health"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "mpox Live Trend Tracker | HantaUpdates",
+      "description": "mpox is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without provi",
+      "canonical": "https://hantamap.online/trend/mpox",
+      "keywords": [
+        "mpox",
+        "mpox tracker",
+        "mpox updates",
+        "mpox live updates",
+        "mpox outbreak",
+        "mpox symptoms",
+        "mpox public health",
+        "mpox source links"
+      ]
+    },
+    "first_seen_at": "2026-07-02T13:50:53+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "373e7d44efe4102e68",
     "slug": "rivm",
     "keyword": "rivm",
