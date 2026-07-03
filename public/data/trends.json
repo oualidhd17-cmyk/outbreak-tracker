@@ -219,6 +219,79 @@
     "views_hint": 0
   },
   {
+    "id": "9d71f53368ff4cf565",
+    "slug": "norovirus",
+    "keyword": "norovirus",
+    "title": "norovirus trend tracker",
+    "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CBS News.",
+    "category": "public-health",
+    "geo": "DE",
+    "search_volume": "2000+",
+    "traffic_label": "2000+",
+    "published_at": "2026-07-03T18:30:00+00:00",
+    "updated_at": "2026-07-03T19:14:48+00:00",
+    "score": 2000,
+    "source_url": "https://trends.google.com/trending/rss?geo=DE",
+    "sources": [
+      {
+        "title": "Norovirus outbreak on Princess cruise ship to Alaska, Canada sickens 125 passengers and crew",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVFPa2NlRV9VWmtOMC1sRi1CSGtHWkJoQWJ3OVhOdndyOHN3NGYxYXgxS0pxM0g0S19XWkotOVdWY0h5X2lBQjNLWlRqZkVlTDVwbVRjVktRM0ZuUVJhQ1JoQkN3UkV2UTlXVzFod3RrU2xsMUhMZTBFYWd6aXI5ak40WUh5OXAwNmFnOHV0NkZ1ZWROYUNuOEdXeG9UY0ZDbkZpSEl6UXZFd3ZKVHctY0hxam9aLTFtU08w?oc=5",
+        "source": "CBS News",
+        "published_at": "2026-07-02T21:05:42+00:00",
+        "summary": "Norovirus outbreak on Princess cruise ship to Alaska, Canada sickens 125 passengers and crew CBS News More than 100 passengers on US cruise ship sick from suspected norovirus The Guardian Over 100 passengers fall ill with contagious virus on cruise to San Francisco SFGATE Ruby Princess cruise ship docked in SF hit by norovirus outbreak KRON4 CDC reports two cruise ships in Southeast Alaska had norovirus outbreaks in June KTOO Norovirus outbreak sickens 125 aboard Princess cruise ship docked in San Francisco San Francisco Chronicle Cruise ship faces second norovirus outbreak in a month, 20 peop"
+      },
+      {
+        "title": "Ruby Princess norovirus outbreak",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZSXlIak1ONTRwaGpCQmFMTEs1aHQwMWpLOGZUeGxnTGVfMzRWcG5ybDFXcXd4M05pZFZreWNKMHZqUUp6RTZZZU05dlliQXFxN3NSV24yT290TWxJbVhNWXg4MUJmNWRmcWNEYmc2cTktbjZYcUFZWA?oc=5",
+        "source": "KGET.com",
+        "published_at": "2026-07-02T20:36:00+00:00",
+        "summary": "Ruby Princess norovirus outbreak KGET.com"
+      },
+      {
+        "title": "Norovirus outbreak on Ruby Princess cruise ship affects over 120 passengers and crew; docked at SF's Pier 27 for cleaning",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFdYemdYRmxFSkVVTlBMUWt3WkdSMFJSeHZUUkpmMmpOd0NRVjNXTXozU2FkLUpKc01zUzNaNWxhV1o5UWN4U2U1WU9YQTlCRk5QMWFrUzVCeHZXQ0FkdEcxU2ZZSkUwY0l2aFFEQTVFQ1NBZ0VmU3ZrMlB4aG1qSGZsVDY2TVp2NjlYUHdtZHJlMng3TlRHb1pMOWtrb2ZwaVRmci1RV09WWEVzRGE4S1JmdmM0VzUwMmRBanBrdkR5S0JrbGU5QURmUlhPTXhBbHfSAdcBQVVfeXFMUGxBc1VlSXdkb2ktbDhnVnptaVpXV0NfUWg2UzVkNWFSTUd0NU9OcTRhZ2Uwb1NqUGlHQ01lWUkwMmttQ3NYRWhoM3JyTFVKcDg4RUJVaktSclJ4Ykp1azFpaU9wLTFiOHdpSkI3TzIwRlM3NTZHd0hSTEJGOVZ3R01zdzRQeGJzSTVHbmpidjFkSW9hMV84Ykk5Z0wyWW43X3VXM05zUnhfTHU4ZVQyYmhzU2c0OEdMSXA5TXNRVmFPWGNlZkJYTDlYNVRYU3VLVV84d2RTUWM?oc=5",
+        "source": "ABC7 Bay Area",
+        "published_at": "2026-07-02T21:56:21+00:00",
+        "summary": "Norovirus outbreak on Ruby Princess cruise ship affects over 120 passengers and crew; docked at SF's Pier 27 for cleaning ABC7 Bay Area"
+      },
+      {
+        "title": "Outbreaks on Cruise Ships in VSP's Jurisdiction | Vessel Sanitation Program",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kNHQxeGtLaEtqdGw5U01VSU03OXZ2OERrcGRMYjZyRy1sQ1R5Uy1QMXBxREw5Rmt3eTNwY2pVY2pWX2dSSzBFSzZ1ei0tNWNJZWFLS1VxNmtacWJVWUdiN1J6bXR4THlFTGl2aEFWby1oekZhMlhJcGNB?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-07-01T07:00:00+00:00",
+        "summary": "Outbreaks on Cruise Ships in VSP's Jurisdiction | Vessel Sanitation Program Centers for Disease Control and Prevention | CDC (.gov)"
+      }
+    ],
+    "related_queries": [
+      "Norovirus: 125 Menschen auf Kreuzfahrtschiff infiziert",
+      "Auf Kreuzfahrtschiff infiziert: 125 Menschen an Norovirus erkrankt",
+      "Ausbruch auf der „Ruby Princess“: 125 Menschen auf Kreuzfahrtschiff an Norovirus erkrankt"
+    ],
+    "map_focus": {
+      "label": "Canada",
+      "lat": 56.1304,
+      "lng": -106.3468,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "norovirus Live Trend Tracker | HantaUpdates",
+      "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
+      "canonical": "https://hantamap.online/trend/norovirus",
+      "keywords": [
+        "norovirus",
+        "norovirus tracker",
+        "norovirus updates",
+        "norovirus live updates",
+        "norovirus outbreak",
+        "norovirus symptoms",
+        "norovirus public health",
+        "norovirus source links"
+      ]
+    },
+    "first_seen_at": "2026-05-13T18:29:43+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "d1f388d81aa1c95254",
     "slug": "disease-outbreak",
     "keyword": "disease outbreak",
@@ -1238,79 +1311,6 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "f2ce0caacd0c157dee",
-    "slug": "norovirus",
-    "keyword": "norovirus",
-    "title": "norovirus trend tracker",
-    "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: ABC7 Bay Area.",
-    "category": "public-health",
-    "geo": "MX",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-07-03T14:00:00+00:00",
-    "updated_at": "2026-07-03T16:23:28+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=MX",
-    "sources": [
-      {
-        "title": "Norovirus outbreak on Ruby Princess cruise ship affects over 120 passengers and crew; docked at SF's Pier 27 for cleaning",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFdYemdYRmxFSkVVTlBMUWt3WkdSMFJSeHZUUkpmMmpOd0NRVjNXTXozU2FkLUpKc01zUzNaNWxhV1o5UWN4U2U1WU9YQTlCRk5QMWFrUzVCeHZXQ0FkdEcxU2ZZSkUwY0l2aFFEQTVFQ1NBZ0VmU3ZrMlB4aG1qSGZsVDY2TVp2NjlYUHdtZHJlMng3TlRHb1pMOWtrb2ZwaVRmci1RV09WWEVzRGE4S1JmdmM0VzUwMmRBanBrdkR5S0JrbGU5QURmUlhPTXhBbHfSAdcBQVVfeXFMUGxBc1VlSXdkb2ktbDhnVnptaVpXV0NfUWg2UzVkNWFSTUd0NU9OcTRhZ2Uwb1NqUGlHQ01lWUkwMmttQ3NYRWhoM3JyTFVKcDg4RUJVaktSclJ4Ykp1azFpaU9wLTFiOHdpSkI3TzIwRlM3NTZHd0hSTEJGOVZ3R01zdzRQeGJzSTVHbmpidjFkSW9hMV84Ykk5Z0wyWW43X3VXM05zUnhfTHU4ZVQyYmhzU2c0OEdMSXA5TXNRVmFPWGNlZkJYTDlYNVRYU3VLVV84d2RTUWM?oc=5",
-        "source": "ABC7 Bay Area",
-        "published_at": "2026-07-02T19:21:15+00:00",
-        "summary": "Norovirus outbreak on Ruby Princess cruise ship affects over 120 passengers and crew; docked at SF's Pier 27 for cleaning ABC7 Bay Area Ruby Princess cruise ship docked in SF hit by norovirus outbreak KRON4 More than 100 passengers on US cruise ship sick from suspected norovirus The Guardian Over 100 passengers fall ill with contagious virus on cruise to San Francisco SFGATE Cruise Passengers Hit with Norovirus as Ship Experiences Second Outbreak in a Month People.com CDC reports two cruise ships in Southeast Alaska had norovirus outbreaks in June KTOO Norovirus outbreak sickens 125 aboard Pri"
-      },
-      {
-        "title": "Ruby Princess norovirus outbreak",
-        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ZSXlIak1ONTRwaGpCQmFMTEs1aHQwMWpLOGZUeGxnTGVfMzRWcG5ybDFXcXd4M05pZFZreWNKMHZqUUp6RTZZZU05dlliQXFxN3NSV24yT290TWxJbVhNWXg4MUJmNWRmcWNEYmc2cTktbjZYcUFZWA?oc=5",
-        "source": "KGET.com",
-        "published_at": "2026-07-02T20:36:00+00:00",
-        "summary": "Ruby Princess norovirus outbreak KGET.com"
-      },
-      {
-        "title": "Outbreaks on Cruise Ships in VSP's Jurisdiction | Vessel Sanitation Program",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kNHQxeGtLaEtqdGw5U01VSU03OXZ2OERrcGRMYjZyRy1sQ1R5Uy1QMXBxREw5Rmt3eTNwY2pVY2pWX2dSSzBFSzZ1ei0tNWNJZWFLS1VxNmtacWJVWUdiN1J6bXR4THlFTGl2aEFWby1oekZhMlhJcGNB?oc=5",
-        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-        "published_at": "2026-07-01T07:00:00+00:00",
-        "summary": "Outbreaks on Cruise Ships in VSP's Jurisdiction | Vessel Sanitation Program Centers for Disease Control and Prevention | CDC (.gov)"
-      },
-      {
-        "title": "Norovirus outbreak on cruise ship from California sickens more than 100 passengers",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSk9tLUdVdXQ4R2g5WXdjdklIdExpN3hjWkctaWsycHRjT2o3UFZUZjVzWkhWLWdqY0U0MTU0bzQzYi0za3E0ZTUyemJuUm8xVmpLUUxSVHpMVHQ0TGl2YTlkSVNybV9IME9ILXh3RVVYcDltcTctblQwRG9xckhZaTZLSGNUcG1mQ1gyNkJnQlh0T0h0M0E?oc=5",
-        "source": "Los Angeles Times",
-        "published_at": "2026-07-02T22:40:14+00:00",
-        "summary": "Norovirus outbreak on cruise ship from California sickens more than 100 passengers Los Angeles Times"
-      }
-    ],
-    "related_queries": [
-      "Norovirus: 125 Menschen auf Kreuzfahrtschiff infiziert",
-      "USA: Über 120 Menschen auf Luxuskreuzfahrtschiff mit Norovirus infiziert.",
-      "Auf Kreuzfahrtschiff infiziert: 125 Menschen an Norovirus erkrankt"
-    ],
-    "map_focus": {
-      "label": "Multi-country / cruise travel",
-      "lat": 16.5388,
-      "lng": -23.0418,
-      "zoom": 3
-    },
-    "seo": {
-      "title": "norovirus Live Trend Tracker | HantaUpdates",
-      "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
-      "canonical": "https://hantamap.online/trend/norovirus",
-      "keywords": [
-        "norovirus",
-        "norovirus tracker",
-        "norovirus updates",
-        "norovirus live updates",
-        "norovirus outbreak",
-        "norovirus symptoms",
-        "norovirus public health",
-        "norovirus source links"
-      ]
-    },
-    "first_seen_at": "2026-05-13T18:29:43+00:00",
     "views_hint": 0
   },
   {
