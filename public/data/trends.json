@@ -438,58 +438,59 @@
     "views_hint": 0
   },
   {
-    "id": "f2ce0caacd0c157dee",
+    "id": "acc9e3c62e8c64a994",
     "slug": "norovirus",
     "keyword": "norovirus",
     "title": "norovirus trend tracker",
-    "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Trek.",
+    "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: KRON4.",
     "category": "public-health",
-    "geo": "MX",
+    "geo": "US",
     "search_volume": "1000+",
     "traffic_label": "1000+",
-    "published_at": "2026-06-27T04:00:00+00:00",
-    "updated_at": "2026-06-27T10:56:44+00:00",
+    "published_at": "2026-07-03T04:50:00+00:00",
+    "updated_at": "2026-07-03T06:27:51+00:00",
     "score": 1000,
-    "source_url": "https://trends.google.com/trending/rss?geo=MX",
+    "source_url": "https://trends.google.com/trending/rss?geo=US",
     "sources": [
       {
-        "title": "Shenandoah National Park Warns of \"Severe\" Norovirus Outbreak on the Appalachian Trail",
-        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNU3pDelhDNW5WR0R3REJCUUFlUFBwbDhLaXdUazR1Vm00T2JXeEt2Q0dHMG92QkxvbzVfaWg1c2xEdGxZeEhBd1I2dzkxSjYxSlpFcDM3MURhcDdWQ1JJaFpabk1xLUZzZkxNN0l4bWFPQlJYTUx3dHdHbm1IUzhYRlZYa3hNS25WTFN3dEptTlNxNVBlYUFBNjczMnFFazRnNU9VQzRtV041RExsZ3pWSDZ3VDJsNTRCN1lPalRCWQ?oc=5",
-        "source": "The Trek",
-        "published_at": "2026-06-25T14:25:57+00:00",
-        "summary": "Shenandoah National Park Warns of \"Severe\" Norovirus Outbreak on the Appalachian Trail The Trek"
+        "title": "Ruby Princess cruise ship docked in SF hit by norovirus outbreak",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPME9BSlAzNGg2YmNnTzZSRWZSZ25ORnMwQkV5Y3pHNFdUWmhzdFBPSldoREswM2xjQnJuX0xieDJhNEU4Z0tldG1RTG9SVXF3TW1GcWkxUUhsQnJJMUtfeWF2YWhHd2JkRmU0OEo3SUVhZWpUTXZpY3N2Zm82X1pxbUQ3VWlxaFVHREprWnc3dEFzdkFlQzA0TGRPV2JwUERFQnRz0gGoAUFVX3lxTE12YjlIWEJQMk5LTDBKQjgtelRRS2c2d1l2aXdNaWpfQU5haWNReDVNbjBMb0hoazgzczgxZlFlTVZDZmd0NGRxVF9XcmZQcVhtQmJqdVZscjNkVDN3d01MaUhueUNSR0JzZWpPUVVCSDVMVXU0WEkxbHdsdHZLM3NvTHFZN3ZadGJCblBfV3lJUUhoWjltY2ZUYTRIMVRWMW9WZGFLbUplRA?oc=5",
+        "source": "KRON4",
+        "published_at": "2026-07-02T20:37:40+00:00",
+        "summary": "Ruby Princess cruise ship docked in SF hit by norovirus outbreak KRON4 More than 100 passengers on US cruise ship sick from suspected norovirus The Guardian Norovirus outbreak on Ruby Princess cruise ship affects over 120 passengers and crew; docked at SF's Pier 27 for cleaning ABC7 Bay Area 125 passengers and crew hit with highly contagious stomach virus on cruise from San Francisco ABC News - Breaking News, Latest News and Videos Over 100 passengers fall ill with contagious virus on cruise to San Francisco SFGATE Norovirus outbreak sickens 125 aboard Princess cruise ship docked in San Franci"
       },
       {
-        "title": "Gut punch: New study knocks out norovirus where it strikes",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFZoY2UxdW92RHFmUERuNmx3Z3BVdk5HSVhLYy1xQzhsUkFCV2dnbDJSYkhtcE1aNVhmOF9SVTg0RWowQVBZVG51RkVEUnRCYTFwbzgxa3U3Y25iTXFGaUZ1N0F6alg3NGVFT0gyZWlXR2FFNjBHUXBjNkVDN3o0THBuWTRaTXE3OV9Xc1A4TW5MM2hD?oc=5",
-        "source": "YaleNews",
-        "published_at": "2026-06-24T18:00:00+00:00",
-        "summary": "Gut punch: New study knocks out norovirus where it strikes YaleNews"
+        "title": "Cruise Passengers Hit with Norovirus as Ship Experiences Second Outbreak in a Month",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRnpreE9zd29qM2lJUnJ5WHB3YmVfalM3ZHgtdF90dVpTQlBZMm5SVmJpOGhuSDZEbkhIVWcyTlI1anJQSm1BN0VLSEFQbUJ0c2ltQnJiNE5JV0JiWndqZ1BmeGFqVGpteFA0blBldWdhaUE0aktaNnpOMmlPVEF4Q0dvVV9fWjBKV3kxNnZGcTRtZk9QdjQtenJqSnZ4ZmdJNW1TbGVPclpaQnplVlJMZg?oc=5",
+        "source": "People.com",
+        "published_at": "2026-07-02T18:27:33+00:00",
+        "summary": "Cruise Passengers Hit with Norovirus as Ship Experiences Second Outbreak in a Month People.com"
       },
       {
-        "title": "15 People Report ‘Violently Throwing Up’ and Other Norovirus Symptoms After Dining at Buffet Restaurant",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPQWNoazl1MzRoZDZzZnRqWG9Mc1pMTzNqQnd4WnJUcW9CSnR2X1hPOFQyRGJOSGUzMldMVjVKUnRzYTB0Q0g5bWFkbDBXdl9OaDhPZkVPSWZmMU1sbk5MUzhuN2hkTHJndjZTc3hTRmlmVDM2eksxc2VKX2RBcjljUW1jNC0zLURMeU9GQUlORlBCUV9JWWtN?oc=5",
-        "source": "Yahoo",
-        "published_at": "2026-06-24T12:45:13+00:00",
-        "summary": "15 People Report ‘Violently Throwing Up’ and Other Norovirus Symptoms After Dining at Buffet Restaurant Yahoo"
+        "title": "Norovirus outbreak on Princess cruise ship to Alaska, Canada sickens 125 passengers and crew",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORVFPa2NlRV9VWmtOMC1sRi1CSGtHWkJoQWJ3OVhOdndyOHN3NGYxYXgxS0pxM0g0S19XWkotOVdWY0h5X2lBQjNLWlRqZkVlTDVwbVRjVktRM0ZuUVJhQ1JoQkN3UkV2UTlXVzFod3RrU2xsMUhMZTBFYWd6aXI5ak40WUh5OXAwNmFnOHV0NkZ1ZWROYUNuOEdXeG9UY0ZDbkZpSEl6UXZFd3ZKVHctY0hxam9aLTFtU08w?oc=5",
+        "source": "CBS News",
+        "published_at": "2026-07-02T21:05:42+00:00",
+        "summary": "Norovirus outbreak on Princess cruise ship to Alaska, Canada sickens 125 passengers and crew CBS News"
       },
       {
-        "title": "Yale study offers critical clues for future norovirus treatments",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYU1XMnVxN0w0M3lBa3NKd2k1aVBKLXU0TXFucC00NFBUQ25Bd1BhODFuUTB1Xy16Y3R2d1N4NC1MZXI1QzhmTGZiY25USTZiMWVabXJ5MjRIRHVGUWplQTY5NE5menBfb1BfcXhoYjNTZVNxaDVLSVdkQXoxU0RyUlF3QkVLam0teFVjenNtNFZRQU10ZEhfMVBoUXhrRWJaVVZnY1ZBeXRNekxhbXpFalBn?oc=5",
-        "source": "News-Medical",
-        "published_at": "2026-06-26T18:55:00+00:00",
-        "summary": "Yale study offers critical clues for future norovirus treatments News-Medical"
+        "title": "CDC reports two cruise ships in Southeast Alaska had norovirus outbreaks in June",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWUpKMWpLT2N3UFZqaUNxOU8tVjRXcldrZzJjLUNvVG9fcTRmaURmSjliVmR1dXdQTHFHeWE2UUlXYVliSlktbFl0YUo3NUtHYlhBUXRlbmx6MnA3MnpQMDBIdnV2di1MRXVzZWxobHNVbElEV1FTck5wSVU0QjZmbkNGa1RjSEpYX0d3R0RBdEJoMWJvcjhvSGc2cXpNNnc0TTBINWtmdjI0aFh2TlJ2S2hIcw?oc=5",
+        "source": "KTOO",
+        "published_at": "2026-07-03T00:27:20+00:00",
+        "summary": "CDC reports two cruise ships in Southeast Alaska had norovirus outbreaks in June KTOO"
       }
     ],
     "related_queries": [
-      "Isolierstation in Kiel stand bereit: Doch die Passagiere der „Costa Diadema“ wollten lieber nach Hause",
-      "Kiel: Magen-Darm-Erkrankungen auf Kreuzfahrtschiff „Costa Diadema\""
+      "125 passengers and crew hit with highly contagious stomach virus on cruise from San Francisco",
+      "SAN FRANCISCO, CALIFORNIA — Ruby Princess Norovirus Outbreak Sickens 125 Passengers and Crew During Alaska Cruise Voyage",
+      "Cruise ship docked in San Francisco hit by norovirus outbreak"
     ],
     "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
+      "label": "Canada",
+      "lat": 56.1304,
+      "lng": -106.3468,
+      "zoom": 4
     },
     "seo": {
       "title": "norovirus Live Trend Tracker | HantaUpdates",
