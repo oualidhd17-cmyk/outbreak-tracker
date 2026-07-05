@@ -774,6 +774,79 @@
     "views_hint": 0
   },
   {
+    "id": "b3079fa2558445a86c",
+    "slug": "parasite-outbreak",
+    "keyword": "parasite outbreak",
+    "title": "parasite outbreak trend tracker",
+    "description": "parasite outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: USA Today.",
+    "category": "public-health",
+    "geo": "US",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-07-05T12:10:00+00:00",
+    "updated_at": "2026-07-05T13:22:28+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=US",
+    "sources": [
+      {
+        "title": "‘Explosive’ diarrhea illness reported across US. See map of affected states",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMl9hLWdqa0dPcno1MGpocXgzZEdaN3hxNktxVEhwUUg4VU9OdWlZbTh5VTFuRTVHdlJtaFBULWowNGZEVDhsQkdzX0dHa2ZjRVlaVVR6dGF4Y0JwbmhXNDl4aDRUQXNqeEJCcVB0LWtWdzc3Y0VBcmk0Z1JuSWlLcnVlNEpwVjVGS1BWbmRNR25RVVB6bTQzRVRQOGNXMUprcVRxQnln?oc=5",
+        "source": "USA Today",
+        "published_at": "2026-07-02T20:17:00+00:00",
+        "summary": "‘Explosive’ diarrhea illness reported across US. See map of affected states USA Today 'Large and growing' parasitic infection reported in 17 states ABC7 Chicago Diarrhea-causing parasite that can contaminate raw produce causing misery across several states CNN More than 60 North Carolina cases tied to parasite behind 'explosive diarrhea' WRAL Number of cases of parasite infection causing diarrhea explode in Ohio The Columbus Dispatch ‘Explosive diarrhea parasite’ sickens 170 in Michigan, hospitalizes at least 20 nationwide NBC News ‘Explosive' diarrhea parasite in Midwest outbreak can spread t"
+      },
+      {
+        "title": "Texans should know these symptoms as parasite cases are reported",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOZDdFMGVteHVNV2xmZG9QNXBvNmlKdnZnelk3cVl1bHN4ZlNKT0pWaFduLVhJQ1U0TVFkTk85dUZkMUdMZHhfWTd2b1kya3hZUkpMNUU1N0k5dTRTX3dIcHI4ZXpTS1o5U0ZhVU9LZG9LOFB0OHFCeDlSZVllQ2xpU2ZLUHphbFhCVE9RTmRHelVUbE44U3RIM1RrVjNHdERfS0Z2XzVERjRXT2MtekRZTlc4VTJCeVJ5NDdkenRsRS1CLW8?oc=5",
+        "source": "KHOU",
+        "published_at": "2026-07-02T12:42:00+00:00",
+        "summary": "Texans should know these symptoms as parasite cases are reported KHOU"
+      },
+      {
+        "title": "Texas among states in CDC investigation of foodborne parasite outbreak",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObmZvS2FVQ3ZzUVRzRXNGMTFWeTE5dEFqZFN6R0l4UzQtQUl1WmR5bER1dE1hdVE2aVowQUhUemlMTDYzV2ljTldhUDl0eEJvSWlCZUhBbjZGYzZ2NEhsc3Y3bEIxQ3Nfa05OSXJRWjB5R1YzSnpZbzNCV3FoMW1BTU8wUExvRm5DWGxpajNwM3hNRWxwM3I1b0ZTXzBQMWgtVXA3MGI3cHRjalExQ3cyRC1PNndZdw?oc=5",
+        "source": "Texas Public Radio | TPR",
+        "published_at": "2026-07-04T14:36:00+00:00",
+        "summary": "Texas among states in CDC investigation of foodborne parasite outbreak Texas Public Radio | TPR"
+      },
+      {
+        "title": "CDC investigates parasite outbreak linked to 'explosive' diarrhea across 17 states",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE13ejEwVmJhc242UWZmSTFLcmtsbHN5ekFsQWViMWFva2hLMFJZd0lOMXlKRXBwLTNpQkRjeDFCOVZUd0ZqVGxGaTU4SGtDNG5aMVZTZkxxRjN0aFczOGtyd0VZb2w0eDczVVBGMzcydmQtNmpIOVNB0gF8QVVfeXFMTnVLbWpLOXprVHBhMkdBUjN3YlNoS1FOc0RtaWtOb2huWkl5eWNIX3pRcjZ0Y0NRV0ZBd1hpTVVuVmJlOFZBR0dtRVl4WTYxcXRUTnBtei0tV0tLOW9UUDJLU3BVZWVOZloyOUFyeTJqb1h6VzRIX2R0bHFQZw?oc=5",
+        "source": "LiveNOW from FOX",
+        "published_at": "2026-07-01T16:41:56+00:00",
+        "summary": "CDC investigates parasite outbreak linked to 'explosive' diarrhea across 17 states LiveNOW from FOX"
+      }
+    ],
+    "related_queries": [
+      "Clusters of Severe Stomach Illness Reported Across the U.S.",
+      "Diarrhea-causing parasite that can contaminate raw produce causing misery across several states",
+      "Explosive diarrhea? Why cyclosporiasis may not be to blame"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "parasite outbreak Live Trend Tracker | HantaUpdates",
+      "description": "parasite outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links ",
+      "canonical": "https://hantamap.online/trend/parasite-outbreak",
+      "keywords": [
+        "parasite outbreak",
+        "parasite outbreak tracker",
+        "parasite outbreak updates",
+        "parasite outbreak live updates",
+        "parasite outbreak outbreak",
+        "parasite outbreak symptoms",
+        "parasite outbreak public health",
+        "parasite outbreak source links"
+      ]
+    },
+    "first_seen_at": "2026-07-05T13:22:28+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "f0d26d9aa90a345eb9",
     "slug": "norovirus",
     "keyword": "norovirus",
