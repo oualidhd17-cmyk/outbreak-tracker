@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-07T11:47:04+00:00",
+  "last_checked_at": "2026-07-07T14:25:45+00:00",
   "geos": [
     "US",
     "IN",
@@ -36,32 +36,33 @@
   "max_trends": 120,
   "max_news_per_trend": 4,
   "scanned_raw_trends": 300,
-  "items_collected": 0,
+  "items_collected": 1,
   "items_written": 65,
-  "items_rejected": 300,
+  "items_rejected": 299,
   "rejected_examples": [
-    "rundisney",
-    "angel reese",
-    "jim cramer new stock picks",
-    "new york mets",
-    "big tigger",
-    "tianwen-2",
-    "bernie sanders",
-    "prince harry daily mail lawsuit",
-    "sling",
-    "garth brooks",
+    "sndk",
+    "sunny hostin",
+    "argentina vs egipto",
+    "bernadette peters",
+    "nigel farage",
+    "kyle lowry",
+    "donovan mitchell",
+    "benedict cumberbatch",
+    "coco gauff",
+    "jon ossoff",
+    "సంజు శాంసన్",
+    "ఉపాధి",
+    "jannik sinner",
+    "epfo system upgrade delays",
+    "siya goyal case",
+    "ఉద్యోగి",
     "కార్మికుడు",
     "bank of baroda nmc settlement",
     "நடிகர்",
-    "fmge result 2026",
-    "वेलकम तो थे जंगल",
-    "wayanad",
-    "സ്വര്ണം",
-    "personality rights",
-    "ஆதவ் அர்ஜுனா",
-    "నాగార్జున"
+    "fmge result 2026"
   ],
   "keywords": [
+    "virus",
     "crucero",
     "guardia civil",
     "caribbean princess",
@@ -90,7 +91,6 @@
     "malik tillman",
     "cuaca besok",
     "alexei popyrin",
-    "ebola virus",
-    "وزارة التربية والتعليم"
+    "ebola virus"
   ]
 }
