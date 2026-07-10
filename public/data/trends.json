@@ -292,6 +292,79 @@
     "views_hint": 0
   },
   {
+    "id": "87dbbc126f8762c6c8",
+    "slug": "salmonella",
+    "keyword": "salmonella",
+    "title": "salmonella trend tracker",
+    "description": "salmonella is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Hill.",
+    "category": "public-health",
+    "geo": "PL",
+    "search_volume": "2000+",
+    "traffic_label": "2000+",
+    "published_at": "2026-07-10T16:00:00+00:00",
+    "updated_at": "2026-07-10T16:55:14+00:00",
+    "score": 2000,
+    "source_url": "https://trends.google.com/trending/rss?geo=PL",
+    "sources": [
+      {
+        "title": "From formula to birds, here are the foodborne outbreaks the CDC is investigating",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1RhZnlLVGZidEo0eldiNUQ1VmxZQjdwSzVQQjZIb1BsMjZQSTJZR1MtVzQ2QjREOGh1bmk2MUFMSzI2M2JmQ1dUOGVEZ3ZlQUQwZkFjZWV2TjVKRzZlQUQ2Q0RrOXRnQV8xSlFQMFloRVpnblNtNVRkSmlXX1Jib08wc3FuZkxldkkwNDdPWFBQS1ZzRUR3UlBRZzBCOWpqSXNneUt2TmY4OUxFRXRibkF6RWRVSUxNTTZQU1VXSVg4SkNXWXpvbNIBzgFBVV95cUxPYUFIVHE1bkhFUnAyUXh4eDBPbzl1bmlCRnBCbHAxdmtNRGJITnpnTmJLb0NtVzZyZGw3WFZnZllTRVFzaVFQWXdWUG5ycDN6WWhmOURkQlZoZFMxaVdyeHBwMHJRWXBRSFpfSE5IaExzT0F6ZFN6OElyNmhpZlZneWgwRU50dnVRNTVqSERoZ25iZDA4bDBueWlKbUdaMl9abWZfbVlCQjNmYWJvQ2cxaU9iXzByY0VmdHkxcHF2ekJCbEZUN3I4VzFOdWNUUQ?oc=5",
+        "source": "The Hill",
+        "published_at": "2026-07-07T18:17:00+00:00",
+        "summary": "From formula to birds, here are the foodborne outbreaks the CDC is investigating The Hill"
+      },
+      {
+        "title": "How immune cells in our gut mesentery fight salmonella",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GWGctVGstOEJIM1ZpcVhld3pjeXlRZkNVZTZJWUhwMW5JUXNZRHlCaTJLVGJyNGVnVElVM0NOdEZ0QmtkZXZTN1QyekR1R05rZnZsX2lwTFg4VWk2?oc=5",
+        "source": "EurekAlert!",
+        "published_at": "2026-07-07T07:00:00+00:00",
+        "summary": "How immune cells in our gut mesentery fight salmonella EurekAlert!"
+      },
+      {
+        "title": "Recall of popular potato chips classified under FDA's highest risk level",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTXBuamQ3Xzk1WmgxRXJLYkpkdFNBREZ1a2lwcmZrRlNHVWF6TU5yQzJ3MXhSYVo1Q0JORWxNdXk4OW5pRVZMYWlvUUVFNmZqWjF0UXZNdWR3YlpHMnJhc0J6RHlXcFRwRmVHMUFoZV9kb2pjMmdLQWpBWkdNSS1LY1dWSGxPMjg4UzBnSUhPQUF3aVFsdVgza1JpanE4UThIVHBlcldfV2dKS2lFdHNpQ3c3Ni02dFZEU29BOXhCY1A?oc=5",
+        "source": "USA Today",
+        "published_at": "2026-07-01T23:49:00+00:00",
+        "summary": "Recall of popular potato chips classified under FDA's highest risk level USA Today"
+      },
+      {
+        "title": "Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWE9PQUdnbzl6Zk1pOElKSTY5TmhyMVhvcFpNd2J4V3d2MjlyVFlaZlBNZXRNNVJERzJseG9HR3N0YnBRWEZZdmxFWlJDM1lDblRwRUtXQXVMZ3pCY0pxSDNhOHVHN1MwNXhKZU13QUpKX0pYeHRJeVR6SFVwemJwRWpHOHZ1WWZZTE9PN19IZ0xsUEduSzVKcGwwQ0xWSE9VTkJHYXA1ajYwdXhjTnJ5NDZTdGlESWJUdHNCeQ?oc=5",
+        "source": "EFSA",
+        "published_at": "2026-06-30T12:00:00+00:00",
+        "summary": "Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products EFSA"
+      }
+    ],
+    "related_queries": [
+      "Ostrzeżenie GIS z 10.07: Suplement diety Verdin Fix Kompozycja 6 ziół, 20 saszetek (36 g). Produkt wycofany z obrotu",
+      "Natychmiastowe wycofanie herbaty ze sprzedaży. Zawiera groźną bakterię",
+      "Znana sieć bije na alarm, popularna herbata pilnie wycofana. Pod żadnym pozorem jej nie pij"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "salmonella Live Trend Tracker | HantaUpdates",
+      "description": "salmonella is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without",
+      "canonical": "https://hantamap.online/trend/salmonella",
+      "keywords": [
+        "salmonella",
+        "salmonella tracker",
+        "salmonella updates",
+        "salmonella live updates",
+        "salmonella outbreak",
+        "salmonella symptoms",
+        "salmonella public health",
+        "salmonella source links"
+      ]
+    },
+    "first_seen_at": "2026-07-10T16:55:14+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "d1f388d81aa1c95254",
     "slug": "disease-outbreak",
     "keyword": "disease outbreak",
