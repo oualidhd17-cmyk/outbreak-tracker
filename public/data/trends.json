@@ -292,6 +292,79 @@
     "views_hint": 0
   },
   {
+    "id": "3cac94ae882fd87a61",
+    "slug": "indirim",
+    "keyword": "indirim",
+    "title": "indirim trend tracker",
+    "description": "indirim is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Mshale.",
+    "category": "public-health",
+    "geo": "TR",
+    "search_volume": "2000+",
+    "traffic_label": "2000+",
+    "published_at": "2026-07-10T21:10:00+00:00",
+    "updated_at": "2026-07-10T21:58:56+00:00",
+    "score": 2000,
+    "source_url": "https://trends.google.com/trending/rss?geo=TR",
+    "sources": [
+      {
+        "title": "Motorine Indirim Geliyor Hbo (Ga6tnA4HNu)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9udWhPeFQ0bVp0b2ZhTXZjenFKVXRtSWY0QjBTWWxrNGpMRUhDNmlCd2YwYnJCT21LZG85OEtGQngzOHRnTzBqbmlkWTVsSVdvWlAyUURaUUd1M1kwaW5qRg?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-06-20T20:54:14+00:00",
+        "summary": "Motorine Indirim Geliyor Hbo (Ga6tnA4HNu) Mshale"
+      },
+      {
+        "title": "990v3 New Balance 990 Indirim 990v3 Sneakers Made In The United States New Balance 990V3 \"Made",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5xT2lkNGJZaHJzbUNWMnV0b2M3aVctb0hobHF1cmtudHhpOVBydlViMGo1dzhWWlNVQXFyMVQxLURVRXhQWl9PNVVhQ01TZUpxM2l0QUp3ZFZ3dw?oc=5",
+        "source": "consumerthai",
+        "published_at": "2026-05-23T07:00:00+00:00",
+        "summary": "990v3 New Balance 990 Indirim 990v3 Sneakers Made In The United States New Balance 990V3 \"Made consumerthai"
+      },
+      {
+        "title": "Bim Market 13-19 Haziran 2026 Market Indirimleri #bim #indirim Alex Sibley (7ynxlKnoVH)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE51LW5EN2VGWWhCUWlyZXViSlZCS1Q2U2JHaFEtWHhUWmNEOFN0RGJTek1ERjVWUlhiQkN2bW90WXZ1LUtMQ0NGSk42cVZMdXJKSDVNdjdkaC1hYWs?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-06-21T01:50:40+00:00",
+        "summary": "Bim Market 13-19 Haziran 2026 Market Indirimleri #bim #indirim Alex Sibley (7ynxlKnoVH) Mshale"
+      },
+      {
+        "title": "BU SALI BİM AKTÜEL BİM 17 ŞUBAT 2026 BİM İNDİRİM Contagio Hantavirus (hUXpMTH4kc)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QbDZNX0M0UWF5eTV2aXJnM1VySThCSjNEczR5WkhWZW1mNEZIRVdEZE1qNVl4RnZwSS1nVl8ySVZqSEMzMzJYdTM0d3FmZnVnU1BrZUVZR2VyS25HdGEzMA?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-06-20T07:56:10+00:00",
+        "summary": "BU SALI BİM AKTÜEL BİM 17 ŞUBAT 2026 BİM İNDİRİM Contagio Hantavirus (hUXpMTH4kc) Mshale"
+      }
+    ],
+    "related_queries": [
+      "Motorin fiyatları yarın düşüyor",
+      "MOTORİNE ZAM GELDİ! 10 Temmuz 2026 motorine zam mı geldi, ne kadar? Motorin (mazot) ne kadar oldu? İşte güncel akaryakıt pompa fiyatları",
+      "Çiftçiden akaryakıt zammına tepki: Traktör kullanmıyorum, tarlayı olduğu gibi bıraktım"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "indirim Live Trend Tracker | HantaUpdates",
+      "description": "indirim is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pr",
+      "canonical": "https://hantamap.online/trend/indirim",
+      "keywords": [
+        "indirim",
+        "indirim tracker",
+        "indirim updates",
+        "indirim live updates",
+        "indirim outbreak",
+        "indirim symptoms",
+        "indirim public health",
+        "indirim source links"
+      ]
+    },
+    "first_seen_at": "2026-07-10T21:58:56+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "87dbbc126f8762c6c8",
     "slug": "salmonella",
     "keyword": "salmonella",
