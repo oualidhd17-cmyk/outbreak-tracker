@@ -3731,6 +3731,79 @@
     "views_hint": 0
   },
   {
+    "id": "51b736afa9c1231c6b",
+    "slug": "cyclospora",
+    "keyword": "cyclospora",
+    "title": "cyclospora trend tracker",
+    "description": "cyclospora is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: USA Today.",
+    "category": "public-health",
+    "geo": "BE",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-07-16T15:20:00+00:00",
+    "updated_at": "2026-07-16T16:16:28+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=BE",
+    "sources": [
+      {
+        "title": "Cyclosporiasis outbreak: Latest as officials seek source, cases rise",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQ0JfRllFWmxHTkV6QmtCdDdINHdOdG9XNWpFX3YzUEtZTTMwMVdZU1RVN2tJNXlxYmtIZjQxUmpSdkx3dW03dW85aXNNalhEZkU3Qnk5RDZGYzRDSFAxZTFLLVRKVGk2WHJpWFBhYmNEZHpHNWk1N0xyQUNZMERXeWRyVzVkbDdyQ1R6VThXbTVSM2JtVENVRWF2TGpCR2hJRHZKamROTExhSVphRjM2WE9mZmtmTUlWLW1LRlFLN2M5WEk?oc=5",
+        "source": "USA Today",
+        "published_at": "2026-07-15T18:22:51+00:00",
+        "summary": "Cyclosporiasis outbreak: Latest as officials seek source, cases rise USA Today What to know about cyclosporiasis, the intestinal illness hitting the U.S. NPR US cyclospora outbreak linked to lettuce, fresh produce Yahoo Finance Opinion | How Worried Should You Be About Cyclospora? The New York Times Cyclospora is easy for doctors to miss. The US made it even harder to spot | Robert B Shpiner The Guardian What is cyclospora? Diarrhoea symptoms, foods linked to US outbreak Al Jazeera Cyclosporiasis cases rise in Polk County as health officials warn about fresh produce KCCI There's only 1 way to"
+      },
+      {
+        "title": "Cyclospora Lab Closures Risk Setting Back Parasite Research",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQUVRRE5PWTdoYTExN2lPbDVtRTdkTm11ZkdIbXVJYVNhc0l0RzkzMmV1V0l2VHhDd1BGYmdITW1MRFFONEt0dWpXdmFRV2sxTndpeV81WHB5NDJKazZlX2ZXcWppTy1MblMyYk1iVTJELVRZN01GcmJ6ODQxMVl1a204WXV1YWg1bjBCbnZsdHJKMW0yeDdPNHpPY0lpdU1CZHMtOVNQdFFRTndKUGJn?oc=5",
+        "source": "Bloomberg.com",
+        "published_at": "2026-07-16T15:33:59+00:00",
+        "summary": "Cyclospora Lab Closures Risk Setting Back Parasite Research Bloomberg.com"
+      },
+      {
+        "title": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53ZlNIRS1wTDNpa25rUC1QRWRtcWczX2hkMTd2MnY1UkdaQmNvalRlQ3RBdEdHQ3NCakNSNEdsdXdYUndjYjRiQml1NkxnT0stMXJUdHVmd0kwdWJDQnc?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-07-14T17:10:07+00:00",
+        "summary": "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "As Cases of ‘Diarrhea Parasite’ Cyclospora Rise Across the US, Is It Safe to Eat Fresh Produce?",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd2U3Mmk1VHYtY2ttdkJKTV9zMWszR2xnZFQ4b19LUDhQNm9XQ2JfOGlMbVVaU1hYS2h3eDdzS3M1b0NIVmMxX1VHeGl1NF9YNDI1UUljY04zQ1F2VDFxNl9mLWlOQ1IzU3kwS0NsRWFBeDZ5ZzZ3NlpOaWxMY0k1TmhJUkVNM0NEd2RPQmlqb3dDQmpJOHBXWlRJTnlkdGNFV0NrZmJJb1R0TFJBaUY2dg?oc=5",
+        "source": "TODAY.com",
+        "published_at": "2026-07-16T15:45:13+00:00",
+        "summary": "As Cases of ‘Diarrhea Parasite’ Cyclospora Rise Across the US, Is It Safe to Eat Fresh Produce? TODAY.com"
+      }
+    ],
+    "related_queries": [
+      "Domestically Acquired Cyclosporiasis Cases in Multiple U.S. States, 2026 | HAN",
+      "Opinion | How Worried Should You Be About Cyclospora?",
+      "As the outbreak of diarrhea caused by a parasite grows, here’s what’s safe to eat and what to avoid"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "cyclospora Live Trend Tracker | HantaUpdates",
+      "description": "cyclospora is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without",
+      "canonical": "https://hantamap.online/trend/cyclospora",
+      "keywords": [
+        "cyclospora",
+        "cyclospora tracker",
+        "cyclospora updates",
+        "cyclospora live updates",
+        "cyclospora outbreak",
+        "cyclospora symptoms",
+        "cyclospora public health",
+        "cyclospora source links"
+      ]
+    },
+    "first_seen_at": "2026-07-16T16:16:28+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "2735141c4445d22b15",
     "slug": "ruby-princess",
     "keyword": "ruby princess",
