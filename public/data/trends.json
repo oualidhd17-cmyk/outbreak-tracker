@@ -1869,6 +1869,79 @@
     "views_hint": 0
   },
   {
+    "id": "e6e27f81b8f09f5bde",
+    "slug": "england",
+    "keyword": "england",
+    "title": "england trend tracker",
+    "description": "england is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: ESPN.",
+    "category": "public-health",
+    "geo": "AT",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-07-17T04:50:00+00:00",
+    "updated_at": "2026-07-17T05:40:08+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=AT",
+    "sources": [
+      {
+        "title": "England 1-2 Argentina (Jul 15, 2026) Final Score",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoT2pYaHpJVEZZUHF1cF9yWHRxbVg2RzdfbFRvdVRHVU1FaGtBRENsZzhUa2JfcE9BS0hwN3p3QjdJY1BWUWxTbkdhNzlvYldoOGtMbjRYbjJBcVhTVHFDby1wME1teU5CMzNGa2RSektUMmdqX1E?oc=5",
+        "source": "ESPN",
+        "published_at": "2026-07-12T03:52:07+00:00",
+        "summary": "England 1-2 Argentina (Jul 15, 2026) Final Score ESPN"
+      },
+      {
+        "title": "England 1-2 Argentina: Three Lions suffer World Cup semi-final heartbreak with loss",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HVTJnU2lsVkVwdDFBcFFtai1uaUhNb0F3VkF3aTF0LTJ6TkZjaHFqT3N2SzFRX19kWVBFelJyeXNTQWx4blE1NGxlTkxJbW5Mc3VUT1VVM1NLcnRDT1NwTndB?oc=5",
+        "source": "BBC",
+        "published_at": "2026-07-15T03:03:40+00:00",
+        "summary": "England 1-2 Argentina: Three Lions suffer World Cup semi-final heartbreak with loss BBC How could England look at Euro 2028 under Thomas Tuchel? The six recalls and one major change required Yahoo Sports England’s problem at major tournaments? They’re still just too English - The Athletic The New York Times"
+      },
+      {
+        "title": "Andy Burnham, a mayor from England's north, is poised to become Britain's next prime minister",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0k0RVVZREdvWTU2b1l2cnZEaVhBejRwWWMtSzNFRDRJSWZKWWhYQXNnSlZXZjBQRVltbnQ4UHBWZURqMHNWYjRnb2NHTlhTVk90ZGZQWUExdUFTbnh6dWx4S1JPV2JOa0pVTURIdkNfeUZIZGR1cjVGZ3M2M2xZUEJxSUJXMm8xWFI1MVE4SDlHcU1ObEcxWQ?oc=5",
+        "source": "Yahoo",
+        "published_at": "2026-07-17T04:00:00+00:00",
+        "summary": "Andy Burnham, a mayor from England's north, is poised to become Britain's next prime minister Yahoo"
+      },
+      {
+        "title": "UKHSA updates heat health alerts across England",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWFZMdWVyakpZd2lFdms3cFptc0NQOV92YUNkSHlSU2pRZndIVnFQZWtZSExQZ1Q4S2dYZVMxbG1aRkNUT0RJSW9KQ1VrTEFyOWxobkotc1ZVbVlHVmI4NHo1RmxILVMxR0g5bUJYdFdMNnF3Wjl4TVlkbnRnZ3dRUzBvTHBENG5aYlE?oc=5",
+        "source": "GOV.UK",
+        "published_at": "2026-05-22T07:00:00+00:00",
+        "summary": "UKHSA updates heat health alerts across England GOV.UK"
+      }
+    ],
+    "related_queries": [
+      "World Cup 2026: Argentina could face disciplinary action for displaying Falklands banner after beating England",
+      "‘Las Malvinas son Argentinas’? Not quite – but the Falklands cannot remain British for ever | Simon Jenkins",
+      "Keir Starmer Calls For FIFA To Investigate Argentina Over Controversial Falklands Banner"
+    ],
+    "map_focus": {
+      "label": "United Kingdom",
+      "lat": 55.3781,
+      "lng": -3.436,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "england Live Trend Tracker | HantaUpdates",
+      "description": "england is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pr",
+      "canonical": "https://hantamap.online/trend/england",
+      "keywords": [
+        "england",
+        "england tracker",
+        "england updates",
+        "england live updates",
+        "england outbreak",
+        "england symptoms",
+        "england public health",
+        "england source links"
+      ]
+    },
+    "first_seen_at": "2026-07-17T05:40:08+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "7044843aaf2fe7c246",
     "slug": "passeggero",
     "keyword": "passeggero",
