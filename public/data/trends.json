@@ -876,6 +876,79 @@
     "views_hint": 0
   },
   {
+    "id": "4dc69a43109e52c5ce",
+    "slug": "uganda",
+    "keyword": "uganda",
+    "title": "uganda trend tracker",
+    "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Hill.",
+    "category": "public-health",
+    "geo": "BE",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-07-17T09:10:00+00:00",
+    "updated_at": "2026-07-17T13:20:59+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=BE",
+    "sources": [
+      {
+        "title": "At least 20 children and 1 adult killed in a Uganda elementary school bus crash",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNHl3a294S2FNcGpva2hoeTFxN01hLVlxRGYzNmZyUWZDRGJMSVV1aFRCUlIwZUp2eFJQLTNiVlVWcDR3NHBFZnEwRFBMbl9ZY1FuQ0N1TDdUSlUyVWNRa0piLV9pMW9yYVkxTUdVbTRpemlnNlI4S3UtTlY2a2NyVDgtOS1ZM0lBdngtUWRJampDQWwwQ1d4d0dkcHJsR1lEMTBDOHlrMm1ZWFZtY3oyRWpaV3FTbVI1cTIybWFNdElIMlRsY2w1MXR4SHLSAdIBQVVfeXFMT19ZUEV3WWFIbkZ2azUtbVFMZnBXVVZ2a290RGxZc2Z2bDdSVlZKV2JrUENTUlhpMmVhbGJER2hlTUhPeWk5c0xPRTFSaGdmdlZ6UFVWUGY3aWhrQ2tIaGozTldFamhMR1JxRFJOVWVvRGRDRHhEOTNqN2FrS1VrSmhIdkhscWY5ekZtVmFpZjdWTE5pZzVJTm0zb0xtbmUzWlpmbVBEOV9yU0ZtMkgyT1RVSUhscmdZVnpEQUlpSTRmdnhYQlU0WTAwUW9hMGVtOUR3?oc=5",
+        "source": "The Hill",
+        "published_at": "2026-07-17T11:27:00+00:00",
+        "summary": "At least 20 children and 1 adult killed in a Uganda elementary school bus crash The Hill King David Junior School, Ndejje: At least 20 pupils killed in Uganda road crash BBC At least 20 students, teacher, killed in bus crash in eastern Uganda upi.com"
+      },
+      {
+        "title": "Ebola outbreak: Uganda starts 42-day countdown to being declared free of the virus",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE56M2dPOWpQM09ObmU3TGpMS2dnbWkxLXNuSlJicmxJbk82V1pERzgzOUQ3bGh3elJjd29NaE1aVUpRVGFRN0FBTnUyWUQ5Y05iX0RlTWMtUERBUQ?oc=5",
+        "source": "BBC",
+        "published_at": "2026-07-16T17:15:32+00:00",
+        "summary": "Ebola outbreak: Uganda starts 42-day countdown to being declared free of the virus BBC"
+      },
+      {
+        "title": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVnRzOU1mYjVsbDN3QzQ3UlZlcm1LZEdCQ05IeTduWkRCbW5KYTJSaW5GZ0ZkVWtOTDFRQmhxNE1MQVp6TG5vOU1qWEhwOWh0Y0Y1OUZrVVNzVDlyU1BfQUNKRUNxT3dvVWItajkyX1BKOURCZVZhUW5zdXh6LVhzQzZBQVhiSkdKbVFZbXhPZVFLODdvMmh5OGc4NWN2bWI3aEJUR1E0ZmtncUNqU0pNdkJaaVd4Y2NWbEHSAb8BQVVfeXFMUElwRG45b25GV3FMcGZmMTFxcDljQmtEenRQMnJuM2ZYN1FpVE1IVUllbGpuczlabmFYZEhaTkY1X3BhUTJVMnl0WVdUNzd1VTZyMy10Wk1WOVRlT3ZIOXptNDgzUjFrVmdTN3F4MGNzeEhmLUNnUm5EMUJqSHVETjQ3SjM3MWtuZFhJZDZlSTg1UHR0ZEtLQ05MVmphSnRpQ19IUkpSNHptOVQ0RE9rb2RzZUpxeG93a0hCaV9QU0k?oc=5",
+        "source": "Al Jazeera",
+        "published_at": "2026-07-16T22:30:36+00:00",
+        "summary": "Ebola spreading more quickly in DRC, while Uganda is close to being virus-free Al Jazeera"
+      },
+      {
+        "title": "WHO: Uganda is silent on updates following disclosure of Marburg outbreak",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPc29VNV85aGFfM2pDVnhpbGE0al9RR1d5dTA2aGpwRWhXbnJvaFJEdEJ0YzZUYkJxbERxT3FvM3dsRFZGWmpUZjJlM1hlNkZHOUQ5Ui1ORGhFWWtFelJQWUtVdzhtTjZ1TmdncnA4WkUtZFZlQ0NBTmpTeTNNTUEzVGpubnc0RlBfRU9mT3NkaFNhazgzUDlXRTZJLWYyMVo4Vm5n?oc=5",
+        "source": "STAT",
+        "published_at": "2026-07-16T16:25:58+00:00",
+        "summary": "WHO: Uganda is silent on updates following disclosure of Marburg outbreak STAT"
+      }
+    ],
+    "related_queries": [
+      "King David Junior School, Ndejje: At least 20 pupils killed in Uganda road crash",
+      "At least 20 children and 1 adult killed in a Uganda elementary school bus crash",
+      "At least 20 students, teacher, killed in bus crash in eastern Uganda"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "uganda Live Trend Tracker | HantaUpdates",
+      "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pro",
+      "canonical": "https://hantamap.online/trend/uganda",
+      "keywords": [
+        "uganda",
+        "uganda tracker",
+        "uganda updates",
+        "uganda live updates",
+        "uganda outbreak",
+        "uganda symptoms",
+        "uganda public health",
+        "uganda source links"
+      ]
+    },
+    "first_seen_at": "2026-05-17T18:14:42+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "c61f67775ddf960e98",
     "slug": "cyclospora-parasite-outbreak",
     "keyword": "cyclospora parasite outbreak",
@@ -4093,79 +4166,6 @@
       ]
     },
     "first_seen_at": "2026-06-27T22:00:49+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "4eb0dc2ee7b5478f09",
-    "slug": "uganda",
-    "keyword": "uganda",
-    "title": "uganda trend tracker",
-    "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
-    "category": "public-health",
-    "geo": "CA",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-06-23T22:00:00+00:00",
-    "updated_at": "2026-06-23T22:10:05+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=CA",
-    "sources": [
-      {
-        "title": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TbTZhZnBRNFhrM0hOaVVraW5FMEp3djJ0Zlprb1ZVNDdoYzk4bVZUanQwa0VPT2NLVWwxUjZ3NUU4OWVrejF6SGdEenVHc2tlUHR3dS1HSll4UQ?oc=5",
-        "source": "BBC",
-        "published_at": "2026-06-22T17:19:16+00:00",
-        "summary": "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says BBC"
-      },
-      {
-        "title": "Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 22/06/2026",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWDRfU1pIQjVFNmlOc2dEZ1hyaV9qc1BVdThiWVdxOVVWMmdhV2N4anJRWUsxM0h3ZTU4dExBdDJkRS16ZmtMbHZCczVYMk9KZHZjR2JSYVlLR1VqME9idDJKYnd4cm83bFRQbUlmNUpHWmhzRWRpQnh6MGVzanNOdEl4T2x6VDdmcDBzNTNlV29Vdnk5eXNmeDE4bTZsU3FrUkNNcDBzWURFODJxcHJ4VFl1akdmV3dHNVI1a2ExSWhGRHJ1aWJLNnJEOTQtZFR4eUpKQ2dmQ3V6UjN6czNoSWJORC1aMXgyNUY2TmprTWpfNkEzOUpLdjAwTQ?oc=5",
-        "source": "ReliefWeb",
-        "published_at": "2026-06-22T16:17:19+00:00",
-        "summary": "Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 22/06/2026 ReliefWeb"
-      },
-      {
-        "title": "Uganda conservationists increase efforts to protect mountain gorillas",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTW9uT01EY1BxTEhSa3JGLV9wV1o2Ukhwblp5S2VHYjJDQ1lvSV9IY2NCSnRYdEVzZks2QzFEaDlRVEZBSGlFdTI3QzZFUjg2aHFIRlI5UWJZaHZSaTUxY2ltak5LMTMtNUlZeFZxN3lEYlNnZG5POXppNW5ybkVrenV0QkxmNkJXakNfRmR3Rm84NTM5ckp6ZDBYVTVhNnV3bC1pcW12Ukc3RExa0gGyAUFVX3lxTE5hbGtVeTl4TS1GUWJ1bEFROWduZHBKQ0VHMGpRWDBrcHpDRHIwb0lWaUMzOWtITmwwTUlnRnM5MFlsOXNKRlp5T3FveUxHOHQxV1NiZFRHNHpZc2g1SXpDMjJvajNLLWtCTTg1bW01NmxQTkZWdV83S1BON0hLUl9icHhwWS1LelIySVJjMmlSMWNOdmpZVVR3U29OZWVYcUNpRWNoXzRzWGsybUxpaWo1YVE?oc=5",
-        "source": "africanews.com",
-        "published_at": "2026-06-22T07:23:08+00:00",
-        "summary": "Uganda conservationists increase efforts to protect mountain gorillas africanews.com"
-      },
-      {
-        "title": "AI-generated clip falsely links Ugandan politician’s designer outfit to corruption raid",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOeUpGY090NUtHQ3luWTZ0bThiZUVJeDdyREVoZlczSUNzdndQSTBVazBscEx1dkJHSkdHRFgwUFpVLURsTGE2dGRYOEVhdTMtSGxVVExEamQwWVpGS1VlTW5HWFhKTEE5b2gtOFdxdEE0bjFXZnd5T0pBaTFxZWZsYTJiSUVoZEsyb3ctdjdIZFRrdw?oc=5",
-        "source": "Yahoo",
-        "published_at": "2026-06-23T13:27:53+00:00",
-        "summary": "AI-generated clip falsely links Ugandan politician’s designer outfit to corruption raid Yahoo"
-      }
-    ],
-    "related_queries": [
-      "Former Kenyan justice minister blocked from entering Uganda, lawyers' body says",
-      "‘They snatched my phones by force’: Martha Karua recounts Entebbe Airport deportation drama",
-      "Muhoozi: I Deported Martha Karua"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "uganda Live Trend Tracker | HantaUpdates",
-      "description": "uganda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pro",
-      "canonical": "https://hantamap.online/trend/uganda",
-      "keywords": [
-        "uganda",
-        "uganda tracker",
-        "uganda updates",
-        "uganda live updates",
-        "uganda outbreak",
-        "uganda symptoms",
-        "uganda public health",
-        "uganda source links"
-      ]
-    },
-    "first_seen_at": "2026-05-17T18:14:42+00:00",
     "views_hint": 0
   },
   {
