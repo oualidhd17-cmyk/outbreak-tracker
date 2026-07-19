@@ -1942,6 +1942,79 @@
     "views_hint": 0
   },
   {
+    "id": "a58a58daab565681bb",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Politico.",
+    "category": "public-health",
+    "geo": "MX",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-07-19T15:20:00+00:00",
+    "updated_at": "2026-07-19T15:54:53+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=MX",
+    "sources": [
+      {
+        "title": "Americans who responded to Ebola outbreak are quarantined in Kenya, despite court order",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRW1GQW84b3h4b0k5dUJUOEhzazNZbUVKckZESUs3NEEzSDVsUEdrcXlLdTJlajI0MGFmeXI0b2RMaXNfelJVZWdYX3dwY25jeVB2VDB0VkZvYjdDNDN4bThQRXBsNkRnbVhER0xFWkNUZkh4emtZQS1yd08wNjV6Z1NmRmNKeXIyYzZFOTU3aFhKUUhYZUNUUFY1SW5RLWtUSXRlMFBrZHR5ZmdGOEpsSUFpVlFuajY1NHNYMzQtaGtXTk4tODRQTWZnV1VhcG9PYWIw?oc=5",
+        "source": "Politico",
+        "published_at": "2026-07-17T21:06:00+00:00",
+        "summary": "Americans who responded to Ebola outbreak are quarantined in Kenya, despite court order Politico"
+      },
+      {
+        "title": "Seven U.S. aid workers quarantined in Kenya during Ebola response",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclJYT21YeGg4enBONjZSU3VLbEZzMUlxOFNNWTBJaWZHUS0yYU1zb18tTnhBN0xvN0paaWVSX3NYVkNRdS1hM3Q1a0p3WDdJck1rT0F5MjdKUklLU2g2TEtwb3Jxbm1NZ01fT29aU1owcXYxNFRQOGxsRFRuVkQ2U1h2UXhQMllvZk55ZDBId3RFZFAtYlNHMXN0OHl6U1UxaWVoU1R5MnBXMzdsdkE?oc=5",
+        "source": "The Washington Post",
+        "published_at": "2026-07-19T02:08:48+00:00",
+        "summary": "Seven U.S. aid workers quarantined in Kenya during Ebola response The Washington Post"
+      },
+      {
+        "title": "7 Americans Sent to Disputed Kenya Ebola Site After New Trump Travel Ban",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXR3MnFNZ0ZOWjJ6anJGUTZJNEZBSFVUUjA0RjN1czhKMnRZTDJqVzhwZGhYc1RvcWlWY3dyOG1QSk5Qd3VqRll0T01EQmQ3MlNVd3FZak5RNUFqV3J1NUd6dmFTMnZsTWpFcERoZjFNR09GTGNTTktMYkhrT3p4bGhsRnpCd3Z1QWlTbzF3?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-07-18T00:22:05+00:00",
+        "summary": "7 Americans Sent to Disputed Kenya Ebola Site After New Trump Travel Ban The New York Times"
+      },
+      {
+        "title": "Safety fears limit Ebola response in Congo, with more than 12 attacks on health facilities and workers recorded",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM1lkcGJKQ25RTmdVaklheHA3T2Z2N09aRHZDMTA2cTFoT0VnLW1GcjdKN0ZGSE5semtRdjdVSkg4b0I2ZkpIN196eWU0bjBUUzVfUU9yaWxHS2h3Z3JSVTd0UGlLRVpkSXYxUVlCQjMxVzFDa1hfNDlsZFJRNVhEYkN6RmhpNEowSng0cTdQLVoydzR0SU16X245Z0YxcmVqenktdjdHODRKRFlxaDdYNkEySkRKa1ZLYjRHU2RhZGdUT2h5VDNySlRSYTk5S21mUlBGMHVQRFlCb1FIZVE?oc=5",
+        "source": "PBS",
+        "published_at": "2026-07-18T17:34:04+00:00",
+        "summary": "Safety fears limit Ebola response in Congo, with more than 12 attacks on health facilities and workers recorded PBS Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda World Health Organization (WHO) Ebola is not abating The Economist"
+      }
+    ],
+    "related_queries": [
+      "WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone",
+      "Violence Forces Evacuation of Ebola Response Workers in Eastern DRC",
+      "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "e6e27f81b8f09f5bde",
     "slug": "england",
     "keyword": "england",
@@ -2815,79 +2888,6 @@
       ]
     },
     "first_seen_at": "2026-05-30T18:48:14+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "4bb980e30ec40df703",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Breaking News, Latest News and Videos.",
-    "category": "public-health",
-    "geo": "DK",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-05-28T19:40:00+00:00",
-    "updated_at": "2026-05-28T22:09:36+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=DK",
-    "sources": [
-      {
-        "title": "'Out of control': Doctors on the front line of Ebola outbreak speak out - ABC News",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRHZ3Nk40NDVnUi03bWNkdGlqcHFpMUdFYmlxZU1yY2F1V0F4S1lCcUZuQ1VwVENibExZaV9mR1JxVlp1MG5qbHVjeWFxVTdwdGpzaVRZWnp2S1dUa0JrLWh5SWc3c3JwejNMSm1FNjFIM1lxRlgwRjZXNFFzNXNaanZna1kyb3NwVGdpVWdEZWF5MjFoM25oNU1pX0E5S3Vp0gGmAUFVX3lxTE1nT1VVdjRjUHF0dHdVMlVCSnhRczduZUdVWkRlUzRwMUhxVkVad3NLMEFqU0dEQ3Z4RkptTE55a1NFdjdkaFh0R2lvZWNQakF4YmxFVjZqcW82bXVGVW9ESHRYT0thblVJVDMzXzRiMVpkTk10NUl3RGdUX0lpNmFtaTBueFAzNjFTdkV1bWFXMDBlNU1IblV1U0pnY0ZOTXAzZjVpaUE?oc=5",
-        "source": "Breaking News, Latest News and Videos",
-        "published_at": "2026-05-28T15:13:58+00:00",
-        "summary": "'Out of control': Doctors on the front line of Ebola outbreak speak out ABC News - Breaking News, Latest News and Videos"
-      },
-      {
-        "title": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZ3M0eDRKTnBWTUphYTdaZ0ROanJlNzdhckFMQjdiOUVyc05xQVpxWUFodFhvbVlIYzV2dFVfUGlwQnJoZ1I1ZUlvcVEzaW0zdVRkYWpmdDhLTE9iRGtGaW4wSUFTQjYzM3NxU2NuS2NkNnZwUGtuOF92eU1HMFFuZEp2bTRnR0E?oc=5",
-        "source": "The New York Times",
-        "published_at": "2026-05-27T14:00:08+00:00",
-        "summary": "Why the Ebola and Hantavirus Outbreaks Have Confounded Scientists The New York Times"
-      },
-      {
-        "title": "Trump administration defends sending Americans exposed to Ebola to Kenya",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdFRNaWhLV1hwM280RlB4WU8tc1RJRzJFT25wMGxBcGJBSjRjdzd3Zl8wcEc3bVd4dUZnaXEyZmtuS3Y5Ukgxa05LT1IzWGZJV3VQOWxfYXpaVW80ZGxORl9mQXZLZ25yMGdEMXpIZUNORHJqNjhicF9XSWpYVl9nR1pHYXJsTFQ1UjZr?oc=5",
-        "source": "Politico",
-        "published_at": "2026-05-28T21:23:07+00:00",
-        "summary": "Trump administration defends sending Americans exposed to Ebola to Kenya Politico"
-      },
-      {
-        "title": "U.S. Ebola quarantine facility in Kenya to open Friday",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTDAxdHNDQ01Ia2hJME4xLWhZYkFwTFByaXVpM05HSXZqWFhHMnlEc09CR1UtNnladFhKWWRHRkNhTnh2c1VodW9QZExFbmlINklLUEp5cUpzSlVIaVBZR0RVTGFtdUhOLWVZbXVsQWZDbEQyeUF2UnZmUi1XaFZPVWp5aGrSAYoBQVVfeXFMUEo0NnVwQmI3Qk52eHRMZnRCcmRIV2JybTBsWEFha2JCdHNUUVV3VUFDMGdiU29MT1dUUGZFQ1hfQS1qcWt1MFNFYjZVMnc5YkEzeWxHVjdzeFpoT1RqcGx1XzRuM25adENFa1dOY0tDbDJoeURhY29QOWFnV21FV0lVdDhrV3pvTUhB?oc=5",
-        "source": "The Hill",
-        "published_at": "2026-05-28T21:54:00+00:00",
-        "summary": "U.S. Ebola quarantine facility in Kenya to open Friday The Hill"
-      }
-    ],
-    "related_queries": [
-      "‘Among the things he feared most was death’: the doctors and nurses dying on the Ebola frontline",
-      "Ebola-hit DR Congo faces 'catastrophic collision' of disease and conflict, WHO warns",
-      "Message by the WHO Director-General to the people of the Democratic Republic of the Congo"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
-      "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
     "views_hint": 0
   },
   {
