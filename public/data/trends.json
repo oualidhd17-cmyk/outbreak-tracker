@@ -730,79 +730,6 @@
     "views_hint": 0
   },
   {
-    "id": "b4cf40221c5cbb337e",
-    "slug": "maladie-virus-ebola",
-    "keyword": "maladie à virus ebola",
-    "title": "maladie à virus ebola trend tracker",
-    "description": "maladie à virus ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: ReliefWeb.",
-    "category": "public-health",
-    "geo": "FR",
-    "search_volume": "2000+",
-    "traffic_label": "2000+",
-    "published_at": "2026-06-13T14:00:00+00:00",
-    "updated_at": "2026-06-13T16:12:30+00:00",
-    "score": 2000,
-    "source_url": "https://trends.google.com/trending/rss?geo=FR",
-    "sources": [
-      {
-        "title": "République démocratique du Congo - Province du Sud-Kivu : Cartographie des sites de personnes déplacées internes (PDI) dans les zones affectées par la maladie à virus Ebola au 10 juin 2026",
-        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxPZEpEZ0FSZkFPX1FaTGRGc2xYczNmM0cyREc1Z1k2cU9sdV9fYzBlNzZGcVdYU2tWN1I3TnRQWTVxNnBqUmtScENpTHI4TnN1NV85aVo5UlNCUWtVMEQ1VVJwYzRVNXRVY21rQ0g2d3Zjak5uN1c2N0ZKcl91eVJwVmVCUzZjMm1yeEhxLV9xaHJDeHlPbXVxTjUxZUs4dXBrY25tbkcwOTB1Sm44VVRHYWRncXRsS1AwTzlLa043UGFsNU1zdW1vOWRqcVg3aEVpcWotdkcxM1RXdzNLc2tUQnk0WFZldDVQMjNmdjZPZlIwOXUzeVV3U0tHLU16UGw3d0xvVUxaTmx6aTRUTVRISllUcVY5MVpUQy1qWkJWYmJjczZ4VGw5VE1TblFnSXBiZnZqdExibnlhem4wemM4QU9ZV1dYTmJuaS1mdTZJR2htdw?oc=5",
-        "source": "ReliefWeb",
-        "published_at": "2026-06-10T17:51:55+00:00",
-        "summary": "République démocratique du Congo - Province du Sud-Kivu : Cartographie des sites de personnes déplacées internes (PDI) dans les zones affectées par la maladie à virus Ebola au 10 juin 2026 ReliefWeb"
-      },
-      {
-        "title": "WHO Rapid Risk Assessment - Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo, Uganda and countries with land borders adjoining countries with documented BDBV detection v3",
-        "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNOTdhSXBWbERjTENBcXRDamZCVTRERGhmU0dVeTVzZHJZU1F2QWwwTlBuaHFHRTR1VVdGR25nd2FJVjh2dl9xVjFxVkh1b3drSm9yd2Z0dldPRzdtUHpvTlpyMmgweHlMTTFCOVJMMFlHdi1rekpWMlFtMzl0aGw5Y01YRDN5NGZVYVVSUmpDS1pHNXhYMnlRMnh1a3B0NkZsc2xobm1HTFdLUUNrenZzMFdyajRXdkhQMTNBczFlRjl4U3VfVm15c0J0cjFaeVc3MFBWbl8yRWdVRG1aSk9sNUY3UHN1UXN5Q21xWlFfOEJXdHh6V3ljNVZzejdxSlF2blBoUVJ5Z2k5Nlh2Q0VFSEZzQnE2My1Gd0RLZTdWOXNkaTh1NzJnQlhTTEpjTEZ5b0lHZVlSVDVRcmFNbDZnVjVlcFRJZVFrWmVR?oc=5",
-        "source": "ReliefWeb",
-        "published_at": "2026-06-10T16:21:09+00:00",
-        "summary": "WHO Rapid Risk Assessment - Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo, Uganda and countries with land borders adjoining countries with documented BDBV detection v3 ReliefWeb"
-      },
-      {
-        "title": "Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 12/06/2026",
-        "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNd3RZZDFoNFM2TUZzdVhWSG1KY3A0M080Y1JHNXBaSjZvLXpwbTdvQWlzZndHdklGWWUzbVliV0VLZVRLeGw5VnBTNGt6aG9HRVNzOWh5Z24zcHprSnpoUjhnZndubkVqaV9aNXBzQUcteDc5Ni1ONXp6RFE3ajFmSy1tLTlMQkw3cnlsOGJ1bXViQUNhS1FuQWREcGtyV2Y0cGJ3ZkxmeW02aURHc0FFekJ2dXNDWUZBUDhjZE1xc3EtQzUzWkF6eVJwNW1yYWZXTGJMQ2E5TGlzY194NGNfRzgtQWVTWVhsbkExdmJkZDExeEVsemZlNEdZaw?oc=5",
-        "source": "ReliefWeb",
-        "published_at": "2026-06-12T15:17:19+00:00",
-        "summary": "Democratic Republic of the Congo, Uganda | Ebola Bundibugyo virus disease outbreak and EU response - DG ECHO Daily Map | 12/06/2026 ReliefWeb"
-      },
-      {
-        "title": "Ebola Outbreak in DRC and Uganda: Situation Report #3 (June 1, 2026)",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNek9tOG5BRGNYTlIzREhVNVVVdzJ4Q3NveEwyUElqRDA2TWVvb0ltYXpMWHBWRWlKcTBURTNFZjBWUnVIelVjLWY4eXNXVVR0eGlBNFVxdEVWNkNIVl94SDF4d243bjVWR1lWTWxzVkRHWFVKdDUwTks5dWM1eUxVOTRMNVZ4b1BXTW5BM3YzUzNyb1NuNzc3WkpRUnA3MTNUUlgxWTl3RzFfaFhvdkVmRVpHVEl4UQ?oc=5",
-        "source": "ReliefWeb",
-        "published_at": "2026-06-03T07:00:00+00:00",
-        "summary": "Ebola Outbreak in DRC and Uganda: Situation Report #3 (June 1, 2026) ReliefWeb"
-      }
-    ],
-    "related_queries": [
-      "RDC: la désinformation, l'autre fléau qui freine la riposte à l'épidémie d'Ebola",
-      "L'épidémie d'Ebola en RD Congo s'étend à de nouvelles zones, 676 cas confirmés",
-      "Endiguer l'épidémie d'Ebola, une tâche difficile freinée par la désinformation"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "maladie à virus ebola Live Trend Tracker | HantaUpdates",
-      "description": "maladie à virus ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source li",
-      "canonical": "https://hantamap.online/trend/maladie-virus-ebola",
-      "keywords": [
-        "maladie à virus ebola",
-        "maladie à virus ebola tracker",
-        "maladie à virus ebola updates",
-        "maladie à virus ebola live updates",
-        "maladie à virus ebola outbreak",
-        "maladie à virus ebola symptoms",
-        "maladie à virus ebola public health",
-        "maladie à virus ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-06-13T16:12:30+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "14f571e971d084604f",
     "slug": "contagion",
     "keyword": "contagion",
@@ -3874,6 +3801,79 @@
       ]
     },
     "first_seen_at": "2026-05-10T15:38:16+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "3437484e46780b858a",
+    "slug": "maladie-virus-ebola",
+    "keyword": "maladie à virus ebola",
+    "title": "maladie à virus ebola trend tracker",
+    "description": "maladie à virus ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: ReliefWeb.",
+    "category": "public-health",
+    "geo": "CA",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-07-19T18:50:00+00:00",
+    "updated_at": "2026-07-19T19:01:11+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=CA",
+    "sources": [
+      {
+        "title": "Rapport de Situation de la Maladie à Virus Ebola/16ème épidémie : SitRep MVE N° 41/MVE_16/2025",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRGJTTmRiM3pVcW9YZ3owYVdLV0JXeWtHMGhHenlCQjd1NUlkVW9VRWJpRUlDRWlkRnZxTkhxM0hPb3hPaHNSMTk1OGJUa2FJM3VnR2hSbjk4NlVPQVJpT2d6aktDLWVoM3VNLTBuUkduWHBDOGhiRERqSVQySFpHUU5NVjZhVkNORG1wdFNEQmJHOGl1N2FmVVowSUd2REdrN0FNOU0xSTYzdFRWbkNLeVFhMUowNjY3czUwc1JZUVBzamNDRFJYaDR2T3k2MzREUzVVaFZYMEJlczQ?oc=5",
+        "source": "ReliefWeb",
+        "published_at": "2025-10-28T07:00:00+00:00",
+        "summary": "Rapport de Situation de la Maladie à Virus Ebola/16ème épidémie : SitRep MVE N° 41/MVE_16/2025 ReliefWeb"
+      },
+      {
+        "title": "Plan de réponse a la maladie a virus Ebola (MVE) Zone de Santé de Bulape",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSDJZc1luNHVZSjgtek1Nd0xlbEUwY2VhSTg1dnl3X0RXcHNSZVBhejRWbm1haUFzdmtjQTZydGdTdGlueHF1aDRyeWZ0LVBtaHBiREc0a05pUmpSMWN3bGpieEV5Mmo0UmpOTUQyZFNZZlRfLWtwcGRjUXd5TXY4SF9oWWR1QmRrd2RFV2x2ZmlpdWtEdHc0OFBSMUhIN21Kc0FvX21zUFJuYXlMNGRPQjFEakdLV1pTck1IX2Rn?oc=5",
+        "source": "ReliefWeb",
+        "published_at": "2025-09-05T07:00:00+00:00",
+        "summary": "Plan de réponse a la maladie a virus Ebola (MVE) Zone de Santé de Bulape ReliefWeb"
+      },
+      {
+        "title": "Ebola outbreak 2020 - Équateur Province, DRC",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONldsdmxqdGVpSEppajdocWJqVkF0RVVYVVpVcmduT2lyTjNvVnhoZGRIbmFHdGhVNVN1V2VzQUhQdnJSbHVLNFRZOXM3VTdQaUt6Vi01WnJDMnF1MXR2NjBNUjZMUWtxZHBUZWZWNTBVa21xTl9teVlQSjVydHhYQmQ5cXpfaWFEQlNCQy1YNkdpRURJRW9NaEplRzRZSTRSeE9uOXF4RVlKQlhBcWJSdlVzZUd0TjFOZHFqM0plOElIQXc?oc=5",
+        "source": "World Health Organization (WHO)",
+        "published_at": "2021-04-15T20:55:24+00:00",
+        "summary": "Ebola outbreak 2020 - Équateur Province, DRC World Health Organization (WHO)"
+      },
+      {
+        "title": "West Africa: Ebola Virus Disease (EVD) Outbreak (as of 23 November 2014) [EN/FR]",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMGc1M2kzTDJfMmFRUjhDUHAwM2VNbVZWTlFjOGNadkFwZ19hM2FjY0txQnFHQW5hWFdfVVczVERTbGpiNzRuOEJTQkNwcGxCeWJyaW1OckM5SkYwSV9HU2FEeEJENDZDeEZ4SFVmdkdrWTdCZHJfZHNKQUVXc1lxMkVSZV9Ya2I1VUFhZzVFN2NfMGdGbkJtNkFoT3J6WnotTUZ6d3J1V2pGRk5MV1JTdW1kVkI?oc=5",
+        "source": "OCHA",
+        "published_at": "2014-11-26T08:00:00+00:00",
+        "summary": "West Africa: Ebola Virus Disease (EVD) Outbreak (as of 23 November 2014) [EN/FR] OCHA"
+      }
+    ],
+    "related_queries": [
+      "Épidémie d’Ebola | Ottawa interdit l’entrée aux ressortissants étrangers en provenance de la RDC",
+      "Nouvelles mesures frontalières temporaires en réponse à l’éclosion de la maladie Ebola",
+      "Ebola : Ottawa ressere ses frontières"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "maladie à virus ebola Live Trend Tracker | HantaUpdates",
+      "description": "maladie à virus ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source li",
+      "canonical": "https://hantamap.online/trend/maladie-virus-ebola",
+      "keywords": [
+        "maladie à virus ebola",
+        "maladie à virus ebola tracker",
+        "maladie à virus ebola updates",
+        "maladie à virus ebola live updates",
+        "maladie à virus ebola outbreak",
+        "maladie à virus ebola symptoms",
+        "maladie à virus ebola public health",
+        "maladie à virus ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-06-13T16:12:30+00:00",
     "views_hint": 0
   },
   {
