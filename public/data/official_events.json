@@ -44,7 +44,7 @@
         "lat": 47.48469518370268,
         "lng": 8.605431148431775,
         "risk_level": "high",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "UNITED KINGDOM",
@@ -67,7 +67,7 @@
         "lat": 52.403105637352596,
         "lng": -1.3123271808336847,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "NEBRASKA, USA",
@@ -90,7 +90,7 @@
         "lat": 41.428733268202116,
         "lng": -99.1485988018821,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "CANADA",
@@ -113,7 +113,7 @@
         "lat": 43.97461947838846,
         "lng": -80.58330139651338,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "NETHERLANDS",
@@ -136,7 +136,7 @@
         "lat": 50.299181425008484,
         "lng": 8.805737906223005,
         "risk_level": "moderate",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "FRANCE",
@@ -159,7 +159,7 @@
         "lat": 47.888475675599125,
         "lng": 2.314863177643511,
         "risk_level": "moderate",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "AUSTRALIA",
@@ -182,7 +182,7 @@
         "lat": -31.549939775179247,
         "lng": 115.87139632934117,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "ST HELENA",
@@ -205,7 +205,7 @@
         "lat": -15.952282492099062,
         "lng": -5.702941289412571,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "GERMANY",
@@ -228,7 +228,7 @@
         "lat": 49.65583273924735,
         "lng": 11.04158526186398,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "JOHANNESBURG",
@@ -251,7 +251,7 @@
         "lat": -26.20264493136836,
         "lng": 28.044931284381246,
         "risk_level": "high",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "ZURICH",
@@ -274,7 +274,7 @@
         "lat": 47.48469518365129,
         "lng": 8.605431148291489,
         "risk_level": "moderate",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "Tristan da Cunha",
@@ -297,7 +297,7 @@
         "lat": -37.09426006367794,
         "lng": -12.29090295049648,
         "risk_level": "moderate",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "MV Hondius",
@@ -320,7 +320,7 @@
         "lat": -54.79292342934494,
         "lng": -68.26852239597913,
         "risk_level": "high",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "SINGAPORE",
@@ -343,7 +343,7 @@
         "lat": 1.3231371449927924,
         "lng": 103.8496838888311,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "GEORGIA, USA",
@@ -366,7 +366,7 @@
         "lat": 32.85961584592401,
         "lng": -83.45490316004464,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "TEXAS",
@@ -389,7 +389,7 @@
         "lat": 30.911950230161985,
         "lng": -97.91973388328137,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "TURKEY",
@@ -412,7 +412,7 @@
         "lat": 40.581484204793874,
         "lng": 30.00750136896146,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "UNKNOWN",
@@ -435,7 +435,7 @@
         "lat": 17.320531927795017,
         "lng": -62.747912532265495,
         "risk_level": "unknown",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "BELGIUM",
@@ -458,7 +458,7 @@
         "lat": 51.22168187822184,
         "lng": 4.397907869364554,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "IRELAND",
@@ -481,7 +481,7 @@
         "lat": 53.34833396900198,
         "lng": -6.330686549503271,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "UNITED STATES",
@@ -504,7 +504,7 @@
         "lat": 41.29570158640485,
         "lng": -99.86563977280343,
         "risk_level": "moderate",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "SPAIN",
@@ -527,7 +527,7 @@
         "lat": 40.46621945703035,
         "lng": -3.66564730234434,
         "risk_level": "moderate",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "ARIZONA, USA",
@@ -550,7 +550,7 @@
         "lat": 33.30511579638059,
         "lng": -111.68410769237683,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "PRAIA, CAPE VERDE",
@@ -573,7 +573,7 @@
         "lat": 15.114180635921926,
         "lng": -23.524314971128653,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "CALIFORNIA",
@@ -596,7 +596,7 @@
         "lat": 36.13519953674742,
         "lng": -119.36504101885762,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "NEW JERSEY",
@@ -619,7 +619,7 @@
         "lat": 40.280159888755755,
         "lng": -74.22960965829394,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "ALICANTE, SPAIN",
@@ -642,7 +642,7 @@
         "lat": 37.5437225069258,
         "lng": -4.898003218066296,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "VIRGINIA",
@@ -665,7 +665,7 @@
         "lat": 38.25005686118773,
         "lng": -77.58938433149221,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "MV HONDUS",
@@ -688,7 +688,7 @@
         "lat": -50.04427587504247,
         "lng": -70.49244160232595,
         "risk_level": "unknown",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "GREECE",
@@ -711,7 +711,7 @@
         "lat": 38.007189186138255,
         "lng": 23.7805309896045,
         "risk_level": "low",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       },
       {
         "country": "TENERIFE",
@@ -734,10 +734,10 @@
         "lat": 42.59856817849485,
         "lng": 12.606521107837029,
         "risk_level": "unknown",
-        "last_updated": "2026-07-19T10:23:37+00:00"
+        "last_updated": "2026-07-19T13:08:03+00:00"
       }
     ],
     "risk_level": "high",
-    "raw_hash": "arcgis-2026-07-19T10:23:37+00:00"
+    "raw_hash": "arcgis-2026-07-19T13:08:03+00:00"
   }
 ]
