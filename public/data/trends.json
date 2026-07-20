@@ -1869,6 +1869,79 @@
     "views_hint": 0
   },
   {
+    "id": "6cdc8ae03c99e6c667",
+    "slug": "la-verdad",
+    "keyword": "la verdad",
+    "title": "la verdad trend tracker",
+    "description": "la verdad is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: IMDb.",
+    "category": "public-health",
+    "geo": "ES",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-07-20T05:30:00+00:00",
+    "updated_at": "2026-07-20T06:14:21+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=ES",
+    "sources": [
+      {
+        "title": "La verdad de Marco (2019)",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBBU0pIeG5HN1hWaDA3b1U1OWhpZDdCTXlUYzRpbGFJRC16OU0xXzdSRmpmZVM1Z3Rpbmhtbk9YWEU3ckNYZkJ0OHh2RVNweF9GS1M3TjZ1SnBEU19oQmdZdmlfZ3R4ZXo5czNVdmc0Yw?oc=5",
+        "source": "IMDb",
+        "published_at": "2026-07-12T03:28:11+00:00",
+        "summary": "La verdad de Marco (2019) IMDb"
+      },
+      {
+        "title": "Kaatsbaan Cultural Park presents New Work Preview: La Verdad Presents Unchainable Voices",
+        "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNUzZsUWVHcFBfckJKSkJwTk5EUEJUMFV5OHBtWFRXa05OSnRGME4xZjJlWTg3ZHRnQjRlNkpERXM4d1JrS084Q1lLQlRWeE5LM2xIVVRDR0l3ZnBzclhDSU4zSzNQYTY2RmNCZWpGenQyWENIczdVd2MyenprVEpLT084MnZsZHVMT1pBdDB0Q0M0MVd4ZThNOGkxdGQyMldmTGRObzFtUzhyMTMyZTk2WHBCa3N3OUx4SFJnZ3pzS2pvUnZ1UkUxOFFmMUtBTEJBOUM2QWl4ay13SXphallhNXBYU2c2M2pPSFNKYmJZQQ?oc=5",
+        "source": "The Dance Enthusiast",
+        "published_at": "2026-04-17T07:00:00+00:00",
+        "summary": "Kaatsbaan Cultural Park presents New Work Preview: La Verdad Presents Unchainable Voices The Dance Enthusiast"
+      },
+      {
+        "title": "AIRBAG - Relámpagos - Mentira La Verdad Candace Cameron Bure (1gUGDtTB9u)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzR1lUQl9nWlZ0QzhsbEk3bHg4bFVHb2pZeF85UDVDd3ZHQUpUWUxZVENveWYwUkJuUE5nYTJDRElUTGFLNUVUd0o0ZnB5Sk1xNksya3JodTM4NkU?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-07-17T05:34:58+00:00",
+        "summary": "AIRBAG - Relámpagos - Mentira La Verdad Candace Cameron Bure (1gUGDtTB9u) Mshale"
+      },
+      {
+        "title": "DR. MARC SIEGEL: El brote de hantavirus en el crucero es preocupante, pero el miedo se está extendiendo más rápido que los datos",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1d2YXFUZUVraEhmRkY2V2M5YjkycFh3T2tPYnl5TDRSTXhxOWRvb0ZwVm1DRk1XRnEzWXo1VVBBMkVub0Fzd0Nuc2hRMzY2RkpfVW8tN1lDSlFKTE1LZm0yLUdjUWptenpMZC14ZEhyenZjeDNyVFNMWWFuSW5uLWUyQVZ0RDl2NmhlRjZUWnMwOVlEM1FDbDhmcnZYamtud1c0M2QwMU1wT3ZOVHRoLUVYWmV2d9IBuwFBVV95cUxObW14WXFaMmJ2ZW1JZXJEUnJ3ejMtdkd5b2pkbnVoYU9EeFI1YkpBMl9ZWHFRYkd3aVhXSjRxTm11UFZlaVI5dzdTYTVzd1E5Z05pMk9EUGdqNUpKNGVtMVRIZkJldDJQU1lHQy1Nc2d3UXEycEdNb09MdmJ5NGlyRWo3c3FqaHVXNmVubGRiemtEVnByUTlwLXhvTjd4VkJtamRmWG5yOTdDbWUwWElVZ3VDZEM0RzBXRkRj?oc=5",
+        "source": "Fox News",
+        "published_at": "2026-05-08T07:00:00+00:00",
+        "summary": "DR. MARC SIEGEL: El brote de hantavirus en el crucero es preocupante, pero el miedo se está extendiendo más rápido que los datos Fox News"
+      }
+    ],
+    "related_queries": [
+      "El Supremo no debe declararse en rebeldía",
+      "Félix Bolaños: “El TS podría haber interpretado la ley de Amnistía de forma más acorde a su letra y espíritu”",
+      "El independentismo post-procés de Sílvia Orriols ningunea la amnistía"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "la verdad Live Trend Tracker | HantaUpdates",
+      "description": "la verdad is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
+      "canonical": "https://hantamap.online/trend/la-verdad",
+      "keywords": [
+        "la verdad",
+        "la verdad tracker",
+        "la verdad updates",
+        "la verdad live updates",
+        "la verdad outbreak",
+        "la verdad symptoms",
+        "la verdad public health",
+        "la verdad source links"
+      ]
+    },
+    "first_seen_at": "2026-07-20T06:14:21+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "a58a58daab565681bb",
     "slug": "ebola",
     "keyword": "ebola",
