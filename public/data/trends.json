@@ -3877,6 +3877,79 @@
     "views_hint": 0
   },
   {
+    "id": "b487e45aa9e4c6d619",
+    "slug": "ebola-outbreak",
+    "keyword": "ebola outbreak",
+    "title": "ebola outbreak trend tracker",
+    "description": "ebola outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: NPR.",
+    "category": "public-health",
+    "geo": "ZA",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-07-20T19:30:00+00:00",
+    "updated_at": "2026-07-20T21:59:26+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=ZA",
+    "sources": [
+      {
+        "title": "At least 930 people have died in Congo's Ebola outbreak",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9UQXlCN0NWVkhHMVNwX3ZMM1pjWWhVT2VnOGZka09EU3JsRGJvTVhfQWxEamx6VUtNWlBZdUliSXV5RnRSNS1jOXVrNFlPWEtVV1g0Z3MtNWpHZFIzV3RnMl9GV1paeklYVGw0T2hB?oc=5",
+        "source": "NPR",
+        "published_at": "2026-07-20T10:36:08+00:00",
+        "summary": "At least 930 people have died in Congo's Ebola outbreak NPR Ebola death toll in DRC surges to at least 930 as outbreak continues spread Al Jazeera At least 930 people have died in Congo's Ebola outbreak ABC News - Breaking News, Latest News and Videos At Least 930 People Have Died in DR Congo amid Reports Ebola Outbreak Could Be ‘Deadliest on Record’ People.com 'Ebola outbreak is brutal, painful and very distressing' BBC Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700 AP News Over 900 people dead in Congo’s Ebola outbreak New York Post WHO warns DR Congo E"
+      },
+      {
+        "title": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0dG43Q1E3aVY1NHBfX21KM1VHbDNFU1JrcUhueWVhel92ZkxwOUtGRHZTVXRzQ19fdllfY1NyblRVZWx5ZzBUVlJJdnVrbVF0TDdvMTRPWUpULWlKcHotcmVSb1RVTE8yWmh0ZjdFNE1ndUZGR19iam5R?oc=5",
+        "source": "World Health Organization (WHO)",
+        "published_at": "2026-07-17T18:06:50+00:00",
+        "summary": "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda World Health Organization (WHO)"
+      },
+      {
+        "title": "Ebola Outbreak: Current Situation",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-07-17T19:01:10+00:00",
+        "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "Death toll in Ebola outbreak in DR Congo approaches 1,000",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMmFleFJMVWxqMnNRSFJtT1RYeG9fWjJsbWozNzZydHhVRVREUHhabDRJa19rWVYwdkhzUDZRdk5NU29BcHFtdjZpTFlHS1lhU0tkVjRBcHFQc2NQVEplTnNBalM5UFpNNDBTNnZCcWs0WmlNNnRPbzFXNzNxZnRvckdoRkVDZjRxVWtZ?oc=5",
+        "source": "CIDRAP",
+        "published_at": "2026-07-20T20:09:00+00:00",
+        "summary": "Death toll in Ebola outbreak in DR Congo approaches 1,000 CIDRAP"
+      }
+    ],
+    "related_queries": [
+      "Ebola deaths in DR Congo rise to 930 amid attacks on health workers",
+      "Ebola death toll in DRC surges to at least 930 as outbreak continues spread",
+      "Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola outbreak Live Trend Tracker | HantaUpdates",
+      "description": "ebola outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links wit",
+      "canonical": "https://hantamap.online/trend/ebola-outbreak",
+      "keywords": [
+        "ebola outbreak",
+        "ebola outbreak tracker",
+        "ebola outbreak updates",
+        "ebola outbreak live updates",
+        "ebola outbreak outbreak",
+        "ebola outbreak symptoms",
+        "ebola outbreak public health",
+        "ebola outbreak source links"
+      ]
+    },
+    "first_seen_at": "2026-07-20T21:59:26+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "3437484e46780b858a",
     "slug": "maladie-virus-ebola",
     "keyword": "maladie à virus ebola",
