@@ -1212,6 +1212,79 @@
     "views_hint": 0
   },
   {
+    "id": "da4c950b43577c908f",
+    "slug": "hufvudstadsbladet",
+    "keyword": "hufvudstadsbladet",
+    "title": "hufvudstadsbladet trend tracker",
+    "description": "hufvudstadsbladet is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Hufvudstadsbladet – HBL.",
+    "category": "public-health",
+    "geo": "SE",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-07-21T18:40:00+00:00",
+    "updated_at": "2026-07-21T22:02:38+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=SE",
+    "sources": [
+      {
+        "title": "Drönarlarm tvingade Finnairflyg att vända om",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWEwxck1BNDA0ZEgzSVg0SWxad3NVRm1IY1dqdDRaUTl3MTZxNHNaMXBoQ1lEcDNYcTFjQnMzc1c0dEhLQkViSEY1YlJsc3NoSmctTVVTc0xtbkJ0LTFtLVJRV3FkVlc4ZERyVGxIUFB4QU5WTDJ0d1ZWMzFmcC1YRUN1U2VfWnpIa21TdXdn?oc=5",
+        "source": "Hufvudstadsbladet – HBL",
+        "published_at": "2026-03-31T07:00:00+00:00",
+        "summary": "Drönarlarm tvingade Finnairflyg att vända om Hufvudstadsbladet – HBL"
+      },
+      {
+        "title": "Thursday's papers: Finland's homeless numbers grow, flu season 'rages', and it's going to get colder",
+        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDdF9JSWJVQTk5MU9RbXFTSmxYX3NEN3NnckNhc1JGMmNZal9qbjZjMndjdlhXdmFMOUFRangycllvZw?oc=5",
+        "source": "Yle",
+        "published_at": "2026-01-28T08:00:00+00:00",
+        "summary": "Thursday's papers: Finland's homeless numbers grow, flu season 'rages', and it's going to get colder Yle"
+      },
+      {
+        "title": "ÅA avråder personal från att resa till USA",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jTUd1azNtSHJid2hYMnE5ZnpxaHM0S0VHQnNQSmozdThnazc2SVFCa1prRWVFY3d5WUs2cnpuMDlzelRrSVV0QVNzOE1LcnNWci1RVGZJVkNuamQ2dWJ6eThSVnM0SVJXakdRYXFnLTFjZ2pfTFFjb3JR?oc=5",
+        "source": "Hufvudstadsbladet – HBL",
+        "published_at": "2026-03-06T08:00:00+00:00",
+        "summary": "ÅA avråder personal från att resa till USA Hufvudstadsbladet – HBL"
+      },
+      {
+        "title": "Finländare i karantän på grund av hantavirus",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VWGcyTEhFSHk1d002RWZ2SzFsb0k4aEJXT3EtdTFIZWswb0RNZ0RwUU1xbThYSkYtNFNwbUNuSWRYR1VPRmNtQXFxRHBoV2VodlZxcWZTeXRBZ0ZxSVdGdldKUkUwbXZVcERvbE44V3RsVGcwSi1wUWtSWFI?oc=5",
+        "source": "Hufvudstadsbladet – HBL",
+        "published_at": "2026-05-12T07:00:00+00:00",
+        "summary": "Finländare i karantän på grund av hantavirus Hufvudstadsbladet – HBL"
+      }
+    ],
+    "related_queries": [
+      "Martin vårdades för cancer – uppmanades byta modersmål",
+      "Emma bad om vård på svenska – blev utskälld",
+      "Mannen som knivhögg sin flickvän i Söderkulla har hittats död"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "hufvudstadsbladet Live Trend Tracker | HantaUpdates",
+      "description": "hufvudstadsbladet is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links ",
+      "canonical": "https://hantamap.online/trend/hufvudstadsbladet",
+      "keywords": [
+        "hufvudstadsbladet",
+        "hufvudstadsbladet tracker",
+        "hufvudstadsbladet updates",
+        "hufvudstadsbladet live updates",
+        "hufvudstadsbladet outbreak",
+        "hufvudstadsbladet symptoms",
+        "hufvudstadsbladet public health",
+        "hufvudstadsbladet source links"
+      ]
+    },
+    "first_seen_at": "2026-07-21T19:15:59+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "b3079fa2558445a86c",
     "slug": "parasite-outbreak",
     "keyword": "parasite outbreak",
@@ -1866,79 +1939,6 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "da4c950b43577c908f",
-    "slug": "hufvudstadsbladet",
-    "keyword": "hufvudstadsbladet",
-    "title": "hufvudstadsbladet trend tracker",
-    "description": "hufvudstadsbladet is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Hufvudstadsbladet – HBL.",
-    "category": "public-health",
-    "geo": "SE",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-07-21T18:40:00+00:00",
-    "updated_at": "2026-07-21T19:15:59+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=SE",
-    "sources": [
-      {
-        "title": "Drönarlarm tvingade Finnairflyg att vända om",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWEwxck1BNDA0ZEgzSVg0SWxad3NVRm1IY1dqdDRaUTl3MTZxNHNaMXBoQ1lEcDNYcTFjQnMzc1c0dEhLQkViSEY1YlJsc3NoSmctTVVTc0xtbkJ0LTFtLVJRV3FkVlc4ZERyVGxIUFB4QU5WTDJ0d1ZWMzFmcC1YRUN1U2VfWnpIa21TdXdn?oc=5",
-        "source": "Hufvudstadsbladet – HBL",
-        "published_at": "2026-03-31T07:00:00+00:00",
-        "summary": "Drönarlarm tvingade Finnairflyg att vända om Hufvudstadsbladet – HBL"
-      },
-      {
-        "title": "Thursday's papers: Finland's homeless numbers grow, flu season 'rages', and it's going to get colder",
-        "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBDdF9JSWJVQTk5MU9RbXFTSmxYX3NEN3NnckNhc1JGMmNZal9qbjZjMndjdlhXdmFMOUFRangycllvZw?oc=5",
-        "source": "Yle",
-        "published_at": "2026-01-28T08:00:00+00:00",
-        "summary": "Thursday's papers: Finland's homeless numbers grow, flu season 'rages', and it's going to get colder Yle"
-      },
-      {
-        "title": "ÅA avråder personal från att resa till USA",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jTUd1azNtSHJid2hYMnE5ZnpxaHM0S0VHQnNQSmozdThnazc2SVFCa1prRWVFY3d5WUs2cnpuMDlzelRrSVV0QVNzOE1LcnNWci1RVGZJVkNuamQ2dWJ6eThSVnM0SVJXakdRYXFnLTFjZ2pfTFFjb3JR?oc=5",
-        "source": "Hufvudstadsbladet – HBL",
-        "published_at": "2026-03-06T08:00:00+00:00",
-        "summary": "ÅA avråder personal från att resa till USA Hufvudstadsbladet – HBL"
-      },
-      {
-        "title": "Finländare i karantän på grund av hantavirus",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9VWGcyTEhFSHk1d002RWZ2SzFsb0k4aEJXT3EtdTFIZWswb0RNZ0RwUU1xbThYSkYtNFNwbUNuSWRYR1VPRmNtQXFxRHBoV2VodlZxcWZTeXRBZ0ZxSVdGdldKUkUwbXZVcERvbE44V3RsVGcwSi1wUWtSWFI?oc=5",
-        "source": "Hufvudstadsbladet – HBL",
-        "published_at": "2026-05-12T07:00:00+00:00",
-        "summary": "Finländare i karantän på grund av hantavirus Hufvudstadsbladet – HBL"
-      }
-    ],
-    "related_queries": [
-      "Emma bad om vård på svenska – blev utskälld",
-      "Martin vårdades för cancer – uppmanades byta modersmål",
-      "Krisen avvärjd – Orpo och riksdagen fick riksdagens förtroende"
-    ],
-    "map_focus": {
-      "label": "United States",
-      "lat": 37.0902,
-      "lng": -95.7129,
-      "zoom": 4
-    },
-    "seo": {
-      "title": "hufvudstadsbladet Live Trend Tracker | HantaUpdates",
-      "description": "hufvudstadsbladet is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links ",
-      "canonical": "https://hantamap.online/trend/hufvudstadsbladet",
-      "keywords": [
-        "hufvudstadsbladet",
-        "hufvudstadsbladet tracker",
-        "hufvudstadsbladet updates",
-        "hufvudstadsbladet live updates",
-        "hufvudstadsbladet outbreak",
-        "hufvudstadsbladet symptoms",
-        "hufvudstadsbladet public health",
-        "hufvudstadsbladet source links"
-      ]
-    },
-    "first_seen_at": "2026-07-21T19:15:59+00:00",
     "views_hint": 0
   },
   {
