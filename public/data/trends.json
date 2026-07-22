@@ -3950,6 +3950,79 @@
     "views_hint": 0
   },
   {
+    "id": "0c6ca9f93f8fa1107a",
+    "slug": "hantavirus",
+    "keyword": "hantavirus",
+    "title": "hantavirus trend tracker",
+    "description": "hantavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The New York Times.",
+    "category": "public-health",
+    "geo": "ES",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-07-22T04:40:00+00:00",
+    "updated_at": "2026-07-22T05:46:04+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=ES",
+    "sources": [
+      {
+        "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-07-21T09:01:06+00:00",
+        "summary": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ The New York Times"
+      },
+      {
+        "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
+        "source": "AP News",
+        "published_at": "2026-07-21T23:36:00+00:00",
+        "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected AP News"
+      },
+      {
+        "title": "18 US passengers sent to Nebraska, Atlanta amid hantavirus outbreak",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkw0Z3hMY2lBdVlnQnRFaXNzNi1tZDVLU2RMZDVUNjRwY1BBaG90TVBMbWhPb0FmWDJ2eUNpZGlrenBDVUViWGJ3R2cxeDZrZDFaZ3ZiOW5MYkpZcWlUMHRCZG1QeGFhUV80RjZ1cjVNeXlHVklwU2JXc0lfTUNjcGxCSms0VUxFcDJuT0pHczNwUFVsYkRsZjN2SDdndENnVlIyTnU4aDNVejVueE1veXhXdG9EeVVpUjRadi0xSng3Qjg?oc=5",
+        "source": "USA Today",
+        "published_at": "2026-05-11T07:00:00+00:00",
+        "summary": "18 US passengers sent to Nebraska, Atlanta amid hantavirus outbreak USA Today"
+      },
+      {
+        "title": "After cruise ship outbreak, review examines how hantavirus affects the brain",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
+        "source": "CIDRAP",
+        "published_at": "2026-07-20T18:41:09+00:00",
+        "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain CIDRAP"
+      }
+    ],
+    "related_queries": [
+      "El Gobierno venezolano confirma tres muertes por hantavirus, aunque descarta que dos médicos fallecidos en Barinas estuvieran infectados",
+      "Tres fallecidos por hantavirus en el noreste de Venezuela",
+      "Ministerio de Salud confirma tres muertes por hantavirus en Anzoátegui"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "hantavirus Live Trend Tracker | HantaUpdates",
+      "description": "hantavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without",
+      "canonical": "https://hantamap.online/trend/hantavirus",
+      "keywords": [
+        "hantavirus",
+        "hantavirus tracker",
+        "hantavirus updates",
+        "hantavirus live updates",
+        "hantavirus outbreak",
+        "hantavirus symptoms",
+        "hantavirus public health",
+        "hantavirus source links"
+      ]
+    },
+    "first_seen_at": "2026-07-22T05:46:04+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "b487e45aa9e4c6d619",
     "slug": "ebola-outbreak",
     "keyword": "ebola outbreak",
