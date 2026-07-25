@@ -4096,6 +4096,78 @@
     "views_hint": 0
   },
   {
+    "id": "56c7de9c5ef467b5dd",
+    "slug": "cruiseschip",
+    "keyword": "cruiseschip",
+    "title": "cruiseschip trend tracker",
+    "description": "cruiseschip is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Graphic News.",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-07-25T09:20:00+00:00",
+    "updated_at": "2026-07-25T10:25:21+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "MARITIEM: Dodelijk virus besmet cruiseschip (1) infographic",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWmVyQ05qTGJwLU1BUk5xdnNWaFJZdUJia0dxbEFQQlNlUk5LWTZfSXFVa040VENZZ0tHaWVPaUg3SGN5cFpIcUYtaDZONkhTUzMtc3hSMFlaS21nMFdpeENxOWZfWF85LTFKZXRrdG5RN2V3MTZJN1hhallZRUZ6ZzExX2t0RzQ4SXZYMUVsSjE?oc=5",
+        "source": "Graphic News",
+        "published_at": "2026-05-05T07:00:00+00:00",
+        "summary": "MARITIEM: Dodelijk virus besmet cruiseschip (1) infographic Graphic News"
+      },
+      {
+        "title": "Arrival and cleaning of the cruise ship Hondius",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBZOE8tNlNIMmpZeGdCZUp4WXp0NnhGbnhLclROR1dZX1hSUi1SRzBKaWNVQ3JrdmZ4S2Y4MGZlYlN3eFlOTF92aTNOd0I0NkZHNkFMWTlyb19sZmtyOWpQRnBFZHV2RUJmQUVsZldTc1dSNUtIYXRYZGxhYw?oc=5",
+        "source": "Rijksinstituut voor Volksgezondheid en Milieu | RIVM",
+        "published_at": "2026-05-18T07:00:00+00:00",
+        "summary": "Arrival and cleaning of the cruise ship Hondius Rijksinstituut voor Volksgezondheid en Milieu | RIVM"
+      },
+      {
+        "title": "Passengers of the Hondius liner are being evacuated after a hantavirus outbreak",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUUJ2aGFscVZzV0xmcFZXME90QWxJZ3ZTTC11MC1IaXRmMGhiTThCRFdtNkNGdDdoTFl5TElVMUZXRGVfdkRHUm9VRG9meEZuNzRVNnBPZmVZcUp5NGtQOEV0U3V1RmF0Z29LYktGQnJBOW9ROTIwM2lNNktUd3JUTUlGQTR1SHp4MXlYbEFqX1NPTjF4TGRDS19vT05UWGYwLXJhYzk3azFoOXpZSHc?oc=5",
+        "source": "Inbox.lv",
+        "published_at": "2026-05-09T07:00:00+00:00",
+        "summary": "Passengers of the Hondius liner are being evacuated after a hantavirus outbreak Inbox.lv"
+      },
+      {
+        "title": "World’s largest sea lock under way at IJmuiden",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYkwwY0pic0g2WXEzejFad3l1aEpmWXR6YkoxWWxtcFpjY21pWGxRZ0M3WW9CbG5XdVNpYnJFa0VtaE0xbFUwYlhSQW5GdFRzV3V4SnI5REFDLWUzSnltanpONHNCWnJjSzdhYmQwVVNTVHg4bmlfNjZ2SzRVUkhqdF9POEc?oc=5",
+        "source": "Cruise Trade News",
+        "published_at": "2016-03-15T07:00:00+00:00",
+        "summary": "World’s largest sea lock under way at IJmuiden Cruise Trade News"
+      }
+    ],
+    "related_queries": [
+      "Veertig bars en restaurants, ijsbaan en waterpark: op ’s werelds grootste cruiseschip draait alles om het perfecte plaatje",
+      "“Best een drama”: Alkmaars cruiseschip langer uit de vaart na ongeluk"
+    ],
+    "map_focus": {
+      "label": "Multi-country / cruise travel",
+      "lat": 16.5388,
+      "lng": -23.0418,
+      "zoom": 3
+    },
+    "seo": {
+      "title": "cruiseschip Live Trend Tracker | HantaUpdates",
+      "description": "cruiseschip is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/cruiseschip",
+      "keywords": [
+        "cruiseschip",
+        "cruiseschip tracker",
+        "cruiseschip updates",
+        "cruiseschip live updates",
+        "cruiseschip outbreak",
+        "cruiseschip symptoms",
+        "cruiseschip public health",
+        "cruiseschip source links"
+      ]
+    },
+    "first_seen_at": "2026-07-25T10:25:21+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "0c6ca9f93f8fa1107a",
     "slug": "hantavirus",
     "keyword": "hantavirus",
