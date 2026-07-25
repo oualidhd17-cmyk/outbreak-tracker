@@ -1942,6 +1942,152 @@
     "views_hint": 0
   },
   {
+    "id": "1cb1617a160148fd84",
+    "slug": "rain",
+    "keyword": "rain",
+    "title": "rain trend tracker",
+    "description": "rain is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
+    "category": "public-health",
+    "geo": "ZA",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-07-25T04:20:00+00:00",
+    "updated_at": "2026-07-25T05:41:55+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=ZA",
+    "sources": [
+      {
+        "title": "Heat health alerts in effect for parts of UK as rain returns for some this weekend",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1xaUNxZWViUHRsT05CWm9ZLUEzZ094TEZtN3cwZUtVQjdGWGZmVEpaM2tOOE5TSkxFcFpXVzA4NkhyVTJCOE5XcDdYNko0VmdiOTN5WkcxeU1oemdYNXc?oc=5",
+        "source": "BBC",
+        "published_at": "2026-07-24T03:29:52+00:00",
+        "summary": "Heat health alerts in effect for parts of UK as rain returns for some this weekend BBC"
+      },
+      {
+        "title": "Rain chances and hot temperatures ahead",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9IT2VHUEwwY2RiaVh3VXFpZERnV1o3QTdXeTRSb2M4SVZkQ2s4VnBNMnZObGFXcUsyTTJoeEVacEQzWlBxWUVyanlwTTMyazcxaE1WT0NGYnBGaWxBXzdmSlBIeVRlOFhRU1A1TW1nYzRQWXVhRmR3?oc=5",
+        "source": "WBKO",
+        "published_at": "2026-07-24T11:36:00+00:00",
+        "summary": "Rain chances and hot temperatures ahead WBKO"
+      },
+      {
+        "title": "Warmer temperatures stick around through the weekend, but rain and wildfire smoke return",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUxWNU9ROGZSZVVrMlk2MDQtNjFjdVZRRXVZT2huZ3c5NEdUZ1dFVGpZc1QxTkpNTDN1aGowbE5EbG5JWno0MTRmQ01oYUdnYUdvbUI5aE1aN2dvWTlGNG5oZTdoN284cDdIRlZrY3p1ejJEMTRuQ05QekdHaldQb3F6Y0U2U1dkNkJZY01tZXNjeTNieHA4TGJJZjdXVzdqeGNncDBCMTM1M2JLSlFxeUZJaFNaem1HRnZqWFQxNDJkNUxNR0Jj?oc=5",
+        "source": "CBS News",
+        "published_at": "2026-07-24T11:07:44+00:00",
+        "summary": "Warmer temperatures stick around through the weekend, but rain and wildfire smoke return CBS News"
+      },
+      {
+        "title": "Monsoon storms could bring more heavy rain, flash flooding this weekend to parts of New Mexico",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYUlXcHkyekdUNzlEY2JibXZaNlNoSjFPX2NpWU8wLVVLak1sUUFlZTNieE00S3lVOFpyS2RkTnFzaFhkRnpBZUwxb3NvblN3VENBLW5faDlGS2ZsN1Q1eUo5ZW1YQXJqSU5pYkc4bXV2bXFJcHNzemVyQUVCYmQtRHNFQXdMc0diXzdHTkNyd1lwX1dfb2p0UFpidUJmRklTWmJEMGV6Vk5aQW15MVVxSnI3YmFDczN4cVR0bnp6X3fSAcYBQVVfeXFMTmsyTHJpLUd4WV9jb2xGNmphRS14ckk1UnlQZ1J3LVFiTF8tVDZtTm9TeTJHRXk0Ykk2MEdVb3Y2YnkzaWFONlFFeG1qOGIwUHB3WTdHS2VoZmFOY0JTc2RqVmd0U0lnU2FqNmZWOGdHLW1HaE1fcWt4M2lhb29zeFBXQmJIb1o2Q0Z4b2l1aE16Z2tlXzB6VlNRT3FzSW1ManhjbkNCNUlJSmx6ZFBSRGZJWHlqVkN4OVJmUUhjdkxSRWJka0Jn?oc=5",
+        "source": "KRQE",
+        "published_at": "2026-07-24T23:15:43+00:00",
+        "summary": "Monsoon storms could bring more heavy rain, flash flooding this weekend to parts of New Mexico KRQE"
+      }
+    ],
+    "related_queries": [
+      "How much rain fell? Some in the Triad see close to 8 inches while others see less than 1",
+      "Latest rainfall amounts for ENC as of Friday",
+      "Rain and storms linger into Thursday morning bringing flood threat"
+    ],
+    "map_focus": {
+      "label": "United Kingdom",
+      "lat": 55.3781,
+      "lng": -3.436,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "rain Live Trend Tracker | HantaUpdates",
+      "description": "rain is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without provi",
+      "canonical": "https://hantamap.online/trend/rain",
+      "keywords": [
+        "rain",
+        "rain tracker",
+        "rain updates",
+        "rain live updates",
+        "rain outbreak",
+        "rain symptoms",
+        "rain public health",
+        "rain source links"
+      ]
+    },
+    "first_seen_at": "2026-07-25T05:41:55+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "e79a5e8d987a8e296a",
+    "slug": "gamou-fall",
+    "keyword": "gamou fall",
+    "title": "gamou fall trend tracker",
+    "description": "gamou fall is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Virological.",
+    "category": "public-health",
+    "geo": "PL",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-07-25T05:00:00+00:00",
+    "updated_at": "2026-07-25T05:41:51+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=PL",
+    "sources": [
+      {
+        "title": "Molecular characterization of Rift Valley fever virus from the 2025 outbreak in northern Senegal",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkRFOXJmOXpGWTh2TlFiQzNkSUZ4TGlTTkNybEJsWHl5aEtwd2ttSlcwMmZzLXN0LUVfbXNONDFLVTc1T1VjVDdzSjEzMC1OWXRLakNUR29DVGZtcHJkSXNsdWlLYi1IaG92ZzItWjhsMGJqSTBMWFlncnlfR2JxdDNpSUF4cXZaNFpfSjlNdTZCM1gzazY0dFg3NWlHSEt3dVVrdmZrdS1BbzJyNHMtZWhvUHBFNW1WaDZiY2RBd2FDcWJuSUE?oc=5",
+        "source": "Virological",
+        "published_at": "2025-10-08T07:00:00+00:00",
+        "summary": "Molecular characterization of Rift Valley fever virus from the 2025 outbreak in northern Senegal Virological"
+      },
+      {
+        "title": "What's in a mosquito bite? How warmer climates spread disease",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQU044NDZBaEdJVTBYRmx2XzlhRHhUdVM5eHB1NnRFeHZpdkVkMHo4Q29CajdqaWVNdWFiUzE0TEQ4QVh6WG5DT3pvbllFZFJXMjBya1dIelQxWmZvblF1N3Y1UENGS1hMendMMlNZUUVIbi02N0hDeHk4bkpHQkpyRDN2ZGJ5QnZpcXIzTFdwMTdEQkkyc1B2eEU3TXpfb2s?oc=5",
+        "source": "Context News",
+        "published_at": "2023-09-12T07:00:00+00:00",
+        "summary": "What's in a mosquito bite? How warmer climates spread disease Context News"
+      },
+      {
+        "title": "Tick Species Infesting Livestock in Three Bioclimatic Areas of Senegal: Bioecology, Prevalence of Tick Infestation, Associated Categorical Factors and Crimean-Congo Haemorrhagic Fever Virus Infection",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE10YTN4RVJTT1ZlZDY5VVUxd3dtSW5sS3NhSVQzWHlnODJLNXcxZzBCN0hxRE9TZEduMm12Y2loX29NcFkzRmtCWFdQRFlUVUpTZHloY3ZrNjFCZnZWRTlXX0ZaOGVCQVZFNng4?oc=5",
+        "source": "Wiley Online Library",
+        "published_at": "2025-03-29T07:00:00+00:00",
+        "summary": "Tick Species Infesting Livestock in Three Bioclimatic Areas of Senegal: Bioecology, Prevalence of Tick Infestation, Associated Categorical Factors and Crimean-Congo Haemorrhagic Fever Virus Infection Wiley Online Library"
+      },
+      {
+        "title": "Netflixable? A Doomed Dairy, a Leveraged Wedding and Polish Racism/Sexism/”Gingerism” — “Death Before the Wedding”",
+        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU2JBX1pxOWRxWHNic1VpdVNVWEw5NnowYTgxb3NfdmZ2QXp5ck8xZzdHenpaLVRSWGowNkFiSUlZMUpYaE4tUjJ2RGNrUEpGQm5MZXRuM0ZYMHF2U1E1aGhUZVd1RERoYU1ubHFmUjR5bVVQaGFuVEdTU3BfVzNPRE8tV3JKX1diVGVXblZ0alFheV94VzhzaWt6eWZmOEUyUHJEcnZlMUhhU2RodW9PS1hyNGJ1Vmc5YVV3anphVVZOX3dEdGxVbE0tYjd0N2ZiNDg4S3dmWDdUS1drM3V5ejdR?oc=5",
+        "source": "rogersmovienation.com",
+        "published_at": "2025-02-15T08:00:00+00:00",
+        "summary": "Netflixable? A Doomed Dairy, a Leveraged Wedding and Polish Racism/Sexism/”Gingerism” — “Death Before the Wedding” rogersmovienation.com"
+      }
+    ],
+    "related_queries": [
+      "Porzucił bezpieczny plan na życie. Gamou Fall opowiada o decyzji, która odmieniła wszystko",
+      "TYLKO W VIVIE!: Gamou Fall o ojcu. „Tata nauczył mnie patrzeć daleko przed siebie”",
+      "Tylko w VIVIE! Gamou Fall szczerze o „Tańcu z Gwiazdami” i rodzinie. Nie ukrywa, że cena była wysoka: \"Były napięcia. To nie był dla nas łatwy moment\""
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "gamou fall Live Trend Tracker | HantaUpdates",
+      "description": "gamou fall is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without",
+      "canonical": "https://hantamap.online/trend/gamou-fall",
+      "keywords": [
+        "gamou fall",
+        "gamou fall tracker",
+        "gamou fall updates",
+        "gamou fall live updates",
+        "gamou fall outbreak",
+        "gamou fall symptoms",
+        "gamou fall public health",
+        "gamou fall source links"
+      ]
+    },
+    "first_seen_at": "2026-07-25T05:41:51+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "6cdc8ae03c99e6c667",
     "slug": "la-verdad",
     "keyword": "la verdad",
