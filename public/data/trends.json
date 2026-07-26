@@ -511,79 +511,6 @@
     "views_hint": 0
   },
   {
-    "id": "87dbbc126f8762c6c8",
-    "slug": "salmonella",
-    "keyword": "salmonella",
-    "title": "salmonella trend tracker",
-    "description": "salmonella is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Hill.",
-    "category": "public-health",
-    "geo": "PL",
-    "search_volume": "2000+",
-    "traffic_label": "2000+",
-    "published_at": "2026-07-10T16:00:00+00:00",
-    "updated_at": "2026-07-10T16:55:14+00:00",
-    "score": 2000,
-    "source_url": "https://trends.google.com/trending/rss?geo=PL",
-    "sources": [
-      {
-        "title": "From formula to birds, here are the foodborne outbreaks the CDC is investigating",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ1RhZnlLVGZidEo0eldiNUQ1VmxZQjdwSzVQQjZIb1BsMjZQSTJZR1MtVzQ2QjREOGh1bmk2MUFMSzI2M2JmQ1dUOGVEZ3ZlQUQwZkFjZWV2TjVKRzZlQUQ2Q0RrOXRnQV8xSlFQMFloRVpnblNtNVRkSmlXX1Jib08wc3FuZkxldkkwNDdPWFBQS1ZzRUR3UlBRZzBCOWpqSXNneUt2TmY4OUxFRXRibkF6RWRVSUxNTTZQU1VXSVg4SkNXWXpvbNIBzgFBVV95cUxPYUFIVHE1bkhFUnAyUXh4eDBPbzl1bmlCRnBCbHAxdmtNRGJITnpnTmJLb0NtVzZyZGw3WFZnZllTRVFzaVFQWXdWUG5ycDN6WWhmOURkQlZoZFMxaVdyeHBwMHJRWXBRSFpfSE5IaExzT0F6ZFN6OElyNmhpZlZneWgwRU50dnVRNTVqSERoZ25iZDA4bDBueWlKbUdaMl9abWZfbVlCQjNmYWJvQ2cxaU9iXzByY0VmdHkxcHF2ekJCbEZUN3I4VzFOdWNUUQ?oc=5",
-        "source": "The Hill",
-        "published_at": "2026-07-07T18:17:00+00:00",
-        "summary": "From formula to birds, here are the foodborne outbreaks the CDC is investigating The Hill"
-      },
-      {
-        "title": "How immune cells in our gut mesentery fight salmonella",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1GWGctVGstOEJIM1ZpcVhld3pjeXlRZkNVZTZJWUhwMW5JUXNZRHlCaTJLVGJyNGVnVElVM0NOdEZ0QmtkZXZTN1QyekR1R05rZnZsX2lwTFg4VWk2?oc=5",
-        "source": "EurekAlert!",
-        "published_at": "2026-07-07T07:00:00+00:00",
-        "summary": "How immune cells in our gut mesentery fight salmonella EurekAlert!"
-      },
-      {
-        "title": "Recall of popular potato chips classified under FDA's highest risk level",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTXBuamQ3Xzk1WmgxRXJLYkpkdFNBREZ1a2lwcmZrRlNHVWF6TU5yQzJ3MXhSYVo1Q0JORWxNdXk4OW5pRVZMYWlvUUVFNmZqWjF0UXZNdWR3YlpHMnJhc0J6RHlXcFRwRmVHMUFoZV9kb2pjMmdLQWpBWkdNSS1LY1dWSGxPMjg4UzBnSUhPQUF3aVFsdVgza1JpanE4UThIVHBlcldfV2dKS2lFdHNpQ3c3Ni02dFZEU29BOXhCY1A?oc=5",
-        "source": "USA Today",
-        "published_at": "2026-07-01T23:49:00+00:00",
-        "summary": "Recall of popular potato chips classified under FDA's highest risk level USA Today"
-      },
-      {
-        "title": "Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNWE9PQUdnbzl6Zk1pOElKSTY5TmhyMVhvcFpNd2J4V3d2MjlyVFlaZlBNZXRNNVJERzJseG9HR3N0YnBRWEZZdmxFWlJDM1lDblRwRUtXQXVMZ3pCY0pxSDNhOHVHN1MwNXhKZU13QUpKX0pYeHRJeVR6SFVwemJwRWpHOHZ1WWZZTE9PN19IZ0xsUEduSzVKcGwwQ0xWSE9VTkJHYXA1ajYwdXhjTnJ5NDZTdGlESWJUdHNCeQ?oc=5",
-        "source": "EFSA",
-        "published_at": "2026-06-30T12:00:00+00:00",
-        "summary": "Multi-country outbreak of Salmonella Stanley infections linked to flavoured noodle products EFSA"
-      }
-    ],
-    "related_queries": [
-      "Ostrzeżenie GIS z 10.07: Suplement diety Verdin Fix Kompozycja 6 ziół, 20 saszetek (36 g). Produkt wycofany z obrotu",
-      "Natychmiastowe wycofanie herbaty ze sprzedaży. Zawiera groźną bakterię",
-      "Znana sieć bije na alarm, popularna herbata pilnie wycofana. Pod żadnym pozorem jej nie pij"
-    ],
-    "map_focus": {
-      "label": "United States",
-      "lat": 37.0902,
-      "lng": -95.7129,
-      "zoom": 4
-    },
-    "seo": {
-      "title": "salmonella Live Trend Tracker | HantaUpdates",
-      "description": "salmonella is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without",
-      "canonical": "https://hantamap.online/trend/salmonella",
-      "keywords": [
-        "salmonella",
-        "salmonella tracker",
-        "salmonella updates",
-        "salmonella live updates",
-        "salmonella outbreak",
-        "salmonella symptoms",
-        "salmonella public health",
-        "salmonella source links"
-      ]
-    },
-    "first_seen_at": "2026-07-10T16:55:14+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "d1f388d81aa1c95254",
     "slug": "disease-outbreak",
     "keyword": "disease outbreak",
@@ -4235,6 +4162,79 @@
       ]
     },
     "first_seen_at": "2026-05-10T15:38:16+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "d49ef0d4620bfa3be1",
+    "slug": "salmonella",
+    "keyword": "salmonella",
+    "title": "salmonella trend tracker",
+    "description": "salmonella is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Washington Post.",
+    "category": "public-health",
+    "geo": "CA",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-07-26T21:10:00+00:00",
+    "updated_at": "2026-07-26T21:56:13+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=CA",
+    "sources": [
+      {
+        "title": "1.5M cartons of eggs recalled in six states for possible salmonella contamination",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNT3BNLXpCSjdJRjFnVGlMV1VldnZzbHpIaE4zcGhRVTZiSnlOSS1xX0tyeVA1TTZVaWg2OVk4Zl9PSjUydVVqUG9rd1gxdVBRb28xei11eHF0SGhraDVXQURxYnRMZHUwSEJLeWZRRGVsd1h6akJCTHloUm1MS2U5bGxlcUtjNHJUcFhUX0UyRzZfV2ZYZGs5WnpHNjRCbmljN2RiUWUxcG1iQy1UUWwxZS1SVjREMmM?oc=5",
+        "source": "The Washington Post",
+        "published_at": "2026-07-24T21:56:10+00:00",
+        "summary": "1.5M cartons of eggs recalled in six states for possible salmonella contamination The Washington Post Nearly 20 Million Eggs Recalled Due to Salmonella Risk TODAY.com Where People Got Sick: Salmonella Outbreak, July 2026 Centers for Disease Control and Prevention | CDC (.gov) 1.6 Million Egg Cartons Are Recalled Over Salmonella Risk The New York Times Nearly 100 people sickened in salmonella outbreak linked in part to recalled eggs produced in Texas: FDA ABC7 Bay Area 1.6 million cartons of eggs recalled at Kroger and other stores over salmonella risk, FDA says CBS News Millions of eggs recall"
+      },
+      {
+        "title": "Millions of eggs recalled over salmonella fears",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNX1pCYzJ5R2RJUG14U0dUXzQyZE9sWGVkM2RZeTNkVFRiUzNvbnVxbjFqUzdDX1lSQUtBVGsyVHVBdzREblhvTFRmZnU5eU9yeWJWMk1EZjR1SFVLVGo0Zjl2Ry05WjBPeTRaMndueWVKMlBDSTlmWld2X3hpUE9kYzRJUDRYdVdpY2tycktiakVZY0VyMllyUlNlYk45VzQ?oc=5",
+        "source": "Detroit Free Press",
+        "published_at": "2026-07-26T15:45:00+00:00",
+        "summary": "Millions of eggs recalled over salmonella fears Detroit Free Press"
+      },
+      {
+        "title": "Salmonella Outbreak Linked to Shell Eggs",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1mMlhwNDhqS0NpRnFmMW1uQmpObXhwaDJXcFhvVEgyVU10WTNoVE5zTmZsM05SaV9aVFhPRTZyWjFiZTdaMDlWcm9qN2VpdnFHVkt0eU5EeU1CQTNZMi1OWlRya0VubmZweUFGV09sV2RCTHBNTXFr?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-07-24T23:14:57+00:00",
+        "summary": "Salmonella Outbreak Linked to Shell Eggs Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTkxLUFhCUFhIcDhtQnZ6SDNOdThZVHdtSEE2WWRwaU5QdlpQdVJtSXVoUzJ6alFiUC1lRFF5SFNrQTVnU2YwTG1KdzhDMW1UYVpZNGQxVjhXYS1BRDVfTmVfZGhXZEhuM0NBSmJ1VTJCY2VzV0FOUEQ2ZEJuQ1hwUnl3dWdBSEIxcVNsU2lobjdYUy1sR0ZrbGdaOFhDVktQTkRzUDRrcFRBemQyaFNSZm1MVVFQMXM5MFhaZFUxNEJmSzNWdkhB?oc=5",
+        "source": "PBS",
+        "published_at": "2026-07-24T23:25:12+00:00",
+        "summary": "Salmonella outbreak tied to eggs has sickened 98 people in 17 states since November, FDA says PBS"
+      }
+    ],
+    "related_queries": [
+      "Salmonella Outbreak Linked to Shell Eggs",
+      "1.6 Million Egg Cartons Are Recalled Over Salmonella Risk",
+      "Poultry firm recalls nearly 1.6 million dozen eggs over potential salmonella, U.S. FDA says"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "salmonella Live Trend Tracker | HantaUpdates",
+      "description": "salmonella is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without",
+      "canonical": "https://hantamap.online/trend/salmonella",
+      "keywords": [
+        "salmonella",
+        "salmonella tracker",
+        "salmonella updates",
+        "salmonella live updates",
+        "salmonella outbreak",
+        "salmonella symptoms",
+        "salmonella public health",
+        "salmonella source links"
+      ]
+    },
+    "first_seen_at": "2026-07-10T16:55:14+00:00",
     "views_hint": 0
   },
   {
