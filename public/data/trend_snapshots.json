@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-26T08:28:29+00:00",
+  "last_checked_at": "2026-07-26T10:43:44+00:00",
   "geos": [
     "US",
     "IN",
@@ -37,29 +37,29 @@
   "max_news_per_trend": 4,
   "scanned_raw_trends": 300,
   "items_collected": 1,
-  "items_written": 79,
+  "items_written": 80,
   "items_rejected": 299,
   "rejected_examples": [
+    "zimbabwe vs india",
+    "western",
+    "ice removes daniel adongo",
+    "george rr martin",
+    "the rookie",
+    "sustainability news",
+    "car news",
     "alaskaair",
     "apple iphone 18 pro max",
     "heat dome weather",
-    "robert downey jr",
-    "election contest",
-    "powerball winning numbers",
-    "apple iphone upgrade program",
-    "avatar movie",
-    "jennifer connelly",
-    "aubrey plaza",
-    "peddi sudharshan reddy",
-    "उमर खालिद",
-    "today lottery sambad",
-    "gta vi",
-    "ठरलं तर मग!",
-    "indianoil indane xtralite now",
-    "अन्ना हज़ारे",
-    "ਦੁੱਧ",
-    "क्राइम थ्रिलर",
-    "శని గ్రహం"
+    "लता मंगेशकर",
+    "kerala result",
+    "எடப்பாடி கே. பழனிசாமி",
+    "यामी गौतम",
+    "चांदी",
+    "ಸಿದ್ದರಾಮಯ್ಯ",
+    "manchester weather",
+    "संजय शिरसाट",
+    "कुंडा",
+    "ജനതാ പാര്ട്ടി"
   ],
   "keywords": [
     "sentencia david sanchez",
@@ -79,6 +79,7 @@
     "hart van nederland",
     "yahya zaini",
     "hantavirus cases",
+    "incendies gironde",
     "hufvudstadsbladet",
     "parasite outbreak",
     "norovirus",
@@ -90,7 +91,6 @@
     "hantavirus outbreak canada",
     "hantavirus peel region",
     "počasie",
-    "rain",
-    "gamou fall"
+    "rain"
   ]
 }

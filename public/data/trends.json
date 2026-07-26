@@ -1212,6 +1212,79 @@
     "views_hint": 0
   },
   {
+    "id": "883cb6fb26d54c418f",
+    "slug": "incendies-gironde",
+    "keyword": "incendies gironde",
+    "title": "incendies gironde trend tracker",
+    "description": "incendies gironde is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Le Parisien.",
+    "category": "public-health",
+    "geo": "CA",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-07-26T10:20:00+00:00",
+    "updated_at": "2026-07-26T10:42:05+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=CA",
+    "sources": [
+      {
+        "title": "Après les incendies en forêt de Fontainebleau, les escrocs profitent des appels à la générosité",
+        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxPU3FuT3B5a1BwSjV6bW92T3BqbVhiLVBPYktjTXE2cktra2stSHJPVDUtLVAwdF9DV1p6THViMElxN043XzhISVVtLXhjamFHbTNhSlVQT2hUNFRpZ3p4YlNOZS1ReElfd29HMnQ3Sm5rZHc0VEgzX2tLa1ZqZXVGSVROVmJmMTZYZHc2d0ljTnRuTXBsTlAwRmxzRkhCLVZBdEx2TW94QWVFVlJSdUhRLXVVRmtQZUtHSjJkRVJUczVqVEhvblVwNWZjUS1qYTYyS1hBQkVjTVVRMTI4c2EtYTJzcHU5WUwzVnJpSjlWQ29CVm9TRHB4U2hLbUlWcXNDVi1VczVLYUctV1RT?oc=5",
+        "source": "Le Parisien",
+        "published_at": "2026-07-24T09:38:00+00:00",
+        "summary": "Après les incendies en forêt de Fontainebleau, les escrocs profitent des appels à la générosité Le Parisien"
+      },
+      {
+        "title": "« L’un des plus complexes » de l’histoire de l’Espagne : l’impressionnant incendie près de Madrid en dix photos",
+        "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPTzhkOWc4d3U3aktQbU1IZGhYemRnVnNHbUNTc19VQmVSRzFpNnZrS19YaThvN3d3M2J3S25wbGJTX0NyRXUxLVl4Um1jeU5CSEpYU1pxa2VmZ3Bmakl6TnlGUUxUYkVfbUNOVmhabmxFc2R0Qm5wRGJsRnZOREdkMFhJR28teHdKY013bGZNMjVCLXBvcWlaODVtQzZtYzVLQzFwTXE4bUhucWhSa1ltY0NVX0k5QTNSc0JHMDFJWi1uR1NMaS0xSGNIZm1xSlEwLVNoOXBjVjlIdHMwSzlHNEtWTnN3ZkNaM3FhMk5wcWQwVmlYVzZYUTZpWFlpNFZwbFE0Uk1GZklZTmlCWkVtQ0FKSDhZd0tQQUxN?oc=5",
+        "source": "Le Parisien",
+        "published_at": "2026-07-21T16:34:15+00:00",
+        "summary": "« L’un des plus complexes » de l’histoire de l’Espagne : l’impressionnant incendie près de Madrid en dix photos Le Parisien"
+      },
+      {
+        "title": "Hantavirus : l'Italie place sous surveillance quatre passagers d'un vol KLM",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNeGNCc0RyOHdFWTNFYUtXUFBuemxqX3NFa3BSd0VtWDdyZVJIZjk2Xzk3VzVpODM1N3BWRk1KMkFub2g2ZjN0ekphd1A0OFRnOUhHY2llMUREWWZhRUxCYWFJTWZiVFVMVU5ic2pRaWpRRVlCY01CcV9ST0VmUG9wMGFqVEQyUzFQeS1KZFhnOXVUVWNsd3htNkVLN0xCaXZVRWN5Q08yenR3eklRS1E3SlhlWjE?oc=5",
+        "source": "mediaterranee.com",
+        "published_at": "2026-05-10T07:00:00+00:00",
+        "summary": "Hantavirus : l'Italie place sous surveillance quatre passagers d'un vol KLM mediaterranee.com"
+      },
+      {
+        "title": "Journal vidéo sous-titré pour sourds et malentendants",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8tYnQtNE44YVdZM0VfZGl0ZkM3bTdVcnEwVVFaQmhMWFItWnJ4aWc3WjhzTTJXOU91YWptTXEtYWFvT2twZjd6UllkMkpOLTBuUVBWd1EyOUczT2dSTHFZVDdyb3JGVEhlVExCT1E5aEpFd0tDWUlMcg?oc=5",
+        "source": "France 24",
+        "published_at": "2025-07-31T19:21:07+00:00",
+        "summary": "Journal vidéo sous-titré pour sourds et malentendants France 24"
+      }
+    ],
+    "related_queries": [
+      "Incendies de forêt en France | Des chevaux fuient les flammes après avoir été relâchés dans les rues",
+      "Incendie en Gironde : cinq jours d’enfer, du départ du feu à la menace aux abords de Bordeaux",
+      "\"Des centrales nucléaires qui se déplacent\" : vitesse de propagation, surface brûlée… Peut-on parler de \"mégafeux\" en Gironde"
+    ],
+    "map_focus": {
+      "label": "France",
+      "lat": 46.2276,
+      "lng": 2.2137,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "incendies gironde Live Trend Tracker | HantaUpdates",
+      "description": "incendies gironde is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links ",
+      "canonical": "https://hantamap.online/trend/incendies-gironde",
+      "keywords": [
+        "incendies gironde",
+        "incendies gironde tracker",
+        "incendies gironde updates",
+        "incendies gironde live updates",
+        "incendies gironde outbreak",
+        "incendies gironde symptoms",
+        "incendies gironde public health",
+        "incendies gironde source links"
+      ]
+    },
+    "first_seen_at": "2026-07-26T10:42:05+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "da4c950b43577c908f",
     "slug": "hufvudstadsbladet",
     "keyword": "hufvudstadsbladet",
