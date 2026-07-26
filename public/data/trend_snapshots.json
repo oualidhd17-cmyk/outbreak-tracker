@@ -1,5 +1,5 @@
 {
-  "last_checked_at": "2026-07-26T05:59:12+00:00",
+  "last_checked_at": "2026-07-26T08:28:29+00:00",
   "geos": [
     "US",
     "IN",
@@ -36,30 +36,30 @@
   "max_trends": 120,
   "max_news_per_trend": 4,
   "scanned_raw_trends": 300,
-  "items_collected": 2,
+  "items_collected": 1,
   "items_written": 79,
-  "items_rejected": 298,
+  "items_rejected": 299,
   "rejected_examples": [
-    "son heung-min",
+    "alaskaair",
+    "apple iphone 18 pro max",
+    "heat dome weather",
+    "robert downey jr",
+    "election contest",
+    "powerball winning numbers",
+    "apple iphone upgrade program",
     "avatar movie",
-    "aubrey plaza",
     "jennifer connelly",
-    "france wildfires",
-    "kyrie irving trade",
-    "costco lawsuit settlement",
-    "chris paul",
-    "felipe mora",
-    "citizenship",
-    "மும்பை இந்தியன்ஸ்",
-    "નવસારી",
-    "mann ki baat",
-    "peddi sudarshan reddy",
-    "जन नायकन",
-    "surya kant",
-    "சேமிப்பு",
-    "साप्ताहिक",
-    "deadpool",
-    "sarnath"
+    "aubrey plaza",
+    "peddi sudharshan reddy",
+    "उमर खालिद",
+    "today lottery sambad",
+    "gta vi",
+    "ठरलं तर मग!",
+    "indianoil indane xtralite now",
+    "अन्ना हज़ारे",
+    "ਦੁੱਧ",
+    "क्राइम थ्रिलर",
+    "శని గ్రహం"
   ],
   "keywords": [
     "sentencia david sanchez",
@@ -89,8 +89,8 @@
     "piet maes",
     "hantavirus outbreak canada",
     "hantavirus peel region",
+    "počasie",
     "rain",
-    "gamou fall",
-    "la verdad"
+    "gamou fall"
   ]
 }
