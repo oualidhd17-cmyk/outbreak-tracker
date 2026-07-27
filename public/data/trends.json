@@ -1358,79 +1358,6 @@
     "views_hint": 0
   },
   {
-    "id": "f0d26d9aa90a345eb9",
-    "slug": "norovirus",
-    "keyword": "norovirus",
-    "title": "norovirus trend tracker",
-    "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: KRON4.",
-    "category": "public-health",
-    "geo": "CA",
-    "search_volume": "500+",
-    "traffic_label": "500+",
-    "published_at": "2026-07-05T10:50:00+00:00",
-    "updated_at": "2026-07-05T11:02:54+00:00",
-    "score": 500,
-    "source_url": "https://trends.google.com/trending/rss?geo=CA",
-    "sources": [
-      {
-        "title": "Ruby Princess cruise ship docked in SF hit by norovirus outbreak",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPME9BSlAzNGg2YmNnTzZSRWZSZ25ORnMwQkV5Y3pHNFdUWmhzdFBPSldoREswM2xjQnJuX0xieDJhNEU4Z0tldG1RTG9SVXF3TW1GcWkxUUhsQnJJMUtfeWF2YWhHd2JkRmU0OEo3SUVhZWpUTXZpY3N2Zm82X1pxbUQ3VWlxaFVHREprWnc3dEFzdkFlQzA0TGRPV2JwUERFQnRz0gGoAUFVX3lxTE12YjlIWEJQMk5LTDBKQjgtelRRS2c2d1l2aXdNaWpfQU5haWNReDVNbjBMb0hoazgzczgxZlFlTVZDZmd0NGRxVF9XcmZQcVhtQmJqdVZscjNkVDN3d01MaUhueUNSR0JzZWpPUVVCSDVMVXU0WEkxbHdsdHZLM3NvTHFZN3ZadGJCblBfV3lJUUhoWjltY2ZUYTRIMVRWMW9WZGFLbUplRA?oc=5",
-        "source": "KRON4",
-        "published_at": "2026-07-02T20:37:40+00:00",
-        "summary": "Ruby Princess cruise ship docked in SF hit by norovirus outbreak KRON4 Norovirus outbreak sickens 125 aboard Princess cruise ship docked in San Francisco San Francisco Chronicle More than 100 cruise passengers and crew sickened with norovirus NBC News CDC: 125 ill in Princess cruise ship norovirus outbreak upi.com Over 100 passengers fall ill with contagious virus on cruise to San Francisco SFGATE More than 100 passengers on US cruise ship sick from suspected norovirus The Guardian Cruise Passengers Hit with Norovirus as Ship Experiences Second Outbreak in a Month People.com More than 120 peop"
-      },
-      {
-        "title": "Ruby Princess cruise ship docked in SF hit by norovirus outbreak",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRmlDMDByQXdEVjFBTzlzSnlLUjFDR1d6cXp6LWNodjlRS2dzSUhpenpheGtaWXVIWFdHakgxODhQQm5VR2Y3TTVZR0JZUEdHYmRvUVU0UkFyd1VDYk5aRzdNM1JCNFlQVmV6MnhBcWh6eElTMmRGWE1zUkhGVHlJTjJkaWJxOENxVDFXR3hLd2dvNG5kVmpCbDV5cEdLeUUyZnROMw?oc=5",
-        "source": "KRON4",
-        "published_at": "2026-07-03T03:11:26+00:00",
-        "summary": "Ruby Princess cruise ship docked in SF hit by norovirus outbreak KRON4"
-      },
-      {
-        "title": "Norovirus outbreak on Ruby Princess cruise ship affects over 120 passengers and crew; docked at SF's Pier 27 for cleaning",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMFdYemdYRmxFSkVVTlBMUWt3WkdSMFJSeHZUUkpmMmpOd0NRVjNXTXozU2FkLUpKc01zUzNaNWxhV1o5UWN4U2U1WU9YQTlCRk5QMWFrUzVCeHZXQ0FkdEcxU2ZZSkUwY0l2aFFEQTVFQ1NBZ0VmU3ZrMlB4aG1qSGZsVDY2TVp2NjlYUHdtZHJlMng3TlRHb1pMOWtrb2ZwaVRmci1RV09WWEVzRGE4S1JmdmM0VzUwMmRBanBrdkR5S0JrbGU5QURmUlhPTXhBbHfSAdcBQVVfeXFMUGxBc1VlSXdkb2ktbDhnVnptaVpXV0NfUWg2UzVkNWFSTUd0NU9OcTRhZ2Uwb1NqUGlHQ01lWUkwMmttQ3NYRWhoM3JyTFVKcDg4RUJVaktSclJ4Ykp1azFpaU9wLTFiOHdpSkI3TzIwRlM3NTZHd0hSTEJGOVZ3R01zdzRQeGJzSTVHbmpidjFkSW9hMV84Ykk5Z0wyWW43X3VXM05zUnhfTHU4ZVQyYmhzU2c0OEdMSXA5TXNRVmFPWGNlZkJYTDlYNVRYU3VLVV84d2RTUWM?oc=5",
-        "source": "ABC7 Bay Area",
-        "published_at": "2026-07-02T21:56:21+00:00",
-        "summary": "Norovirus outbreak on Ruby Princess cruise ship affects over 120 passengers and crew; docked at SF's Pier 27 for cleaning ABC7 Bay Area"
-      },
-      {
-        "title": "Outbreaks on Cruise Ships in VSP's Jurisdiction | Vessel Sanitation Program",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kNHQxeGtLaEtqdGw5U01VSU03OXZ2OERrcGRMYjZyRy1sQ1R5Uy1QMXBxREw5Rmt3eTNwY2pVY2pWX2dSSzBFSzZ1ei0tNWNJZWFLS1VxNmtacWJVWUdiN1J6bXR4THlFTGl2aEFWby1oekZhMlhJcGNB?oc=5",
-        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-        "published_at": "2026-07-01T07:00:00+00:00",
-        "summary": "Outbreaks on Cruise Ships in VSP's Jurisdiction | Vessel Sanitation Program Centers for Disease Control and Prevention | CDC (.gov)"
-      }
-    ],
-    "related_queries": [
-      "125 passengers and crew hit with highly contagious stomach virus on cruise from San Francisco",
-      "Nach dem Ausbruch des Hantavirus wurden 125 Fälle von Norovirus auf einem Kreuzfahrtschiff registriert",
-      "Auf Kreuzfahrtschiff infiziert: 125 Menschen an Norovirus erkrankt"
-    ],
-    "map_focus": {
-      "label": "Multi-country / cruise travel",
-      "lat": 16.5388,
-      "lng": -23.0418,
-      "zoom": 3
-    },
-    "seo": {
-      "title": "norovirus Live Trend Tracker | HantaUpdates",
-      "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
-      "canonical": "https://hantamap.online/trend/norovirus",
-      "keywords": [
-        "norovirus",
-        "norovirus tracker",
-        "norovirus updates",
-        "norovirus live updates",
-        "norovirus outbreak",
-        "norovirus symptoms",
-        "norovirus public health",
-        "norovirus source links"
-      ]
-    },
-    "first_seen_at": "2026-05-13T18:29:43+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "4693d2eb0360bdb14c",
     "slug": "epidemia",
     "keyword": "epidemia",
@@ -1939,6 +1866,79 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "bdb8edfa9ceca4a269",
+    "slug": "norovirus",
+    "keyword": "norovirus",
+    "title": "norovirus trend tracker",
+    "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Centers for Disease Control and Prevention | CDC (.gov).",
+    "category": "public-health",
+    "geo": "CH",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-07-27T10:10:00+00:00",
+    "updated_at": "2026-07-27T12:19:40+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=CH",
+    "sources": [
+      {
+        "title": "Outbreaks on Cruise Ships in VSP's Jurisdiction | Vessel Sanitation Program",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9kNHQxeGtLaEtqdGw5U01VSU03OXZ2OERrcGRMYjZyRy1sQ1R5Uy1QMXBxREw5Rmt3eTNwY2pVY2pWX2dSSzBFSzZ1ei0tNWNJZWFLS1VxNmtacWJVWUdiN1J6bXR4THlFTGl2aEFWby1oekZhMlhJcGNB?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-07-23T07:00:00+00:00",
+        "summary": "Outbreaks on Cruise Ships in VSP's Jurisdiction | Vessel Sanitation Program Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "Gut punch: New study knocks out norovirus where it strikes",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcFZoY2UxdW92RHFmUERuNmx3Z3BVdk5HSVhLYy1xQzhsUkFCV2dnbDJSYkhtcE1aNVhmOF9SVTg0RWowQVBZVG51RkVEUnRCYTFwbzgxa3U3Y25iTXFGaUZ1N0F6alg3NGVFT0gyZWlXR2FFNjBHUXBjNkVDN3o0THBuWTRaTXE3OV9Xc1A4TW5MM2hD?oc=5",
+        "source": "news.yale.edu",
+        "published_at": "2026-06-24T07:00:00+00:00",
+        "summary": "Gut punch: New study knocks out norovirus where it strikes news.yale.edu"
+      },
+      {
+        "title": "Vomiting virus is spreading across most of the U.S.",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcVpmNlFHMWNfVjZHZ0Y1cHA1bEtXcm1tQzZEMThFOXprNHNLaF9sWlpaYjIzZXp2dUVoeWUzUDVFU3JDaHRWS1lYbE92eFBrci1HdWMxZDR1U0lXUUxrOE52RVlGakUxVDFOdmtTSXVEQ2xSS2taSDB4bmF6ZmpfeHpYdHlGSVEydVIwZzh6bmd3SDNaTW1GeHczMFh1V0JMX0Fra2ZRdW5ZMVQzLVY0SFZzZw?oc=5",
+        "source": "NBC News",
+        "published_at": "2026-05-29T07:00:00+00:00",
+        "summary": "Vomiting virus is spreading across most of the U.S. NBC News"
+      },
+      {
+        "title": "The Eaton wildfire evacuation shelter near LA saw outbreaks of norovirus, COVID, and flu, report reveals",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPSlowcUotei1ZeHRxc0VXUVplZXNPcndFWVRzRVhZaGNYRHp0dWMtSXcyZ2VDTkM3a3l1X2I1QmtqeWFYWUNjc3lVMnFaRHpweEhiNThTcEdVQjJZdkw0S09NYmt6YnNxTHh5YmVtU0E1RGxDbGwzS2ZaeUoxU1l5ck0xTjUyUm1VNVowb0dLYmR5YXNWWlBxbDV1NUs2MS1nYUp2VlduMlRFODVhbUx2Z1AtQXU4VEZ6ZS1NM1dn?oc=5",
+        "source": "CIDRAP",
+        "published_at": "2026-07-10T07:00:00+00:00",
+        "summary": "The Eaton wildfire evacuation shelter near LA saw outbreaks of norovirus, COVID, and flu, report reveals CIDRAP"
+      }
+    ],
+    "related_queries": [
+      "Rückruf bei Aldi, Netto und Lidl: Tiefkühl-Beeren wohl von Noroviren betroffen",
+      "Rückruf: Wer TK-Beeren bei diesen Discountern gekauft hat, sollte vorsichtig sein",
+      "Freshona Bio Beerenmischung tiefgefroren wird zurückgerufen"
+    ],
+    "map_focus": {
+      "label": "Multi-country / cruise travel",
+      "lat": 16.5388,
+      "lng": -23.0418,
+      "zoom": 3
+    },
+    "seo": {
+      "title": "norovirus Live Trend Tracker | HantaUpdates",
+      "description": "norovirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
+      "canonical": "https://hantamap.online/trend/norovirus",
+      "keywords": [
+        "norovirus",
+        "norovirus tracker",
+        "norovirus updates",
+        "norovirus live updates",
+        "norovirus outbreak",
+        "norovirus symptoms",
+        "norovirus public health",
+        "norovirus source links"
+      ]
+    },
+    "first_seen_at": "2026-05-13T18:29:43+00:00",
     "views_hint": 0
   },
   {
