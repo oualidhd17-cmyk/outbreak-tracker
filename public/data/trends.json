@@ -1,5 +1,71 @@
 [
   {
+    "id": "f926c2c92a5bcea587",
+    "slug": "trend",
+    "keyword": "ગુજરાત સમાચાર",
+    "title": "ગુજરાત સમાચાર trend tracker",
+    "description": "ગુજરાત સમાચાર is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Gujarat Samachar.",
+    "category": "public-health",
+    "geo": "IN",
+    "search_volume": "20000+",
+    "traffic_label": "20000+",
+    "published_at": "2026-07-31T11:00:00+00:00",
+    "updated_at": "2026-07-31T11:26:40+00:00",
+    "score": 20000,
+    "source_url": "https://trends.google.com/trending/rss?geo=IN",
+    "sources": [
+      {
+        "title": "Ahmedabadના ધોળકામાં ફાર્મ હાઉસમાં દારૂપાર્ટી! પોલીસે રંગમા…",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmw5MHZRRDcxWEQtamlOSjBEY2ROYWhNTTBKeXlnQXZIdEs0SjVaYkM1ZG5VaFZBOUxNdVRVcTUxeUV1RGd6WHQzbW5ZQVZIVzZURUpVX29iNDBQWHFKT0t0aThxU0dzNkVfWnRwcXB2X3E2bkd0dWcwMl9yMUhqXzAwWmRnOXZnSjlhS0t5WVZMNkJodjdyUEVaeUFfZnFpSUNreWU1NDJ0V2g0MXdTS0lrVQ?oc=5",
+        "source": "Gujarat Samachar",
+        "published_at": "2026-06-25T19:10:39+00:00",
+        "summary": "Ahmedabadના ધોળકામાં ફાર્મ હાઉસમાં દારૂપાર્ટી! પોલીસે રંગમા… Gujarat Samachar"
+      },
+      {
+        "title": "Breaking News | 15 Jun 2026 | હાલ આખા મહારાષ્ટ્રમાં કાળો કહેર થઈ ગયો લાશોના ઢગલાં થયાં | News | Contagio Hantavirus (WytlqWzuJW)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tekFyWXhjSE8wTS1KVnE0Zy1na3lTUm9NMWYyaXpNaDhHSnotS3FvTmE2OFhEbW1xTG9zc2JGWV9kbF8zVlB1MEpDbUJ6MFdLODNrQ1JRRnV3Y2lpc1UzQg?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-07-20T12:50:28+00:00",
+        "summary": "Breaking News | 15 Jun 2026 | હાલ આખા મહારાષ્ટ્રમાં કાળો કહેર થઈ ગયો લાશોના ઢગલાં થયાં | News | Contagio Hantavirus (WytlqWzuJW) Mshale"
+      },
+      {
+        "title": "Fake message circulated in the name of non-existent ex-employee to malign Gujarat Samachar",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVh4dWR4NEQwMWJoT1dURlpwWkFXbzdiYzVpNF81QkFmVFlkVTJTX0liRXYtVmxiZl91eHl1UXUxQTdOeGx6YmNPVkt2T0w3d09fWlJzX0pfNUJ3dEtlZTJjbldZdVVKb0dDcTIwSXU0QUhNMThYTEVvRmRiZW9ITEdSRTlWWWdQUUtQWHk5Wk5oLWNnZjZwSXh6OGVIOTRpTFpz?oc=5",
+        "source": "Alt News",
+        "published_at": "2018-06-19T07:00:00+00:00",
+        "summary": "Fake message circulated in the name of non-existent ex-employee to malign Gujarat Samachar Alt News"
+      }
+    ],
+    "related_queries": [
+      "ખેડાના નડિયાદ-વસોમાં જળબંબાકાર, સુરતના ઉમરપાડામાં આભ ફાટ્યુ…",
+      "gujarat weather : ગુજરાતમાં 48 કલાક ભારે, અમદાવાદ સહિત ક્યાં ક્યાં અત્યંત ભારે વરસાદ તૂટી પડશે?",
+      "Monsoon 2026 Another big forecast from the Meteorological Department heavy rains for Gujarat in the next 3 hours"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ગુજરાત સમાચાર Live Trend Tracker | HantaUpdates",
+      "description": "ગુજરાત સમાચાર is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links with",
+      "canonical": "https://hantamap.online/trend/trend",
+      "keywords": [
+        "ગુજરાત સમાચાર",
+        "ગુજરાત સમાચાર tracker",
+        "ગુજરાત સમાચાર updates",
+        "ગુજરાત સમાચાર live updates",
+        "ગુજરાત સમાચાર outbreak",
+        "ગુજરાત સમાચાર symptoms",
+        "ગુજરાત સમાચાર public health",
+        "ગુજરાત સમાચાર source links"
+      ]
+    },
+    "first_seen_at": "2026-05-10T09:16:13+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "ab7ab69119bd0a654e",
     "slug": "sentencia-david-sanchez",
     "keyword": "sentencia david sanchez",
@@ -3155,79 +3221,6 @@
       ]
     },
     "first_seen_at": "2026-05-16T18:08:12+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "9e8cb970bdf81e649a",
-    "slug": "trend",
-    "keyword": "وزارة التربية والتعليم",
-    "title": "وزارة التربية والتعليم trend tracker",
-    "description": "وزارة التربية والتعليم is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Dubai Eye 103.8.",
-    "category": "public-health",
-    "geo": "EG",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-05-31T18:30:00+00:00",
-    "updated_at": "2026-05-31T18:57:46+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=EG",
-    "sources": [
-      {
-        "title": "UAE to confirm in-person or remote learning on May 10",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPenVYQkM0d3UydFIwTXlZQWpmVnBtdFJsLTFES3Vqcm5hcUN4NWlkeWxxNXhBNXdyZWRLTkhNQ09Ua3U0VFFRVEtteko0cHBVUTJfZmtxSkwySXBvREM0dUlqV0ROY1Q5WWEzTWwtd0xNZ241OWVWbm91bkJrNy1SMDFrcGpOWVRxQ05KTEdOZVJoZ3F2UG9FNHZ3?oc=5",
-        "source": "Dubai Eye 103.8",
-        "published_at": "2026-05-10T07:00:00+00:00",
-        "summary": "UAE to confirm in-person or remote learning on May 10 Dubai Eye 103.8"
-      },
-      {
-        "title": "Update: Suspected hantavirus cases on Atlantic cruise ship leave three dead: WHO",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlR5Z2ZKSTF0ZFQwb1c0ckE3dDJicXNzRG93LUNnY2lkYUhUMjBZM1hQa19nbGxFZ3hra0JBaUVHLXZoWnlSZXhSVmlyRjhCYU5zOGtJbTBkUHVnZDc5QWc5U3VfSklESGxIclpnZzlUR29EWV9nOHJ4Z2FRMWp4OG1rcW1TNnp3elcyWjJFYUhLWFg1SG16RnZhMUpUS0x0RTMydmFhMmNaajVMMWJBZ1Ywcjg?oc=5",
-        "source": "Gulf Business",
-        "published_at": "2026-05-05T08:52:09+00:00",
-        "summary": "Update: Suspected hantavirus cases on Atlantic cruise ship leave three dead: WHO Gulf Business"
-      },
-      {
-        "title": "UAE schools, universities to switch to distance learning",
-        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWVZZSG5QLW5LUFB1SXRKZXhxMVVjQU84TEN1Z0o5a2R4eUE2b1hXME9ZY0ZRNDJCNWFkSU11UURlbTIzZEdkY01mdFdIVzh3RXRsNHh4d1FsOXVwME85NkFwN2FQYzB6VXlIcFZNdERvWm1qUFFidWk2Z3pJSlFHVUpYdjc0QUZVZU9XVQ?oc=5",
-        "source": "ARN News Centre",
-        "published_at": "2026-05-04T07:00:00+00:00",
-        "summary": "UAE schools, universities to switch to distance learning ARN News Centre"
-      },
-      {
-        "title": "UAE back to school: Authorities suspend all bus operations",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ2JJT1dmQm9pQVNOT08xU3RtLU9FRHRaZUxoc01STE55a1FwLXozRG51MFBDOUZsNVU0T3FJMDVCdTZJOUc2SXRMbkpvMDcyTDV1Ykh3Vm9vTEdSNDlXdTl3a1NhS3Q1ekpWb2FIZU1DR3czSXZ2dThaTlluNHZkVkdvMEx4eG9KTDBTSmhQSVRwLUY4ZmZ6VnlGTWJoYi1EeFNqalAySjZLdy1Pempj?oc=5",
-        "source": "The National",
-        "published_at": "2026-04-16T07:00:00+00:00",
-        "summary": "UAE back to school: Authorities suspend all bus operations The National"
-      }
-    ],
-    "related_queries": [
-      "وزارة التربية والتعليم المصرية. . وزارة التربية والتعليم تستعرض عبر فيديو توعوي الخطوات والإرشادات الواجب على الطلاب اتباعها في ورق إجابة امتحانات الثانوية العامة ٢٠٢٥ / ٢٠٢٦ الأحد ٣١ مايو ٢٠٢٦ تستعرض وزارة التربية والتعليم والتعليم الفني، عبر فيديو توعو",
-      "جدول امتحانات الثانوية العامة 2026 قبل أسابيع من انطلاق الاختبارات رسميا",
-      "قبل بدء اللجنة"
-    ],
-    "map_focus": {
-      "label": "Multi-country / cruise travel",
-      "lat": 16.5388,
-      "lng": -23.0418,
-      "zoom": 3
-    },
-    "seo": {
-      "title": "وزارة التربية والتعليم Live Trend Tracker | HantaUpdates",
-      "description": "وزارة التربية والتعليم is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source l",
-      "canonical": "https://hantamap.online/trend/trend",
-      "keywords": [
-        "وزارة التربية والتعليم",
-        "وزارة التربية والتعليم tracker",
-        "وزارة التربية والتعليم updates",
-        "وزارة التربية والتعليم live updates",
-        "وزارة التربية والتعليم outbreak",
-        "وزارة التربية والتعليم symptoms",
-        "وزارة التربية والتعليم public health",
-        "وزارة التربية والتعليم source links"
-      ]
-    },
-    "first_seen_at": "2026-05-10T09:16:13+00:00",
     "views_hint": 0
   },
   {
