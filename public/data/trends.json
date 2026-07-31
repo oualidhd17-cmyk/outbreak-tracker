@@ -1330,6 +1330,79 @@
     "views_hint": 0
   },
   {
+    "id": "f65618f0db05ffe50d",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNN.",
+    "category": "public-health",
+    "geo": "US",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-07-31T18:20:00+00:00",
+    "updated_at": "2026-07-31T19:18:27+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=US",
+    "sources": [
+      {
+        "title": "Fast-growing Ebola outbreak in DRC surges to second-largest on record",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XbkVjMTQ4b09wRG1CcVhwSjM5MzJuM0phSDFUckhibElZZnMyc2RXZUVUQ3duUGh0WjhQTE5pVlF1clVZc0w1SDd5UWlRUG9YNUpHN0J0R0pEei1ILTBKT3hMNFpOZFBVRGc?oc=5",
+        "source": "CNN",
+        "published_at": "2026-07-31T12:05:29+00:00",
+        "summary": "Fast-growing Ebola outbreak in DRC surges to second-largest on record CNN DR Congo Ebola epidemic becomes world’s second largest outbreak Al Jazeera DR Congo Ebola outbreak becomes world's second-largest ever DW.com Ebola deaths surpass 1,500 in DRC as outbreak continues to spread ABC News - Breaking News, Latest News and Videos Ebola outbreak in DRC the fastest growing in the history of the virus The Guardian Fastest growing Ebola outbreak is worsening hunger in eastern Congo, UN agency chief warns PBS Congo's Ebola outbreak is second-largest on record, latest data shows Reuters Ebola Outbrea"
+      },
+      {
+        "title": "RFK Jr. at Fort Drum: Praises Ebola quarantine response, attends dining hall opening",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTENLWFJZVWtwX29ndm5NMTQ5S0I3MG42MWpuVER4ZjVBV0hSWGthbWFnQmREcmo5TC13azVBN0VzYTJTanBGcmZyemVvLXVfeXNib3N6eU5ZNGxLNTFKb3I1cTJtUlNnSnBMNHFaeUd4enFZWHBETDRyZ3Q0c29BYUlGcjhXRGJsc0RBOEJ1VDlRSGhWQlh5X2lxSkZDMmhxOTM1Zldrb3g0THZGaDA0M0ppRdIBxwFBVV95cUxQNEVaNHJpNW04NngxTVQweGtUS0RQMC0yQzRITEpUN0dwVTZxZWE4TWZkWnVkV3drZndxMzQ1TU9fcnZLNkQ3bVJWMWdpVVJkOEJuaGtiOG03bGRuY1BNSzhjN0ROUExXS3VFRG9pNlB0VnFGaEplTnhaRE5lQWw3NzJRU204a2pjbkJkSG1YWmNGcXBZWDFuM2dieWpNS0k1MUpYZmV1aWNFdDBGWnVVYjRJZ3RYYUhHQm5qUFoxY2xTdmtNeWtj?oc=5",
+        "source": "WWNY",
+        "published_at": "2026-07-30T21:28:00+00:00",
+        "summary": "RFK Jr. at Fort Drum: Praises Ebola quarantine response, attends dining hall opening WWNY"
+      },
+      {
+        "title": "Ebola Outbreak: Current Situation",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
+        "source": "cdc.gov",
+        "published_at": "2026-07-29T19:00:55+00:00",
+        "summary": "Ebola Outbreak: Current Situation cdc.gov"
+      },
+      {
+        "title": "Documentaries on Ebola Outbreaks and Lessons Learned",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMDFMV1VNX2dnLWh6QW9Fd1BMSGZPdURPZ3o3ZmZhUTh1NVJQTXJUZHdfWTdpUHhfN1htbDJWZWpjTE9KbnpYTkFIZXJscGdhM3Z0ZUF0UmZubVFJeFpZcTYxS1JCWFZETGRYN0tJZFV3c2hYa281SVQ0UXF5UjBkWHJhQ1FRVGpPTG96cmQ1ME1FVzhEOVhIbzBXTXk0ZDdOdDVEYmc2NmpwTkZEcTFV?oc=5",
+        "source": "PBS",
+        "published_at": "2026-07-31T16:55:45+00:00",
+        "summary": "Documentaries on Ebola Outbreaks and Lessons Learned PBS"
+      }
+    ],
+    "related_queries": [
+      "Fast-growing Ebola outbreak in DRC surges to second-largest on record",
+      "DR Congo Ebola epidemic becomes world’s second largest outbreak",
+      "Ebola deaths surpass 1,500 in DRC as outbreak continues to spread"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "883cb6fb26d54c418f",
     "slug": "incendies-gironde",
     "keyword": "incendies gironde",
@@ -2418,79 +2491,6 @@
       ]
     },
     "first_seen_at": "2026-07-20T06:14:21+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "a58a58daab565681bb",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Politico.",
-    "category": "public-health",
-    "geo": "MX",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-07-19T15:20:00+00:00",
-    "updated_at": "2026-07-19T15:54:53+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=MX",
-    "sources": [
-      {
-        "title": "Americans who responded to Ebola outbreak are quarantined in Kenya, despite court order",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNRW1GQW84b3h4b0k5dUJUOEhzazNZbUVKckZESUs3NEEzSDVsUEdrcXlLdTJlajI0MGFmeXI0b2RMaXNfelJVZWdYX3dwY25jeVB2VDB0VkZvYjdDNDN4bThQRXBsNkRnbVhER0xFWkNUZkh4emtZQS1yd08wNjV6Z1NmRmNKeXIyYzZFOTU3aFhKUUhYZUNUUFY1SW5RLWtUSXRlMFBrZHR5ZmdGOEpsSUFpVlFuajY1NHNYMzQtaGtXTk4tODRQTWZnV1VhcG9PYWIw?oc=5",
-        "source": "Politico",
-        "published_at": "2026-07-17T21:06:00+00:00",
-        "summary": "Americans who responded to Ebola outbreak are quarantined in Kenya, despite court order Politico"
-      },
-      {
-        "title": "Seven U.S. aid workers quarantined in Kenya during Ebola response",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOclJYT21YeGg4enBONjZSU3VLbEZzMUlxOFNNWTBJaWZHUS0yYU1zb18tTnhBN0xvN0paaWVSX3NYVkNRdS1hM3Q1a0p3WDdJck1rT0F5MjdKUklLU2g2TEtwb3Jxbm1NZ01fT29aU1owcXYxNFRQOGxsRFRuVkQ2U1h2UXhQMllvZk55ZDBId3RFZFAtYlNHMXN0OHl6U1UxaWVoU1R5MnBXMzdsdkE?oc=5",
-        "source": "The Washington Post",
-        "published_at": "2026-07-19T02:08:48+00:00",
-        "summary": "Seven U.S. aid workers quarantined in Kenya during Ebola response The Washington Post"
-      },
-      {
-        "title": "7 Americans Sent to Disputed Kenya Ebola Site After New Trump Travel Ban",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbXR3MnFNZ0ZOWjJ6anJGUTZJNEZBSFVUUjA0RjN1czhKMnRZTDJqVzhwZGhYc1RvcWlWY3dyOG1QSk5Qd3VqRll0T01EQmQ3MlNVd3FZak5RNUFqV3J1NUd6dmFTMnZsTWpFcERoZjFNR09GTGNTTktMYkhrT3p4bGhsRnpCd3Z1QWlTbzF3?oc=5",
-        "source": "The New York Times",
-        "published_at": "2026-07-18T00:22:05+00:00",
-        "summary": "7 Americans Sent to Disputed Kenya Ebola Site After New Trump Travel Ban The New York Times"
-      },
-      {
-        "title": "Safety fears limit Ebola response in Congo, with more than 12 attacks on health facilities and workers recorded",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOM1lkcGJKQ25RTmdVaklheHA3T2Z2N09aRHZDMTA2cTFoT0VnLW1GcjdKN0ZGSE5semtRdjdVSkg4b0I2ZkpIN196eWU0bjBUUzVfUU9yaWxHS2h3Z3JSVTd0UGlLRVpkSXYxUVlCQjMxVzFDa1hfNDlsZFJRNVhEYkN6RmhpNEowSng0cTdQLVoydzR0SU16X245Z0YxcmVqenktdjdHODRKRFlxaDdYNkEySkRKa1ZLYjRHU2RhZGdUT2h5VDNySlRSYTk5S21mUlBGMHVQRFlCb1FIZVE?oc=5",
-        "source": "PBS",
-        "published_at": "2026-07-18T17:34:04+00:00",
-        "summary": "Safety fears limit Ebola response in Congo, with more than 12 attacks on health facilities and workers recorded PBS Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda World Health Organization (WHO) Ebola is not abating The Economist"
-      }
-    ],
-    "related_queries": [
-      "WHO warns DR Congo Ebola outbreak is outpacing response as Uganda reaches milestone",
-      "Violence Forces Evacuation of Ebola Response Workers in Eastern DRC",
-      "More health workers strike as Ebola cases in Congo exceed 2,000, including 754 deaths"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
-      "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
     "views_hint": 0
   },
   {
