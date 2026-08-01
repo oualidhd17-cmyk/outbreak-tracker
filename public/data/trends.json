@@ -2133,6 +2133,79 @@
     "views_hint": 0
   },
   {
+    "id": "2e5abbc15b97a3b3b5",
+    "slug": "antalya",
+    "keyword": "antalya",
+    "title": "antalya trend tracker",
+    "description": "antalya is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Euronews.",
+    "category": "public-health",
+    "geo": "TR",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-08-01T04:40:00+00:00",
+    "updated_at": "2026-08-01T05:52:52+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=TR",
+    "sources": [
+      {
+        "title": "Hundreds evacuated as fires sweep Turkey's western and southern coasts",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaUFyMWF5N0lhZTBvdG12WG51WmxHSmE1bTVUd2kzb2s3MUFuRjF2Y0taeDJ3OWJNUVlnWHdIZm5paUJGTlZIR2dSUVh1cm55cEwyYmxBVXVSVURpYU9oSEkyY3l0Vko3THJUZGRiLWVXSUduSDM3eDJ5Mk13Vl9PbEJyamd4QjBSLVNybmMwRVBraHFlam5fNXg5alhob3VOOTl6NUl5RHhlMkNFSVE?oc=5",
+        "source": "Euronews",
+        "published_at": "2026-07-30T08:40:46+00:00",
+        "summary": "Hundreds evacuated as fires sweep Turkey's western and southern coasts Euronews"
+      },
+      {
+        "title": "Antalya's Kas battles forest fire for second day",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVG1PdUlUV3l5ZkpHTFF6SldYNm5sWTJfMnhyWlNvcHFpR09nY3c0T1paVUVfdXNlQWlpUnd3U2NUTTBDNVhuN3Bua0tUMHV4bjFzU0ZDbGxtQmw5bTRBX0hPeEpNMVBZdUVha3ZFcV96VmxnTjhsUWg1NnFWaWdwaE5oTFZSTXFjS2hpZTdTMlFoRVBzVnc?oc=5",
+        "source": "Türkiye Today",
+        "published_at": "2026-07-29T07:24:27+00:00",
+        "summary": "Antalya's Kas battles forest fire for second day Türkiye Today"
+      },
+      {
+        "title": "Türkiye Denies Mass Coxsackie Virus Outbreak Among Russian Tourists in Antalya",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVVFic3k4YVNlMVJxXy1Cdk9JR2NSdFowall2S3FrdlMydWFYNHhVbV9UbmFxYnhCcE1LWWpQQTVUWjFkaGNlUkdsbXNISTA0aFd0ZEwwaE80UXUtbnRtdXp0UExlNFRfNDg4YnBlSWVvRXZrWmxCdDBsMlJCdEhlRkkzY2dwSWpYdnVwWmRReF9BaVBSLWtxblVUTU81T0taNWRfak44cU81ZzdmWmU0?oc=5",
+        "source": "Caspian Post",
+        "published_at": "2026-07-28T05:06:55+00:00",
+        "summary": "Türkiye Denies Mass Coxsackie Virus Outbreak Among Russian Tourists in Antalya Caspian Post"
+      },
+      {
+        "title": "Massive 'fire cloud' seen from space as deadly wildfires sweep Europe",
+        "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rZGR0aG9CSy1XWXJMRXJsellxbDRwd1lWTU9PN3gycUZuSElUVnJLVnQzYWpYekI2SVllVzQ4bGtwLVAwSzlKYWpwOTh1UEFEMmRvZVZR?oc=5",
+        "source": "Ynetnews",
+        "published_at": "2026-07-29T21:41:39+00:00",
+        "summary": "Massive 'fire cloud' seen from space as deadly wildfires sweep Europe Ynetnews"
+      }
+    ],
+    "related_queries": [
+      "Yangınlarda son durum. Balıkesir Susurluk'ta yoğun müdahale sürüyor, Aydın Çine'de alevlerin enerjisi düşürüldü",
+      "SON DAKİKA | Biri biterken öteki başlıyor... Ormanlarımız alev alev! Orman yangınları son durumu | Son dakika haberleri",
+      "Yeşil vatan savunması"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "antalya Live Trend Tracker | HantaUpdates",
+      "description": "antalya is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pr",
+      "canonical": "https://hantamap.online/trend/antalya",
+      "keywords": [
+        "antalya",
+        "antalya tracker",
+        "antalya updates",
+        "antalya live updates",
+        "antalya outbreak",
+        "antalya symptoms",
+        "antalya public health",
+        "antalya source links"
+      ]
+    },
+    "first_seen_at": "2026-08-01T05:52:52+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "bdb8edfa9ceca4a269",
     "slug": "norovirus",
     "keyword": "norovirus",
