@@ -1330,79 +1330,6 @@
     "views_hint": 0
   },
   {
-    "id": "f65618f0db05ffe50d",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNN.",
-    "category": "public-health",
-    "geo": "US",
-    "search_volume": "500+",
-    "traffic_label": "500+",
-    "published_at": "2026-07-31T18:20:00+00:00",
-    "updated_at": "2026-07-31T19:18:27+00:00",
-    "score": 500,
-    "source_url": "https://trends.google.com/trending/rss?geo=US",
-    "sources": [
-      {
-        "title": "Fast-growing Ebola outbreak in DRC surges to second-largest on record",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9XbkVjMTQ4b09wRG1CcVhwSjM5MzJuM0phSDFUckhibElZZnMyc2RXZUVUQ3duUGh0WjhQTE5pVlF1clVZc0w1SDd5UWlRUG9YNUpHN0J0R0pEei1ILTBKT3hMNFpOZFBVRGc?oc=5",
-        "source": "CNN",
-        "published_at": "2026-07-31T12:05:29+00:00",
-        "summary": "Fast-growing Ebola outbreak in DRC surges to second-largest on record CNN DR Congo Ebola epidemic becomes world’s second largest outbreak Al Jazeera DR Congo Ebola outbreak becomes world's second-largest ever DW.com Ebola deaths surpass 1,500 in DRC as outbreak continues to spread ABC News - Breaking News, Latest News and Videos Ebola outbreak in DRC the fastest growing in the history of the virus The Guardian Fastest growing Ebola outbreak is worsening hunger in eastern Congo, UN agency chief warns PBS Congo's Ebola outbreak is second-largest on record, latest data shows Reuters Ebola Outbrea"
-      },
-      {
-        "title": "RFK Jr. at Fort Drum: Praises Ebola quarantine response, attends dining hall opening",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTENLWFJZVWtwX29ndm5NMTQ5S0I3MG42MWpuVER4ZjVBV0hSWGthbWFnQmREcmo5TC13azVBN0VzYTJTanBGcmZyemVvLXVfeXNib3N6eU5ZNGxLNTFKb3I1cTJtUlNnSnBMNHFaeUd4enFZWHBETDRyZ3Q0c29BYUlGcjhXRGJsc0RBOEJ1VDlRSGhWQlh5X2lxSkZDMmhxOTM1Zldrb3g0THZGaDA0M0ppRdIBxwFBVV95cUxQNEVaNHJpNW04NngxTVQweGtUS0RQMC0yQzRITEpUN0dwVTZxZWE4TWZkWnVkV3drZndxMzQ1TU9fcnZLNkQ3bVJWMWdpVVJkOEJuaGtiOG03bGRuY1BNSzhjN0ROUExXS3VFRG9pNlB0VnFGaEplTnhaRE5lQWw3NzJRU204a2pjbkJkSG1YWmNGcXBZWDFuM2dieWpNS0k1MUpYZmV1aWNFdDBGWnVVYjRJZ3RYYUhHQm5qUFoxY2xTdmtNeWtj?oc=5",
-        "source": "WWNY",
-        "published_at": "2026-07-30T21:28:00+00:00",
-        "summary": "RFK Jr. at Fort Drum: Praises Ebola quarantine response, attends dining hall opening WWNY"
-      },
-      {
-        "title": "Ebola Outbreak: Current Situation",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
-        "source": "cdc.gov",
-        "published_at": "2026-07-29T19:00:55+00:00",
-        "summary": "Ebola Outbreak: Current Situation cdc.gov"
-      },
-      {
-        "title": "Documentaries on Ebola Outbreaks and Lessons Learned",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMDFMV1VNX2dnLWh6QW9Fd1BMSGZPdURPZ3o3ZmZhUTh1NVJQTXJUZHdfWTdpUHhfN1htbDJWZWpjTE9KbnpYTkFIZXJscGdhM3Z0ZUF0UmZubVFJeFpZcTYxS1JCWFZETGRYN0tJZFV3c2hYa281SVQ0UXF5UjBkWHJhQ1FRVGpPTG96cmQ1ME1FVzhEOVhIbzBXTXk0ZDdOdDVEYmc2NmpwTkZEcTFV?oc=5",
-        "source": "PBS",
-        "published_at": "2026-07-31T16:55:45+00:00",
-        "summary": "Documentaries on Ebola Outbreaks and Lessons Learned PBS"
-      }
-    ],
-    "related_queries": [
-      "Fast-growing Ebola outbreak in DRC surges to second-largest on record",
-      "DR Congo Ebola epidemic becomes world’s second largest outbreak",
-      "Ebola deaths surpass 1,500 in DRC as outbreak continues to spread"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
-      "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "883cb6fb26d54c418f",
     "slug": "incendies-gironde",
     "keyword": "incendies gironde",
@@ -2130,6 +2057,79 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "98a55da644f76a21f1",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-08-01T20:00:00+00:00",
+    "updated_at": "2026-08-01T21:52:50+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMlRXMTFSYkpLaDdURzA5cnF3V2p3U2hkcVNvejdaMjlhZkszb3NHd3RlTXoxSlk1cDV3dGdaTE1FX2J6TmtrdlRVS0tWQnJ2d0thY21UdXV3UQ?oc=5",
+        "source": "BBC",
+        "published_at": "2026-08-01T16:16:16+00:00",
+        "summary": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says BBC DR Congo Ebola epidemic becomes world’s second largest outbreak Al Jazeera Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo World Health Organization (WHO) Ebola outbreak in DRC the fastest growing in the history of the virus The Guardian Ebola Outbreak Is Now the Second-Largest Ever, and in Record Time The New York Times DR Congo Ebola outbreak becomes world's second-largest ever dw.com Fast-growing Ebola outbreak in DRC surges to second-largest on record CNN Congo's Ebola outbreak is second-large"
+      },
+      {
+        "title": "Bipartisan senators press Rubio to unlock family planning funding for women in Ebola outbreak",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaW50NGhEQTVNT21JaS1vdjBpd0xCdFhnTElndGhjX2RXaGxxSUpBdmQzbVVHYzFoemtCUEdoS3hoY3BPelh2Ui1DVlZ2SDdhZzA0elhyai1lZm1aWHRHaHkzRjBmQ2VhbG9tZ1Y2U216Qm93VG9ycmllS1Vja1VPT2VTdTZTTURTejJ6RGVJUzZlNHhPdDdZVtIBngFBVV95cUxPVkxwRWpPTEt2OFBaNjVSa3lveUpqNWxEX1lhLVZYSXM4WkpPNmJ2dExIN252ZTc0UnFIRk5Gd2dqZEVaTzFST3hqbzNWZGVvLXFCQ3NuMkg3RFBKX0ZxX09oU2Rsc1AxcXF2Z2FaZEM0cnNuYnFhVzQ4NGc2SWVGM3JDV0ZLQ1lQR1ZGUDNEMDJDTEI5UFhVak1kajlHQQ?oc=5",
+        "source": "The Hill",
+        "published_at": "2026-08-01T02:56:00+00:00",
+        "summary": "Bipartisan senators press Rubio to unlock family planning funding for women in Ebola outbreak The Hill"
+      },
+      {
+        "title": "Africa CDC chief says ‘no magical solution’ for intensifying deadly Ebola outbreak",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1I2clNmN05jNHRkVzVrODhCTU1KMEpDRVJtbEdWLU9GX2xGVFhEX2p4aGhhV3NITUM0V2FSY2MwTEFXc0tLYkhGanVMOVdseXMzV1B6S1Z5RUV1TG1FbmxJTmE4Z0wwY0FLckE3VFZiRF9tSmpndVNuUzFuYVJ5NHRHLVdRdVBtZGVJM1VPb01KZnNjUmtWYk1ndmwwWVp0M2g5bmUtNndzenhuNFE?oc=5",
+        "source": "CIDRAP",
+        "published_at": "2026-07-30T19:00:43+00:00",
+        "summary": "Africa CDC chief says ‘no magical solution’ for intensifying deadly Ebola outbreak CIDRAP"
+      },
+      {
+        "title": "Ebola disease outbreak 2026: How MSF is responding",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHh3TFlDZ05hYUNDR2swZzQxbWtjYnNBQ0tDTEcxT3NpRmtSR19zeTRsVFpuUVBJU2VpTXZFMjRIZlZTMzM5d25EZUFoR21EeVhGUXdYRVhIc3luMHVfd0NBOWJfWUZJbTlTMXZVUHdkTlZtTi1OdlV6Zlhhcy1OUWYyRjllUENBZVdXSEZkT3V1TG1mQ3c?oc=5",
+        "source": "Doctors Without Borders",
+        "published_at": "2026-07-28T20:01:26+00:00",
+        "summary": "Ebola disease outbreak 2026: How MSF is responding Doctors Without Borders"
+      }
+    ],
+    "related_queries": [
+      "WHO: Ebola-uitbraak Congo op 'uitzonderlijk tempo', slechtste week tot nu toe",
+      "1/8 in Nieuwsuur: Ebola-uitbraak groeit door • Zorgen over de AI-bril • Hoop op grote grazers",
+      "Ebola-epidemie in Democratische Republiek Congo is de snelst groeiende uitbraak in de geschiedenis van het virus"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
     "views_hint": 0
   },
   {
