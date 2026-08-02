@@ -4429,6 +4429,79 @@
     "views_hint": 0
   },
   {
+    "id": "e1b2f110a7c715f123",
+    "slug": "dr-congo",
+    "keyword": "dr congo",
+    "title": "dr congo trend tracker",
+    "description": "dr congo is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
+    "category": "public-health",
+    "geo": "AE",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-08-01T20:00:00+00:00",
+    "updated_at": "2026-08-02T02:25:30+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=AE",
+    "sources": [
+      {
+        "title": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMlRXMTFSYkpLaDdURzA5cnF3V2p3U2hkcVNvejdaMjlhZkszb3NHd3RlTXoxSlk1cDV3dGdaTE1FX2J6TmtrdlRVS0tWQnJ2d0thY21UdXV3UQ?oc=5",
+        "source": "BBC",
+        "published_at": "2026-08-01T16:16:16+00:00",
+        "summary": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says BBC DR Congo Ebola outbreak becomes world's second-largest ever dw.com Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo World Health Organization (WHO)"
+      },
+      {
+        "title": "Ebola outbreak: Where DR Congo failed in containing the virus, Uganda succeeds",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5SMkQ0WlhrRG5sbThWVnZfenYzUW1MRzFuRHhHeHlXNjgyRUppb0wzcjQ0UTFxNkFua0JaZTByZGZuMHpOZVRoTnRTU1V0UlplbC1LWUhwMlU1Qmpy?oc=5",
+        "source": "BBC",
+        "published_at": "2026-08-01T23:03:15+00:00",
+        "summary": "Ebola outbreak: Where DR Congo failed in containing the virus, Uganda succeeds BBC"
+      },
+      {
+        "title": "DR Congo’s cobalt boom carries an unwanted cargo: uranium",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdEZWcFNfc0szd1FlU0VwU1RQTUJnY01UZ0ZRdmVDc1VDLXdlM1dlQ1pCTF9UZDV2dy0tb19leXJTdXkxZUwyQmIxcFcwMGh2Z2IxRFhYYldHd05ZM1ZkbHM5djEybHllRU5Dc3VieWRrRHJRVVlVdUFjMEgtZE5leXR6V1E?oc=5",
+        "source": "Financial Times",
+        "published_at": "2026-07-30T09:00:01+00:00",
+        "summary": "DR Congo’s cobalt boom carries an unwanted cargo: uranium Financial Times"
+      },
+      {
+        "title": "DR Congo: Opposition fury as Tshisekedi edges closer to third term",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOc2x6Tng4UVJwX0xKcXpnS29sRlVLZGFJSHBPQnhPS2dDNUdHTmVLSUtKWXRIVVd3NGFXSFRvZXo0N3Z5Y241SUV2WFFZWUZYV3hPc3dmWkJBR3VsSDFUSGJRSXphM18yZ0FmeUJjbkJWVm8tMFVJVVE0eFlvcnhFSEpCT2hPMjdLLS1nN2Y3Z2Z5QUQ5RDZZSkVZR0kwSDZEZjY0MkxmRdIBrAFBVV95cUxPbmdNaFRyMkdOTXFEWXpRUGpVTlNYT1JMbVQ5NS03WWlHRnlVd1JpYUw1ckFwX3lMcDNzcVZXTGVKWXF1SF9ZbzJsWk5CWFZzUE1sLXByRE1NTzhEMVdMQmlaZkwwZW5NRERWZW4tdHFlRmdlSC1QUE5RWDZGMXd5b3VmZmdDNkhtWmhQMGFodlUtVWdLWDNzd29UM1hLc0dwaWZTeUJIak5BRjZ1?oc=5",
+        "source": "africanews.com",
+        "published_at": "2026-07-30T03:44:11+00:00",
+        "summary": "DR Congo: Opposition fury as Tshisekedi edges closer to third term africanews.com"
+      }
+    ],
+    "related_queries": [
+      "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says",
+      "DR Congo Ebola epidemic becomes world’s second largest outbreak",
+      "Today's top news: Democratic Republic of the Congo, Occupied Palestinian Territory, Lebanon"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "dr congo Live Trend Tracker | HantaUpdates",
+      "description": "dr congo is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without p",
+      "canonical": "https://hantamap.online/trend/dr-congo",
+      "keywords": [
+        "dr congo",
+        "dr congo tracker",
+        "dr congo updates",
+        "dr congo live updates",
+        "dr congo outbreak",
+        "dr congo symptoms",
+        "dr congo public health",
+        "dr congo source links"
+      ]
+    },
+    "first_seen_at": "2026-08-02T02:25:30+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "d49ef0d4620bfa3be1",
     "slug": "salmonella",
     "keyword": "salmonella",
