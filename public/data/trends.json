@@ -504,6 +504,79 @@
     "views_hint": 0
   },
   {
+    "id": "b7c7735856ecbe8752",
+    "slug": "temps",
+    "keyword": "temps",
+    "title": "temps trend tracker",
+    "description": "temps is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Los Angeles Times.",
+    "category": "public-health",
+    "geo": "ES",
+    "search_volume": "2000+",
+    "traffic_label": "2000+",
+    "published_at": "2026-08-03T04:50:00+00:00",
+    "updated_at": "2026-08-03T06:18:18+00:00",
+    "score": 2000,
+    "source_url": "https://trends.google.com/trending/rss?geo=ES",
+    "sources": [
+      {
+        "title": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUmJ4RGh1OVdNRUc1aEpKbEZEOXBWVmg0WUlEVnpoeWpRNktyRmZfaFMyQ3VuRy1RR1N0TU5aQXpfMlpBanFxN2g3RTk5RVR4UnVtUzZtUlE4bDRQSWl3YmNZT2s3eEItM095Zm40Tld4bU5vRGE3YUM5S2RIXzJ5OXRyeE9ZRFZUNWx3dFo0c3YxbG1aOWRMUjFGTmlyUXc?oc=5",
+        "source": "Los Angeles Times",
+        "published_at": "2026-08-02T17:19:00+00:00",
+        "summary": "Western U.S. heat wave brings record temps to Phoenix, wildfire evacuations in Spokane Los Angeles Times Western US heat dome brings dangerously hot temperatures to tens of millions CNN High pressure keeps desert temperatures dangerously high KLAS 8 News Now"
+      },
+      {
+        "title": "Amber heat health alerts as more hot weather looms",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CbWVTUFlvVWdaMlRKNmJ1SlFYRzFxQnpfZXRzR25DcVVsM0JXUjhTS3JwTHROa2NBWktpS3FXbDlGTDNfWVMyNEVsSU0zUzF4c3NmSkFNZ2w3bm5Kb0E?oc=5",
+        "source": "BBC",
+        "published_at": "2026-08-03T02:06:27+00:00",
+        "summary": "Amber heat health alerts as more hot weather looms BBC"
+      },
+      {
+        "title": "NW storms, then largely rain-free week ahead",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTjg2N0poS3ZSNTNkSmJ4aDNCd2NadFh1Zm16dVFIemxKWjRxdmlfcVRWSVRZb0dFN3kwTjB4eWt1ZXNNSDdlNWhtSGZKY0tPWlh2Y2pKMFlBekVTNlJTOEsyOWUzazRmN0hmMEYyQlJ2YmotZ1JOampOaWlaU19MR3dqUUt3RkhrX2I4?oc=5",
+        "source": "MPR News",
+        "published_at": "2026-08-02T20:47:15+00:00",
+        "summary": "NW storms, then largely rain-free week ahead MPR News"
+      },
+      {
+        "title": "Sunday August 2, 2026: Few Evening Showers",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdEMtb1dMQ0UwRmozZFVzNFFDb0pxOUZWZmVkLV9EOGlhNU5tQ21tXzVLdnc3aEhVNHhVT0Y3V2hKbHgwQ3hFWjNNd2FTRlBWU1BEMVFBQ21EZjNFSVJPLUR5RElhTmJXUkRrdEwzMUR0bjZOckszN0tncVBSWWlvRksyS3hHVVNUTlkwYURhQ1plaXRnRWdFdHFUMERvR203NkkzYkZxQmJfaVVsVEw4YkNtaXFyWmctWkExU3ZVaw?oc=5",
+        "source": "News Channel 5 Nashville",
+        "published_at": "2026-08-02T11:06:49+00:00",
+        "summary": "Sunday August 2, 2026: Few Evening Showers News Channel 5 Nashville"
+      }
+    ],
+    "related_queries": [
+      "Jusqu'à 37 °C ce lundi, puis le mercure baissera enfin en Suisse romande",
+      "La chaleur et la sécheresse persistantes éprouvent la population comme la nature. La pluie tant attendue devrait enfin apporter un peu de fraîcheur ces prochains jours, même si ce répit s’annonce de courte durée. 👉 Retrouvez l'article complet : https://brnw.ch",
+      "Météo: En pleine canicule, la pluie arrive enfin en Suisse"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "temps Live Trend Tracker | HantaUpdates",
+      "description": "temps is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/temps",
+      "keywords": [
+        "temps",
+        "temps tracker",
+        "temps updates",
+        "temps live updates",
+        "temps outbreak",
+        "temps symptoms",
+        "temps public health",
+        "temps source links"
+      ]
+    },
+    "first_seen_at": "2026-08-03T06:18:18+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "af40eabf4e3e6d2700",
     "slug": "kreuzfahrt",
     "keyword": "kreuzfahrt",
@@ -2203,6 +2276,79 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "add4c113b212dd4a64",
+    "slug": "hantavirus",
+    "keyword": "hantavirus",
+    "title": "hantavirus trend tracker",
+    "description": "hantavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Live Science.",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-08-03T03:10:00+00:00",
+    "updated_at": "2026-08-03T06:19:17+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1xTlROQThMSlctTkVGb2FCYXVMTjgwTDVaSE12TVpDRGZJTzVvVVdhb0x0dlJBbHpJb2JsamhMazlzNGJ5YTV5ejFucVg0TXplR29UTXc4clppU0dmNnlnd1YxNTB3cG1PR3MwaEFQSjYybHlzZHFtcTlzNWE?oc=5",
+        "source": "Live Science",
+        "published_at": "2026-05-12T10:50:38+00:00",
+        "summary": "Hantavirus cruise: 41 people in the United States being monitored as investigation into outbreak source continues Live Science"
+      },
+      {
+        "title": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOMkVUTTZsUkdYMHJoRW9obTlsZGRxQmVxT25UYWxOMGs3UTRFYlI5SFRRTW1uaU52VFduMHZsQV9tR1hMcnlMVDJMeUNHNkJQQ1ZaS3pjcXY0T0cxZlZXdThtWGZNVm5yOS1GTFlNa3A4RG9IS0xSdjZXVmNOS2tFekhWeUt6VGFiRWtxeUx5aGw2MUpud2ZNRXprUVpBR2xCTllaS3kyLVdqTDdMVG5QYWdhMk54RW9LbkdGeThfdUgxVlJCQWdfSmMzTXNuT3BWUTZVa19zMjc?oc=5",
+        "source": "Yahoo",
+        "published_at": "2026-06-15T07:00:00+00:00",
+        "summary": "Hantavirus latest updates: New case in Spain takes total to 13 after cruise ship outbreak Yahoo"
+      },
+      {
+        "title": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYnBrYUI4NHVtUHN6MWJ4QVdWM1NtY28wQnRsYVIxWG9FZ3RNVk5fTWNxcnVXLUg1SnotLTVrRHM1ZmM0NENzZmptcnpkczY2dWVqbU96MEJFQnE0Rk1ydjdwcS1OUW5RNTNsSGt2X0xxRXIzT1VteldkNG1BTHZZOVlYckNzMnYzRTNYTDJIUkpqZXFiZGdXR1BHdXBYM3BoWXgw?oc=5",
+        "source": "AP News",
+        "published_at": "2026-06-11T07:00:00+00:00",
+        "summary": "﻿﻿US puts up $750K to evacuate an American who was aboard hantavirus cruise ship from remote island AP News"
+      },
+      {
+        "title": "White House response to hantavirus and Ebola contrasts with COVID criticisms",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdm5Xbm04UmpZRElqUGZMcGtCN1JXeS10QklkX1haMGVTQ1U2SXhsTFFCTGsya2xVdkVycFNpV1NEMFh4ZlVGdjliOG0xYlZvQVNtdS0yYWRRcFBvMFdySnZRbDhETXgwU1RKUndXUHppRUdtOWtZSWp5SjUzbUVqQlJn?oc=5",
+        "source": "NPR",
+        "published_at": "2026-06-11T07:00:00+00:00",
+        "summary": "White House response to hantavirus and Ebola contrasts with COVID criticisms NPR"
+      }
+    ],
+    "related_queries": [
+      "Doctor Kalergis advierte \"llamativa letalidad\" de 40% y cambios en la circulación del hanta",
+      "Columna de opinión | Hantavirus: convivir con el riesgo y prevenir sin alarmarse",
+      "Alerta sanitaria por hantavirus: senador Castro valora decisión del Gobierno y llama a reforzar la prevención en O'Higgins"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "hantavirus Live Trend Tracker | HantaUpdates",
+      "description": "hantavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without",
+      "canonical": "https://hantamap.online/trend/hantavirus",
+      "keywords": [
+        "hantavirus",
+        "hantavirus tracker",
+        "hantavirus updates",
+        "hantavirus live updates",
+        "hantavirus outbreak",
+        "hantavirus symptoms",
+        "hantavirus public health",
+        "hantavirus source links"
+      ]
+    },
+    "first_seen_at": "2026-07-22T05:46:04+00:00",
     "views_hint": 0
   },
   {
@@ -4790,79 +4936,6 @@
       ]
     },
     "first_seen_at": "2026-07-25T10:25:21+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "0c6ca9f93f8fa1107a",
-    "slug": "hantavirus",
-    "keyword": "hantavirus",
-    "title": "hantavirus trend tracker",
-    "description": "hantavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The New York Times.",
-    "category": "public-health",
-    "geo": "ES",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-07-22T04:40:00+00:00",
-    "updated_at": "2026-07-22T05:46:04+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=ES",
-    "sources": [
-      {
-        "title": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNdE5XWHRDeVJ0TktuNU9YT3I2SkRVb3JRd1N0NnZfSGJ6MVRwZGFSS3cxWF9XYlA0aHZKQ04yaGlBWDZVc193N3VENGpGcWxEYzd4QWZVbDRyLVZmWWdwX0NKaDhMVm4wZGdPb2FfakxSN0VNUG84SlNJazRjZDRWNExFSkI?oc=5",
-        "source": "The New York Times",
-        "published_at": "2026-07-21T09:01:06+00:00",
-        "summary": "The Ordeal of a 42-Day Hantavirus Quarantine: ‘I Felt Like a Prisoner’ The New York Times"
-      },
-      {
-        "title": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZYM05sUmRRaXBIYUNRZzI3QzF4aG43TFB1Nk9YYThzMjZiWm9TaC16WkFjVFA1YmFIRjR3Vy0wcXJGSnZGTzVkeDB0bExjRnVKR2xia2NyaDRUMDE4ZTk5NWI4cS15Y3MwX294aTNVOW95RF9uNDE4V2NXYzFVckEyNURxOUVuZHN3Z2xkNml1ZWwxOUpzbDAwcjNaZUJlYUZaMFNFS2NmR1lYM3c?oc=5",
-        "source": "AP News",
-        "published_at": "2026-07-21T23:36:00+00:00",
-        "summary": "Venezuela confirms 3 people have died of hantavirus infections, with 2 more deaths suspected AP News"
-      },
-      {
-        "title": "18 US passengers sent to Nebraska, Atlanta amid hantavirus outbreak",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTkw0Z3hMY2lBdVlnQnRFaXNzNi1tZDVLU2RMZDVUNjRwY1BBaG90TVBMbWhPb0FmWDJ2eUNpZGlrenBDVUViWGJ3R2cxeDZrZDFaZ3ZiOW5MYkpZcWlUMHRCZG1QeGFhUV80RjZ1cjVNeXlHVklwU2JXc0lfTUNjcGxCSms0VUxFcDJuT0pHczNwUFVsYkRsZjN2SDdndENnVlIyTnU4aDNVejVueE1veXhXdG9EeVVpUjRadi0xSng3Qjg?oc=5",
-        "source": "USA Today",
-        "published_at": "2026-05-11T07:00:00+00:00",
-        "summary": "18 US passengers sent to Nebraska, Atlanta amid hantavirus outbreak USA Today"
-      },
-      {
-        "title": "After cruise ship outbreak, review examines how hantavirus affects the brain",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPWFpISWdEa0kzWm1RTDU5dk85U09ZX2IwbjVweXlkMWZTMUpFSGpXYVVFcEhEaU45OU9uSk9sQ1BOaTVNVE1ZS1VMamx3a1lkWjVCLWFjQkQ0aGhoZkoyVGNwSDZ3T040WkpTc19VWXZXcG1jSVZTbXV2VzV0ZTlETTN1NlhSdDY1Sl9mZ0o3TElrQWVFWTFSQTNLWU9fdC1uT1E5UnRBWWJxUzRiX3c?oc=5",
-        "source": "CIDRAP",
-        "published_at": "2026-07-20T18:41:09+00:00",
-        "summary": "After cruise ship outbreak, review examines how hantavirus affects the brain CIDRAP"
-      }
-    ],
-    "related_queries": [
-      "El Gobierno venezolano confirma tres muertes por hantavirus, aunque descarta que dos médicos fallecidos en Barinas estuvieran infectados",
-      "Tres fallecidos por hantavirus en el noreste de Venezuela",
-      "Ministerio de Salud confirma tres muertes por hantavirus en Anzoátegui"
-    ],
-    "map_focus": {
-      "label": "United States",
-      "lat": 37.0902,
-      "lng": -95.7129,
-      "zoom": 4
-    },
-    "seo": {
-      "title": "hantavirus Live Trend Tracker | HantaUpdates",
-      "description": "hantavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without",
-      "canonical": "https://hantamap.online/trend/hantavirus",
-      "keywords": [
-        "hantavirus",
-        "hantavirus tracker",
-        "hantavirus updates",
-        "hantavirus live updates",
-        "hantavirus outbreak",
-        "hantavirus symptoms",
-        "hantavirus public health",
-        "hantavirus source links"
-      ]
-    },
-    "first_seen_at": "2026-07-22T05:46:04+00:00",
     "views_hint": 0
   },
   {
