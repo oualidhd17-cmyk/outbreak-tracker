@@ -869,6 +869,79 @@
     "views_hint": 0
   },
   {
+    "id": "6980c97aaad2a8444b",
+    "slug": "heat-health-alert",
+    "keyword": "heat health alert",
+    "title": "heat health alert trend tracker",
+    "description": "heat health alert is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Sky News.",
+    "category": "public-health",
+    "geo": "GB",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-08-02T23:30:00+00:00",
+    "updated_at": "2026-08-03T02:26:57+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=GB",
+    "sources": [
+      {
+        "title": "Heat health alerts for most of England as temperatures set to rise again",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQblBSbWRaQzZQSlB5V2pDbjFiOVJIWlR2X0ZtR0doTmVjS2VlZkgtaFRWek5BenFrWUk1RU04cTMySHVpTU1RMV81OWthZFBMMWtYN0E3ODRmSDFZSlhKaDg5UHVFcm5GSEphaC1zemJVV3gxUEctdTN6Q2M4ZVNfV19lQkxHSVlxZ25FQk9VcTRYRkVaV2ViTUExZ3dFTV9meVota25KUGF0SDJY?oc=5",
+        "source": "Sky News",
+        "published_at": "2026-08-02T20:13:12+00:00",
+        "summary": "Heat health alerts for most of England as temperatures set to rise again Sky News"
+      },
+      {
+        "title": "New heat health alert for London as temperatures to soar again",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNRXBiTEY2RGU4bDB6QlBMZzdpcmtzMGE2dkdZeUc2NXhVcFZvUVlXS3RYaFU3LS1SZmhwdVZQdXJlR1BLaXJfa2oxMkcwQzE5bGVNb0lfam5Vdm5nRl9vU1lEVktnQXhPZU5IbUdBR0N4d3hwQVE0Wk5rUkFLWDhYMTFOOXI?oc=5",
+        "source": "Yahoo News New Zealand",
+        "published_at": "2026-08-01T17:29:40+00:00",
+        "summary": "New heat health alert for London as temperatures to soar again Yahoo News New Zealand"
+      },
+      {
+        "title": "New heat health alert for London as temperatures to soar again",
+        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWEZJZ3VOX3JrdElZRkpVSlEtaXBELWhSNTFMSnFnRkZITW85NjJNYlZfeVMtamxzMmYxdDVqMWFEclRBeFdrdDJxYzdyYXNjeTBqQVIzellxQlJkZGJVUVA3S3JYOVMyNXRqdDFzRmNXTXBGRGduREVwQkYzUFZDazZuN1Jja084YVdaalpCSUt5TWJEWVNnanQ4ME4tdThOUjBrNUhFZ0dod0QtQjl5NkhDOHhYN2NHWThpbw?oc=5",
+        "source": "London Evening Standard",
+        "published_at": "2026-08-03T00:57:17+00:00",
+        "summary": "New heat health alert for London as temperatures to soar again London Evening Standard"
+      },
+      {
+        "title": "Amber heat health alerts as more hot weather looms",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJV1lzVEl5Z1VhX0xVbDRDVjZVTGFQWXR3RjRjMWdMbEY2N2gtdnUyR1hVZ0JYWTFWSGxBdlFYOFdVajlpb2xIY3I5T0xua3M5VFY4c0RlWHpLdXlBdkM2RQ?oc=5",
+        "source": "BBC",
+        "published_at": "2026-08-03T02:06:27+00:00",
+        "summary": "Amber heat health alerts as more hot weather looms BBC"
+      }
+    ],
+    "related_queries": [
+      "Heat health alerts for most of England as temperatures set to rise again",
+      "Amber heat health alerts as more hot weather looms",
+      "New heat health alerts issued with highs of 35C forecast in some areas"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "heat health alert Live Trend Tracker | HantaUpdates",
+      "description": "heat health alert is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links ",
+      "canonical": "https://hantamap.online/trend/heat-health-alert",
+      "keywords": [
+        "heat health alert",
+        "heat health alert tracker",
+        "heat health alert updates",
+        "heat health alert live updates",
+        "heat health alert outbreak",
+        "heat health alert symptoms",
+        "heat health alert public health",
+        "heat health alert source links"
+      ]
+    },
+    "first_seen_at": "2026-08-03T02:26:57+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "7763d8c46228d87af8",
     "slug": "parasite-cyclospora-outbreak",
     "keyword": "parasite cyclospora outbreak",
