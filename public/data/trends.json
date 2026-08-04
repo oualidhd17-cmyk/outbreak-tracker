@@ -66,6 +66,79 @@
     "views_hint": 0
   },
   {
+    "id": "a5b3e6e58b8455a208",
+    "slug": "surto",
+    "keyword": "surto",
+    "title": "surto trend tracker",
+    "description": "surto is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: YouTube.",
+    "category": "public-health",
+    "geo": "BR",
+    "search_volume": "5000+",
+    "traffic_label": "5000+",
+    "published_at": "2026-08-04T16:00:00+00:00",
+    "updated_at": "2026-08-04T16:49:05+00:00",
+    "score": 5000,
+    "source_url": "https://trends.google.com/trending/rss?geo=BR",
+    "sources": [
+      {
+        "title": "Chris MC IGP & Riam MS - Um Surto Eletrônico 🍬",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5CeHlaLUxqLU5rUzRNQkRyeGM3djVwU01yUy0wVUxaUWE4dFFZbEVvTk40Y1Q4d2x0SkRoS0RhRDJDTkR5QjZPWi1RR0RIb1ZqYU1uUXJuWmw0Z25t?oc=5",
+        "source": "YouTube",
+        "published_at": "2026-02-18T08:00:00+00:00",
+        "summary": "Chris MC IGP & Riam MS - Um Surto Eletrônico 🍬 YouTube"
+      },
+      {
+        "title": "EUA: Surto de meningite fúngica infographic",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xUl93ZHEtUWZ3Zmp6RlJkQmlGZ3oweXUtVXk0M3NmRnc3czNXb0dHT0NoemdyQU04ZzN4SFFzV3dOaG5zSWNBWmxCTExldzNuN1RKeVV4NnpMY3FMVFdOSlc0VlB5ZUJaQS1uZ21SSWt4VEZtUVNOb0wtZXZwdw?oc=5",
+        "source": "graphicnews.com",
+        "published_at": "2019-12-06T07:29:36+00:00",
+        "summary": "EUA: Surto de meningite fúngica infographic graphicnews.com"
+      },
+      {
+        "title": "Surto, Anseba, Eritrea Weather Forecast",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1Na2Z4a1dQelBNTzR1LTRTckpzdUl4SnRGUFFKblJxSUdZNHp4b2tVZzNFeW1xclFaS1dOSGdWUk1hdXZIRXBSaktNenQ0djJWNmd2OERMeE5pUEVzSWVKeXdmQmh0Vjg4bk5Eb0E1NzE3cFBoWVZEbHJQc0Y?oc=5",
+        "source": "AccuWeather",
+        "published_at": "2018-01-24T16:11:03+00:00",
+        "summary": "Surto, Anseba, Eritrea Weather Forecast AccuWeather"
+      },
+      {
+        "title": "Nipah Virus Outbreak In India Triggers Maximum Alert At Airports In Asia",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOaG9UTjNZLW14Z2xrMnlVOTN5MUhTVlFNcWR5Nmk2YTIxVlcxRHNyeGl4MEo4S0NDUnRLUWdDMkJ0c0Vfd25yVTdBazRDWHJ6ZVl5V05UV3NyaGROTlhBd1Y2UVROYkpUWkZ0RlV3aTZEZmQzZDRaVVFzaFBBOXlOQ3Z1WWEtbU55SXIyeVJyczJUdFlVNnFyMTZFendjcFZQblhpYUM2TVhsbHljeGZRc3dvMzltWEU?oc=5",
+        "source": "en.clickpetroleoegas.com.br",
+        "published_at": "2026-01-27T08:00:00+00:00",
+        "summary": "Nipah Virus Outbreak In India Triggers Maximum Alert At Airports In Asia en.clickpetroleoegas.com.br"
+      }
+    ],
+    "related_queries": [
+      "Surto de 'diarreia explosiva' registra duas mortes em estado americano",
+      "EUA registram primeiras mortes ligadas a surto de parasita que causa ciclosporíase",
+      "Mortes por ciclosporiase no Michigan sobem para 2; Sweetgreen cai 7% e Yum recua 2%"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "surto Live Trend Tracker | HantaUpdates",
+      "description": "surto is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/surto",
+      "keywords": [
+        "surto",
+        "surto tracker",
+        "surto updates",
+        "surto live updates",
+        "surto outbreak",
+        "surto symptoms",
+        "surto public health",
+        "surto source links"
+      ]
+    },
+    "first_seen_at": "2026-08-04T16:49:05+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "7073810ccbd3a77e58",
     "slug": "congo",
     "keyword": "congo",
@@ -1549,6 +1622,79 @@
     "views_hint": 0
   },
   {
+    "id": "8e45524763da951b26",
+    "slug": "aktie",
+    "keyword": "aktie",
+    "title": "aktie trend tracker",
+    "description": "aktie is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: TradingView.",
+    "category": "public-health",
+    "geo": "DK",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-08-04T14:50:00+00:00",
+    "updated_at": "2026-08-04T16:50:50+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=DK",
+    "sources": [
+      {
+        "title": "Streaming-Wachstumssorgen schicken Universal-Aktie auf Talfahrt",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqSzd2UDlLSFhrSGxPX2J1ZnEwQ3daQTFGZ3AzQ0FGd05TMXVNS2RFMkpkY0Y5dkUxWElPN3Mwb3FNM3hsVzZ2ZUJESlFRNUUxWDcxTklZbW5abEVfN0xyTG5NOVhuSUl1Z3BrV0pMb3NleGdqZ0g2OA?oc=5",
+        "source": "TradingView",
+        "published_at": "2026-07-31T09:36:28+00:00",
+        "summary": "Streaming-Wachstumssorgen schicken Universal-Aktie auf Talfahrt TradingView"
+      },
+      {
+        "title": "Adidas Aktie - Trendwechsel? John A. Sarcone (gchmFWDU4b)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9jSFBmRGdJakRWRkRsNGtOTkxLWnpkRElFS0xCSHZmd044bVJOQXhfTnRrZTVJbkVLLVFHUFE5bXlucUp2M1hDNURZVFUtTUhFR0hBSGJZbXhyVEE?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-08-04T08:15:21+00:00",
+        "summary": "Adidas Aktie - Trendwechsel? John A. Sarcone (gchmFWDU4b) Mshale"
+      },
+      {
+        "title": "Chipotle hebt trotz Lebensmittelskandal Prognose an - Aktie steigt",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BcXl0ZWVEbm5pRDBmUGdvZmhaNi1xRjZHNDRzRk1hNDUxYUFkM0ZPaGNlNDNrWjBOdlo2SEVOREJNOFF6Qnh0ZmhEeGxJS1RaaEVNbGN1SGk4RWFkZmcxLUdHOV9ydUR0VGxBZlFsNHpaQjNNa3d4Zw?oc=5",
+        "source": "TradingView",
+        "published_at": "2026-07-30T15:01:28+00:00",
+        "summary": "Chipotle hebt trotz Lebensmittelskandal Prognose an - Aktie steigt TradingView"
+      },
+      {
+        "title": "Amazon Aktie - Kaufchance Oder Finger Weg ? Hantavirus Pandemia (ciTJ0NbVH2)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fU2g1R2ZVTFNLampnLXpKc2g2cldiZE9DcHJuTWMzckdXZGxCSW9VTGZ5X0pfM1ZFNlZqdW1TNnc1c2tWcTM5TjN6QVpzZ0ZVdUFJRlJZYWdva05KLS1JRw?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-08-02T18:31:51+00:00",
+        "summary": "Amazon Aktie - Kaufchance Oder Finger Weg ? Hantavirus Pandemia (ciTJ0NbVH2) Mshale"
+      }
+    ],
+    "related_queries": [
+      "Analyse: DZ BANK bewertet Beiersdorf-Aktie mit Halten in neuer Analyse",
+      "Creme-Legende: Seit Montag ist bei Nivea Schluss mit der Illusion von der teuren Premium-Marke",
+      "Aktie im Fokus: Beiersdorf Aktie nach Prognosesenkung"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "aktie Live Trend Tracker | HantaUpdates",
+      "description": "aktie is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/aktie",
+      "keywords": [
+        "aktie",
+        "aktie tracker",
+        "aktie updates",
+        "aktie live updates",
+        "aktie outbreak",
+        "aktie symptoms",
+        "aktie public health",
+        "aktie source links"
+      ]
+    },
+    "first_seen_at": "2026-08-04T16:50:50+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "883cb6fb26d54c418f",
     "slug": "incendies-gironde",
     "keyword": "incendies gironde",
@@ -2276,6 +2422,79 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "a06fead98750c13134",
+    "slug": "chandipura-virus",
+    "keyword": "chandipura virus",
+    "title": "chandipura virus trend tracker",
+    "description": "chandipura virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: PLOS.",
+    "category": "public-health",
+    "geo": "IN",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-08-04T16:10:00+00:00",
+    "updated_at": "2026-08-04T16:48:55+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=IN",
+    "sources": [
+      {
+        "title": "Genome annotation and protein attributes of Chandipura virus (isolate CIN0451, GenBank: NC_020805.1).",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPblpSQ1FEeFZYWGY4SHlyVFdOd2tZb0JuVUlJT241ek5NZ3VqbWV6SW5wNmo3dG9XTmhvMzRYWWdHZmVFalZhMDJYMGtRb1FDYkJLeUdMM2FkYVdTQ2UwYnNSNkFwMXphMndZckt2aEVMQlV2T1JNc2NWSnJhbDRJYUkwV1JzakFMNmc?oc=5",
+        "source": "PLOS",
+        "published_at": "2026-08-03T19:31:31+00:00",
+        "summary": "Genome annotation and protein attributes of Chandipura virus (isolate CIN0451, GenBank: NC_020805.1). PLOS"
+      },
+      {
+        "title": "22 children die of Chandipura virus in Gujarat this monsoon",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZHc0Z3BaN0NiQTdEZ1gza2p0bFFPZ3pjSENMbnFhZTRNb25SdU93eldNY3BDR3lBMEV1d0lSTDg3N1BHS3FFYmxYel9UMVU4VDBibUs0OGF3eUdWWDF4aURwM0dxei1HSXIwWlZMTWNueV94OXg5cVk4dVhuVzF0cmpBc3lGY0FSTTZ3MFhveS1aaERKaVNVUlRqQzRZQ2NYNHZkTVhjdFE0VldOakVyTnFqbWNRSElRY1RCU2NsTzdxUmZw0gHLAUFVX3lxTE5SZU56WmxRRzZCdUY4ZkFFVXU0bGlfODVLMGZfUGkyUWdpeTFaR3p5UXJmUEJDejJXWXNoMXNYSkFXTkUwc1pudzNiamxIQXprR1RtSVBsc3dJRjljSm1jMGJzUXE0TGhyRDV3S1BYWnBzZDlWdTdrZ1ZNZ2lYSlRtMnVVMi1zdVBkRXhmYjRWT212QU1sRERpSlpyS21kZzFtVmtTRGlsMjVoZWVwNy1SSXRCY1RVQmY3MHgweUxoNVZKWVQwcWM2Z0pZ?oc=5",
+        "source": "thehindu.com",
+        "published_at": "2026-08-03T16:20:32+00:00",
+        "summary": "22 children die of Chandipura virus in Gujarat this monsoon thehindu.com"
+      },
+      {
+        "title": "Chandipura virus that killed 22 children in Gujarat is not new to India, see how",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPZk05dHZkcVR2d3JJN0UwRHlqMkgybjY5RGJ1QkRqeUxpWEtSQmdtMzI4ME96eFc1NXpqQlVrU1NqVVhZSnZxSE5DSV9nSF85a2VBQmNDSUNocU55M0NqSGR5YWItZHYtT0FKTmlMLS1BeE9mWEFSb21rZUxtc0Y4dUUtVHp2WFFGOWVfVWFfLVpPZUdhUlJSajhpZzAzQVI2Umt4cEFWRjdld21ScFgtR191U2hjZw?oc=5",
+        "source": "Deccan Herald",
+        "published_at": "2026-08-04T09:07:12+00:00",
+        "summary": "Chandipura virus that killed 22 children in Gujarat is not new to India, see how Deccan Herald"
+      },
+      {
+        "title": "22 children dead, 35 infected: India's Gujarat faces Chandipura virus outbreak — Experts explain symptoms",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOR2IySXFpZWVVdTB5eXB1MjN3YkhLOTR3UVlDT3l2R0tVd1ZFcHZneFMzakNCZWZscmtlTUVrdURSQk53V05tc1pNV0w2bGVFTUV5QV9McjFDUFFScTk1ZHctdnhSWDNsc1lDZDhodTJwcThCa3NJQ0sxZmFJb3FJNGhVT0VWemxELXJGb0V3YnZld0lTb2RocnhYOVVVYzdiU1puMkpJWVpaOXlPTmJnRTRWMGZhSHNoVlgxOE13bGpkUVc2Xzl6TUZHUmFEa2dNUWtFbUV2NUVCYTdIQVVCTW5RR2nSAeoBQVVfeXFMUFIxeXd1NjFlUUMta3BZU2FUMmtoRnl2YlhxYlRfNVl5dW5iUTM4V2tWT0M5TnkyS1lOWm1ZV0JXNi1yY2pHekNzdzN1Q3Z0OTVmZ1d1emVjN2dwZ1RlYmJycHhHR1NrdC1IT2x4d3Utdmx3NjZqY0NEblZYamVXZVUwODVfVU82ZldYcGE2NUpybFZNaVhVMGlvdFlCaVYtX3VzMGlLaVBuWHZSajRhXzBUNVBlT3JIOXh6N0YwdmxUTXlnbzBTcHZNTEZrUEQtakJFS3JyTWJtdDhqVUNLaFM5YjN3VHFtUWJ3?oc=5",
+        "source": "WION",
+        "published_at": "2026-08-04T00:55:00+00:00",
+        "summary": "22 children dead, 35 infected: India's Gujarat faces Chandipura virus outbreak — Experts explain symptoms WION"
+      }
+    ],
+    "related_queries": [
+      "Gujarat Health Machinery Placed On High Alert Following Chandipura Virus Outbreak",
+      "22 children die of Chandipura virus in Gujarat this monsoon",
+      "22 children die of Chandipura virus in Gujarat this monsoon, seven under treatment"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "chandipura virus Live Trend Tracker | HantaUpdates",
+      "description": "chandipura virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links w",
+      "canonical": "https://hantamap.online/trend/chandipura-virus",
+      "keywords": [
+        "chandipura virus",
+        "chandipura virus tracker",
+        "chandipura virus updates",
+        "chandipura virus live updates",
+        "chandipura virus outbreak",
+        "chandipura virus symptoms",
+        "chandipura virus public health",
+        "chandipura virus source links"
+      ]
+    },
+    "first_seen_at": "2026-08-04T16:48:55+00:00",
     "views_hint": 0
   },
   {
