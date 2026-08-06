@@ -2498,79 +2498,6 @@
     "views_hint": 0
   },
   {
-    "id": "7180b01445d0041f63",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: NBC News.",
-    "category": "public-health",
-    "geo": "ES",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-08-04T10:30:00+00:00",
-    "updated_at": "2026-08-04T11:25:57+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=ES",
-    "sources": [
-      {
-        "title": "Ebola outbreak in DR Congo accelerates as health officials say Trump and Elon Musk’s aid cuts hamper response",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcURYc0dEeG1ZQVprV2hTMkJsNk1PNDk3VFpxRFpnODBQMXhIQm1HcG13WUxQRDdQc2Z1dlJGUUktRTN1SE9FbHVObnE3bmRWN3NYLXVGd2QtdkNZc3dISFQzNEUwYWJKY3JpR05UMDlrWFE1T0pEU2Z3T1R5WHE5UHV5WHdsX0Z2X2trampWNFluZVY5UlEzMXFReGN0STBKTlZhNVR2dw?oc=5",
-        "source": "NBC News",
-        "published_at": "2026-08-03T09:00:13+00:00",
-        "summary": "Ebola outbreak in DR Congo accelerates as health officials say Trump and Elon Musk’s aid cuts hamper response NBC News"
-      },
-      {
-        "title": "Ebola outbreak in DR Congo now second-deadliest in history",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOSEo1aHpTWllacXZ4bE9vekxFZVA0UGRvb19FeVZ4b1JHbENJaWZDNUc0cEFsMnJIbXNhNDQ3SVl2UDJZS3VJOUExOVVaTTJmZk15RjF5czRXUkc2djBTYl9XbGctUmVJc3lrVG5nVGNBMFZFZ1ZxMl9GSGhKOW5JcWNDNlA4UGZfM1BzRkxR?oc=5",
-        "source": "CIDRAP",
-        "published_at": "2026-08-03T19:38:00+00:00",
-        "summary": "Ebola outbreak in DR Congo now second-deadliest in history CIDRAP Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo World Health Organization (WHO) Fast-growing Ebola outbreak in DRC surges to second-largest on record CNN"
-      },
-      {
-        "title": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbHlYLUhoUVVWYUY4cDhIbjNsVXNsWk5jY3FQcC1LeTN0UU8xZnZmWUVISG1HaTF1XzVpdGRTaXZiaHhPeWlIcGs4Qm1yWUgzakN0WDdXcDdqYkhxaE1BZGdOMUhDTUVlZVlnZ0FCcDZjY2tVS3Voc3dBZkpSdWdxMi1lWG5LbV9JQUFycDFTRllrX2JoaXFrcHBBOENPY2k1WmFYT9IBqgFBVV95cUxPNVdkWXJma1dLaGlQZVRPRTNLVXRHVy15dDhBM0VJYWFzVmhLaHhPRDkwNV9fM2VlRkx6UzM4MDZzUWdUWEVCajhoYm0zUzNveW1XN282Y0xUZms3YWtIMUhwQ2N4c3RtOWpNUk4zSjdITUFTUjlhYnFCbEZYLW94MDZGc3h2c1NTU1ByQkZPMmp0c2Y1THNEUzJaTUNGbEdzcTFxWkNGLXkyZw?oc=5",
-        "source": "abcnews.com",
-        "published_at": "2026-08-04T10:56:42+00:00",
-        "summary": "Ebola kills 1,700 in eastern Congo as the fastest-growing outbreak surges abcnews.com"
-      },
-      {
-        "title": "Ebola outbreak: Where DR Congo failed in containing the virus, Uganda succeeds",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83VnFZNGt4bVNuc2pjN1p1STNRZ3d4OXpieGpuYlItYTNBQUhCc2JqSHFfWDVBWUUxb2MtcEJFNUZWYUZRNXNvRW5RQ2xZdVVKNXF0N1NWeFEzdw?oc=5",
-        "source": "BBC",
-        "published_at": "2026-08-01T23:03:15+00:00",
-        "summary": "Ebola outbreak: Where DR Congo failed in containing the virus, Uganda succeeds BBC"
-      }
-    ],
-    "related_queries": [
-      "Los daños colaterales del ébola: el miedo a acudir al hospital multiplica las muertes en embarazadas",
-      "El brote de Ébola del Congo ya es el peor de la historia del país",
-      "La paradoja del nuevo brote de ébola: fracaso sanitario y avances científicos en tiempo récord"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
-      "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "add4c113b212dd4a64",
     "slug": "hantavirus",
     "keyword": "hantavirus",
@@ -4937,6 +4864,79 @@
       ]
     },
     "first_seen_at": "2026-05-10T15:38:16+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "4e920e5c93cc0f8489",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Guardian.",
+    "category": "public-health",
+    "geo": "SE",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-08-06T20:20:00+00:00",
+    "updated_at": "2026-08-06T23:55:57+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=SE",
+    "sources": [
+      {
+        "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WYmtqdWFvVXpFVUNjMDlpS1IxTXRTRms0Ym5wVW1RME5YbXZsVzdWQjdqQi02U0E5M3Z5Uy12MDAxdHMtekpJLUp0eTd0MWxsN0FTNEc4QXRpb3FQejhJei03V09xbzFjWjg1V1BTUFRoRVF2YmpMNzFB?oc=5",
+        "source": "The Guardian",
+        "published_at": "2026-08-06T19:42:00+00:00",
+        "summary": "Ebola virus behind massive outbreak in DRC could be mutating, officials say The Guardian Ebola outbreak spreading faster than efforts to fight it: WHO The Hill Unpaid wages and deadly risk: Why health workers are threatening to abandon the Ebola response CNN Explainer: Why Congo's Ebola outbreak is spreading faster than previous epidemics Reuters Why Congo’s Record Ebola Outbreak Is Becoming Deadlier Bloomberg.com Africa CDC and WHO call for urgent, community-led action to contain Ebola in the DRC World Health Organization (WHO) DR Congo Ebola health workers protest unpaid wages as deaths surp"
+      },
+      {
+        "title": "Ebola in DR Congo: River boat under quarantine after five deaths",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1bWp4UHZ4TC14azNGMWZRWnhGOFNMdDlZbkhJZUd3OG44QmhLVVoyNk50T2ppbjktS2taZXZEeEFwS0xxSGx1NXZpZUtvVDF0YW5FVXhJT1Radw?oc=5",
+        "source": "BBC",
+        "published_at": "2026-08-06T14:04:27+00:00",
+        "summary": "Ebola in DR Congo: River boat under quarantine after five deaths BBC"
+      },
+      {
+        "title": "Ebola Outbreak: Current Situation",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-08-04T19:01:05+00:00",
+        "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "Ebola disease outbreak 2026: How MSF is responding",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHh3TFlDZ05hYUNDR2swZzQxbWtjYnNBQ0tDTEcxT3NpRmtSR19zeTRsVFpuUVBJU2VpTXZFMjRIZlZTMzM5d25EZUFoR21EeVhGUXdYRVhIc3luMHVfd0NBOWJfWUZJbTlTMXZVUHdkTlZtTi1OdlV6Zlhhcy1OUWYyRjllUENBZVdXSEZkT3V1TG1mQ3c?oc=5",
+        "source": "Doctors Without Borders",
+        "published_at": "2026-08-06T07:16:14+00:00",
+        "summary": "Ebola disease outbreak 2026: How MSF is responding Doctors Without Borders"
+      }
+    ],
+    "related_queries": [
+      "Unpaid wages and deadly risk: Why health workers are threatening to abandon the Ebola response",
+      "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+      "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
     "views_hint": 0
   },
   {
