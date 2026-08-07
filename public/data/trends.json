@@ -4794,6 +4794,152 @@
     "views_hint": 0
   },
   {
+    "id": "122b54a2c480c2efcf",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Atlantic.",
+    "category": "public-health",
+    "geo": "AU",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-08-07T12:20:00+00:00",
+    "updated_at": "2026-08-07T15:52:54+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=AU",
+    "sources": [
+      {
+        "title": "The Most Basic Step of the Ebola Response Is Falling Short",
+        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9CY2RJdmFJbFJwUm9icW1DOS1rZUxwRnpuaWJPRE9wdEtGRGpNZ0xMSDRCWUpHU2xkRDVHR3JxMmZuWDV0NnVMTk13a0V6Yk9zaVZkMy1GT1BhRmszcWY5Ym9ZWjhJVmJmMWNtOHZ1T3dFdw?oc=5",
+        "source": "The Atlantic",
+        "published_at": "2026-08-07T13:13:54+00:00",
+        "summary": "The Most Basic Step of the Ebola Response Is Falling Short The Atlantic Ebola virus behind massive outbreak in DRC could be mutating, officials say The Guardian One man works to slow the fastest-growing Ebola outbreak in history, and he's doing it unpaid AP News Congo's Ebola outbreak surpasses 4,000 cases Reuters Ebola outbreak spreading faster than efforts to fight it: WHO The Hill Unpaid wages and deadly risk: Why health workers are threatening to abandon the Ebola response CNN Africa CDC and WHO call for urgent, community-led action to contain Ebola in the DRC World Health Organization (WH"
+      },
+      {
+        "title": "Doctor treating Ebola in DR Congo who survived virus",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTF9Vamlud0RmMzBZLW9LNmpWbUhkTUo2czRCQzZhODlia3o1Q29Sbktfb1RiYmdJcHB5X3JZenYyMWpJRjhUZzlpZjc4Y19aSmVqT1huWHhVNXBja0M2M0xBdFBOajYzY0ZieDdNdmVHbzdEUzNtT2s3ZlQzV3RRWEZtVUVjOTYwNklRQWFjUnlqUDdYX2x6LWIwRDZwMGNfRTdnVA?oc=5",
+        "source": "NBC News",
+        "published_at": "2026-08-07T13:07:49+00:00",
+        "summary": "Doctor treating Ebola in DR Congo who survived virus NBC News"
+      },
+      {
+        "title": "Ebola Outbreak: Current Situation",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-08-04T19:01:05+00:00",
+        "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "Ebola virus reaches displacement camps in DR Congo",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBXcUhrVE9EU1pHamRWWHpwQm9TQVZCVVEwU1FIMFhPbTYtNlVCajhUTXpuVUFrc1dBY2tRZXc0bk9BaE1xREhyeHgzcE1hX2kyNFF3VHlkNA?oc=5",
+        "source": "UN News",
+        "published_at": "2026-08-06T18:02:56+00:00",
+        "summary": "Ebola virus reaches displacement camps in DR Congo UN News"
+      }
+    ],
+    "related_queries": [
+      "Ebola outbreak in DRC fastest growing on record: UNICEF",
+      "Unpaid wages and deadly risk: Why health workers are threatening to abandon the Ebola response",
+      "Ebola virus behind massive outbreak in DRC could be mutating, officials say"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "66c1fbee28e61223f5",
+    "slug": "bundibugyo-ebolavirus",
+    "keyword": "bundibugyo ebolavirus",
+    "title": "bundibugyo ebolavirus trend tracker",
+    "description": "bundibugyo ebolavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Reuters.",
+    "category": "public-health",
+    "geo": "IT",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-08-07T15:40:00+00:00",
+    "updated_at": "2026-08-07T15:52:40+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=IT",
+    "sources": [
+      {
+        "title": "Moderna begins first human trial of Bundibugyo Ebola vaccine",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRUpseTBiVk8zUzYtaks3RkJCeTlJYURDTllpNy0yZGJjRXg2MnJGWkxiLXhHRW84YXByOG1zZXlsdk16c3Bkdmd4VUl6QVZTSHktX3dnZkctUnZvX01BT2NNSTM4UkZlaHlxbVlmRzE0SHY0NnZjTXVQN1U2U3lfV1h1djNXYmkyaXZNS2Z0UjFmMUNNY25ZRk5fcGhEOUVEYXhVNFcyR1g0alpSZE9xSWdKZk1DRnJsSjZWWm5oZ2JELXhoNkVVTA?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-08-04T15:07:33+00:00",
+        "summary": "Moderna begins first human trial of Bundibugyo Ebola vaccine Reuters"
+      },
+      {
+        "title": "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZVVU52ZV9BME5XeURYMmFnb0ZvWldaTFVwMWw5STBBRmx2MVVBVnpKZHk3WndvbUR5SEEtSkNMaE5naHE0c2pFaVMtdTU4NFo3N2ItR0FHUENZWE51M0RGT1R1QjNvSXBvbWRRWjhXdlBnRzJxZERFMFAyc1FmYlQ5WWxUOHdwNzhULTh4RG42TXpSMklHand2X196QdIBowFBVV95cUxPVXgzVUE1ZndSbTNFTTdHTXJvZkM0QnVHa2xMV1FJUzRsTkwtb0gyeXlyMjM2blVSXzVSaXNNb0x4RUZZWHBmM1ZxaTlFa0JZU0JLbVpJUTVMZ0lnd2NacnpDaDVJeGptTjNJZ3lTb3pzRjdscWw3UkpobHRXLTl0T1ZWaFgxb05HZHlvUDByamxmMEJfeGIzVVMyUzJ6RDkxalpN?oc=5",
+        "source": "Breaking News, Latest News and Videos",
+        "published_at": "2026-08-04T20:57:19+00:00",
+        "summary": "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak ABC News - Breaking News, Latest News and Videos"
+      },
+      {
+        "title": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMlRXMTFSYkpLaDdURzA5cnF3V2p3U2hkcVNvejdaMjlhZkszb3NHd3RlTXoxSlk1cDV3dGdaTE1FX2J6TmtrdlRVS0tWQnJ2d0thY21UdXV3UQ?oc=5",
+        "source": "BBC",
+        "published_at": "2026-08-01T16:16:16+00:00",
+        "summary": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says BBC"
+      },
+      {
+        "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLWc5YmNSd040d0pkM2czRzRXWmNBdk9NemR2MjE0RFF3eUg4TmpqQWNpYUpvbjdfbXRQVi1LUC1nbWdBQXRJaE9obE9oSGZ4M0lFY0VpOFVwb3ZLWjVnY3BjZkc1eERKOC1IbGt4cXZBX1lXVGxHZ3Q5c0RESnFTelNETGE4VW0tdnNNTjBRMEgzaFAzNVFPZ29INDN1MzN4MmM3SkhWSHJQUENwN21GbDhNLUdUOUhsbEpDS3VJMDhxWHBDZmt1THQwSzg0ZzZIdC0xRnFZT1VRRFNDaFZ1ZjhhR25wTW9jem5nWGJoX0Zzd29Yb3hGUTVaV1lyRVFPc2gwNUxzUVFrME0?oc=5",
+        "source": "World Health Organization (WHO)",
+        "published_at": "2026-05-17T07:00:00+00:00",
+        "summary": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO)"
+      }
+    ],
+    "related_queries": [
+      "Despite quick rollout of trials, Ebola outbreak outpaces response efforts in DR Congo",
+      "Singapore's Hilleman Labs to develop and produce CEPI-backed Bundibugyo ebolavirus vaccine doses for clinical trials",
+      "Ebola Response Turns to Merck Vaccine, Gilead Drug as Congo Outbreak Worsens"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "bundibugyo ebolavirus Live Trend Tracker | HantaUpdates",
+      "description": "bundibugyo ebolavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source li",
+      "canonical": "https://hantamap.online/trend/bundibugyo-ebolavirus",
+      "keywords": [
+        "bundibugyo ebolavirus",
+        "bundibugyo ebolavirus tracker",
+        "bundibugyo ebolavirus updates",
+        "bundibugyo ebolavirus live updates",
+        "bundibugyo ebolavirus outbreak",
+        "bundibugyo ebolavirus symptoms",
+        "bundibugyo ebolavirus public health",
+        "bundibugyo ebolavirus source links"
+      ]
+    },
+    "first_seen_at": "2026-08-07T15:52:40+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "3c54886b0a3f8def2d",
     "slug": "virus",
     "keyword": "virus",
@@ -4864,79 +5010,6 @@
       ]
     },
     "first_seen_at": "2026-05-22T18:24:08+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "4e920e5c93cc0f8489",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Guardian.",
-    "category": "public-health",
-    "geo": "SE",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-08-06T20:20:00+00:00",
-    "updated_at": "2026-08-06T23:55:57+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=SE",
-    "sources": [
-      {
-        "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WYmtqdWFvVXpFVUNjMDlpS1IxTXRTRms0Ym5wVW1RME5YbXZsVzdWQjdqQi02U0E5M3Z5Uy12MDAxdHMtekpJLUp0eTd0MWxsN0FTNEc4QXRpb3FQejhJei03V09xbzFjWjg1V1BTUFRoRVF2YmpMNzFB?oc=5",
-        "source": "The Guardian",
-        "published_at": "2026-08-06T19:42:00+00:00",
-        "summary": "Ebola virus behind massive outbreak in DRC could be mutating, officials say The Guardian Ebola outbreak spreading faster than efforts to fight it: WHO The Hill Unpaid wages and deadly risk: Why health workers are threatening to abandon the Ebola response CNN Explainer: Why Congo's Ebola outbreak is spreading faster than previous epidemics Reuters Why Congo’s Record Ebola Outbreak Is Becoming Deadlier Bloomberg.com Africa CDC and WHO call for urgent, community-led action to contain Ebola in the DRC World Health Organization (WHO) DR Congo Ebola health workers protest unpaid wages as deaths surp"
-      },
-      {
-        "title": "Ebola in DR Congo: River boat under quarantine after five deaths",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1bWp4UHZ4TC14azNGMWZRWnhGOFNMdDlZbkhJZUd3OG44QmhLVVoyNk50T2ppbjktS2taZXZEeEFwS0xxSGx1NXZpZUtvVDF0YW5FVXhJT1Radw?oc=5",
-        "source": "BBC",
-        "published_at": "2026-08-06T14:04:27+00:00",
-        "summary": "Ebola in DR Congo: River boat under quarantine after five deaths BBC"
-      },
-      {
-        "title": "Ebola Outbreak: Current Situation",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
-        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-        "published_at": "2026-08-04T19:01:05+00:00",
-        "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)"
-      },
-      {
-        "title": "Ebola disease outbreak 2026: How MSF is responding",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHh3TFlDZ05hYUNDR2swZzQxbWtjYnNBQ0tDTEcxT3NpRmtSR19zeTRsVFpuUVBJU2VpTXZFMjRIZlZTMzM5d25EZUFoR21EeVhGUXdYRVhIc3luMHVfd0NBOWJfWUZJbTlTMXZVUHdkTlZtTi1OdlV6Zlhhcy1OUWYyRjllUENBZVdXSEZkT3V1TG1mQ3c?oc=5",
-        "source": "Doctors Without Borders",
-        "published_at": "2026-08-06T07:16:14+00:00",
-        "summary": "Ebola disease outbreak 2026: How MSF is responding Doctors Without Borders"
-      }
-    ],
-    "related_queries": [
-      "Unpaid wages and deadly risk: Why health workers are threatening to abandon the Ebola response",
-      "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
-      "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
-      "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
     "views_hint": 0
   },
   {
