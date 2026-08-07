@@ -285,79 +285,6 @@
     "views_hint": 0
   },
   {
-    "id": "fb2e06599353ccaaec",
-    "slug": "virus",
-    "keyword": "virus",
-    "title": "virus trend tracker",
-    "description": "virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: NPR.",
-    "category": "public-health",
-    "geo": "IT",
-    "search_volume": "5000+",
-    "traffic_label": "5000+",
-    "published_at": "2026-07-07T11:50:00+00:00",
-    "updated_at": "2026-07-07T14:23:56+00:00",
-    "score": 5000,
-    "source_url": "https://trends.google.com/trending/rss?geo=IT",
-    "sources": [
-      {
-        "title": "There's no treatment designed for the Ebola strain ravaging DRC. But now there's hope",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMnNWdUxaQnFieTd3OXl1Nnl0V1UwZGp2a3ZQWEtBRjVfOERqUUk1eE5FWUk1VjJnU1lsTnNGRzhmcTkzdTBJMi03YTJJRkxrdHlQU01QOW9tNG9uaEd4VVMzWHhaUVI3bHFBbDg2Vnp4NlJNSDdnNUxsT01MdFpUWDZ0XzBuTDAxbnVRdkRHM2NVeDZnTlRoU1lxYW1MVXNVdUdsRG5kc29ldkowRlUydXVhaVN2Tms4eFVxZlpCM2pwSms?oc=5",
-        "source": "NPR",
-        "published_at": "2026-07-07T12:51:59+00:00",
-        "summary": "There's no treatment designed for the Ebola strain ravaging DRC. But now there's hope NPR"
-      },
-      {
-        "title": "New virus catalogue reveals which pathogens pose the greatest threat",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObHFPZWpPYWZLX01VVHgxeFV6Zm52R212WlAwYnA5ZzBVaEJhYng3S05iNWZmMTg4R3BVX1ZBYW5EX1oxLXNCTG5UODVWVVFBZGFldjRxQ0RvaWZpUXpYRjdRMHRtMWM0eF9BbFEwYWpkdHR3T2VHbjJKRGh6SlhnTUVsdm56VU1Kb19qRXVJLXY4NWpCU0R1LW5zM0prSjgydzBZc1B3?oc=5",
-        "source": "The Conversation",
-        "published_at": "2026-07-06T10:11:05+00:00",
-        "summary": "New virus catalogue reveals which pathogens pose the greatest threat The Conversation"
-      },
-      {
-        "title": "Ebola outbreak containment hampered by USAID closure, experts say",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE94eENRc0FDazJaSkFDN3lOSE00MkktSWEwRXZvTDFkRGlTOFNuSGxjcXpxYjVtUFVEamZDQm5mUEFqMFhidGZON2RiTlo5TWVXb3R0T084dmlFU0RNMFRrd1dDYlZXVHF2V3p4V2ZLRkQxR0hGSm1Hcy1n0gF_QVVfeXFMUHlEakxlbVlnbjJZcG1ZSHpzYjAzeHZFbEdFNHJ4cnBPdVFDNG53a3FfZ3ZTUzhVOVY1T3lKQTVpOHNHVXVDNl9wdmFYMUxxY0k2VGZyOXVWeWkxZnUyZlAwV0Itbko4QjhkQi1DSFVYZllrTFh5ZEdoRmNNMXlwWQ?oc=5",
-        "source": "CNBC",
-        "published_at": "2026-07-06T05:00:01+00:00",
-        "summary": "Ebola outbreak containment hampered by USAID closure, experts say CNBC"
-      },
-      {
-        "title": "Thomas J. O’Connor Animal Control and Adoption Center closed to the public due to virus outbreaks",
-        "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPT29rakxsRVEzVEp4MnpfQnh1eU1qQnRIWGRxSTNIZUJ0dV84dWYwS1NCVnVHVEVrem56T3ZCblAwSmpZS2EtV0FxS2EycFhQTTZHNkFtVHA3Vzg3d0FRb0l0SXdpVzZxT05xamhtQVpsQVFEajZsZC1PbHRobW55aDJrTVNYbWZIRHJKTTF6T1BnX0Ixb29UdG1pYUJZRXJNWmhWNGtVMVdfaFA5TXl5ZEJ0dmlDQWYwVGJfYjV4ak12c2RUMlZyd3RkdThlX0dMX201djdiNl9FUlBSREF1NV9n0gHnAUFVX3lxTFBzekk5TXRCQzJicHZzTkhlQnpUcFNDS0FmNGdqT19weFBSbUlEUDAxVHdadWZodE9TS1RxLUhnX1ZwaEZVeGI5THd6MmNQV2E5dUpqSWdnNGhTOTBzOGQ1Nnd4cFR1b0dpc2xwRVE2SWExUjlUQmtnNzJKUDlUdXQyRW5LNjY0NFJneklfUGhXTWxVTEpoSW9Lb0laaWJMUDFIaUI5RzN3RzJxT3JIb0FhN29WVFdUS0xvM0h3WmlhRTJrNXdCYTdPaVdlQ0JXQU1kWlMtai0wQnZOc0JaNktmaTJYSzdQUQ?oc=5",
-        "source": "WWLP",
-        "published_at": "2026-07-06T11:16:47+00:00",
-        "summary": "Thomas J. O’Connor Animal Control and Adoption Center closed to the public due to virus outbreaks WWLP"
-      }
-    ],
-    "related_queries": [
-      "A rare, Ebola-like virus is spreading. Are we prepared?",
-      "Ebola crisis puts haematology in focus",
-      "When Caregivers Become Patients: Frontline Vulnerability in the Bundibugyo Outbreak Response"
-    ],
-    "map_focus": {
-      "label": "United States",
-      "lat": 37.0902,
-      "lng": -95.7129,
-      "zoom": 4
-    },
-    "seo": {
-      "title": "virus Live Trend Tracker | HantaUpdates",
-      "description": "virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/virus",
-      "keywords": [
-        "virus",
-        "virus tracker",
-        "virus updates",
-        "virus live updates",
-        "virus outbreak",
-        "virus symptoms",
-        "virus public health",
-        "virus source links"
-      ]
-    },
-    "first_seen_at": "2026-05-22T18:24:08+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "c3789d55e4e702efa0",
     "slug": "crucero",
     "keyword": "crucero",
@@ -4864,6 +4791,79 @@
       ]
     },
     "first_seen_at": "2026-05-10T15:38:16+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "3c54886b0a3f8def2d",
+    "slug": "virus",
+    "keyword": "virus",
+    "title": "virus trend tracker",
+    "description": "virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The New York Times.",
+    "category": "public-health",
+    "geo": "MX",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-08-07T04:10:00+00:00",
+    "updated_at": "2026-08-07T04:52:24+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=MX",
+    "sources": [
+      {
+        "title": "This A.I. Just Created Viruses Not Found in Nature",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ib2lWUWFwQ2g0a1RMQ1VDNFI2TmFtaWdoUUZWcXVyZkJveXVrVDZ1ZzZOWS1PdFR3a0xReWxKT3QzMXFCT3FEOGZoNjdiR2RaTFlZNEpSR19SdVQ4UlB2ZUpPY1J2cUg0cmROZXFnSWJlREpXMks5Ni1YTQ?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-08-07T00:30:08+00:00",
+        "summary": "This A.I. Just Created Viruses Not Found in Nature The New York Times Artificial Intelligence used to design brand new viruses BBC AI used to create viruses not found in nature for first time Al Jazeera"
+      },
+      {
+        "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WYmtqdWFvVXpFVUNjMDlpS1IxTXRTRms0Ym5wVW1RME5YbXZsVzdWQjdqQi02U0E5M3Z5Uy12MDAxdHMtekpJLUp0eTd0MWxsN0FTNEc4QXRpb3FQejhJei03V09xbzFjWjg1V1BTUFRoRVF2YmpMNzFB?oc=5",
+        "source": "The Guardian",
+        "published_at": "2026-08-06T19:42:00+00:00",
+        "summary": "Ebola virus behind massive outbreak in DRC could be mutating, officials say The Guardian"
+      },
+      {
+        "title": "Severe COVID may awaken dormant viruses, leading to autoimmune disease, long COVID",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPc3Bya3lfNEtQMC1BVUtYZW5NVGVLWHN0N0JWME9MVy00S0p2aERzdm9pS21RUGxNaHJvZlhLRDNiVVdFLWhKRW9PVE9BRWFKR1VVYUk2enRza1FHcUJObG1Sak1SaEotOGN5RDNBaUFsRHVlMWI3UThLN1A0Z2VCbnZLem1kQUhlbDFmS0l3dU4wejk2YVdmNmVFR0JaOFc1R3p6NXFkdk40MmFvemp1aU5Ydw?oc=5",
+        "source": "CIDRAP",
+        "published_at": "2026-08-06T19:45:52+00:00",
+        "summary": "Severe COVID may awaken dormant viruses, leading to autoimmune disease, long COVID CIDRAP"
+      },
+      {
+        "title": "Virus reactivation in acute and long COVID-19",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8yWXRPRXdJOFZfM0R6WlBUV3hGMFgyaV93OW16WWUtWjA1Q2hSQU5pR3JxaERXN191blQ2ZEdCQTNyMGpscV9hZ0tXbmFEVEZvcm5QdWJraDRNckd2cVZn?oc=5",
+        "source": "Nature",
+        "published_at": "2026-08-05T15:29:02+00:00",
+        "summary": "Virus reactivation in acute and long COVID-19 Nature"
+      }
+    ],
+    "related_queries": [
+      "Artificial Intelligence used to design brand new viruses",
+      "This A.I. Just Created Viruses Not Found in Nature",
+      "Breakthrough in Science: AI Generates First Complete, Viable Phage Genome Capable of Inhibiting Bacteria"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "virus Live Trend Tracker | HantaUpdates",
+      "description": "virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/virus",
+      "keywords": [
+        "virus",
+        "virus tracker",
+        "virus updates",
+        "virus live updates",
+        "virus outbreak",
+        "virus symptoms",
+        "virus public health",
+        "virus source links"
+      ]
+    },
+    "first_seen_at": "2026-05-22T18:24:08+00:00",
     "views_hint": 0
   },
   {
