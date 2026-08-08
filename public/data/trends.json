@@ -2279,6 +2279,79 @@
     "views_hint": 0
   },
   {
+    "id": "2cf2062ab7bb1dd9bc",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Al Jazeera.",
+    "category": "public-health",
+    "geo": "NO",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-08-07T20:40:00+00:00",
+    "updated_at": "2026-08-08T04:09:42+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=NO",
+    "sources": [
+      {
+        "title": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQanZoamlTX1IwV0VhWFUyZmJOa1dJODRLS2UtbnpsdWpWc2Q5aFRWaEFOUVVMVklLSlVEQmxIRVVaclJtbVpqb1JmeE1kY2FpX042cW5paG1pUW5YTnhJV1ZfdnJsZGtoUjlSenF5aDJwZEhnNGV2ODJwdlVMMGYzRnBkNkh6UkRmODliRzlqX3dlUmVDYXUzM0l6RjdVUW1xaUJv0gGoAUFVX3lxTE1aUnRVSU4zQWpQUEFIazhtSjhZb3ZDLVgyU2dmeFFYNnBVUUk0QkZHN3JFWmV6bnZxVE9IZWs3SDdEa1NOSFY1WnpEOV9iZ3JoaXBzcGlFS1BkejZtYndhbFZlYnFPbHQ4OGVRRTZIRHRJM1dISWQ4N3JTZGxkRE5jRDJsSzMyVnhfU2hKOWZadmtxMG5QQkl6RmRNWVpaMVlXYWw2MjFjVQ?oc=5",
+        "source": "Al Jazeera",
+        "published_at": "2026-08-07T20:43:30+00:00",
+        "summary": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial Al Jazeera"
+      },
+      {
+        "title": "One man works to slow the fastest-growing Ebola outbreak in history, and he's doing it unpaid",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQeU5NZnNvRFR5aUlGbzMtYWJWdy0tYVRVMG5BQkFjODE0akVXbmxsNk9XcnZBaEY2NXdrbmNFZDU3anlBQm12alB0VEl1dHdLV1ZBX3UtWjRpb0p6VTFlMVhzM29mOGRxTTZ2RHRkWFpyYS0zUlRxejdzdmNrR1A4YUhKOUtHMW1YVHdsTm4yZW9aZXpIbDNZV0JR?oc=5",
+        "source": "AP News",
+        "published_at": "2026-08-07T12:44:00+00:00",
+        "summary": "One man works to slow the fastest-growing Ebola outbreak in history, and he's doing it unpaid AP News Ebola virus behind massive outbreak in DRC could be mutating, officials say The Guardian The Most Basic Step of the Ebola Response Is Falling Short The Atlantic"
+      },
+      {
+        "title": "DR Congo: Ebola outbreak tops 4,000 confirmed cases",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9TSnMyT1dINlc5RExwdG1jYXBpMzhGb1FqbFJmd2t0amFzUGxfRTBSNUctUlVQb1ZVdEVueFY2SzM5dzhjbkdSZWlNTlNpS2NORHlMVk9yZkZMamozRnB4WXJwcGFlV1ZqOWU3cDF1bEtCT2ZvdHJCV1ByMGlTcnM?oc=5",
+        "source": "Outbreak News Today",
+        "published_at": "2026-08-08T00:01:29+00:00",
+        "summary": "DR Congo: Ebola outbreak tops 4,000 confirmed cases Outbreak News Today"
+      },
+      {
+        "title": "Ebola in DR Congo: River boat under quarantine after five deaths",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA1bWp4UHZ4TC14azNGMWZRWnhGOFNMdDlZbkhJZUd3OG44QmhLVVoyNk50T2ppbjktS2taZXZEeEFwS0xxSGx1NXZpZUtvVDF0YW5FVXhJT1Radw?oc=5",
+        "source": "BBC",
+        "published_at": "2026-08-06T14:04:27+00:00",
+        "summary": "Ebola in DR Congo: River boat under quarantine after five deaths BBC"
+      }
+    ],
+    "related_queries": [
+      "Unpaid wages and deadly risk: Why health workers are threatening to abandon the Ebola response",
+      "Licensable video: A sea of motorbikes floods Beni streets to prevent repeat of Ebola-2018",
+      "Ebola: the diagnostic blind spot"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "2a8552cec515a0fa0f",
     "slug": "servei-meteorol-gic-de-catalunya",
     "keyword": "servei meteorològic de catalunya",
@@ -4864,79 +4937,6 @@
       ]
     },
     "first_seen_at": "2026-05-10T15:38:16+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "2cf2062ab7bb1dd9bc",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Guardian.",
-    "category": "public-health",
-    "geo": "NO",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-08-07T20:40:00+00:00",
-    "updated_at": "2026-08-07T21:36:09+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=NO",
-    "sources": [
-      {
-        "title": "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WYmtqdWFvVXpFVUNjMDlpS1IxTXRTRms0Ym5wVW1RME5YbXZsVzdWQjdqQi02U0E5M3Z5Uy12MDAxdHMtekpJLUp0eTd0MWxsN0FTNEc4QXRpb3FQejhJei03V09xbzFjWjg1V1BTUFRoRVF2YmpMNzFB?oc=5",
-        "source": "The Guardian",
-        "published_at": "2026-08-06T16:18:00+00:00",
-        "summary": "Ebola virus behind massive outbreak in DRC could be mutating, officials say The Guardian One man works to slow the fastest-growing Ebola outbreak in history, and he's doing it unpaid AP News The Most Basic Step of the Ebola Response Is Falling Short The Atlantic Africa CDC and WHO call for urgent, community-led action to contain Ebola in the DRC World Health Organization (WHO) Unpaid wages and deadly risk: Why health workers are threatening to abandon the Ebola response CNN Ebola outbreak spreading faster than efforts to fight it: WHO The Hill Congo's Ebola outbreak surpasses 4,000 cases Reute"
-      },
-      {
-        "title": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQanZoamlTX1IwV0VhWFUyZmJOa1dJODRLS2UtbnpsdWpWc2Q5aFRWaEFOUVVMVklLSlVEQmxIRVVaclJtbVpqb1JmeE1kY2FpX042cW5paG1pUW5YTnhJV1ZfdnJsZGtoUjlSenF5aDJwZEhnNGV2ODJwdlVMMGYzRnBkNkh6UkRmODliRzlqX3dlUmVDYXUzM0l6RjdVUW1xaUJv0gGoAUFVX3lxTE1aUnRVSU4zQWpQUEFIazhtSjhZb3ZDLVgyU2dmeFFYNnBVUUk0QkZHN3JFWmV6bnZxVE9IZWs3SDdEa1NOSFY1WnpEOV9iZ3JoaXBzcGlFS1BkejZtYndhbFZlYnFPbHQ4OGVRRTZIRHRJM1dISWQ4N3JTZGxkRE5jRDJsSzMyVnhfU2hKOWZadmtxMG5QQkl6RmRNWVpaMVlXYWw2MjFjVQ?oc=5",
-        "source": "Al Jazeera",
-        "published_at": "2026-08-07T20:43:30+00:00",
-        "summary": "Ebola cases top 4,000 in DRC as WHO urges Ervebo vaccine trial Al Jazeera"
-      },
-      {
-        "title": "Alarming Ebola Spread Raises Question Of Viral Mutation",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZW5jN0J6QTkybDdNOHhtS1o0Rkg0QnRzMk5IRW9zM0x5U3pIV19kTktuNWtDM19HZ0Ixcy13anJ2UHRsZU9Pc29CQnZsYmpiQUJ5QmVDT3g0QnpRUkZpajhjdkFuRVBJTDU5ak5rQ01yODNkSUgySzNrNVJxaldMa1ltM0NzeTVhT1JQNkdySVExZw?oc=5",
-        "source": "Health Policy Watch",
-        "published_at": "2026-08-07T15:36:59+00:00",
-        "summary": "Alarming Ebola Spread Raises Question Of Viral Mutation Health Policy Watch"
-      },
-      {
-        "title": "WHO, Africa CDC urge scale-up of efforts to contain Ebola outbreak",
-        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcmdhUVlZZGU1YXlicHAxZ215Y3FFUUdxc0N4ck9HWGRLcU1aVFdJbUxTT3MyckZiRl96cWVJSGdLUDhDdEozdDFiT0VzQ1pOalN6aHo5YkNjU3RqZjU1NHRSc0VXeWd2SW9Qbl9XSG52YV9QeGdmVVN6WGVZd1ItNXpHamhRYTlwb2pSMEVESmJFMmc?oc=5",
-        "source": "CIDRAP",
-        "published_at": "2026-08-07T19:23:17+00:00",
-        "summary": "WHO, Africa CDC urge scale-up of efforts to contain Ebola outbreak CIDRAP"
-      }
-    ],
-    "related_queries": [
-      "Unpaid wages and deadly risk: Why health workers are threatening to abandon the Ebola response",
-      "Ebola virus behind massive outbreak in DRC could be mutating, officials say",
-      "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
-      "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
     "views_hint": 0
   },
   {
