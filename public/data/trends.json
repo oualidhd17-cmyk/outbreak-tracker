@@ -1549,6 +1549,79 @@
     "views_hint": 0
   },
   {
+    "id": "ca544fccb41e5027e0",
+    "slug": "virus-ia",
+    "keyword": "virus ia",
+    "title": "virus ia trend tracker",
+    "description": "virus ia is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Avian Flu Diary.",
+    "category": "public-health",
+    "geo": "FR",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-08-08T08:40:00+00:00",
+    "updated_at": "2026-08-08T09:33:46+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=FR",
+    "sources": [
+      {
+        "title": "WHO: 46th Update On Multi-country Outbreak of Mpox & Risk Assessment on Clade Ia",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTTJ0UWVTOFdCMWUxUW11VGcwNExiRnBZc0lFckxGS2MyOVJZR2o0SXpaSGE4TERYNlEwaUctV0hGS2ZiZC1DZHFIbnI4WWQ0RTNFd3Mzd3ZJNUNEdVlZQjVoZllaQ1NlcHQxeUg1Q2pWd21HQzQ5aDJvVUZTT3I1UnRR?oc=5",
+        "source": "Avian Flu Diary",
+        "published_at": "2025-01-29T08:00:00+00:00",
+        "summary": "WHO: 46th Update On Multi-country Outbreak of Mpox & Risk Assessment on Clade Ia Avian Flu Diary"
+      },
+      {
+        "title": "Detection of Acute HIV Infection in Two Evaluations of a New HIV Diagnostic Testing Algorithm — United States, 2011–2013",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1iZXFFSEs3elAyUEJ2SmdVWXNrOGZwamRTWjgyRW03YVNjZGwxSndlOVBSNTU1OVdiZDE5Qi1TYzAtS2p1OG5nTEFOQVYtYUpMaG00Rl9FVUlLcF9FOTM4VTFva3U?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2013-06-21T07:00:00+00:00",
+        "summary": "Detection of Acute HIV Infection in Two Evaluations of a New HIV Diagnostic Testing Algorithm — United States, 2011–2013 Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "EID Journal: Human Co-Infection with Avian and Seasonal Influenza Viruses, China",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOVjBHUGNRd0RWYkNqVTk0eERseEVNOXFhNm9RUGd6aEt3N2JYdk9yVjc3cWRfc1FGVHFORllxSVRlckRycGpIME8zZHlfVC11bXdKZDhzN3J3ckdFVWlXLVZlbm50NFdZZUNQaEVwSkhUbXBDX09kc3lHVmRTamdUYjhXcUl6UQ?oc=5",
+        "source": "Avian Flu Diary",
+        "published_at": "2014-10-09T07:00:00+00:00",
+        "summary": "EID Journal: Human Co-Infection with Avian and Seasonal Influenza Viruses, China Avian Flu Diary"
+      },
+      {
+        "title": "January 2025",
+        "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5oZk5VN0tySkVfVFMtaUxpWF9EUzY1Xy16QXlWdzJJWi13Umk2UElVcS1QV2dSR2s0RDVIUWNXQURpM0lZNlBNSzdTWkZxSmpQ?oc=5",
+        "source": "Avian Flu Diary",
+        "published_at": "2025-01-31T08:00:00+00:00",
+        "summary": "January 2025 Avian Flu Diary"
+      }
+    ],
+    "related_queries": [
+      "Prouesse technologique ou catastrophe annoncée ? Pour la première fois, l’IA a créé des virus bactériens n’existant pas dans la nature",
+      "Des chercheurs ont fait écrire près de 300 génomes à une IA : 16 se sont réveillés vivants dans les boîtes de culture",
+      "L'IA a créé des virus biologiques jamais vus dans la nature, faut-il s'inquiéter ?"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "virus ia Live Trend Tracker | HantaUpdates",
+      "description": "virus ia is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without p",
+      "canonical": "https://hantamap.online/trend/virus-ia",
+      "keywords": [
+        "virus ia",
+        "virus ia tracker",
+        "virus ia updates",
+        "virus ia live updates",
+        "virus ia outbreak",
+        "virus ia symptoms",
+        "virus ia public health",
+        "virus ia source links"
+      ]
+    },
+    "first_seen_at": "2026-08-08T09:33:46+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "e7e1b486ee3eb1a9af",
     "slug": "s-nav",
     "keyword": "sınav",
