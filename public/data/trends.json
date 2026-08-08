@@ -2279,6 +2279,79 @@
     "views_hint": 0
   },
   {
+    "id": "2a8552cec515a0fa0f",
+    "slug": "servei-meteorol-gic-de-catalunya",
+    "keyword": "servei meteorològic de catalunya",
+    "title": "servei meteorològic de catalunya trend tracker",
+    "description": "servei meteorològic de catalunya is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: APD Noticies.",
+    "category": "public-health",
+    "geo": "ES",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-08-07T22:20:00+00:00",
+    "updated_at": "2026-08-08T01:15:52+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=ES",
+    "sources": [
+      {
+        "title": "The 28ºC nocturnal in Portbou break the May record without Meteocat declaring an alert",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNU0twUHhxalBaOWN1anEzZDlIRlNkMkpiTEpGN1Yta3lqNXVaUDZZUklTOXlxM0tkVDNEcVM0VEFSRWx3NkpDQjhvdW9RV2hJMEczZzdQTDhiTW8tSVBkbTdCdUxqOWFsSGpOQlZuZFhwOXN3amdDa3V1TU5nTnFhcDFxZW9vS0VNLXcxeTZrMW04WHYwOGhvSGtnYVZUY0NtUHRENE5tNmJJVXQ0RE1tR0pJSDNkR3BEZnVmM2g2SWxQcWMyelFjSmRlWUJVQlFsc1Zxd0lJaHJXdw?oc=5",
+        "source": "APD Noticies",
+        "published_at": "2026-06-08T04:56:48+00:00",
+        "summary": "The 28ºC nocturnal in Portbou break the May record without Meteocat declaring an alert APD Noticies"
+      },
+      {
+        "title": "Spain – Deadly Floods in Catalonia After 287mm of Rain in 24 Hours",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOanIwTk1zbDdWTS1WczA0eGU0MmRVYjBuT3hiMVBkSTJrSktRWDI0OXZUNEtPeGxfSlY2ZXJkdG9MMEMyV3pUT2Z4MjhUemtVOTB4RVl4NFBwVDFRRXBZb3FYX0ZNa3RlTjlDZnQyYVdlWGd1QjJPNXBRdGlEV2cxVlVTUDQ4ZzhYV0Z1VVJuWC0tRElsdnJCbQ?oc=5",
+        "source": "FloodList",
+        "published_at": "2019-10-23T07:00:00+00:00",
+        "summary": "Spain – Deadly Floods in Catalonia After 287mm of Rain in 24 Hours FloodList"
+      },
+      {
+        "title": "Night heat in Barcelona triggers health alert when the thermometer does not drop below 27 degrees",
+        "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNQUR5Rl9zRmxOenFaV3BwaUl5ekw1Z0hZTkJ2VlJSbnZSZjI1YXFVenVVNzJVdzNtbnZPY2tIOWZMSXNBTWZLNXVIWUJDUjFWWTg1YWRfa0NtLWdwU0wyRTJHM2UzRDZBQ0JhSW5zVFBfdVd2a0w0RUotcnB0ZjF5R3ZXaUhUYjJMOTZlbWtMMkI4QnlWWUx1blgxbVQyZWczNFoyZm5xUGV4LUdRamQzODJXVmJqck5Ld1pOUk5tUVZrd0VVYTRScjJ0UWRJRjYyajZvVDV3VDdJT1ZINnAyNkRlcU9zTDAw?oc=5",
+        "source": "APD Noticies",
+        "published_at": "2026-06-22T10:09:34+00:00",
+        "summary": "Night heat in Barcelona triggers health alert when the thermometer does not drop below 27 degrees APD Noticies"
+      },
+      {
+        "title": "Flood alert issued ahead of Wednesday and Thursday rains",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQ21PNTdrd3EwQk81MFJlVlVwUENpS1VqUkhCLUJHU25xcXZ5eExuUE9fNjZtNVBnSGRGRHEtTHM1SVU0LTZTeEpMdVRJQnJ3Q1RJN1k0UjgtVGRMMW94dHRZNFVMT3h0X1otQXlNYlJNcmtGZzJ5SmpNYWhhUW9NR3hCNm1TVTJpTjlXQXhoeERpNjc0SEVxYmt4Q1BERWQ3OXp3Z2FkMEdkcUp5ZGt3ZHJySGQ?oc=5",
+        "source": "Catalan News",
+        "published_at": "2025-08-26T07:00:00+00:00",
+        "summary": "Flood alert issued ahead of Wednesday and Thursday rains Catalan News"
+      }
+    ],
+    "related_queries": [
+      "El Servei Meteorològic emet una alerta per temps violent en set comarques | Irene Casellas | Barcelona | Societat",
+      "El temporal colpeja la Catalunya central i deixa inundacions a la C-25, talls en dues línes de Rodalies i arbres caiguts",
+      "Tarda de fortes tempestes i aiguats amb pedra o calamarsa"
+    ],
+    "map_focus": {
+      "label": "Spain",
+      "lat": 40.4637,
+      "lng": -3.7492,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "servei meteorològic de catalunya Live Trend Tracker | HantaUpdates",
+      "description": "servei meteorològic de catalunya is currently appearing in public-health related search and news signals. This page summarizes context, related updates, an",
+      "canonical": "https://hantamap.online/trend/servei-meteorol-gic-de-catalunya",
+      "keywords": [
+        "servei meteorològic de catalunya",
+        "servei meteorològic de catalunya tracker",
+        "servei meteorològic de catalunya updates",
+        "servei meteorològic de catalunya live updates",
+        "servei meteorològic de catalunya outbreak",
+        "servei meteorològic de catalunya symptoms",
+        "servei meteorològic de catalunya public health",
+        "servei meteorològic de catalunya source links"
+      ]
+    },
+    "first_seen_at": "2026-08-08T01:15:52+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "980a577c1d0e9c181c",
     "slug": "epidemia",
     "keyword": "epidemia",
