@@ -942,6 +942,79 @@
     "views_hint": 0
   },
   {
+    "id": "72e953eb5634b1edd0",
+    "slug": "nipah",
+    "keyword": "nipah",
+    "title": "nipah trend tracker",
+    "description": "nipah is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: World Health Organization (WHO).",
+    "category": "public-health",
+    "geo": "ID",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-08-09T17:50:00+00:00",
+    "updated_at": "2026-08-09T18:33:38+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=ID",
+    "sources": [
+      {
+        "title": "Nipah virus fact sheet",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5mcmJBdGIyMG1JRkJtWnlnMmphODVJRTFOZ2hhMGIyTlNqMFRfZHZTbkgwclFtYlAxaHFUdkhxdV9iOEhqUkxQbzBEVUdwTXVWbV9WbElaOEVYSHMxVUJUSTBmUmxRNmZhYU83Sw?oc=5",
+        "source": "World Health Organization (WHO)",
+        "published_at": "2026-01-29T08:00:00+00:00",
+        "summary": "Nipah virus fact sheet World Health Organization (WHO)"
+      },
+      {
+        "title": "Two geographies, one virus: What recurrent Nipah spillover in India reveals",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93ei1PVWFYWWFPdHZDaTFkeFdQSnFlU0t0SE9hcVRGTnhzYXRzRlZQbXJ2UkZUNlFVUzM0eXpBYXBmbHI3ekFLdTE4d0FuNm56eDNwS1VnaFE0WnBEck40?oc=5",
+        "source": "Nature",
+        "published_at": "2026-05-13T07:00:00+00:00",
+        "summary": "Two geographies, one virus: What recurrent Nipah spillover in India reveals Nature"
+      },
+      {
+        "title": "Nipah virus case confirmed in Kerala, India",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPYjRNN2VpTmJnNGlDNTZNd1hxeUF2VVdjRHg3T2VJWHVrWXRJVV9fN284TUM0MktMNmRzWUNMVWt2UW1hWjh6SjZQcno5NHljdkM1WjhqdmhoRU5lV2kwVl9RSlJWa0U0bUsyR29seDZOOUFDdDFCX1VvUFVRT3FaQXdQUQ?oc=5",
+        "source": "Outbreak News Today",
+        "published_at": "2026-06-14T07:00:00+00:00",
+        "summary": "Nipah virus case confirmed in Kerala, India Outbreak News Today"
+      },
+      {
+        "title": "Mount Sinai Scientists Develop First Fully Human Monoclonal Antibody Cocktail That Protects Against Nipah and Hendra Viruses",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPeE5RbUxnYnVpaE5YTE9GOGRiZTA5eFNHa29TNVlsLXRDMVhkUFVNOFVEeTdjM2hEWXRIRUlRcE1hckFmRGZkLWZPZXBOeGktTGZsQnRtRkJPQVdIUEo1SDBuWEg1TVVjczg5Y0lHblFCNkpOaVFCNHctMndRYVRLRmZ6eDdsUGlzOWJtMzZCSmsyS0h2aWlHaWRmSV93VnFyS1MyMXNYbDFFVG94ZXgwdE9BUFN1OGh6bFZVOG04emRTc1hsQnZDZ0JRWTV2d2RfWDV4YWxFWmptck1WRnp3d3IybjJQS3Y2NmFROFg4OF9VV2o1UjlNdEFIMFlobWpK?oc=5",
+        "source": "Mount Sinai",
+        "published_at": "2026-06-25T20:13:46+00:00",
+        "summary": "Mount Sinai Scientists Develop First Fully Human Monoclonal Antibody Cocktail That Protects Against Nipah and Hendra Viruses Mount Sinai"
+      }
+    ],
+    "related_queries": [
+      "Sudah Padam, Kebakaran di Mal Nipah Makassar Diduga Akibat Korsleting",
+      "2 Orang Sempat Pingsan saat Nipah Mall Makassar Terbakar - kumparan.com",
+      "Kebakaran Mal Nipah Park Makassar Berhasil Dipadamkan, Operasional Tetap Berjalan Normal"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "nipah Live Trend Tracker | HantaUpdates",
+      "description": "nipah is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/nipah",
+      "keywords": [
+        "nipah",
+        "nipah tracker",
+        "nipah updates",
+        "nipah live updates",
+        "nipah outbreak",
+        "nipah symptoms",
+        "nipah public health",
+        "nipah source links"
+      ]
+    },
+    "first_seen_at": "2026-08-09T18:33:38+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "6980c97aaad2a8444b",
     "slug": "heat-health-alert",
     "keyword": "heat health alert",
