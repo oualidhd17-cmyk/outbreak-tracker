@@ -1622,6 +1622,79 @@
     "views_hint": 0
   },
   {
+    "id": "b1f1196a37684f8449",
+    "slug": "excessive-heat",
+    "keyword": "excessive heat",
+    "title": "excessive heat trend tracker",
+    "description": "excessive heat is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
+    "category": "public-health",
+    "geo": "AE",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-08-11T02:20:00+00:00",
+    "updated_at": "2026-08-11T09:57:31+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=AE",
+    "sources": [
+      {
+        "title": "Amber heat health alerts in place for almost all of England as next heatwave hits",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE94X252WU54NjI2NUxzSFRjTVBWUmxnVTAxRkhpWXdGdUtpZkRuWkQzbmI4Nm1PVTB4R3VocGhNbDNvSGpfV1g0UjZjTWI3ejZPWFA1NEFQZ2JuMURTWVE?oc=5",
+        "source": "BBC",
+        "published_at": "2026-08-11T01:38:14+00:00",
+        "summary": "Amber heat health alerts in place for almost all of England as next heatwave hits BBC"
+      },
+      {
+        "title": "Extreme heat is reshaping Italy’s sparkling wine industry with early harvests and nighttime picking",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS2FVTlRybl8tMm9KY2RhSlUtdDVqUHB0cWo0WjVvSVROMG1nUUdVR1lhc0owOEpHZ2VKblZsSTZfaVM1UnpLRnV3WU1NekMzLVByV2dSaDBzQ1hsdDdpU2kzdG9adDM5enBibGZRQWdkWFNONUUweFU2X2JPLUNTVDRHOXFGMzNpcFNFcUNRWTBnaXJWbHdQeXZHTVFNR0o0MEZ1YTNsQWJ1UkFGbWxXVkVQNlRqcHc5cTI0dzFFSjlKOGthTW5NU0hZcWxsQ2gtUWtV?oc=5",
+        "source": "The Seattle Times",
+        "published_at": "2026-08-11T08:59:26+00:00",
+        "summary": "Extreme heat is reshaping Italy’s sparkling wine industry with early harvests and nighttime picking The Seattle Times"
+      },
+      {
+        "title": "Climate change is threatening Italy's cheese banks that hold Parmigiano wheels as loan collateral",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbHBJVWpHMG12ZEpoUXVvOHpyTTFfdEl0QUg3ZVpMU29aYkxQY002cDhkZ2xDazE0WTRRNUdGNFZGSWtYWW9CU09qS0ZORjZaNTg3S1F3N2JSb2laTGtjY1gxX0ZqWlJGSVViOTIzRlhiUGYxeWRoRVhzR0FMYTh6SHFHZXhpamE3bkd5WHpaM1A?oc=5",
+        "source": "fortune.com",
+        "published_at": "2026-08-10T21:08:00+00:00",
+        "summary": "Climate change is threatening Italy's cheese banks that hold Parmigiano wheels as loan collateral fortune.com"
+      },
+      {
+        "title": "After Record-Breaking Summer Start, Europe Braces for New Heat Wave",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYTI0dEhmSTMzdmRBRWJaTjhVMEN4dUxZYjB5NG9oS2JVblQzVWxkaHZDYzAyRVF2cUVGR05ZWnBiUVJIVFF5dUVzeFhKaEtpMlQ1R01kRmE1dXpHdWFHT29YQWF5eDJ1ZE9wamE2clR6a19pM2Z4c3ByRklPRUZpU0FGeTZCUnZkaGRSZWNfSWJMdFRJ?oc=5",
+        "source": "nytimes.com",
+        "published_at": "2026-08-09T12:23:03+00:00",
+        "summary": "After Record-Breaking Summer Start, Europe Braces for New Heat Wave nytimes.com"
+      }
+    ],
+    "related_queries": [
+      "Two popular but strenuous hiking areas in county temporarily closed due to excessive heat",
+      "Cleveland National Forest closes two hiking areas due to heat-related medical rescues",
+      "First Alert Weather Days For Intense Heat & Wednesday PM Storm Chances"
+    ],
+    "map_focus": {
+      "label": "Italy",
+      "lat": 41.8719,
+      "lng": 12.5674,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "excessive heat Live Trend Tracker | HantaUpdates",
+      "description": "excessive heat is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links wit",
+      "canonical": "https://hantamap.online/trend/excessive-heat",
+      "keywords": [
+        "excessive heat",
+        "excessive heat tracker",
+        "excessive heat updates",
+        "excessive heat live updates",
+        "excessive heat outbreak",
+        "excessive heat symptoms",
+        "excessive heat public health",
+        "excessive heat source links"
+      ]
+    },
+    "first_seen_at": "2026-08-11T09:57:31+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "ca544fccb41e5027e0",
     "slug": "virus-ia",
     "keyword": "virus ia",
