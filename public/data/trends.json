@@ -723,79 +723,6 @@
     "views_hint": 0
   },
   {
-    "id": "d1f388d81aa1c95254",
-    "slug": "disease-outbreak",
-    "keyword": "disease outbreak",
-    "title": "disease outbreak trend tracker",
-    "description": "disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The New York Times.",
-    "category": "public-health",
-    "geo": "AU",
-    "search_volume": "2000+",
-    "traffic_label": "2000+",
-    "published_at": "2026-06-25T08:40:00+00:00",
-    "updated_at": "2026-06-25T14:24:09+00:00",
-    "score": 2000,
-    "source_url": "https://trends.google.com/trending/rss?geo=AU",
-    "sources": [
-      {
-        "title": "The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From?",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRkI3LUM1dS1OemZ6X2I0Zi1PQXFSR3h6T095VDJCOXlrOWg0bmZia0ktYXJWSGtVUVhhYkZQUTJCaTVhZ29Ock03NWVPVlF1Qk14aHZoSHkxSHdaZ0hlNUdPdktENWVlT2JBNWhQalg0cFdiWFVobmtXV3Z2cTNwU0g5Sk5GcW1G?oc=5",
-        "source": "The New York Times",
-        "published_at": "2026-06-24T15:04:00+00:00",
-        "summary": "The Ebola Outbreak’s Central Mystery: Where Did This Virus Come From? The New York Times"
-      },
-      {
-        "title": "France reports first Ebola patient as cases in Africa surge above 1,000",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOblRxMmhOZmN6dElSczl2TVdGeHhyVUl5WjZIdTREcGJCdW1lQU5mTzBpQ20yV04yYjIyb3VrcUZKM3NoNUdOekVzYkJRZHpBZ1pCV2Fzb1VxVVRlRUFZbm5pdnI2RzRvVjZmNURQY29ZTkZxQUg1b3JpRENFbjhoR0ZRMVNQZzZ2WTVHNFB1Slh0QXlCNFYyMGc5eFliYnkyeEhkdlpOc3NnNWFDMWVlUw?oc=5",
-        "source": "The Washington Post",
-        "published_at": "2026-06-24T19:37:36+00:00",
-        "summary": "France reports first Ebola patient as cases in Africa surge above 1,000 The Washington Post"
-      },
-      {
-        "title": "France confirms 1st Ebola case linked to DRC as UN warns outbreak is fastest-growing in Africa's history - ABC News",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDNPQ1hiaDdYVEM5b2RoTUMwUnROVnRIQjZxZzcweHVDYWZoaUlySTJMZjlsSE9fckl3VkpqM3lQV1dEMzdQbzdtQzdaMDBhQmRxT1lYelc5WnNnZ0dCZnBWcHVDUXNMUnFGQjdZVmw4djgySGlPM2dDaEZSYjJ3NTA5dno0TlY4ZzVXb0l2UTRsWllsUlBHX2szOXAxMmUyN25rSm5R0gGrAUFVX3lxTE5oU0J5UWtyWUpkNnpzLWJTaXhmM182aGx0WlFKVXNPMmZmUFA5cWh2OEphY214LVl2RjVPR21sLW5aUG16V1FEbnhtY1c2eTdGVW8xSUhaR1gtLXZ4T2J0OXc3eW1ZakFnUXREajkzRHFJaDYyOGtXam96RHdpcFZjQjdudmRHTmVQbEIyNk9TN2dhTkI5dWgzTmg5UUo1U2pzYkNfQkRQWmNnNA?oc=5",
-        "source": "Breaking News, Latest News and Videos",
-        "published_at": "2026-06-24T14:03:18+00:00",
-        "summary": "France confirms 1st Ebola case linked to DRC as UN warns outbreak is fastest-growing in Africa's history ABC News - Breaking News, Latest News and Videos"
-      },
-      {
-        "title": "First Ebola Case Outside Africa in 2026 Outbreak Confirmed",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaWM4QXpOc3o0aGcxckNDd05fRU5jTmhYMjZpUHdHYURpbzMtVVVvbWY4ckZ0ald3R05XQkFXY0lMM3JCMFZ3dkdSV00wbDduM2hoY1g2OElmckZaNWVRRnI4dDdTaWtUSWVfYl9ybHNxejIzYkVEdG1IbHh0UVp0NjBhV3dxOGdDT2pDV1VqMno?oc=5",
-        "source": "ScienceAlert",
-        "published_at": "2026-06-25T08:04:42+00:00",
-        "summary": "First Ebola Case Outside Africa in 2026 Outbreak Confirmed ScienceAlert"
-      }
-    ],
-    "related_queries": [
-      "DRC Ebola outbreak grows to become one of worst recorded",
-      "WHO says Congo's Ebola outbreak still fast-moving and health workers under threat",
-      "Worst first month seen in Congo’s Ebola outbreak says WHO"
-    ],
-    "map_focus": {
-      "label": "France",
-      "lat": 46.2276,
-      "lng": 2.2137,
-      "zoom": 5
-    },
-    "seo": {
-      "title": "disease outbreak Live Trend Tracker | HantaUpdates",
-      "description": "disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links w",
-      "canonical": "https://hantamap.online/trend/disease-outbreak",
-      "keywords": [
-        "disease outbreak",
-        "disease outbreak tracker",
-        "disease outbreak updates",
-        "disease outbreak live updates",
-        "disease outbreak outbreak",
-        "disease outbreak symptoms",
-        "disease outbreak public health",
-        "disease outbreak source links"
-      ]
-    },
-    "first_seen_at": "2026-06-25T11:38:56+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "41b5c1a34a969101cf",
     "slug": "what-is-a-heat-dome",
     "keyword": "what is a heat dome",
@@ -2641,6 +2568,79 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "ca76f0c4a31805e383",
+    "slug": "disease-outbreak",
+    "keyword": "disease outbreak",
+    "title": "disease outbreak trend tracker",
+    "description": "disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Fox News.",
+    "category": "public-health",
+    "geo": "US",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-08-12T15:40:00+00:00",
+    "updated_at": "2026-08-12T15:55:36+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=US",
+    "sources": [
+      {
+        "title": "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2sxT1VsMjFqTjJnM2l5M0FBb2FIel9MZTJtSkl6ckFmUU1HZGFialB3NmJWZXh1RlRGa21vZEtXWTdrX2pYTmd5QUxHNjcwQWJpT2pWZlBScU1sMXFYczZHaXZzLTdZNDNMNnNnT3Q2ZENuMVNKUmMyQTRxeHJFWGxBaUpMb1ZaWDhuTkNJMFpxLUU3SWNrVUZZVWkyLXdjVHN3TWpVRldESGvSAbABQVVfeXFMUDNCVEg4bE1EdnFLZTZ2TjJrN0lHUDJ2Q1VaYkluTkhMYnc2dm51V3ppN00wUndDTWtnRzdGcGF4OHEtWHhHOEpXMGp3UERCbFE2Tk9HVDNfMk1ubnVid1VXT09qcnFITDlYb1JFVDh6NFE2bFlYMWlpZnctMkNkcDk2U2RhOHNmSVo5QkU3RXBiWC1MYTBQdi1JUEtpZXhZem9ZcXlFLUMxcXo5ZDJqcGw?oc=5",
+        "source": "Fox News",
+        "published_at": "2026-08-12T11:00:32+00:00",
+        "summary": "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know Fox News Ebola virus behind massive outbreak in DRC could be mutating, officials say The Guardian Ebola: Over 2,000 dead in DR Congo as virus gathers pace dw.com Congo says 2,000 people have died in its Ebola outbreak, the fastest growing on record NBC News Fastest-growing Ebola outbreak in history has claimed 2,000 lives. Here's why it is hard to contain PBS Ebola deaths top 2,000 as scientists race to develop vaccine UN News 2,000 people have died in fastest-growing Ebola outbreak, Congo says New York Post Congo"
+      },
+      {
+        "title": "13 National Grocery Chains Recall Jalapeño Products Over Salmonella Risk. See the Full List",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDM2cXZoTC1Tdk5ySkJSZXh5WU9jRGtlaUZTLTIzN282MmhyOWRfNHpwaUZrZzZYOWo4TUk2OC12Y3ltVGo4eFhnQ0xweThrdFFWbVdKMDlyVTJWX0QxX295dVJxVFNOZEZNNkY2YzAyWDVOUjVLYTZxdndjOHBaTmE3ZnVFWjJLUm1YZXhiNzNQU3NXemQyMTViRGdvWW8tNmxyUjVIZUFhR2laME1TUVRJNGVPdw?oc=5",
+        "source": "TODAY.com",
+        "published_at": "2026-08-12T13:53:55+00:00",
+        "summary": "13 National Grocery Chains Recall Jalapeño Products Over Salmonella Risk. See the Full List TODAY.com"
+      },
+      {
+        "title": "What to do as Maine reports first cases of cyclosporiasis tied to national outbreak",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN08yUzIyaWxMakdnTkpEYnBVTVBLTm1TWGl1X0JPWUN6cTlqcGdpNTNaZmpMak5YNDRzbFFPQ3RRNEdIbDY1NEwyMFZvZDlLSmp2Q0VZeUstTmxMbWJGUnVHWGxRSTdVRVQ3Uk1iaUdwZ2ZqYnZEclBfYXowdVNDSU5CSGRpTUJTTEVBUTV4X0tveG1KWURhSkpoRmFEendkcTVkN1lUR2dGdUpqOGY5VXFzMklBdXhfTDFDYkl1eXo?oc=5",
+        "source": "The Portland Press Herald",
+        "published_at": "2026-08-11T21:08:51+00:00",
+        "summary": "What to do as Maine reports first cases of cyclosporiasis tied to national outbreak The Portland Press Herald"
+      },
+      {
+        "title": "Ebola Outbreak: Current Situation",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-08-07T11:58:09+00:00",
+        "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)"
+      }
+    ],
+    "related_queries": [
+      "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know",
+      "WHO says Congo’s Ebola outbreak is on track to eclipse the deadliest one in history",
+      "Congo says 2,000 people have died in history’s fastest-growing Ebola outbreak"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "disease outbreak Live Trend Tracker | HantaUpdates",
+      "description": "disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links w",
+      "canonical": "https://hantamap.online/trend/disease-outbreak",
+      "keywords": [
+        "disease outbreak",
+        "disease outbreak tracker",
+        "disease outbreak updates",
+        "disease outbreak live updates",
+        "disease outbreak outbreak",
+        "disease outbreak symptoms",
+        "disease outbreak public health",
+        "disease outbreak source links"
+      ]
+    },
+    "first_seen_at": "2026-06-25T11:38:56+00:00",
     "views_hint": 0
   },
   {
