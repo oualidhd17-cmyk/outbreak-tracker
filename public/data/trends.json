@@ -3082,79 +3082,6 @@
     "views_hint": 0
   },
   {
-    "id": "b487e45aa9e4c6d619",
-    "slug": "ebola-outbreak",
-    "keyword": "ebola outbreak",
-    "title": "ebola outbreak trend tracker",
-    "description": "ebola outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Al Jazeera.",
-    "category": "public-health",
-    "geo": "ZA",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-08-01T05:40:00+00:00",
-    "updated_at": "2026-08-01T08:15:46+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=ZA",
-    "sources": [
-      {
-        "title": "DR Congo Ebola epidemic becomes world’s second largest outbreak",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVTRLaEtTaDI5ZGwyZGF1WkQzNnZ6dVRBZW5WRHJiYW1uM2U2NzZxVmlFZGVrblM2c05jdGNPVW5wTFFJa2hUMGxkWFVjaVdqN2czMGw1dTBENzNkNTVDeDJvcHk0RmMwZzZYMDMwc19VNmtpQWs1YWFaVXZQeTNZME9YTXpLQ3RFaHpVenBrV2VuWTFxMmlGR1VrejBKVzZwS21RX0ZB0gGrAUFVX3lxTE03bV8tazhKZmswVHYxR2h2SjJPeGZnUG1IT0ZQQkREMm5jaDRlNThBT1ZialFLNWRHQTVmWFNVTDZ4SXVQWjctMzlFVEFkdnEySmVXdmRJcUp3alI3YUdaTWJyNjNaeTN4Q1NwaVlQZnZFR093RFlmQ01xTUxNZWxnMzdtSzZDZ2cxZmdRQnlDQkpaQktJQWdZM0FGMTZ3WTRFek9rT0poT01BRQ?oc=5",
-        "source": "Al Jazeera",
-        "published_at": "2026-07-31T16:56:15+00:00",
-        "summary": "DR Congo Ebola epidemic becomes world’s second largest outbreak Al Jazeera Fast-growing Ebola outbreak in DRC surges to second-largest on record CNN Ebola Outbreak Is Now the Second-Largest Ever, and in Record Time The New York Times Congo's Ebola outbreak is second-largest on record, latest data shows Reuters Ebola outbreak in DRC the fastest growing in the history of the virus The Guardian Fastest growing Ebola outbreak is worsening hunger in eastern Congo, UN agency chief warns PBS DR Congo Ebola outbreak becomes world's second-largest ever DW.com Congo says the death toll in fastest-growin"
-      },
-      {
-        "title": "Bipartisan senators press Rubio to unlock family planning funding for women in Ebola outbreak",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaW50NGhEQTVNT21JaS1vdjBpd0xCdFhnTElndGhjX2RXaGxxSUpBdmQzbVVHYzFoemtCUEdoS3hoY3BPelh2Ui1DVlZ2SDdhZzA0elhyai1lZm1aWHRHaHkzRjBmQ2VhbG9tZ1Y2U216Qm93VG9ycmllS1Vja1VPT2VTdTZTTURTejJ6RGVJUzZlNHhPdDdZVtIBngFBVV95cUxPVkxwRWpPTEt2OFBaNjVSa3lveUpqNWxEX1lhLVZYSXM4WkpPNmJ2dExIN252ZTc0UnFIRk5Gd2dqZEVaTzFST3hqbzNWZGVvLXFCQ3NuMkg3RFBKX0ZxX09oU2Rsc1AxcXF2Z2FaZEM0cnNuYnFhVzQ4NGc2SWVGM3JDV0ZLQ1lQR1ZGUDNEMDJDTEI5UFhVak1kajlHQQ?oc=5",
-        "source": "The Hill",
-        "published_at": "2026-08-01T02:56:00+00:00",
-        "summary": "Bipartisan senators press Rubio to unlock family planning funding for women in Ebola outbreak The Hill"
-      },
-      {
-        "title": "Africa CDC chief says ‘no magical solution’ for intensifying deadly Ebola outbreak",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNV1I2clNmN05jNHRkVzVrODhCTU1KMEpDRVJtbEdWLU9GX2xGVFhEX2p4aGhhV3NITUM0V2FSY2MwTEFXc0tLYkhGanVMOVdseXMzV1B6S1Z5RUV1TG1FbmxJTmE4Z0wwY0FLckE3VFZiRF9tSmpndVNuUzFuYVJ5NHRHLVdRdVBtZGVJM1VPb01KZnNjUmtWYk1ndmwwWVp0M2g5bmUtNndzenhuNFE?oc=5",
-        "source": "CIDRAP",
-        "published_at": "2026-07-30T19:00:43+00:00",
-        "summary": "Africa CDC chief says ‘no magical solution’ for intensifying deadly Ebola outbreak CIDRAP"
-      },
-      {
-        "title": "Comparing U.S. Ebola Outbreak Response Capabilities and Practices Over Time",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOXJQNUJLSkxLWW5uY2lhdkxvSjhUU1hUYjY4TjRwX0Rudk9HU2lUc1VZYW15d2loLW1NR3pZS3lqaUZJcVNqMTNybUQ1bHRFSVpiMkFQT0dvNjRsUXVXem93YXhNYXdsS3ByRVFQSm80XzUzMXliNlczY1A4anlyb3cwMkRETUhOa2VMeGRENEdUU3YyYl9Kak1WaS1CT2lvUzlKSWxGRS1HbnpBbFllbGczTjJuVkk?oc=5",
-        "source": "KFF",
-        "published_at": "2026-07-28T12:03:53+00:00",
-        "summary": "Comparing U.S. Ebola Outbreak Response Capabilities and Practices Over Time KFF"
-      }
-    ],
-    "related_queries": [
-      "DR Congo Ebola epidemic becomes world’s second largest outbreak",
-      "Ebola outbreak in DRC the fastest growing in the history of the virus",
-      "DR Congo Ebola outbreak tops 3 500 cases"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "ebola outbreak Live Trend Tracker | HantaUpdates",
-      "description": "ebola outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links wit",
-      "canonical": "https://hantamap.online/trend/ebola-outbreak",
-      "keywords": [
-        "ebola outbreak",
-        "ebola outbreak tracker",
-        "ebola outbreak updates",
-        "ebola outbreak live updates",
-        "ebola outbreak outbreak",
-        "ebola outbreak symptoms",
-        "ebola outbreak public health",
-        "ebola outbreak source links"
-      ]
-    },
-    "first_seen_at": "2026-07-20T21:59:26+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "2e5abbc15b97a3b3b5",
     "slug": "antalya",
     "keyword": "antalya",
@@ -5302,6 +5229,79 @@
       ]
     },
     "first_seen_at": "2026-05-10T15:38:16+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "f45add6ca28d071125",
+    "slug": "ebola-outbreak",
+    "keyword": "ebola outbreak",
+    "title": "ebola outbreak trend tracker",
+    "description": "ebola outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CBS News.",
+    "category": "public-health",
+    "geo": "AE",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-08-11T19:00:00+00:00",
+    "updated_at": "2026-08-12T01:29:55+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=AE",
+    "sources": [
+      {
+        "title": "Congo Ebola death toll tops 2,000 as outbreak becomes fastest spreading on record",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZ29Gb01aa0p4ekhjX2ZYa2Y5NWViTlJ4aC1JZmY1UmozLW0yQnNYWUVqTkhKLS1Wcm5fREszUTlfeVVkWk5QbXdFOU5GX2p3Ql9YS1FOcG9URkNSdFVCWWJoc0FYU0RUUjVVMEswcUhnTHdlQUVXcWx3OWlCb1ZIRWhRSm93NG9ZblZjTw?oc=5",
+        "source": "CBS News",
+        "published_at": "2026-08-11T09:01:00+00:00",
+        "summary": "Congo Ebola death toll tops 2,000 as outbreak becomes fastest spreading on record CBS News WHO says Congo’s fast-moving Ebola outbreak started months before it was declared AP News Ebola deaths surpass 2,000 in Democratic Republic of Congo The Washington Post Ebola started in DR Congo earlier and officials are playing catch-up, WHO warns BBC DRC Ebola death toll passes 2,000 amid fastest-growing outbreak on record Al Jazeera WHO: Ebola outbreak began in February, deaths near 2,000 CIDRAP Congo Ebola deaths surpass 2,000 as spread shows no sign of slowing Reuters Fastest-growing Ebola outbreak"
+      },
+      {
+        "title": "New transmission from animals likely caused Congo-Uganda Ebola outbreak, study says",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOd1U2aUloR0p0a1VmSUhaZjh3RGllRjBscTBvNkxWeXBqRUdVRUpDUTNNakszRlFaci02UXJrVldFMEZiZVJZY1oxc1VtelRZLXhxRUhHWGNjaklkMjdjcllfTGdTOXR4ZGFBQVo1R3lOc0dPSDA1MWlia29FRjN4YlUwaG5DclkzWExoY0tZN0tkV3pJb3JDUE5tRnJWSlpPaUdHN2QzMHJ2b1FxQXk3TjBYTzRSMXVaTlJkOWluVW9VT1FHWXdQTU1uQlBxc0hSLVloUzZIY3l6UHpONWxPcHNlZw?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-08-11T13:15:43+00:00",
+        "summary": "New transmission from animals likely caused Congo-Uganda Ebola outbreak, study says Reuters"
+      },
+      {
+        "title": "Ebola Outbreak: Current Situation",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-08-07T07:00:00+00:00",
+        "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "Congo says 2,000 people have died in history’s fastest-growing Ebola outbreak",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOSF9yUjNXX2h4OXJYMjN4LUdDRS03dGd6MmwzWXM4azBtY2FPMW0zcGsyRXNoRHBoZEhERXNUOTFfd3RYOEhvVEF0WEZuLVp1X0JtdUFFZWlVNlVyeXgtR05sUkc5c19CWW85WmZYRWRCNG9YSHVJVU4xUDZCWjEydDNpSHY1WGs?oc=5",
+        "source": "AP News",
+        "published_at": "2026-08-11T18:02:00+00:00",
+        "summary": "Congo says 2,000 people have died in history’s fastest-growing Ebola outbreak AP News"
+      }
+    ],
+    "related_queries": [
+      "Africa CDC and WHO call for urgent, community-led action to contain Ebola in the DRC",
+      "Ebola deaths at home expose gaps in DRC response, WHO says",
+      "Ebola started in DR Congo earlier and officials are playing catch-up, WHO warns"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola outbreak Live Trend Tracker | HantaUpdates",
+      "description": "ebola outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links wit",
+      "canonical": "https://hantamap.online/trend/ebola-outbreak",
+      "keywords": [
+        "ebola outbreak",
+        "ebola outbreak tracker",
+        "ebola outbreak updates",
+        "ebola outbreak live updates",
+        "ebola outbreak outbreak",
+        "ebola outbreak symptoms",
+        "ebola outbreak public health",
+        "ebola outbreak source links"
+      ]
+    },
+    "first_seen_at": "2026-07-20T21:59:26+00:00",
     "views_hint": 0
   },
   {
