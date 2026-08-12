@@ -1622,6 +1622,79 @@
     "views_hint": 0
   },
   {
+    "id": "21befb1a03c245c6eb",
+    "slug": "england",
+    "keyword": "england",
+    "title": "england trend tracker",
+    "description": "england is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
+    "category": "public-health",
+    "geo": "NO",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-08-12T12:00:00+00:00",
+    "updated_at": "2026-08-12T13:00:27+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=NO",
+    "sources": [
+      {
+        "title": "South East England basks in temperatures set to hit 30 degrees",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE52clM1SnBIMFR5ck15c3lZS1NTMkdjNmoyVW9WejNoZl9CZF9lUUQxdDhVZUZxV0RBaTd1cS1STzdtUXk3WlpNLXRjWWpHeFRzOFVjR2lQcjFpUQ?oc=5",
+        "source": "BBC",
+        "published_at": "2026-08-12T09:25:28+00:00",
+        "summary": "South East England basks in temperatures set to hit 30 degrees BBC"
+      },
+      {
+        "title": "Summer 2026 on course to be UK’s hottest on record, says Met Office – as it happened",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYW9GaGlRUm9aTm5ORFhsdDdqbmxKNXczV3V6MHVKTWJGNDZMMVdBZjBWMXB4aE1EVGxacFJvVkxqdDRsZktoY1dMXzVHLVBNMGJRWWE5MmhPRWEybExhZ2ppRVhwaTJ2c0tqOWctZFZmSHNlcGozYllXWUhIZ2wyWnduTlMtQ0RwTEJqTm1YaVlYUmZCbkwzclc3X3dQMl9Vc3I5NWhkMk1EUThaRjFER2F6SWtod0lWa1ZZUnl5eE5oZEhvYWRpU0tLN2psNUNaWHFpc1VkLUlOTjM5?oc=5",
+        "source": "The Guardian",
+        "published_at": "2026-08-11T07:41:00+00:00",
+        "summary": "Summer 2026 on course to be UK’s hottest on record, says Met Office – as it happened The Guardian"
+      },
+      {
+        "title": "UK weather latest: Amber heat health alerts kick in across England - as fire crews battle 'devastating' New Forest blaze",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOR3MxYnRTS0hUZkVKdU9TMFFBZG9VaEJqd21nSXBBeVhpaEc4RUdMbUFuWERWRlNCV2RiSl9NLXRYSXlIcGVyVkVjWkVvU1phWUJzRDkwZ2NwamNFZXhDc050T2NqdkVkRU5nanFVTTVjTWF1WldobUQ2X2NnYUNLQ0lXQnp3MVpLR3Z0eUZrSHh6WkVWX01GNVdkclV1dG9uSS1BMGZ3?oc=5",
+        "source": "news.sky.com",
+        "published_at": "2026-08-10T16:21:46+00:00",
+        "summary": "UK weather latest: Amber heat health alerts kick in across England - as fire crews battle 'devastating' New Forest blaze news.sky.com"
+      },
+      {
+        "title": "‘Green and Pleasant’ No More, England Turns a Parched Brown",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRGxEU0tORkZZdEtWdUhXODVCSHc2ak5uU3I0QkRMZDZGTklpWm9jMEJabVp5SFlGUjk4Z2FGdmN4SU0tRlpfNlZWbWItT240SUtPdE0tNkozdjIxdXdJTV9RM1cyeTlwbUZZLWp0UDRVMHQ1SS1kN3pTcHlpVnFadGlxZVgzV3JZWHRmZ3RfUnU?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-08-07T19:22:32+00:00",
+        "summary": "‘Green and Pleasant’ No More, England Turns a Parched Brown The New York Times More than two-thirds of England now in drought BBC Could England and Wales ever run out of water? The Guardian"
+      }
+    ],
+    "related_queries": [
+      "Could England and Wales ever run out of water?",
+      "UK weather: More than two-thirds of England now in drought with conditions set to worsen",
+      "Heatwave will hit food supplies and push up prices ‘into next year’"
+    ],
+    "map_focus": {
+      "label": "United Kingdom",
+      "lat": 55.3781,
+      "lng": -3.436,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "england Live Trend Tracker | HantaUpdates",
+      "description": "england is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pr",
+      "canonical": "https://hantamap.online/trend/england",
+      "keywords": [
+        "england",
+        "england tracker",
+        "england updates",
+        "england live updates",
+        "england outbreak",
+        "england symptoms",
+        "england public health",
+        "england source links"
+      ]
+    },
+    "first_seen_at": "2026-07-17T05:40:08+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "b1f1196a37684f8449",
     "slug": "excessive-heat",
     "keyword": "excessive heat",
@@ -3440,79 +3513,6 @@
       ]
     },
     "first_seen_at": "2026-07-20T06:14:21+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "e6e27f81b8f09f5bde",
-    "slug": "england",
-    "keyword": "england",
-    "title": "england trend tracker",
-    "description": "england is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: ESPN.",
-    "category": "public-health",
-    "geo": "AT",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-07-17T04:50:00+00:00",
-    "updated_at": "2026-07-17T05:40:08+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=AT",
-    "sources": [
-      {
-        "title": "England 1-2 Argentina (Jul 15, 2026) Final Score",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBoT2pYaHpJVEZZUHF1cF9yWHRxbVg2RzdfbFRvdVRHVU1FaGtBRENsZzhUa2JfcE9BS0hwN3p3QjdJY1BWUWxTbkdhNzlvYldoOGtMbjRYbjJBcVhTVHFDby1wME1teU5CMzNGa2RSektUMmdqX1E?oc=5",
-        "source": "ESPN",
-        "published_at": "2026-07-12T03:52:07+00:00",
-        "summary": "England 1-2 Argentina (Jul 15, 2026) Final Score ESPN"
-      },
-      {
-        "title": "England 1-2 Argentina: Three Lions suffer World Cup semi-final heartbreak with loss",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5HVTJnU2lsVkVwdDFBcFFtai1uaUhNb0F3VkF3aTF0LTJ6TkZjaHFqT3N2SzFRX19kWVBFelJyeXNTQWx4blE1NGxlTkxJbW5Mc3VUT1VVM1NLcnRDT1NwTndB?oc=5",
-        "source": "BBC",
-        "published_at": "2026-07-15T03:03:40+00:00",
-        "summary": "England 1-2 Argentina: Three Lions suffer World Cup semi-final heartbreak with loss BBC How could England look at Euro 2028 under Thomas Tuchel? The six recalls and one major change required Yahoo Sports England’s problem at major tournaments? They’re still just too English - The Athletic The New York Times"
-      },
-      {
-        "title": "Andy Burnham, a mayor from England's north, is poised to become Britain's next prime minister",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY0k0RVVZREdvWTU2b1l2cnZEaVhBejRwWWMtSzNFRDRJSWZKWWhYQXNnSlZXZjBQRVltbnQ4UHBWZURqMHNWYjRnb2NHTlhTVk90ZGZQWUExdUFTbnh6dWx4S1JPV2JOa0pVTURIdkNfeUZIZGR1cjVGZ3M2M2xZUEJxSUJXMm8xWFI1MVE4SDlHcU1ObEcxWQ?oc=5",
-        "source": "Yahoo",
-        "published_at": "2026-07-17T04:00:00+00:00",
-        "summary": "Andy Burnham, a mayor from England's north, is poised to become Britain's next prime minister Yahoo"
-      },
-      {
-        "title": "UKHSA updates heat health alerts across England",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWFZMdWVyakpZd2lFdms3cFptc0NQOV92YUNkSHlSU2pRZndIVnFQZWtZSExQZ1Q4S2dYZVMxbG1aRkNUT0RJSW9KQ1VrTEFyOWxobkotc1ZVbVlHVmI4NHo1RmxILVMxR0g5bUJYdFdMNnF3Wjl4TVlkbnRnZ3dRUzBvTHBENG5aYlE?oc=5",
-        "source": "GOV.UK",
-        "published_at": "2026-05-22T07:00:00+00:00",
-        "summary": "UKHSA updates heat health alerts across England GOV.UK"
-      }
-    ],
-    "related_queries": [
-      "World Cup 2026: Argentina could face disciplinary action for displaying Falklands banner after beating England",
-      "‘Las Malvinas son Argentinas’? Not quite – but the Falklands cannot remain British for ever | Simon Jenkins",
-      "Keir Starmer Calls For FIFA To Investigate Argentina Over Controversial Falklands Banner"
-    ],
-    "map_focus": {
-      "label": "United Kingdom",
-      "lat": 55.3781,
-      "lng": -3.436,
-      "zoom": 5
-    },
-    "seo": {
-      "title": "england Live Trend Tracker | HantaUpdates",
-      "description": "england is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pr",
-      "canonical": "https://hantamap.online/trend/england",
-      "keywords": [
-        "england",
-        "england tracker",
-        "england updates",
-        "england live updates",
-        "england outbreak",
-        "england symptoms",
-        "england public health",
-        "england source links"
-      ]
-    },
-    "first_seen_at": "2026-07-17T05:40:08+00:00",
     "views_hint": 0
   },
   {
