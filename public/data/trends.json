@@ -5232,6 +5232,79 @@
     "views_hint": 0
   },
   {
+    "id": "98a33b2a02b398010d",
+    "slug": "ebola-congo",
+    "keyword": "ebola congo",
+    "title": "ebola congo trend tracker",
+    "description": "ebola congo is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-08-13T11:30:00+00:00",
+    "updated_at": "2026-08-13T13:01:09+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "Ebola outbreak on track to be deadliest ever, WHO chief says",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB5Ml84WmN0dzlBUlBWbEdjZlYwby12SkljazdLcnlSNnNjSjNFaS1wZXhib0NCSTNnWDViODV1NmhPMW9RMXBXNkNGZ2FwVEdvT012bTQwcHZBdw?oc=5",
+        "source": "BBC",
+        "published_at": "2026-08-13T01:31:21+00:00",
+        "summary": "Ebola outbreak on track to be deadliest ever, WHO chief says BBC DR Congo Ebola outbreak set to become deadliest on record, WHO warns Al Jazeera Congo Ebola death toll tops 2,000 as outbreak becomes fastest spreading on record CBS News New transmission from animals likely caused Congo-Uganda Ebola outbreak, study says Reuters Congo says 2,000 people have died in its Ebola outbreak, the fastest growing on record AP News WHO says Congo's fast-moving Ebola outbreak started months before it was declared ABC News - Breaking News, Latest News and Videos Ebola deaths top 2,000 as scientists race to d"
+      },
+      {
+        "title": "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 13, Data as of 09 August 2026",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPblo5dzBZOTB0ekp2VExaYUVua2FCdzU4ZGM0Z1FDS0ZoWm5PWElCYVBsdmsyODlfQlF4bTNQak9IaXBlUnloNkRGNlA3WUFuOHFQclBuOTY3UUNWSGozX2dCbm9hZm14Tk1RUmVzZ00xYlFuOHRqMzBwVzZIZE1BMEJVcHRJTF9zT2puWENuRU1yaVBpbW5NbmRycmd1TWx6OTB6NG1BakRHSzNnUjZhVFlrRmctYm9K?oc=5",
+        "source": "WHO | Regional Office for Africa",
+        "published_at": "2026-08-09T07:00:00+00:00",
+        "summary": "EBOLA BUNDIBUGYO VIRUS DISEASE OUTBREAK Democratic Republic of the Congo | Uganda Weekly External Situation Report 13, Data as of 09 August 2026 WHO | Regional Office for Africa"
+      },
+      {
+        "title": "This Ebola outbreak has claimed over 2,000 lives. Here’s why it is so hard to contain",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZzFkRjZCbGVpa3I2ZFg2bFYyUVBkbFZLMFVFc3RYNEZkams0NVhYYjk0UjMxclBoeWdXRHRZeWVvSFlpSEZhdlBabHRkZHpXcFo2c1JHMDlzaVZwbnAwT05kcmttdTdKUGZzOWk5LWJUQVIyemxUOTNOZTZEcVd1ektXWmNjMGJXQzlMVFhuTVNab0h0T2M3dkFHYjA2Zw?oc=5",
+        "source": "AP News",
+        "published_at": "2026-08-11T14:18:00+00:00",
+        "summary": "This Ebola outbreak has claimed over 2,000 lives. Here’s why it is so hard to contain AP News"
+      },
+      {
+        "title": "A Patient’s Final Breath in a Congolese Ebola Ward",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGhQSWpxczNSVmFuaklESGF6SEhDb1NDU25fLVp6YUdaaG4wOU9CejJnTnNoXzZpcVd3dWw2dnhCUEVwaXZwRmx5U3NGR1BVckhZOTM3dzBxSGlCdmpRb2dvNVNOWkxNdHFzRV9zaGZQTmVvaFRqd0J6Tm5Gd1FzVTNaWQ?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-08-13T09:02:03+00:00",
+        "summary": "A Patient’s Final Breath in a Congolese Ebola Ward The New York Times"
+      }
+    ],
+    "related_queries": [
+      "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
+      "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola congo Live Trend Tracker | HantaUpdates",
+      "description": "ebola congo is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/ebola-congo",
+      "keywords": [
+        "ebola congo",
+        "ebola congo tracker",
+        "ebola congo updates",
+        "ebola congo live updates",
+        "ebola congo outbreak",
+        "ebola congo symptoms",
+        "ebola congo public health",
+        "ebola congo source links"
+      ]
+    },
+    "first_seen_at": "2026-08-13T13:01:09+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "f45add6ca28d071125",
     "slug": "ebola-outbreak",
     "keyword": "ebola outbreak",
