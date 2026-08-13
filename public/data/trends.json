@@ -869,6 +869,79 @@
     "views_hint": 0
   },
   {
+    "id": "4693d2eb0360bdb14c",
+    "slug": "epidemia",
+    "keyword": "epidemia",
+    "title": "epidemia trend tracker",
+    "description": "epidemia is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Società Italiana Scienze Mediche.",
+    "category": "public-health",
+    "geo": "IT",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-08-12T22:30:00+00:00",
+    "updated_at": "2026-08-13T01:39:35+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=IT",
+    "sources": [
+      {
+        "title": "Ebola Bundibugyo 2026: epidemia OMS in RDC e Uganda - SISMED",
+        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qSFdLUC14b0Y3MF8zM2FjX0Vlcm55aFBhcFp4MmZlSEFlV3dpd2NwVUN5UUFfTW4waEtGeHpsYkc4RGVLcEVHVTlmY1JlZ24wekYxMHdRQkFJcnAzY1NsR2Jib0Z2bzd6UnAwMFdoM0VpdVk0OEljbVBaMA?oc=5",
+        "source": "Società Italiana Scienze Mediche",
+        "published_at": "2026-05-20T07:00:00+00:00",
+        "summary": "Ebola Bundibugyo 2026: epidemia OMS in RDC e Uganda SISMED - Società Italiana Scienze Mediche"
+      },
+      {
+        "title": "'The Galloping Cure,' Missy Mazzoli's opera on opioids epidemic, premieres at Edinburgh Festival",
+        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUFJTYTAzcXBTVkpqQ0lVOXhmLWVGdmluNFFZS0ItcGFfcm9aT2NkQ3k5YzF1MGMxYjFQNU9vX1RDUHUyZlE5Yi1fR0VXeW10VkxFanRKUlJvTVMyLVVCNzlOcjVoQVNJVXQ5c0F2ZGJzMjBLU29JTHNkcExSdDRfVTRMWF9aSHVWX0QwNmpsT19oelBWQVktMy04Y3VFMXR2LXhqTzFqVkRSdDBQekpEWWw1SjdXNk5VV0QzYWNmaW0tNXNYLVdDVVlDakNfZTdWdnc?oc=5",
+        "source": "La Nación",
+        "published_at": "2026-08-11T12:02:52+00:00",
+        "summary": "'The Galloping Cure,' Missy Mazzoli's opera on opioids epidemic, premieres at Edinburgh Festival La Nación"
+      },
+      {
+        "title": "The Most Feared Pathogens: 9 Diseases that Could Cause a Major Epidemic",
+        "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNczNubGpPd3ZpdzdsVU9vV29EOUxidm9yMm5WMEVuMFFUQW1KSzROV05Vc2JwMG1aOGRVWjlmenlzS3ZHMHdtVDk0SzZ4c1RoRDY3OEVqUkcybDU5ZnJBX2s3SWVyeDQ1bURSaU5LNmFTak1qMDdDUlM2SVF4U2pLN01iaHNlV1VQTllvSW9SVnFmd0N1RFp1LVhRMDVaZ2ZlTG9LRnY3Q1lESTJPMkFRTzF3MnJnb3h5UDFYbVpVSHRvdGpDbWwzdGtpNEsyZ2dCSGxqMjBEUVVSTmVEWUtObm5yRlFKdE0?oc=5",
+        "source": "Instituto de Salud Global de Barcelona",
+        "published_at": "2025-12-18T05:31:50+00:00",
+        "summary": "The Most Feared Pathogens: 9 Diseases that Could Cause a Major Epidemic Instituto de Salud Global de Barcelona"
+      },
+      {
+        "title": "Explainer-Why Congo’s Ebola outbreak is spreading faster than previous epidemics",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLWZCcGZDa19oekJndGludUNLQW1Sa3hoTEFNSGhfMUhIRGJSMmVkc2Y5ZVI5U19yM2F2T3pObWp6dFdCZ1ZWTS15dV9haklpV2V0YlRZWDdiNjFiWm9scko4aHJYc0tiRzJNZVN0aWlxZko3MkdPWHN3a09RYUNSdjAyUXA2R0g4RUFZX0d6dzIxYU03ekhoaFRfQ0xjdnEwWG1zVEw3ZTVqLVlDU2E0SUpENVZnRndQZXlnRkphS3pqM0ZTTzJQc0RDcG5sX2tzOVREWGhaNTc4QzhL?oc=5",
+        "source": "Internazionale",
+        "published_at": "2026-08-05T15:03:30+00:00",
+        "summary": "Explainer-Why Congo’s Ebola outbreak is spreading faster than previous epidemics Internazionale"
+      }
+    ],
+    "related_queries": [
+      "Ebola, Oms: seconda epidemia mai registrata, diffusione rapida",
+      "Ebola corre più veloce: l'avvertimento del virologo che scoprì il virus",
+      "Ebola in RD Congo, allarme Unicef: 743 casi confermati fra i bambini e 330 decessi"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "epidemia Live Trend Tracker | HantaUpdates",
+      "description": "epidemia is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without p",
+      "canonical": "https://hantamap.online/trend/epidemia",
+      "keywords": [
+        "epidemia",
+        "epidemia tracker",
+        "epidemia updates",
+        "epidemia live updates",
+        "epidemia outbreak",
+        "epidemia symptoms",
+        "epidemia public health",
+        "epidemia source links"
+      ]
+    },
+    "first_seen_at": "2026-06-25T19:54:58+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "72e953eb5634b1edd0",
     "slug": "nipah",
     "keyword": "nipah",
@@ -2933,79 +3006,6 @@
       ]
     },
     "first_seen_at": "2026-08-08T01:15:52+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "980a577c1d0e9c181c",
-    "slug": "epidemia",
-    "keyword": "epidemia",
-    "title": "epidemia trend tracker",
-    "description": "epidemia is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: reutersconnect.com.",
-    "category": "public-health",
-    "geo": "PL",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-08-06T04:30:00+00:00",
-    "updated_at": "2026-08-06T05:46:25+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=PL",
-    "sources": [
-      {
-        "title": "Licensable video: Más de 124.000 contagios y 800 fallecidos en Bangladés por epidemia de sarampión",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQNUxoVmtNNkV2NEtUVC0zRWpYUEpidEM1UWowTG1RSjh6NTVJX01DQnB4WVptc1ZkM3FUNVZsQTd1OGp4SW42UVZsalg0SkhvanllLTNxVDFWd3AwN0diRExIdzFJNGdCN3hReXQxRmR3aFRpYTRqMm1YX0FSSWRkcWo1Sm54ZnM5bDVEdzFhcEFPOXVvbExOVWh5dC1iY0dVV1hpM3Z6ZFR1azJRaFFyWDk1cFVZd2hsTkNmb2pqMHk5MlBaYUV3TldlZ2xJOVp4ZnBEVVFXLVNSTEhaXzhpaDF5Nk0tb2pXZEFkZHZ1azRhSGRkRUt4bThudGJiV3hwWVRBYUdRc1Rvelk?oc=5",
-        "source": "reutersconnect.com",
-        "published_at": "2026-07-28T11:57:00+00:00",
-        "summary": "Licensable video: Más de 124.000 contagios y 800 fallecidos en Bangladés por epidemia de sarampión reutersconnect.com"
-      },
-      {
-        "title": "Explainer-Why Congo’s Ebola outbreak is spreading faster than previous epidemics",
-        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOLWZCcGZDa19oekJndGludUNLQW1Sa3hoTEFNSGhfMUhIRGJSMmVkc2Y5ZVI5U19yM2F2T3pObWp6dFdCZ1ZWTS15dV9haklpV2V0YlRZWDdiNjFiWm9scko4aHJYc0tiRzJNZVN0aWlxZko3MkdPWHN3a09RYUNSdjAyUXA2R0g4RUFZX0d6dzIxYU03ekhoaFRfQ0xjdnEwWG1zVEw3ZTVqLVlDU2E0SUpENVZnRndQZXlnRkphS3pqM0ZTTzJQc0RDcG5sX2tzOVREWGhaNTc4QzhL?oc=5",
-        "source": "Internazionale",
-        "published_at": "2026-08-05T15:03:30+00:00",
-        "summary": "Explainer-Why Congo’s Ebola outbreak is spreading faster than previous epidemics Internazionale"
-      },
-      {
-        "title": "Ebola Bundibugyo 2026: epidemia OMS in RDC e Uganda - SISMED",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1qSFdLUC14b0Y3MF8zM2FjX0Vlcm55aFBhcFp4MmZlSEFlV3dpd2NwVUN5UUFfTW4waEtGeHpsYkc4RGVLcEVHVTlmY1JlZ24wekYxMHdRQkFJcnAzY1NsR2Jib0Z2bzd6UnAwMFdoM0VpdVk0OEljbVBaMA?oc=5",
-        "source": "Società Italiana Scienze Mediche",
-        "published_at": "2026-05-20T07:00:00+00:00",
-        "summary": "Ebola Bundibugyo 2026: epidemia OMS in RDC e Uganda SISMED - Società Italiana Scienze Mediche"
-      },
-      {
-        "title": "WHO Alert: The Ebola epidemic in the Democratic Republic of the Congo is rapidly intensifying, becoming the largest in the country's history.",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUU5tc3l3SkRZVHJIMllxNmJBV1RXNWxQS0FFTC1GRHJXeFdOWXFmLUZZNFQxQk5mSU53bnlvanZ1Sm5uUW5iSk9YSXhsX25LNWVfYXg3UUttYzhCYjB6SV9UbjBGb19TbkpDT2xlXzlmTUswM1BTTHhKVUpEdWN4Z3pSM3hSR2duSTYtbXphejFoc0hlYXp6cmdUOWdzLVNURURIWkltNXBMVUhVd2xHZDRzT2R5emFHQ0RVSw?oc=5",
-        "source": "Informat.ro",
-        "published_at": "2026-08-01T17:36:23+00:00",
-        "summary": "WHO Alert: The Ebola epidemic in the Democratic Republic of the Congo is rapidly intensifying, becoming the largest in the country's history. Informat.ro"
-      }
-    ],
-    "related_queries": [
-      "Śmiertelna epidemia zbiera żniwo. \"Nie wykazuje żadnych oznak spowolnienia\"",
-      "Epidemia eboli coraz groźniejsza. \"Zatrważające tempo\"",
-      "Czy wirus Ebola dotrze do Polski? GIS zaleca śledzenie komunikatów MSZ"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "epidemia Live Trend Tracker | HantaUpdates",
-      "description": "epidemia is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without p",
-      "canonical": "https://hantamap.online/trend/epidemia",
-      "keywords": [
-        "epidemia",
-        "epidemia tracker",
-        "epidemia updates",
-        "epidemia live updates",
-        "epidemia outbreak",
-        "epidemia symptoms",
-        "epidemia public health",
-        "epidemia source links"
-      ]
-    },
-    "first_seen_at": "2026-06-25T19:54:58+00:00",
     "views_hint": 0
   },
   {
