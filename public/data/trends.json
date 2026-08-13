@@ -1,71 +1,5 @@
 [
   {
-    "id": "f926c2c92a5bcea587",
-    "slug": "trend",
-    "keyword": "ગુજરાત સમાચાર",
-    "title": "ગુજરાત સમાચાર trend tracker",
-    "description": "ગુજરાત સમાચાર is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Gujarat Samachar.",
-    "category": "public-health",
-    "geo": "IN",
-    "search_volume": "20000+",
-    "traffic_label": "20000+",
-    "published_at": "2026-07-31T11:00:00+00:00",
-    "updated_at": "2026-07-31T11:26:40+00:00",
-    "score": 20000,
-    "source_url": "https://trends.google.com/trending/rss?geo=IN",
-    "sources": [
-      {
-        "title": "Ahmedabadના ધોળકામાં ફાર્મ હાઉસમાં દારૂપાર્ટી! પોલીસે રંગમા…",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMmw5MHZRRDcxWEQtamlOSjBEY2ROYWhNTTBKeXlnQXZIdEs0SjVaYkM1ZG5VaFZBOUxNdVRVcTUxeUV1RGd6WHQzbW5ZQVZIVzZURUpVX29iNDBQWHFKT0t0aThxU0dzNkVfWnRwcXB2X3E2bkd0dWcwMl9yMUhqXzAwWmRnOXZnSjlhS0t5WVZMNkJodjdyUEVaeUFfZnFpSUNreWU1NDJ0V2g0MXdTS0lrVQ?oc=5",
-        "source": "Gujarat Samachar",
-        "published_at": "2026-06-25T19:10:39+00:00",
-        "summary": "Ahmedabadના ધોળકામાં ફાર્મ હાઉસમાં દારૂપાર્ટી! પોલીસે રંગમા… Gujarat Samachar"
-      },
-      {
-        "title": "Breaking News | 15 Jun 2026 | હાલ આખા મહારાષ્ટ્રમાં કાળો કહેર થઈ ગયો લાશોના ઢગલાં થયાં | News | Contagio Hantavirus (WytlqWzuJW)",
-        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tekFyWXhjSE8wTS1KVnE0Zy1na3lTUm9NMWYyaXpNaDhHSnotS3FvTmE2OFhEbW1xTG9zc2JGWV9kbF8zVlB1MEpDbUJ6MFdLODNrQ1JRRnV3Y2lpc1UzQg?oc=5",
-        "source": "Mshale",
-        "published_at": "2026-07-20T12:50:28+00:00",
-        "summary": "Breaking News | 15 Jun 2026 | હાલ આખા મહારાષ્ટ્રમાં કાળો કહેર થઈ ગયો લાશોના ઢગલાં થયાં | News | Contagio Hantavirus (WytlqWzuJW) Mshale"
-      },
-      {
-        "title": "Fake message circulated in the name of non-existent ex-employee to malign Gujarat Samachar",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdVh4dWR4NEQwMWJoT1dURlpwWkFXbzdiYzVpNF81QkFmVFlkVTJTX0liRXYtVmxiZl91eHl1UXUxQTdOeGx6YmNPVkt2T0w3d09fWlJzX0pfNUJ3dEtlZTJjbldZdVVKb0dDcTIwSXU0QUhNMThYTEVvRmRiZW9ITEdSRTlWWWdQUUtQWHk5Wk5oLWNnZjZwSXh6OGVIOTRpTFpz?oc=5",
-        "source": "Alt News",
-        "published_at": "2018-06-19T07:00:00+00:00",
-        "summary": "Fake message circulated in the name of non-existent ex-employee to malign Gujarat Samachar Alt News"
-      }
-    ],
-    "related_queries": [
-      "ખેડાના નડિયાદ-વસોમાં જળબંબાકાર, સુરતના ઉમરપાડામાં આભ ફાટ્યુ…",
-      "gujarat weather : ગુજરાતમાં 48 કલાક ભારે, અમદાવાદ સહિત ક્યાં ક્યાં અત્યંત ભારે વરસાદ તૂટી પડશે?",
-      "Monsoon 2026 Another big forecast from the Meteorological Department heavy rains for Gujarat in the next 3 hours"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "ગુજરાત સમાચાર Live Trend Tracker | HantaUpdates",
-      "description": "ગુજરાત સમાચાર is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links with",
-      "canonical": "https://hantamap.online/trend/trend",
-      "keywords": [
-        "ગુજરાત સમાચાર",
-        "ગુજરાત સમાચાર tracker",
-        "ગુજરાત સમાચાર updates",
-        "ગુજરાત સમાચાર live updates",
-        "ગુજરાત સમાચાર outbreak",
-        "ગુજરાત સમાચાર symptoms",
-        "ગુજરાત સમાચાર public health",
-        "ગુજરાત સમાચાર source links"
-      ]
-    },
-    "first_seen_at": "2026-05-10T09:16:13+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "a5b3e6e58b8455a208",
     "slug": "surto",
     "keyword": "surto",
@@ -1619,6 +1553,75 @@
       ]
     },
     "first_seen_at": "2026-05-14T21:55:47+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "35d0c2e4e4072a35e6",
+    "slug": "trend",
+    "keyword": "村上宗隆",
+    "title": "村上宗隆 trend tracker",
+    "description": "村上宗隆 is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Mshale.",
+    "category": "public-health",
+    "geo": "JP",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-08-13T20:40:00+00:00",
+    "updated_at": "2026-08-13T21:40:43+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=JP",
+    "sources": [
+      {
+        "title": "Munetaka Murakami Has Homered In THREE Straight Games For The White Sox! 😳 村上 宗隆ハイライト MLB Highlights Hantavirus Map (oAzekEhRuU)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oZjVLenB6UDhvdG1rOWpRemZmZHRwSUtaR0FtWmo2Y3lERE43WnI1bUs4b3RwRDlhekwwU0k5VDhNNUVSd3M3VF90c0JITzdhRVF1WVMwenhSU1U?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-08-10T04:40:54+00:00",
+        "summary": "Munetaka Murakami Has Homered In THREE Straight Games For The White Sox! 😳 村上 宗隆ハイライト MLB Highlights Hantavirus Map (oAzekEhRuU) Mshale"
+      },
+      {
+        "title": "Derek Hill: Munetaka Murakami Has Brought White Sox “Ten Times Closer”",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0Z6azRoYTdXWUQ2dnpTdVh0Z3F5WGR4OWNCTmlJWktYdVJsTGZtbkhBNzBCTjB2TFI1dmdhVElYWUdSQ29FYXc1UWF4ckJaY2FtQjZVbEcwbWF4VTVreWx3dnJKQTNEN09McWE3V1ljWEtzbzRvN2hkS0RxRl9HZlVhMWpsTExVbDY5azJyb25ubm96SmcwSFJB?oc=5",
+        "source": "Sox On 35th",
+        "published_at": "2026-05-19T07:00:00+00:00",
+        "summary": "Derek Hill: Munetaka Murakami Has Brought White Sox “Ten Times Closer” Sox On 35th"
+      },
+      {
+        "title": "MUNETAKA MURAKAMI Homers AGAIN For The White Sox! | MLB Highlights 村上 宗隆ハイライト Ohio Lottery (ZZHgNhKFdA)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZOUh6QWFxamR1cGE4V3lMakJqUHZnanZyMV9OU2RfSFhnQ2dVZ1NaMUhDZ0NkbmdheHJxZEJ3dlp5TDZ6TGIzOERNb1lhVC1XYTBVeVJSMGpnQTQ?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-08-07T17:42:34+00:00",
+        "summary": "MUNETAKA MURAKAMI Homers AGAIN For The White Sox! | MLB Highlights 村上 宗隆ハイライト Ohio Lottery (ZZHgNhKFdA) Mshale"
+      },
+      {
+        "title": "Chase Meidroth, Munetaka Murakami mash — but Brewers smash White Sox’ Opening Day hopes 14-2",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDVYS0x1eVJqTTBfUFRsdVdvWGE1NUdwVkx6aDNVWHM4V3BMcXFGbGQ5SEpjdFJZN3lzemRkc24waUdvd0VHOGJJcHVQZXhvaUNnZDJDd0swS2xZemZNcG13RjdCcEdvX0szeVlnSjZCS2F1ekJYMTZoMjNOWDU0Q0RXOF9aZ3kwWmp0WHRwc3JjUG5pcFpjMjk4YTZ5WktrdUFPQTdnNUNDUjZoTXd0LQ?oc=5",
+        "source": "chicago.suntimes.com",
+        "published_at": "2026-03-26T07:00:00+00:00",
+        "summary": "Chase Meidroth, Munetaka Murakami mash — but Brewers smash White Sox’ Opening Day hopes 14-2 chicago.suntimes.com"
+      }
+    ],
+    "related_queries": [],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "村上宗隆 Live Trend Tracker | HantaUpdates",
+      "description": "村上宗隆 is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without provi",
+      "canonical": "https://hantamap.online/trend/trend",
+      "keywords": [
+        "村上宗隆",
+        "村上宗隆 tracker",
+        "村上宗隆 updates",
+        "村上宗隆 live updates",
+        "村上宗隆 outbreak",
+        "村上宗隆 symptoms",
+        "村上宗隆 public health",
+        "村上宗隆 source links"
+      ]
+    },
+    "first_seen_at": "2026-05-10T09:16:13+00:00",
     "views_hint": 0
   },
   {
