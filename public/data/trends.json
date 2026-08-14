@@ -2720,79 +2720,6 @@
     "views_hint": 0
   },
   {
-    "id": "f15b3972ab6ced2866",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Al Jazeera.",
-    "category": "public-health",
-    "geo": "GB",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-08-13T06:00:00+00:00",
-    "updated_at": "2026-08-13T07:20:10+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=GB",
-    "sources": [
-      {
-        "title": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcHg0cHJ2eFRkYlUwM09qbG9GVndtQjVPbTUzNWliUmdJUzdCbWZFRUlaNGZRSjg1akNXYzhYOXlnUlFidHNtOTlwQ2tyeTB0d2VndV9lQ1dxRzJLZWdmdndaTTBIeWxGVTRiSE9OSEYzdzYwTkVaY0hGZm0zdVFoNENfWEN6blU2TGZCU1Z2ZFRucHhmRW00VFZtTmwwd2FKUjh5S3VVa0tFcC1j0gGyAUFVX3lxTE9VZmNka3pfYUxIeU9DUHZUMV9lNlVIdWtmVHBMZGVtOEliaUVkQzIzUzRVTnpkSWxVVUhaRkc3U1ptTGFiQk1CckgwV2tOb2RMUjNYRklobGJPeFd2OExkU190MG1iWjNTeWhiSW5jdFYxTTVQMnVRQ2VKU2tXVVppS1hDTEQ3cjd4UEdLbDBNWHNUVUpmNGI2SmIxTWpSUEhlQnJfQ0dkQlZWN2hDemhyOVE?oc=5",
-        "source": "Al Jazeera",
-        "published_at": "2026-08-12T18:26:53+00:00",
-        "summary": "DR Congo Ebola outbreak set to become deadliest on record, WHO warns Al Jazeera Congo says 2,000 people have died in history’s fastest-growing Ebola outbreak AP News Ebola outbreak on track to be deadliest ever, WHO chief says BBC New transmission from animals likely caused Congo-Uganda Ebola outbreak, study says Reuters DR Congo Ebola outbreak on track to be largest in history CIDRAP 'Ebola is spreading at a speed we've never seen before,' co-discoverer of virus says Le Monde.fr Congo Ebola death toll tops 2,000 as outbreak becomes fastest spreading on record CBS News Congo’s Ebola outbreak o"
-      },
-      {
-        "title": "Talks on launch of clinical trial of Ebola vaccine in DRC advance, WHO says",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBaZ195QldjVTI2aUU1aHBQazB1ZzBTVmxMcFRnM2tCdUc3NU9RNWhrbHdxN3ZtZlh3R25VRC0wYnZXVXpSQmp6OVdkck1jbTNudjdnUl9mdTc2bk1IREppXzFrcUNSaFp6ZnVaa2VjQzlSREkzUjJTTTNB?oc=5",
-        "source": "STAT",
-        "published_at": "2026-08-12T21:01:08+00:00",
-        "summary": "Talks on launch of clinical trial of Ebola vaccine in DRC advance, WHO says STAT"
-      },
-      {
-        "title": "Ebola deaths top 2,000 as scientists race to develop vaccine",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5mdU9nLU1GYWZlUnJTbW9xbElqSVdQSjVBX1dYempUY045a2FDaUhGNHZtQ09pNE1iNG1CUDlJd3A3bkpFNmN2T2xEVlFGU1VsTXJuTC1GYw?oc=5",
-        "source": "UN News",
-        "published_at": "2026-08-11T18:58:29+00:00",
-        "summary": "Ebola deaths top 2,000 as scientists race to develop vaccine UN News"
-      },
-      {
-        "title": "Congo's fast-moving Ebola outbreak started month before it was declared, WHO says",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWjZBSzdRV19oSE9vX1l4MnY4ZmdKSjYzWFpGUkpFX3RGeExPSS16YVF0QTFzQndZZ24xSVNpc3hNVDN6ODVZSzY5bEJaVGYtalF5bzU0UUJrbVRxQUxxdkJJZkxjTjBuYVJIT0dldEEycVpxRUdCZUU1RTVDNV9LR2gwemlnMEJYSktlRUhkb0VjQkRtNzhhYkRsUVp3bTJVMW9fVmVXbm5HSVp5cm5YMlVGZHFjUQ?oc=5",
-        "source": "PBS",
-        "published_at": "2026-08-10T18:34:03+00:00",
-        "summary": "Congo's fast-moving Ebola outbreak started month before it was declared, WHO says PBS"
-      }
-    ],
-    "related_queries": [
-      "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "DR Congo Ebola outbreak set to become deadliest on record, WHO warns",
-      "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
-      "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "ca76f0c4a31805e383",
     "slug": "disease-outbreak",
     "keyword": "disease outbreak",
@@ -5305,6 +5232,79 @@
       ]
     },
     "first_seen_at": "2026-05-10T15:38:16+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "4b17a3d349f56b3466",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNN.",
+    "category": "public-health",
+    "geo": "TR",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-08-14T04:30:00+00:00",
+    "updated_at": "2026-08-14T04:46:14+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=TR",
+    "sources": [
+      {
+        "title": "Congo says 2,000 people have died in history’s fastest-growing Ebola outbreak",
+        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtSENYWThacDFlQ3NzcF81ZkItbFhtV0ZsQXVFZml3SmdXOFFOSDU0djBMemhtVERnVGlSaktZaW4zemk0enlMZk5wbVR2bnhOZlRsTDQzTEdyODVJWnhfU2pLLVd2M2lpaUl1VDNaQUxlb1k?oc=5",
+        "source": "CNN",
+        "published_at": "2026-08-11T20:42:18+00:00",
+        "summary": "Congo says 2,000 people have died in history’s fastest-growing Ebola outbreak CNN DRC’s fast-growing Ebola outbreak spreads to sixth province The Guardian Ebola outbreak caused by new ‘animal transmission’: What that means Al Jazeera Ebola outbreak on track to be deadliest ever, WHO chief says BBC Congo’s fastest-growing Ebola outbreak reaches a sixth province AP News 'Ebola is spreading at a speed we've never seen before,' co-discoverer of virus says Le Monde.fr Congo reports Ebola death in new province, official says Reuters DR Congo's fastest-growing Ebola outbreak reaches sixth province Sk"
+      },
+      {
+        "title": "A Patient’s Final Breath in a Congolese Ebola Ward",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGhQSWpxczNSVmFuaklESGF6SEhDb1NDU25fLVp6YUdaaG4wOU9CejJnTnNoXzZpcVd3dWw2dnhCUEVwaXZwRmx5U3NGR1BVckhZOTM3dzBxSGlCdmpRb2dvNVNOWkxNdHFzRV9zaGZQTmVvaFRqd0J6Tm5Gd1FzVTNaWQ?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-08-13T13:32:15+00:00",
+        "summary": "A Patient’s Final Breath in a Congolese Ebola Ward The New York Times"
+      },
+      {
+        "title": "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDBZYnVPUlJPdW9Va3hTWG80eWtnS3dDZFB6UHl2c0Y4YlB5WTlXTERRazRVbFZ6RUprakQ1YXJEVkUxZ2RmVmhBNUN2WklSb1ZIQ0ZVbDFBc0FOUl9Sei01VEtXNHlielBsWDlRYVdJSFNuZUxVb3hhOXg1SE5MOUR3c2JTeHpvQUFWZ21pdDhTalZ5d29RdkhzMklWQm1sUjRnYUxfTGI1MEY5c1NfSTNlUdIBuAFBVV95cUxOX0phVGI3WlZjeDZBOGpCSzdNaU1zbl9IM0pjeDNPcHVqZXdjNnROSEV6Nk9xUUF6dmRneDJDNEUwSmw5ZFRsaENIWU1uNks0UUVDZVp4anBDUUlNeHVJSm02VzMxODNSTERwZFVlRWc0d2Nma2ZzNmV6Q1BQVm81aGEwZE5QU21pdFdTLUxwY3Y5cVdKOVZ6R3oydFZudFpSM1I2NFFYV2V2Tk05emdsUlY3amltSXE3?oc=5",
+        "source": "PBS",
+        "published_at": "2026-08-13T14:27:33+00:00",
+        "summary": "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says PBS"
+      },
+      {
+        "title": "Ebola tracing improves in DR Congo – but the virus is still winning the race",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nZS1FMTRfX0p3bm9SOTFIcjBiRUpPdzBLOUM0UlJGNkNEUXUybVhNd215QlJYOVZVZmJwR3hYRkhieVBTTFNiUmYtQWhOZzBjbDc5TG94SQ?oc=5",
+        "source": "news.un.org",
+        "published_at": "2026-08-13T19:56:20+00:00",
+        "summary": "Ebola tracing improves in DR Congo – but the virus is still winning the race news.un.org"
+      }
+    ],
+    "related_queries": [
+      "Ebola outbreak in DR Congo on track to eclipse 2014-2016 West Africa epidemic: WHO chief",
+      "Ebola outbreak on track to be deadliest ever, WHO chief says",
+      "WHO aims to turn tide of Ebola outbreak in DR Congo within three months"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
     "views_hint": 0
   },
   {
