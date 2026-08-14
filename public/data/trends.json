@@ -1629,75 +1629,6 @@
     "views_hint": 0
   },
   {
-    "id": "35d0c2e4e4072a35e6",
-    "slug": "trend",
-    "keyword": "村上宗隆",
-    "title": "村上宗隆 trend tracker",
-    "description": "村上宗隆 is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Mshale.",
-    "category": "public-health",
-    "geo": "JP",
-    "search_volume": "500+",
-    "traffic_label": "500+",
-    "published_at": "2026-08-13T20:40:00+00:00",
-    "updated_at": "2026-08-13T21:40:43+00:00",
-    "score": 500,
-    "source_url": "https://trends.google.com/trending/rss?geo=JP",
-    "sources": [
-      {
-        "title": "Munetaka Murakami Has Homered In THREE Straight Games For The White Sox! 😳 村上 宗隆ハイライト MLB Highlights Hantavirus Map (oAzekEhRuU)",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oZjVLenB6UDhvdG1rOWpRemZmZHRwSUtaR0FtWmo2Y3lERE43WnI1bUs4b3RwRDlhekwwU0k5VDhNNUVSd3M3VF90c0JITzdhRVF1WVMwenhSU1U?oc=5",
-        "source": "Mshale",
-        "published_at": "2026-08-10T04:40:54+00:00",
-        "summary": "Munetaka Murakami Has Homered In THREE Straight Games For The White Sox! 😳 村上 宗隆ハイライト MLB Highlights Hantavirus Map (oAzekEhRuU) Mshale"
-      },
-      {
-        "title": "Derek Hill: Munetaka Murakami Has Brought White Sox “Ten Times Closer”",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON0Z6azRoYTdXWUQ2dnpTdVh0Z3F5WGR4OWNCTmlJWktYdVJsTGZtbkhBNzBCTjB2TFI1dmdhVElYWUdSQ29FYXc1UWF4ckJaY2FtQjZVbEcwbWF4VTVreWx3dnJKQTNEN09McWE3V1ljWEtzbzRvN2hkS0RxRl9HZlVhMWpsTExVbDY5azJyb25ubm96SmcwSFJB?oc=5",
-        "source": "Sox On 35th",
-        "published_at": "2026-05-19T07:00:00+00:00",
-        "summary": "Derek Hill: Munetaka Murakami Has Brought White Sox “Ten Times Closer” Sox On 35th"
-      },
-      {
-        "title": "MUNETAKA MURAKAMI Homers AGAIN For The White Sox! | MLB Highlights 村上 宗隆ハイライト Ohio Lottery (ZZHgNhKFdA)",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBZOUh6QWFxamR1cGE4V3lMakJqUHZnanZyMV9OU2RfSFhnQ2dVZ1NaMUhDZ0NkbmdheHJxZEJ3dlp5TDZ6TGIzOERNb1lhVC1XYTBVeVJSMGpnQTQ?oc=5",
-        "source": "Mshale",
-        "published_at": "2026-08-07T17:42:34+00:00",
-        "summary": "MUNETAKA MURAKAMI Homers AGAIN For The White Sox! | MLB Highlights 村上 宗隆ハイライト Ohio Lottery (ZZHgNhKFdA) Mshale"
-      },
-      {
-        "title": "Chase Meidroth, Munetaka Murakami mash — but Brewers smash White Sox’ Opening Day hopes 14-2",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNdDVYS0x1eVJqTTBfUFRsdVdvWGE1NUdwVkx6aDNVWHM4V3BMcXFGbGQ5SEpjdFJZN3lzemRkc24waUdvd0VHOGJJcHVQZXhvaUNnZDJDd0swS2xZemZNcG13RjdCcEdvX0szeVlnSjZCS2F1ekJYMTZoMjNOWDU0Q0RXOF9aZ3kwWmp0WHRwc3JjUG5pcFpjMjk4YTZ5WktrdUFPQTdnNUNDUjZoTXd0LQ?oc=5",
-        "source": "chicago.suntimes.com",
-        "published_at": "2026-03-26T07:00:00+00:00",
-        "summary": "Chase Meidroth, Munetaka Murakami mash — but Brewers smash White Sox’ Opening Day hopes 14-2 chicago.suntimes.com"
-      }
-    ],
-    "related_queries": [],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "村上宗隆 Live Trend Tracker | HantaUpdates",
-      "description": "村上宗隆 is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without provi",
-      "canonical": "https://hantamap.online/trend/trend",
-      "keywords": [
-        "村上宗隆",
-        "村上宗隆 tracker",
-        "村上宗隆 updates",
-        "村上宗隆 live updates",
-        "村上宗隆 outbreak",
-        "村上宗隆 symptoms",
-        "村上宗隆 public health",
-        "村上宗隆 source links"
-      ]
-    },
-    "first_seen_at": "2026-05-10T09:16:13+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "21befb1a03c245c6eb",
     "slug": "england",
     "keyword": "england",
@@ -5232,6 +5163,79 @@
       ]
     },
     "first_seen_at": "2026-05-10T15:38:16+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "137b53632c9b54587d",
+    "slug": "trend",
+    "keyword": "أوبو",
+    "title": "أوبو trend tracker",
+    "description": "أوبو is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: بوابة الاقتصاد.",
+    "category": "public-health",
+    "geo": "EG",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-08-14T15:10:00+00:00",
+    "updated_at": "2026-08-14T15:48:06+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=EG",
+    "sources": [
+      {
+        "title": "Inspiration Unfolds: The New OPPO Find N6 Flagship Arrives in Egypt",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0NBZjA5b3NPNUswa2NUREFVakJBU3ozb21Lb1ZWenRVX1RiNU1MNXJtNzQzTTJKQnp3X1ozM2hObjR2dXdscEt0LTdEQVFEUms1LTFtd2JiMXVYX3Y4QzFEVDhjTUt4UVk0ZWpRMW94ZXdOUUlGZ2lIWm9pbW02SEFoUFBNaGhSWnVqbXVsSlpnY05EZkFN?oc=5",
+        "source": "بوابة الاقتصاد",
+        "published_at": "2026-04-01T07:00:00+00:00",
+        "summary": "Inspiration Unfolds: The New OPPO Find N6 Flagship Arrives in Egypt بوابة الاقتصاد"
+      },
+      {
+        "title": "Are Unlabelled Fake Images Over? New AI Rules Are Changing Content",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYU5UQXNrTkFIOTd1Z2JPdUFWakVWT2c4QVpLQ2NUY1A3a0p4bkx1YkgxZHluZ21jU2ctRld5c0RoZ2tKZ3RFNG1qUjBZWWcyc0hLc04yRjM5LW5Lb1ViWG5ZVjk3TVNzN25EWE5oc1paNnk1OXdPcE9lSUZnR0VRbEs2ZTNJcGRxRFd0cTQyb3lOb2F4Nmx0ZGNTeW9XVFI4YXJYOdIBqgFBVV95cUxPakVKYW1scFZHNG1icHJhUVEtRWVhc2NXN21Ib3ZfNTZRNmpMSFNhTE0tdnBCUVBwV2lSb1JkN1lTZHZyMkR3YVNrQkdTQVBRQVpsUC1DeWpEbWt1Y05ubDRIOXVmaE1jaGZ1dkhGWDE4allQcnh3Y003M0xkaGdaN2VtZ1JGNXp3WDFYRHprM0F0WnczVGtEQmdUMTVEcnI5SjJCMkRiS0ZVZw?oc=5",
+        "source": "موقع القيادي",
+        "published_at": "2026-08-04T23:53:15+00:00",
+        "summary": "Are Unlabelled Fake Images Over? New AI Rules Are Changing Content موقع القيادي"
+      },
+      {
+        "title": "UK heat health alerts: temperatures to hit 36C next week",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXhoM05MWWJWZDNfTHg2aVJUc09GbjJPRlBSLVlqRGxOQVltemhWenlZOXk3MzN6ZTM4SlhCTkhhRXZGMmVBV20tZ01vcHNLUWtJVmx0MG1OSzVpTnVCamtBZDNDMDlMbW15UE1EeXVvQ1RtQjBEbGVWaVZCNVdNRUxJV0xOdk1fb05iUEk4NDRQS1BWRXpJ0gGcAUFVX3lxTE52eV9LVExrVUZnYnNaMklLUzR4TFBUNVJwQlpvaFJYLU5YWU5BcFBtMVdaMF9admtjZHZTSjlCaVZtblRubnNLZGFnRUJBRFJUd1NIdy1pNDRzbnRqd0Z2MDdrNnh5SnVoX09sd3FLR2M4TnBaNXpOMEJwQ2prU0NvRzh0UWdyQlN5MTBWWVF3UUcxUFJNVXYyMnFMTQ?oc=5",
+        "source": "موقع القيادي",
+        "published_at": "2026-08-08T13:55:38+00:00",
+        "summary": "UK heat health alerts: temperatures to hit 36C next week موقع القيادي"
+      },
+      {
+        "title": "UK Experts Sound Alarm as AI Tries to Deceive a Human",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0JJeWNwRTllc1dSZDFPM2wyMHI1Q0dOWDQ5MWlHNkRTR1JfcHBTVjVod3RGUGF3bzdyby1ZbGo3ZVRrMmNBdlR6ajZXZXBaSDlkOHVTUnZ2UndlNXI5WWgyMTV0Mk1wSnVLQ3kxNlk1R2FEZkhYa0hKdUMxY1JoT2M0YUtFZGZRcHFkSXB2U0JSTWx20gGaAUFVX3lxTFBwUWd2ZklKc3U1X05BZE1HeS1QYzVpVV9CVG5ndzhWRkRqdUpNT0VLVXFqUmdOelYzQzFaeTI5QXVSN0ZyOEhKQndQQU5USE83TW4zeWh6ZHpTNlo4akp1cjZnNXMySXdfUVdBM1NhS2p4dGpNUlJBa0wya1NrTUlVWDNLd3Ezd1BTZHRpNTNRemQ5cVJyUXUtSUE?oc=5",
+        "source": "موقع القيادي",
+        "published_at": "2026-08-08T09:33:59+00:00",
+        "summary": "UK Experts Sound Alarm as AI Tries to Deceive a Human موقع القيادي"
+      }
+    ],
+    "related_queries": [
+      "سعر ومواصفات أوبو رينو 6 في مصر.. كاميرا 64 ميغابكسل وشحن سريع",
+      "أوبو تطرح سلسلة هواتف Reno16 في السوق المصرية",
+      "«أوبو» تتصدر مبيعات الهواتف من 20 إلى 40 ألف جنيه في مصر وتطلق «Reno16 »"
+    ],
+    "map_focus": {
+      "label": "United Kingdom",
+      "lat": 55.3781,
+      "lng": -3.436,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "أوبو Live Trend Tracker | HantaUpdates",
+      "description": "أوبو is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without provi",
+      "canonical": "https://hantamap.online/trend/trend",
+      "keywords": [
+        "أوبو",
+        "أوبو tracker",
+        "أوبو updates",
+        "أوبو live updates",
+        "أوبو outbreak",
+        "أوبو symptoms",
+        "أوبو public health",
+        "أوبو source links"
+      ]
+    },
+    "first_seen_at": "2026-05-10T09:16:13+00:00",
     "views_hint": 0
   },
   {
