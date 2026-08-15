@@ -1,5 +1,78 @@
 [
   {
+    "id": "3fcfa427ed044d7b8e",
+    "slug": "crimea-congo",
+    "keyword": "crimea congo",
+    "title": "crimea congo trend tracker",
+    "description": "crimea congo is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Diari ARA.",
+    "category": "public-health",
+    "geo": "ES",
+    "search_volume": "5000+",
+    "traffic_label": "5000+",
+    "published_at": "2026-08-15T03:00:00+00:00",
+    "updated_at": "2026-08-15T03:35:08+00:00",
+    "score": 5000,
+    "source_url": "https://trends.google.com/trending/rss?geo=ES",
+    "sources": [
+      {
+        "title": "Discarded the suspected case of Crimean-Congo hemorrhagic fever in Catalonia",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQeFBtYzRsYlByLU5VdDY1NWpyQ01lTEJ2bzNkSE1VZ19PcUMzaWJyYXNsaW9CeE1rSWVfdUpoVC04RkNLT19JeE5DN0Q0N1dmMnZaN3Rfd1RKVHYxSU1vU09hc2JQVFpZT1BFdjVpeHRDZnJ1b2pZdVo3Zi15N2tMVnRRVWJkdDlNTjV4NEVRV080ejdZMlN5SFVEbG91Z3pFaGNYbk5fMlpfQTdRaDNTdUpMRkg2Z9IBuwFBVV95cUxOdFY0TFJUbVJ1RTBLV05veEpkVzl2OElWcjd4SXNVNlJnNVpYWlQ1TGtPTFZpamVUSVRMdnFlUDhZNjJ4MEpSQjFZaWM2MDBzbDZfYXVDNHNzdTc1bWd4RDZDVHhZanpGcTVCQW0zUDE2QWhSYk5taWxQOUN5OE1TX1BvcVFTT3ZVel96T2QyclM0U25MNDVhUmwwWFZSZWp4T3dzWE84NUYxdkM2MHNjLVdXS3E3Yjlkd0lZ?oc=5",
+        "source": "Diari ARA",
+        "published_at": "2026-07-11T07:00:00+00:00",
+        "summary": "Discarded the suspected case of Crimean-Congo hemorrhagic fever in Catalonia Diari ARA"
+      },
+      {
+        "title": "The Next Pandemic: Crimean-Congo Haemorrhagic Fever?",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQl9sb3d3V3pTV0QzYXhld1E5M3BYbHBRWGttLTFKR2NEbHIweXRnQXNiMUJxRkRoeGU5Q05qWEFud0NQRThPZXdpVERPWklGdExGRk5YelRLc1dXTWJGS1pYS2xkaldzbXVFSTU3LThRbGZvMnA3RnpEWHJvTFRYSmRyZnVKdWc?oc=5",
+        "source": "Gavi, the Vaccine Alliance",
+        "published_at": "2021-05-04T07:00:00+00:00",
+        "summary": "The Next Pandemic: Crimean-Congo Haemorrhagic Fever? Gavi, the Vaccine Alliance"
+      },
+      {
+        "title": "First national map of risk of infection with Crimean-Congo hemorrhagic fever virus",
+        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNG5GY193cmsxUVRkbU5VMFhucW5hZ2YySWFmV0xTRVljSTdpbWdrWEJ6UzN6T1J2N2ZkNzF1RHQzbzdDQ0xlellBTEQxV3ZDNnY4Uy1TbFBFN0ExT0ZxUUdwYUtoTHVMMUE2R0ljQnFnT0dXZTcwQU1VNnZ6bEQ2OUxRUHV1R01Senp4ZG1Cb1pVOVhRYWw5Wi1GVnN4ZFQwOUVOYVphWWtJNGZhWnBj?oc=5",
+        "source": "Instituto de Investigación en Recursos Cinegéticos (IREC)",
+        "published_at": "2021-11-25T08:00:00+00:00",
+        "summary": "First national map of risk of infection with Crimean-Congo hemorrhagic fever virus Instituto de Investigación en Recursos Cinegéticos (IREC)"
+      },
+      {
+        "title": "How Did Crimean-Congo Hemorrhagic Fever Pop Up In Spain?",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVW1WM01jME4wRGVxRWN4c3MzWG1ISGFMOFhUeGdaa081OHVWVnRJcUFJSVoxVWxsRFpra2hDV0pmdHFhVXBDTEVQTGRiYmduOEwyWWRWdHNZTWJleVo5T0VBSHMzZ2paU0ZweWJWVGdFcnEtaFY0LVlHd0FVWld2cm0tOHNnUGFOS0p2QTY1Yw?oc=5",
+        "source": "KPBS",
+        "published_at": "2017-07-13T07:00:00+00:00",
+        "summary": "How Did Crimean-Congo Hemorrhagic Fever Pop Up In Spain? KPBS"
+      }
+    ],
+    "related_queries": [
+      "La amenaza real de la fiebre hemorrágica de Crimea-Congo: \"Ya no debe considerarse algo lejano ni exótico\"",
+      "¿Qué es la fiebre hemorrágica de Crimea-Congo? Detectan nuevos casos en España",
+      "Fiebre hemorrágica de Crimea-Congo: así se contagia, cuáles son sus síntomas y cómo prevenirla"
+    ],
+    "map_focus": {
+      "label": "Spain",
+      "lat": 40.4637,
+      "lng": -3.7492,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "crimea congo Live Trend Tracker | HantaUpdates",
+      "description": "crimea congo is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links witho",
+      "canonical": "https://hantamap.online/trend/crimea-congo",
+      "keywords": [
+        "crimea congo",
+        "crimea congo tracker",
+        "crimea congo updates",
+        "crimea congo live updates",
+        "crimea congo outbreak",
+        "crimea congo symptoms",
+        "crimea congo public health",
+        "crimea congo source links"
+      ]
+    },
+    "first_seen_at": "2026-08-15T03:35:08+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "a5b3e6e58b8455a208",
     "slug": "surto",
     "keyword": "surto",
