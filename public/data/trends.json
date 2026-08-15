@@ -2724,6 +2724,79 @@
     "views_hint": 0
   },
   {
+    "id": "6df1a558cf938cf1b1",
+    "slug": "springreiten",
+    "keyword": "springreiten",
+    "title": "springreiten trend tracker",
+    "description": "springreiten is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: dw.com.",
+    "category": "public-health",
+    "geo": "DE",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-08-15T14:50:00+00:00",
+    "updated_at": "2026-08-15T15:16:17+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=DE",
+    "sources": [
+      {
+        "title": "German equestrian expertise in China",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUWVGX0ZQUWEtejZVaXcxR0FtZlU0NjFVSlk0TnZQTzdMdHpNWktYcG1nUlRadVkyd0xOTGpEelc3UnVRWkRLS3JjY1VYUS1sTU1CVHhNVF9iYkNlek0yN2dMNm5mOTk0bGtuMlg5MkxWVEo5dnR3ZU9ySlpjN1ZkQXNsMTc2OWlKSk81c3JsZ1lZUXBZbHJBLTUtUWFId9IBngFBVV95cUxPNjYxWHZkVmhTM25VeHRzVjNaOHY0NExIRTU3Vi1TMWtrejlCaVYyTmhId0JUbG91ekttd0xGdXlJMVpoWlV3SVM4NzRxblQxR0gwVzJHUFdsMWh1Y0VEUzgxeGZTY19QSVNWb0VOTTJTMjBuMzd5V0c5RWZCNjNyTUhnWmxvOXBLcUl4dFk3bDFKMVBKV3Y4X2RnTUNHQQ?oc=5",
+        "source": "dw.com",
+        "published_at": "2018-07-17T07:00:00+00:00",
+        "summary": "German equestrian expertise in China dw.com"
+      },
+      {
+        "title": "Deadly herpes virus outbreak in equestrian sports",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdkVnWmN5Q0k5eXpXU2RsU2lWbDZlR0tNbnZReHRiWXVXRXFRRWlxNlJQX25sOHFpa3cyRGlQeUFWa1ZDTWRfaWo5Ukc4OFRkU1lvb21zblRtWTR6Q1NzY2Y0SHlKT3AyZGpHQVJNNnN1Rl9iZEdGZXk5N2lwMWpyYjlGcGE5bTA4VkHSAYoBQVVfeXFMUF9ueFFLSnBKYzlIS2drbnpzTURoUXZwbVZ1UlZtd01ib1JMelZSVC15ampGRXpZOVExRm8tY0M2a0NtTzRXU2t3QjFNZEl5QjdRNlotSkhsSV9XMXM1NGhsYzU1WlU2eFV4c1ZiZlRCU1JZeTJndk02eDRkajR3dzM2cEhveDl4eDdn?oc=5",
+        "source": "dw.com",
+        "published_at": "2021-03-04T08:00:00+00:00",
+        "summary": "Deadly herpes virus outbreak in equestrian sports dw.com"
+      },
+      {
+        "title": "Martin Kühnis - Pomona - Le Valais dans ta poche - Pomona",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9hTXBIdmoxSTc4RE5Va2JTT0ppSDZBTjE3Y1pQNElJU3ZRbUNvTkl5YkNXdzN5TmtEX0Y0LVk3UzBSa0xBZy01eXRPWHBCRTFFUnc3Q1pCazJYaUJkQ2ZwMUZ4T0lVeXM?oc=5",
+        "source": "Das Wallis im Hosensack",
+        "published_at": "2026-08-07T05:04:14+00:00",
+        "summary": "Martin Kühnis - Pomona - Le Valais dans ta poche Pomona - Das Wallis im Hosensack"
+      },
+      {
+        "title": "FEI streicht CSIO St. Gallen aus der Longines League of Nations und enttäuscht die Schweiz",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNQ0s2c09PUUxSWjZoOFhGZS1KdmRJRFVBeTQyZkFneDlodzZQTDhLdXBQa1VYUUluUnc0WVdCYWRHQnIwYnFyalMyUXZaNnppdy1QZ3lLQnV3VEhkZEgzZlFhT1hmSHBOeDVvLVRMRklqU0RYRlM0OWZFVVR4blpuQ1ZzTHBsQjNoZkRCQmNqUDlFQkJPOGxaTWk5UV9FZVFJQU54QnNsVXJNcDdrSXd1OUtVYTJ3SThBa01McUVVY1E?oc=5",
+        "source": "Swiss Equestrian",
+        "published_at": "2024-11-10T08:00:00+00:00",
+        "summary": "FEI streicht CSIO St. Gallen aus der Longines League of Nations und enttäuscht die Schweiz Swiss Equestrian"
+      }
+    ],
+    "related_queries": [
+      "Kendra Claricia Brinkop sichert sich CSI4* Grand Prix Sieg in Deauville",
+      "Sport im Westen - Reit-WM in Aachen 2026 · Dressur Grand Prix Spécial - hier anschauen",
+      "Reit-WM: Medaillen-Party! Hemmer-Hammer bei Reit-WM in Aachen"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "springreiten Live Trend Tracker | HantaUpdates",
+      "description": "springreiten is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links witho",
+      "canonical": "https://hantamap.online/trend/springreiten",
+      "keywords": [
+        "springreiten",
+        "springreiten tracker",
+        "springreiten updates",
+        "springreiten live updates",
+        "springreiten outbreak",
+        "springreiten symptoms",
+        "springreiten public health",
+        "springreiten source links"
+      ]
+    },
+    "first_seen_at": "2026-08-15T15:16:17+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "ca76f0c4a31805e383",
     "slug": "disease-outbreak",
     "keyword": "disease outbreak",
