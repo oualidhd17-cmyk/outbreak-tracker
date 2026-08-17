@@ -2724,6 +2724,79 @@
     "views_hint": 0
   },
   {
+    "id": "4fa75b625fce827f55",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNN.",
+    "category": "public-health",
+    "geo": "IT",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-08-17T18:10:00+00:00",
+    "updated_at": "2026-08-17T18:33:05+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=IT",
+    "sources": [
+      {
+        "title": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTG9EMVN6cWVPaXVTaFI2eG95dHZRX1dTMjhuejBDYmRsdDRQc2ktUHRya0hFVWNCLVotNWZhdUtubi1fY3Y4UkJ2cmtWa0NtaFc0LUNWc0FoMVJiZzR3R2lockVJR1FfTkpKVnVJRmFfTjlRNjNvSWJfZk81X2gzNm54a2p5MEhjN3Mw?oc=5",
+        "source": "CNN",
+        "published_at": "2026-08-17T00:01:00+00:00",
+        "summary": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history CNN Ebola outbreak in DR Congo becomes deadliest in its history BBC Ebola outbreak becomes Congo’s worst on record, with over 2,300 dead NBC News As Ebola kills thousands in DRC, a perfect storm is making the virus hard to stop | Devi Sridhar theguardian.com Congo's Ebola cases rising at record pace DW.com Ebola outbreak becomes DR Congo’s deadliest Financial Times Exhausted health workers in Congo struggle to keep up as Ebola outpaces contact tracing AP News Ebola outbreak in DR Congo becomes deadliest in co"
+      },
+      {
+        "title": "Why is the latest Ebola outbreak worsening?",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYkVpSTFpVU1CLXFrTmY3ZUlTOC1tbDV2X3lmamZZZ1d4TF9QWFd5bEpKMHd0eTM4a2l2OWR4U3plUDlxQU5neG8zam9tdHM5MlhwMEg0cG5JS0FxQUlvcl9vaWZqdmRZYU51UnctSkNCcGlhWFM4cjlQR0JLM0RoU0RPWHZSaVJXR3FSZlc4aS1XaFVqLTV1S2hoa0VfZ9IBowFBVV95cUxPcXhOeURKRUdhbnp5SjNNb2JDLV8xZjM5S0w0Z0FtMVhRdzN0TUpXeThKX19Va2VBVHhDVlJOX2E4WTVqQmFiUGFVWF9pcHlnMEhSRGVOemZBczdxclhzRW1paEFxZ0c3eHp3Z09YUWJ2SmpZdUVtQ0Z5RXE1RkJQT1hHbks0czQ4bVJ6Z2xOR1pTeTFqSEVzck1nMlZ1ZTdUc0Yw?oc=5",
+        "source": "Al Jazeera",
+        "published_at": "2026-08-15T22:03:47+00:00",
+        "summary": "Why is the latest Ebola outbreak worsening? Al Jazeera"
+      },
+      {
+        "title": "Ebola Outbreak: Current Situation",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-08-13T19:01:01+00:00",
+        "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "What is Ebola and why is the outbreak in DRC causing so much concern?",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGxqOFgtdjJGWDF2WU5WMExiNTNEbS1Ib3gzTDJMVEVSajl5dG5YbC16ZDE0Z2FyUkNHTEdXVUVyUzNQaEhuT01nSWY4cUdzdzEzS3paemlZTU1McHI5MDZJVEhGeUJFSXZNdlVDTWRkTVdyM29HSHJVaVJGVWlDd1RGWHZwdEgtaDd5MHVxX3lHTXZfU3hFeWg3elJMc2VuYlgwTUtCTG9fekM2djZ3bF94VkszTG8?oc=5",
+        "source": "theguardian.com",
+        "published_at": "2026-08-17T15:17:00+00:00",
+        "summary": "What is Ebola and why is the outbreak in DRC causing so much concern? theguardian.com"
+      }
+    ],
+    "related_queries": [
+      "Ebola outbreak in DR Congo becomes deadliest in its history",
+      "As Ebola kills thousands in DRC, a perfect storm is making the virus hard to stop | Devi Sridhar",
+      "MSF warns against neglecting other health crises in eastern Democratic Republic of Congo"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "6df1a558cf938cf1b1",
     "slug": "springreiten",
     "keyword": "springreiten",
@@ -5312,126 +5385,53 @@
     "views_hint": 0
   },
   {
-    "id": "137b53632c9b54587d",
+    "id": "a6fc38a91563881af3",
     "slug": "trend",
-    "keyword": "أوبو",
-    "title": "أوبو trend tracker",
-    "description": "أوبو is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: بوابة الاقتصاد.",
+    "keyword": "稲垣 吾郎",
+    "title": "稲垣 吾郎 trend tracker",
+    "description": "稲垣 吾郎 is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Mshale.",
     "category": "public-health",
-    "geo": "EG",
+    "geo": "JP",
     "search_volume": "100+",
     "traffic_label": "100+",
-    "published_at": "2026-08-14T15:10:00+00:00",
-    "updated_at": "2026-08-14T15:48:06+00:00",
+    "published_at": "2026-08-17T15:40:00+00:00",
+    "updated_at": "2026-08-17T18:33:19+00:00",
     "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=EG",
+    "source_url": "https://trends.google.com/trending/rss?geo=JP",
     "sources": [
       {
-        "title": "Inspiration Unfolds: The New OPPO Find N6 Flagship Arrives in Egypt",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNd0NBZjA5b3NPNUswa2NUREFVakJBU3ozb21Lb1ZWenRVX1RiNU1MNXJtNzQzTTJKQnp3X1ozM2hObjR2dXdscEt0LTdEQVFEUms1LTFtd2JiMXVYX3Y4QzFEVDhjTUt4UVk0ZWpRMW94ZXdOUUlGZ2lIWm9pbW02SEFoUFBNaGhSWnVqbXVsSlpnY05EZkFN?oc=5",
-        "source": "بوابة الاقتصاد",
-        "published_at": "2026-04-01T07:00:00+00:00",
-        "summary": "Inspiration Unfolds: The New OPPO Find N6 Flagship Arrives in Egypt بوابة الاقتصاد"
+        "title": "🌟🔮【2026年大予言】稲垣吾郎の運勢をシウマが鑑定✨開運キーワードは「思うがまま動く」⁉️🔥 Golshifteh Farahani (pnEdCUBYwD)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1bXdOUXRiNnFQMERjd1hQSXFKckdfdy0xVTE2NzZiLVFJbVpIdDBhYVlsSDVCdVQ1TVFsLXhpeVp3TTdkdEE3MW5QTnMxSWpxRWhhaEljbVR4T1k?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-08-05T23:58:22+00:00",
+        "summary": "🌟🔮【2026年大予言】稲垣吾郎の運勢をシウマが鑑定✨開運キーワードは「思うがまま動く」⁉️🔥 Golshifteh Farahani (pnEdCUBYwD) Mshale"
       },
       {
-        "title": "Are Unlabelled Fake Images Over? New AI Rules Are Changing Content",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPYU5UQXNrTkFIOTd1Z2JPdUFWakVWT2c4QVpLQ2NUY1A3a0p4bkx1YkgxZHluZ21jU2ctRld5c0RoZ2tKZ3RFNG1qUjBZWWcyc0hLc04yRjM5LW5Lb1ViWG5ZVjk3TVNzN25EWE5oc1paNnk1OXdPcE9lSUZnR0VRbEs2ZTNJcGRxRFd0cTQyb3lOb2F4Nmx0ZGNTeW9XVFI4YXJYOdIBqgFBVV95cUxPakVKYW1scFZHNG1icHJhUVEtRWVhc2NXN21Ib3ZfNTZRNmpMSFNhTE0tdnBCUVBwV2lSb1JkN1lTZHZyMkR3YVNrQkdTQVBRQVpsUC1DeWpEbWt1Y05ubDRIOXVmaE1jaGZ1dkhGWDE4allQcnh3Y003M0xkaGdaN2VtZ1JGNXp3WDFYRHprM0F0WnczVGtEQmdUMTVEcnI5SjJCMkRiS0ZVZw?oc=5",
-        "source": "موقع القيادي",
-        "published_at": "2026-08-04T23:53:15+00:00",
-        "summary": "Are Unlabelled Fake Images Over? New AI Rules Are Changing Content موقع القيادي"
+        "title": "Review of the film 'BANA_ANA' | Daring to destroy the framework of storytelling? A complex and lovable chaotic entertainment orchestrated by the three members of 'Atarashii Chizu'｜けいいち|映画・オーディオ・ガジェット🎥💻🎧🍔",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sVFdJTm9jaHhiczBLQ29UdllPMDdEcF8wQzlrZHFZSENKM3VQYm5CV29ZM1RhVm02RzhwWnYweUNDSndTVWNjNlZTeUtvRmtOM0U4bEdoSTBJcHc?oc=5",
+        "source": "note",
+        "published_at": "2026-07-02T07:00:00+00:00",
+        "summary": "Review of the film 'BANA_ANA' | Daring to destroy the framework of storytelling? A complex and lovable chaotic entertainment orchestrated by the three members of 'Atarashii Chizu'｜けいいち|映画・オーディオ・ガジェット🎥💻🎧🍔 note"
       },
       {
-        "title": "UK heat health alerts: temperatures to hit 36C next week",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUXhoM05MWWJWZDNfTHg2aVJUc09GbjJPRlBSLVlqRGxOQVltemhWenlZOXk3MzN6ZTM4SlhCTkhhRXZGMmVBV20tZ01vcHNLUWtJVmx0MG1OSzVpTnVCamtBZDNDMDlMbW15UE1EeXVvQ1RtQjBEbGVWaVZCNVdNRUxJV0xOdk1fb05iUEk4NDRQS1BWRXpJ0gGcAUFVX3lxTE52eV9LVExrVUZnYnNaMklLUzR4TFBUNVJwQlpvaFJYLU5YWU5BcFBtMVdaMF9admtjZHZTSjlCaVZtblRubnNLZGFnRUJBRFJUd1NIdy1pNDRzbnRqd0Z2MDdrNnh5SnVoX09sd3FLR2M4TnBaNXpOMEJwQ2prU0NvRzh0UWdyQlN5MTBWWVF3UUcxUFJNVXYyMnFMTQ?oc=5",
-        "source": "موقع القيادي",
-        "published_at": "2026-08-08T13:55:38+00:00",
-        "summary": "UK heat health alerts: temperatures to hit 36C next week موقع القيادي"
+        "title": "稲垣吾郎、草なぎ剛、香取慎吾出演／サントリー新CM「ボトルは資源！（香取）」篇 Hantavirus Mascherine (Bp5g8Z16Ux)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaUnczVFdXQ1I4Q2ZXVXU4RzRiZzJxVTZSckMzdFc3dkgzRUJMeFV6V284bVFHRTJzamJES0xrMjhUdTVmaFFpeHFnV1Z6VVJ4dzloWGM0NEZiQ0E?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-08-08T07:45:15+00:00",
+        "summary": "稲垣吾郎、草なぎ剛、香取慎吾出演／サントリー新CM「ボトルは資源！（香取）」篇 Hantavirus Mascherine (Bp5g8Z16Ux) Mshale"
       },
       {
-        "title": "UK Experts Sound Alarm as AI Tries to Deceive a Human",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU0JJeWNwRTllc1dSZDFPM2wyMHI1Q0dOWDQ5MWlHNkRTR1JfcHBTVjVod3RGUGF3bzdyby1ZbGo3ZVRrMmNBdlR6ajZXZXBaSDlkOHVTUnZ2UndlNXI5WWgyMTV0Mk1wSnVLQ3kxNlk1R2FEZkhYa0hKdUMxY1JoT2M0YUtFZGZRcHFkSXB2U0JSTWx20gGaAUFVX3lxTFBwUWd2ZklKc3U1X05BZE1HeS1QYzVpVV9CVG5ndzhWRkRqdUpNT0VLVXFqUmdOelYzQzFaeTI5QXVSN0ZyOEhKQndQQU5USE83TW4zeWh6ZHpTNlo4akp1cjZnNXMySXdfUVdBM1NhS2p4dGpNUlJBa0wya1NrTUlVWDNLd3Ezd1BTZHRpNTNRemQ5cVJyUXUtSUE?oc=5",
-        "source": "موقع القيادي",
-        "published_at": "2026-08-08T09:33:59+00:00",
-        "summary": "UK Experts Sound Alarm as AI Tries to Deceive a Human موقع القيادي"
+        "title": "＜RADIO＞8/22(火) TOKYO FM「THE TRAD」ゲスト出演",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZkRTdU1ZaXVKRlZBOEpfUXdTQXpLUnN3akFwd0NscTFoOFZGRVZXQ1VDd0J2MWxkVUpIX1RfaWZtMnFhQjVzcGp5dWFBTGNZQjQzcGNkUU1NNGNRdnc5WE82aWdHdTZwdmQzTmJwUQ?oc=5",
+        "source": "UNIVERSAL MUSIC JAPAN",
+        "published_at": "2023-08-21T07:00:00+00:00",
+        "summary": "＜RADIO＞8/22(火) TOKYO FM「THE TRAD」ゲスト出演 UNIVERSAL MUSIC JAPAN"
       }
     ],
     "related_queries": [
-      "سعر ومواصفات أوبو رينو 6 في مصر.. كاميرا 64 ميغابكسل وشحن سريع",
-      "أوبو تطرح سلسلة هواتف Reno16 في السوق المصرية",
-      "«أوبو» تتصدر مبيعات الهواتف من 20 إلى 40 ألف جنيه في مصر وتطلق «Reno16 »"
-    ],
-    "map_focus": {
-      "label": "United Kingdom",
-      "lat": 55.3781,
-      "lng": -3.436,
-      "zoom": 5
-    },
-    "seo": {
-      "title": "أوبو Live Trend Tracker | HantaUpdates",
-      "description": "أوبو is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without provi",
-      "canonical": "https://hantamap.online/trend/trend",
-      "keywords": [
-        "أوبو",
-        "أوبو tracker",
-        "أوبو updates",
-        "أوبو live updates",
-        "أوبو outbreak",
-        "أوبو symptoms",
-        "أوبو public health",
-        "أوبو source links"
-      ]
-    },
-    "first_seen_at": "2026-05-10T09:16:13+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "4b17a3d349f56b3466",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNN.",
-    "category": "public-health",
-    "geo": "TR",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-08-14T04:30:00+00:00",
-    "updated_at": "2026-08-14T04:46:14+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=TR",
-    "sources": [
-      {
-        "title": "Congo says 2,000 people have died in history’s fastest-growing Ebola outbreak",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtSENYWThacDFlQ3NzcF81ZkItbFhtV0ZsQXVFZml3SmdXOFFOSDU0djBMemhtVERnVGlSaktZaW4zemk0enlMZk5wbVR2bnhOZlRsTDQzTEdyODVJWnhfU2pLLVd2M2lpaUl1VDNaQUxlb1k?oc=5",
-        "source": "CNN",
-        "published_at": "2026-08-11T20:42:18+00:00",
-        "summary": "Congo says 2,000 people have died in history’s fastest-growing Ebola outbreak CNN DRC’s fast-growing Ebola outbreak spreads to sixth province The Guardian Ebola outbreak caused by new ‘animal transmission’: What that means Al Jazeera Ebola outbreak on track to be deadliest ever, WHO chief says BBC Congo’s fastest-growing Ebola outbreak reaches a sixth province AP News 'Ebola is spreading at a speed we've never seen before,' co-discoverer of virus says Le Monde.fr Congo reports Ebola death in new province, official says Reuters DR Congo's fastest-growing Ebola outbreak reaches sixth province Sk"
-      },
-      {
-        "title": "A Patient’s Final Breath in a Congolese Ebola Ward",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVGhQSWpxczNSVmFuaklESGF6SEhDb1NDU25fLVp6YUdaaG4wOU9CejJnTnNoXzZpcVd3dWw2dnhCUEVwaXZwRmx5U3NGR1BVckhZOTM3dzBxSGlCdmpRb2dvNVNOWkxNdHFzRV9zaGZQTmVvaFRqd0J6Tm5Gd1FzVTNaWQ?oc=5",
-        "source": "The New York Times",
-        "published_at": "2026-08-13T13:32:15+00:00",
-        "summary": "A Patient’s Final Breath in a Congolese Ebola Ward The New York Times"
-      },
-      {
-        "title": "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDBZYnVPUlJPdW9Va3hTWG80eWtnS3dDZFB6UHl2c0Y4YlB5WTlXTERRazRVbFZ6RUprakQ1YXJEVkUxZ2RmVmhBNUN2WklSb1ZIQ0ZVbDFBc0FOUl9Sei01VEtXNHlielBsWDlRYVdJSFNuZUxVb3hhOXg1SE5MOUR3c2JTeHpvQUFWZ21pdDhTalZ5d29RdkhzMklWQm1sUjRnYUxfTGI1MEY5c1NfSTNlUdIBuAFBVV95cUxOX0phVGI3WlZjeDZBOGpCSzdNaU1zbl9IM0pjeDNPcHVqZXdjNnROSEV6Nk9xUUF6dmRneDJDNEUwSmw5ZFRsaENIWU1uNks0UUVDZVp4anBDUUlNeHVJSm02VzMxODNSTERwZFVlRWc0d2Nma2ZzNmV6Q1BQVm81aGEwZE5QU21pdFdTLUxwY3Y5cVdKOVZ6R3oydFZudFpSM1I2NFFYV2V2Tk05emdsUlY3amltSXE3?oc=5",
-        "source": "PBS",
-        "published_at": "2026-08-13T14:27:33+00:00",
-        "summary": "Ebola outbreak has spread to new province in Congo, the head of Africa CDC says PBS"
-      },
-      {
-        "title": "Ebola tracing improves in DR Congo – but the virus is still winning the race",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5nZS1FMTRfX0p3bm9SOTFIcjBiRUpPdzBLOUM0UlJGNkNEUXUybVhNd215QlJYOVZVZmJwR3hYRkhieVBTTFNiUmYtQWhOZzBjbDc5TG94SQ?oc=5",
-        "source": "news.un.org",
-        "published_at": "2026-08-13T19:56:20+00:00",
-        "summary": "Ebola tracing improves in DR Congo – but the virus is still winning the race news.un.org"
-      }
-    ],
-    "related_queries": [
-      "Ebola outbreak in DR Congo on track to eclipse 2014-2016 West Africa epidemic: WHO chief",
-      "Ebola outbreak on track to be deadliest ever, WHO chief says",
-      "WHO aims to turn tide of Ebola outbreak in DR Congo within three months"
+      "稲垣吾郎、草彅剛、香取慎吾「東京2020パラリンピック」5周年ステージで歌唱決定",
+      "稲垣吾郎、草彅剛、香取慎吾「東京2020パラリンピック」5周年ステージで歌唱決定｜Infoseekニュース",
+      "稲垣吾郎・草彅剛・香取慎吾の3人による番組「ななにー 地下ABEMA」8月23日の放送内容発表！"
     ],
     "map_focus": {
       "label": "Global",
@@ -5440,21 +5440,21 @@
       "zoom": 2
     },
     "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
+      "title": "稲垣 吾郎 Live Trend Tracker | HantaUpdates",
+      "description": "稲垣 吾郎 is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/trend",
       "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
+        "稲垣 吾郎",
+        "稲垣 吾郎 tracker",
+        "稲垣 吾郎 updates",
+        "稲垣 吾郎 live updates",
+        "稲垣 吾郎 outbreak",
+        "稲垣 吾郎 symptoms",
+        "稲垣 吾郎 public health",
+        "稲垣 吾郎 source links"
       ]
     },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
+    "first_seen_at": "2026-05-10T09:16:13+00:00",
     "views_hint": 0
   },
   {
