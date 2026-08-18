@@ -1702,6 +1702,79 @@
     "views_hint": 0
   },
   {
+    "id": "6f6002f6ab0291131d",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNN.",
+    "category": "public-health",
+    "geo": "FR",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-08-18T17:40:00+00:00",
+    "updated_at": "2026-08-18T18:31:29+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=FR",
+    "sources": [
+      {
+        "title": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTG9EMVN6cWVPaXVTaFI2eG95dHZRX1dTMjhuejBDYmRsdDRQc2ktUHRya0hFVWNCLVotNWZhdUtubi1fY3Y4UkJ2cmtWa0NtaFc0LUNWc0FoMVJiZzR3R2lockVJR1FfTkpKVnVJRmFfTjlRNjNvSWJfZk81X2gzNm54a2p5MEhjN3Mw?oc=5",
+        "source": "CNN",
+        "published_at": "2026-08-17T00:01:00+00:00",
+        "summary": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history CNN Ebola outbreak in DR Congo becomes deadliest in its history BBC Ebola outbreak becomes deadliest in Congo history The Hill As Ebola kills thousands in DRC, a perfect storm is making the virus hard to stop | Devi Sridhar The Guardian Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% CIDRAP Ebola outbreak becomes deadliest in DR Congo’s history UN News Ebola outbreak caused by new ‘animal transmission’: What that means Al Jazeera Ebola outbreak becomes DR Congo’s deadliest Financial Ti"
+      },
+      {
+        "title": "The Ebola situation is grave; we must use every tool we have to save lives",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcDhoc3k2OHNRY1JOU1ZHWE4tajV3aUhmZ0VhT2VGc184ZXNVN0REQklwVnllc0xoWGtGWHp3UDZySFZQVUFLVkUycUdsVmFpM1VaYmR6TGJVUnR3Q3duMjlJOE5GOW1nQmRDb3hzRWVWTlVLUFNzNUM2Ui04T2JBZFVHSjhPZnIwd0ZxVjcybkwzeXVjMlNkSHpBU1k3UQ?oc=5",
+        "source": "Gavi, the Vaccine Alliance",
+        "published_at": "2026-08-18T15:44:28+00:00",
+        "summary": "The Ebola situation is grave; we must use every tool we have to save lives Gavi, the Vaccine Alliance"
+      },
+      {
+        "title": "WHO chief warns DR Congo Ebola outbreak ‘far from being under control’",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUt5M0dEM0pJV3R5ZDJEaDRhOUQ2ZjBsNGx5MnBnSlo2TURTWUdPZ0Z4MlNGMG1uOGxlZUlLU2xFOTFaX0pTdzVJU0xyelpqTHVhdEtqZVZ5ZDFoMjBSc3BlTzRlSHE2bzhNOXNkdmJDMjFLMmdWa1p4ak1TTlpNMklaQjY5MmpzLUx2c2c0amNhZTQ3U0VjWThkbnZIQV8zUzlCWGlvVFZJaklSMmtaNExXYTEwSE9PWnfSAboBQVVfeXFMUDhTeXowd3JfTUEwU2Y3YXN4cXByNE9nQ1F2UDNfa19tN0ZEeWppNHdMaGo2VkdHVzlBTTBBSHhIVlNiQTRIOG5OamF5Z2YyY2JqbTlzeUZiOGRWakZERk9iQ3U3YW5QN0FDbUhDZnVMZWRfNVdsWFBteU9pN3lwRmFoNjdRcS1CSkZvdEpxcGgteFg5aWlrQWlyVGFKekk4M19tMGFoVUZSeldDUXEtSDlSdjBhZDFLbF9R?oc=5",
+        "source": "South China Morning Post",
+        "published_at": "2026-08-18T15:45:43+00:00",
+        "summary": "WHO chief warns DR Congo Ebola outbreak ‘far from being under control’ South China Morning Post"
+      },
+      {
+        "title": "DRC authorities warn Ebola outbreak is worst to date and yet to peak",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeDQ2QU9CeVFTc3FUMzNEQTlaMkxzWTFjTDVyVGdXdGx1aHVzb2lxWC04Xzgzc1U5YVdPb3I3bndZSUY5UW1qWWR5Y193WVZqRDAtUmllejZpYklmQkJTanBmdHNyNVg4Z0JBQlNiSE5tRllPNG5BaFA4NVY4UEtMa1lpTXd1Vl83S09DNzEyZTFhbTV2aWZYZTFJNTZTWm1KVHF5SW5hNzRBdw?oc=5",
+        "source": "RFI",
+        "published_at": "2026-08-18T11:17:50+00:00",
+        "summary": "DRC authorities warn Ebola outbreak is worst to date and yet to peak RFI"
+      }
+    ],
+    "related_queries": [
+      "L’épidémie d’Ebola en RDC est « loin d’être maîtrisée » et il existe un « risque élevé d’une propagation internationale »",
+      "En RDC, la contagion à la nouvelle souche d'Ebola se propage à un rythme inédit",
+      "Ebola : quatre vaccins et des traitements testés en urgence"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "21befb1a03c245c6eb",
     "slug": "england",
     "keyword": "england",
@@ -2721,79 +2794,6 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "a58a58daab565681bb",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNN.",
-    "category": "public-health",
-    "geo": "MX",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-08-18T14:50:00+00:00",
-    "updated_at": "2026-08-18T15:28:07+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=MX",
-    "sources": [
-      {
-        "title": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTG9EMVN6cWVPaXVTaFI2eG95dHZRX1dTMjhuejBDYmRsdDRQc2ktUHRya0hFVWNCLVotNWZhdUtubi1fY3Y4UkJ2cmtWa0NtaFc0LUNWc0FoMVJiZzR3R2lockVJR1FfTkpKVnVJRmFfTjlRNjNvSWJfZk81X2gzNm54a2p5MEhjN3Mw?oc=5",
-        "source": "CNN",
-        "published_at": "2026-08-17T00:01:00+00:00",
-        "summary": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history CNN Ebola outbreak in DR Congo becomes deadliest in country’s history Al Jazeera As Ebola kills thousands in DRC, a perfect storm is making the virus hard to stop | Devi Sridhar The Guardian Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% CIDRAP Ebola outbreak becomes deadliest in DR Congo’s history UN News Ebola outbreak in DR Congo becomes deadliest in its history BBC Congo’s fast-moving Ebola outbreak becomes the country’s worst with over 2,300 dead apnews.com Ebola outbreak becomes"
-      },
-      {
-        "title": "DR Congo Ebola outbreak 'far from being under control': WHO chief",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTTYySGlwWk5sV2l1WXp5SGNPWjk1SWllcXZTUUl6WHRMRGthRmxOM0x6czZuZDJsMExPUnUzS3JTVTRXdmZHNXJteVhaMEgyYzYwWFhTRHZMUVNoa2o1OGlWYWhTYWZfR3kyRkRMa3h2SjlBYmNiRjN3cWhtTzdlLWtKbmptVUU0M2cxVUdQZmhrdTVVdEZPQkhWcGRBUGJrLXg1eDJwREJaT3AwU1pxb1l3?oc=5",
-        "source": "RFI",
-        "published_at": "2026-08-18T14:54:10+00:00",
-        "summary": "DR Congo Ebola outbreak 'far from being under control': WHO chief RFI"
-      },
-      {
-        "title": "DR Congo: Catholic schools prepare for new academic year amid Ebola threat",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSUNkeFRSMl94bWVtZFd4Q1JURTZQQXNlNGZTRDBUa3VSVDN4ZnZTMzJVRlA4M29TMk1LdlRGUTFoMzJGT0E5M2NnNjBXQkNmb2FnaHhFOGFfZmhGOE03bVd1OEhkWHNYVF9jZVNEbkJvV3psM090MzVKLWNZTndnalIzYnZXTjl0MGk0STFOSThkcGNQSjZsWjlUVnc0YnRPbmF3YXEzZno2MXR4d2dLMXBrNzRKQQ?oc=5",
-        "source": "Vatican News",
-        "published_at": "2026-08-18T11:26:49+00:00",
-        "summary": "DR Congo: Catholic schools prepare for new academic year amid Ebola threat Vatican News"
-      },
-      {
-        "title": "DRC authorities warn Ebola outbreak is worst to date and yet to peak",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeDQ2QU9CeVFTc3FUMzNEQTlaMkxzWTFjTDVyVGdXdGx1aHVzb2lxWC04Xzgzc1U5YVdPb3I3bndZSUY5UW1qWWR5Y193WVZqRDAtUmllejZpYklmQkJTanBmdHNyNVg4Z0JBQlNiSE5tRllPNG5BaFA4NVY4UEtMa1lpTXd1Vl83S09DNzEyZTFhbTV2aWZYZTFJNTZTWm1KVHF5SW5hNzRBdw?oc=5",
-        "source": "RFI",
-        "published_at": "2026-08-18T11:17:50+00:00",
-        "summary": "DRC authorities warn Ebola outbreak is worst to date and yet to peak RFI"
-      }
-    ],
-    "related_queries": [
-      "As Ebola kills thousands in DRC, a perfect storm is making the virus hard to stop | Devi Sridhar",
-      "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history",
-      "Exhausted health workers in Congo struggle to keep up as Ebola outpaces contact tracing"
-    ],
-    "map_focus": {
-      "label": "United States",
-      "lat": 37.0902,
-      "lng": -95.7129,
-      "zoom": 4
-    },
-    "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
-      "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
     "views_hint": 0
   },
   {
