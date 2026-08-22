@@ -1702,79 +1702,6 @@
     "views_hint": 0
   },
   {
-    "id": "6f6002f6ab0291131d",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNN.",
-    "category": "public-health",
-    "geo": "FR",
-    "search_volume": "500+",
-    "traffic_label": "500+",
-    "published_at": "2026-08-18T17:40:00+00:00",
-    "updated_at": "2026-08-18T18:31:29+00:00",
-    "score": 500,
-    "source_url": "https://trends.google.com/trending/rss?geo=FR",
-    "sources": [
-      {
-        "title": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTG9EMVN6cWVPaXVTaFI2eG95dHZRX1dTMjhuejBDYmRsdDRQc2ktUHRya0hFVWNCLVotNWZhdUtubi1fY3Y4UkJ2cmtWa0NtaFc0LUNWc0FoMVJiZzR3R2lockVJR1FfTkpKVnVJRmFfTjlRNjNvSWJfZk81X2gzNm54a2p5MEhjN3Mw?oc=5",
-        "source": "CNN",
-        "published_at": "2026-08-17T00:01:00+00:00",
-        "summary": "Ebola outbreak in Democratic Republic of Congo becomes deadliest in country’s history CNN Ebola outbreak in DR Congo becomes deadliest in its history BBC Ebola outbreak becomes deadliest in Congo history The Hill As Ebola kills thousands in DRC, a perfect storm is making the virus hard to stop | Devi Sridhar The Guardian Ebola outbreak now deadliest ever in DR Congo as death rate reaches 46% CIDRAP Ebola outbreak becomes deadliest in DR Congo’s history UN News Ebola outbreak caused by new ‘animal transmission’: What that means Al Jazeera Ebola outbreak becomes DR Congo’s deadliest Financial Ti"
-      },
-      {
-        "title": "The Ebola situation is grave; we must use every tool we have to save lives",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcDhoc3k2OHNRY1JOU1ZHWE4tajV3aUhmZ0VhT2VGc184ZXNVN0REQklwVnllc0xoWGtGWHp3UDZySFZQVUFLVkUycUdsVmFpM1VaYmR6TGJVUnR3Q3duMjlJOE5GOW1nQmRDb3hzRWVWTlVLUFNzNUM2Ui04T2JBZFVHSjhPZnIwd0ZxVjcybkwzeXVjMlNkSHpBU1k3UQ?oc=5",
-        "source": "Gavi, the Vaccine Alliance",
-        "published_at": "2026-08-18T15:44:28+00:00",
-        "summary": "The Ebola situation is grave; we must use every tool we have to save lives Gavi, the Vaccine Alliance"
-      },
-      {
-        "title": "WHO chief warns DR Congo Ebola outbreak ‘far from being under control’",
-        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSUt5M0dEM0pJV3R5ZDJEaDRhOUQ2ZjBsNGx5MnBnSlo2TURTWUdPZ0Z4MlNGMG1uOGxlZUlLU2xFOTFaX0pTdzVJU0xyelpqTHVhdEtqZVZ5ZDFoMjBSc3BlTzRlSHE2bzhNOXNkdmJDMjFLMmdWa1p4ak1TTlpNMklaQjY5MmpzLUx2c2c0amNhZTQ3U0VjWThkbnZIQV8zUzlCWGlvVFZJaklSMmtaNExXYTEwSE9PWnfSAboBQVVfeXFMUDhTeXowd3JfTUEwU2Y3YXN4cXByNE9nQ1F2UDNfa19tN0ZEeWppNHdMaGo2VkdHVzlBTTBBSHhIVlNiQTRIOG5OamF5Z2YyY2JqbTlzeUZiOGRWakZERk9iQ3U3YW5QN0FDbUhDZnVMZWRfNVdsWFBteU9pN3lwRmFoNjdRcS1CSkZvdEpxcGgteFg5aWlrQWlyVGFKekk4M19tMGFoVUZSeldDUXEtSDlSdjBhZDFLbF9R?oc=5",
-        "source": "South China Morning Post",
-        "published_at": "2026-08-18T15:45:43+00:00",
-        "summary": "WHO chief warns DR Congo Ebola outbreak ‘far from being under control’ South China Morning Post"
-      },
-      {
-        "title": "DRC authorities warn Ebola outbreak is worst to date and yet to peak",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOeDQ2QU9CeVFTc3FUMzNEQTlaMkxzWTFjTDVyVGdXdGx1aHVzb2lxWC04Xzgzc1U5YVdPb3I3bndZSUY5UW1qWWR5Y193WVZqRDAtUmllejZpYklmQkJTanBmdHNyNVg4Z0JBQlNiSE5tRllPNG5BaFA4NVY4UEtMa1lpTXd1Vl83S09DNzEyZTFhbTV2aWZYZTFJNTZTWm1KVHF5SW5hNzRBdw?oc=5",
-        "source": "RFI",
-        "published_at": "2026-08-18T11:17:50+00:00",
-        "summary": "DRC authorities warn Ebola outbreak is worst to date and yet to peak RFI"
-      }
-    ],
-    "related_queries": [
-      "L’épidémie d’Ebola en RDC est « loin d’être maîtrisée » et il existe un « risque élevé d’une propagation internationale »",
-      "En RDC, la contagion à la nouvelle souche d'Ebola se propage à un rythme inédit",
-      "Ebola : quatre vaccins et des traitements testés en urgence"
-    ],
-    "map_focus": {
-      "label": "United States",
-      "lat": 37.0902,
-      "lng": -95.7129,
-      "zoom": 4
-    },
-    "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
-      "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "21befb1a03c245c6eb",
     "slug": "england",
     "keyword": "england",
@@ -2794,6 +2721,79 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "f19399b4af28f3196c",
+    "slug": "trend",
+    "keyword": "京セラドーム",
+    "title": "京セラドーム trend tracker",
+    "description": "京セラドーム is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Mshale.",
+    "category": "public-health",
+    "geo": "JP",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-08-22T06:20:00+00:00",
+    "updated_at": "2026-08-22T06:33:04+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=JP",
+    "sources": [
+      {
+        "title": "「えええっ!?」NiziUマユカ＆ミイヒのノーバン始球式に京セラドーム騒然😱⚾ | Review Hantavirus Map (yoipT0rJHS)",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MdEFzeXlRTjRpbWVkaGlMay1BTHY0dVBnVFBjWFh6aTQ4eVBTQ2FTQi1jQVBxby1xdE1HRGxlZ3p4WDA0LWpEZHdkSm5BME15ckFVX0J3SFpQSUE?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-08-10T12:35:10+00:00",
+        "summary": "「えええっ!?」NiziUマユカ＆ミイヒのノーバン始球式に京セラドーム騒然😱⚾ | Review Hantavirus Map (yoipT0rJHS) Mshale"
+      },
+      {
+        "title": "2021/10/1 選手入場【オリックス対ソフトバンク】in京セラドーム Wigan Today (9Ok6g6B7ot)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtaHdFTzVUREVEeXIzU3FWZ3BDeV83WjJabEFEWXMyeENpSFhXdFhtX1dVMXFlVVgtdWd5QWhTVGpmTG42aHBhU21UM1VkalJrdkotUXJWcVBXbUhjNHRZUA?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-08-11T07:12:13+00:00",
+        "summary": "2021/10/1 選手入場【オリックス対ソフトバンク】in京セラドーム Wigan Today (9Ok6g6B7ot) Mshale"
+      },
+      {
+        "title": "30th Anniversary GLAY EXPO 2024-2025 GRAND FINALE",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA2SlJVQ3htRDdZR1gwTnpEYlh0Q3JhcVY1Yml2cjVtYXNMQlFSUHNUb0lpMi1ubDlmM0EtVUZudzFRNUt6TVhhNWxJbjhjSG5mTmtOYXZVcnNMNW1Jcm44?oc=5",
+        "source": "GLAY公式サイト",
+        "published_at": "2025-12-10T08:00:00+00:00",
+        "summary": "30th Anniversary GLAY EXPO 2024-2025 GRAND FINALE GLAY公式サイト"
+      },
+      {
+        "title": "2021/10/1 スタメン発表【オリックス対ソフトバンク】in京セラドーム Below Deck Mediterranean Season 11 (PDQTDeLXCe)",
+        "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9NenFKdnltOEQ5bHBmeXJRQW9OdzFiUnZ1MnVVRDcyVnBNSFhocTBnMVJGTXdjWmIwa0UwYkJRT1dSY0U2MTRTU3BLZ2FzN00wR2lKOVFhZmRTbG0tZ3BjNA?oc=5",
+        "source": "Mshale",
+        "published_at": "2026-08-11T10:12:16+00:00",
+        "summary": "2021/10/1 スタメン発表【オリックス対ソフトバンク】in京セラドーム Below Deck Mediterranean Season 11 (PDQTDeLXCe) Mshale"
+      }
+    ],
+    "related_queries": [
+      "プロ野球に舞い込んだBIGニュース「凄い時代に」 始球式に降臨「遂に来るんだぁ」（Full-Count）",
+      "9月4日（金）プロゴルファー 小祝さくら選手 がセレモニアルピッチに登場！",
+      "オリックス 女子ゴルフ・小祝さくらが4日ロッテ戦で始球式「念願だった京セラでの始球式で…」"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "京セラドーム Live Trend Tracker | HantaUpdates",
+      "description": "京セラドーム is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pro",
+      "canonical": "https://hantamap.online/trend/trend",
+      "keywords": [
+        "京セラドーム",
+        "京セラドーム tracker",
+        "京セラドーム updates",
+        "京セラドーム live updates",
+        "京セラドーム outbreak",
+        "京セラドーム symptoms",
+        "京セラドーム public health",
+        "京セラドーム source links"
+      ]
+    },
+    "first_seen_at": "2026-05-10T09:16:13+00:00",
     "views_hint": 0
   },
   {
@@ -5385,76 +5385,76 @@
     "views_hint": 0
   },
   {
-    "id": "a6fc38a91563881af3",
-    "slug": "trend",
-    "keyword": "稲垣 吾郎",
-    "title": "稲垣 吾郎 trend tracker",
-    "description": "稲垣 吾郎 is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Mshale.",
+    "id": "6f6002f6ab0291131d",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Reuters.",
     "category": "public-health",
-    "geo": "JP",
+    "geo": "FR",
     "search_volume": "100+",
     "traffic_label": "100+",
-    "published_at": "2026-08-17T15:40:00+00:00",
-    "updated_at": "2026-08-17T18:33:19+00:00",
+    "published_at": "2026-08-22T06:00:00+00:00",
+    "updated_at": "2026-08-22T06:32:41+00:00",
     "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=JP",
+    "source_url": "https://trends.google.com/trending/rss?geo=FR",
     "sources": [
       {
-        "title": "🌟🔮【2026年大予言】稲垣吾郎の運勢をシウマが鑑定✨開運キーワードは「思うがまま動く」⁉️🔥 Golshifteh Farahani (pnEdCUBYwD)",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB1bXdOUXRiNnFQMERjd1hQSXFKckdfdy0xVTE2NzZiLVFJbVpIdDBhYVlsSDVCdVQ1TVFsLXhpeVp3TTdkdEE3MW5QTnMxSWpxRWhhaEljbVR4T1k?oc=5",
-        "source": "Mshale",
-        "published_at": "2026-08-05T23:58:22+00:00",
-        "summary": "🌟🔮【2026年大予言】稲垣吾郎の運勢をシウマが鑑定✨開運キーワードは「思うがまま動く」⁉️🔥 Golshifteh Farahani (pnEdCUBYwD) Mshale"
+        "title": "Ebola spreading exponentially in Congo as death toll tops 2,500, UN says",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVFlxeFAyUWRzRllpVGluQjZlYlUwZjROV2w1TFphQmN4MjFISnNyZTBPaDlzYk15Y25XWUViOG1ZcU0yNHRTa2NydHlVWS1NSnVUTEJ3LTJOX2I2VmpfMDJ3ejhKR2tNV3g2MWR2OEZuVWdQbWIweko4dEc2cVAtUURQUlNad0tJNzdsQjZ0eUVuWEJ1MFdPMEtrWGlhYVZxNmVHemRmQ2xNYXdOTE1fNG91Q0htUUYyRTE1TElhVEpsdWtveXVIcVBQMTJCUnUwdlVWUVA4ZUtwNkVKNnc?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-08-21T12:56:45+00:00",
+        "summary": "Ebola spreading exponentially in Congo as death toll tops 2,500, UN says Reuters Ebola outbreak in DR Congo growing 'exponentially' as death toll passes 2,500 France 24 Ebola outbreak: five big questions The Guardian"
       },
       {
-        "title": "Review of the film 'BANA_ANA' | Daring to destroy the framework of storytelling? A complex and lovable chaotic entertainment orchestrated by the three members of 'Atarashii Chizu'｜けいいち|映画・オーディオ・ガジェット🎥💻🎧🍔",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sVFdJTm9jaHhiczBLQ29UdllPMDdEcF8wQzlrZHFZSENKM3VQYm5CV29ZM1RhVm02RzhwWnYweUNDSndTVWNjNlZTeUtvRmtOM0U4bEdoSTBJcHc?oc=5",
-        "source": "note",
-        "published_at": "2026-07-02T07:00:00+00:00",
-        "summary": "Review of the film 'BANA_ANA' | Daring to destroy the framework of storytelling? A complex and lovable chaotic entertainment orchestrated by the three members of 'Atarashii Chizu'｜けいいち|映画・オーディオ・ガジェット🎥💻🎧🍔 note"
+        "title": "Ebola in DR Congo: Vaccine trial to start as WHO warns about speed of infections",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2WUZmV0dFcjdMTngxNEw3QWg5QWkzU1YwQ012RnRicHo2Vmw4VVhIWTMzZzhwR3p5aktJR0xUdElIRzM4SUNVSUJ1amVjNFRYLTRFZmtkdFdadw?oc=5",
+        "source": "BBC",
+        "published_at": "2026-08-21T13:44:43+00:00",
+        "summary": "Ebola in DR Congo: Vaccine trial to start as WHO warns about speed of infections BBC"
       },
       {
-        "title": "稲垣吾郎、草なぎ剛、香取慎吾出演／サントリー新CM「ボトルは資源！（香取）」篇 Hantavirus Mascherine (Bp5g8Z16Ux)",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBaUnczVFdXQ1I4Q2ZXVXU4RzRiZzJxVTZSckMzdFc3dkgzRUJMeFV6V284bVFHRTJzamJES0xrMjhUdTVmaFFpeHFnV1Z6VVJ4dzloWGM0NEZiQ0E?oc=5",
-        "source": "Mshale",
-        "published_at": "2026-08-08T07:45:15+00:00",
-        "summary": "稲垣吾郎、草なぎ剛、香取慎吾出演／サントリー新CM「ボトルは資源！（香取）」篇 Hantavirus Mascherine (Bp5g8Z16Ux) Mshale"
+        "title": "WHO and Africa CDC welcome the allocation of Ebola vaccines to the Democratic Republic of the Congo",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMS14ODc3QnBsU3pCSGxBYnN6OGdKQXJ0LWlpWVRycTkyUlJYQjRiTVE4MlVSNFdWS2ZGSnNVcHNRZElsdGt3dXRmd2d1Y1RJM3FxNlFlUUZ5VzctdVUwS2ZDYk50MEhKU0lnNmZOdnFEdjlkd3J3S25tYWdINmw3bWhxa1dERjZuV3JIRGowZjdLNHN6MmxDd25GWFprdTFhZ0xEMUp6eXRtdUgyV0RVQmpGQTl0QlZpUGFYMWVEQXlaOU5xbkFmdFJwUEtiZmRaYUg5ODJVSQ?oc=5",
+        "source": "World Health Organization (WHO)",
+        "published_at": "2026-08-20T11:08:19+00:00",
+        "summary": "WHO and Africa CDC welcome the allocation of Ebola vaccines to the Democratic Republic of the Congo World Health Organization (WHO)"
       },
       {
-        "title": "＜RADIO＞8/22(火) TOKYO FM「THE TRAD」ゲスト出演",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5HZkRTdU1ZaXVKRlZBOEpfUXdTQXpLUnN3akFwd0NscTFoOFZGRVZXQ1VDd0J2MWxkVUpIX1RfaWZtMnFhQjVzcGp5dWFBTGNZQjQzcGNkUU1NNGNRdnc5WE82aWdHdTZwdmQzTmJwUQ?oc=5",
-        "source": "UNIVERSAL MUSIC JAPAN",
-        "published_at": "2023-08-21T07:00:00+00:00",
-        "summary": "＜RADIO＞8/22(火) TOKYO FM「THE TRAD」ゲスト出演 UNIVERSAL MUSIC JAPAN"
+        "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWhRWkNBcVQxUkpTRGdXaVdtOG1DRWs5RHRBZ2FNazBEX3NRcmNIc2g2OWxLZnZXbUlQdG9DLVE4SHhZaVZiRnRYY3dWeVAtQld1bWZfRlJkTzlQZ2dUVWFINjFrai01XzBLOVRPLWY5aU5rSm8zMnhFUXdQVTdJUjYxc2ZvTVNGYlVNRUhpeW5zVkhneW9EWGhBcUVpRWkzOVBWYnIxQmlqUWVLdk9zYnVodmQ3UzjSAbwBQVVfeXFMTWZDYmEwSDB5dlRRWUYyM2hhRHdjcWhuOHFHeXBKUGttNTFfZTBJTzlIRUVpMU1rTXdqZS1ZOHFidTJSdWhhcFQxZlVWaUdPUXA2WkNqdTZWQ2tJRUJpWGhFaTZxbWh6dV9Kb3BlWERGM0Utc3N3ZTEwb1RUSTFBVnNDTHp3YjhRQi02enA2QmVTZkNLakNDRUFMZjJZYWFreGh4NzN4ZGxDWDZYNENua213enhmcXhOU3JjQk8?oc=5",
+        "source": "Al Jazeera",
+        "published_at": "2026-08-20T20:13:11+00:00",
+        "summary": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge Al Jazeera"
       }
     ],
     "related_queries": [
-      "稲垣吾郎、草彅剛、香取慎吾「東京2020パラリンピック」5周年ステージで歌唱決定",
-      "稲垣吾郎、草彅剛、香取慎吾「東京2020パラリンピック」5周年ステージで歌唱決定｜Infoseekニュース",
-      "稲垣吾郎・草彅剛・香取慎吾の3人による番組「ななにー 地下ABEMA」8月23日の放送内容発表！"
+      "Ebola en RDC : l’épidémie progresse « de façon exponentielle » et dépasse 2 500 morts, alerte l’ONU",
+      "Epidémie d’Ebola: les guérisseurs congolais veulent rejoindre la lutte",
+      "Pourquoi l’épidémie d’Ebola est-elle la pire qu’a connue la RDC ?"
     ],
     "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
+      "label": "France",
+      "lat": 46.2276,
+      "lng": 2.2137,
+      "zoom": 5
     },
     "seo": {
-      "title": "稲垣 吾郎 Live Trend Tracker | HantaUpdates",
-      "description": "稲垣 吾郎 is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/trend",
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
       "keywords": [
-        "稲垣 吾郎",
-        "稲垣 吾郎 tracker",
-        "稲垣 吾郎 updates",
-        "稲垣 吾郎 live updates",
-        "稲垣 吾郎 outbreak",
-        "稲垣 吾郎 symptoms",
-        "稲垣 吾郎 public health",
-        "稲垣 吾郎 source links"
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
       ]
     },
-    "first_seen_at": "2026-05-10T09:16:13+00:00",
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
     "views_hint": 0
   },
   {
