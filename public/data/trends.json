@@ -1629,79 +1629,6 @@
     "views_hint": 0
   },
   {
-    "id": "e9b13a493c984e3008",
-    "slug": "naegleria",
-    "keyword": "naegleria",
-    "title": "naegleria trend tracker",
-    "description": "naegleria is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Guardian.",
-    "category": "public-health",
-    "geo": "BR",
-    "search_volume": "500+",
-    "traffic_label": "500+",
-    "published_at": "2026-08-24T17:40:00+00:00",
-    "updated_at": "2026-08-24T18:33:46+00:00",
-    "score": 500,
-    "source_url": "https://trends.google.com/trending/rss?geo=BR",
-    "sources": [
-      {
-        "title": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc3LVpFMTBNX0ZKWEVPNHpmSVgwOXRKc1hDa2VEaGx3bWlWM3huZFJTN25pSzB6ejFySFdNQ0RYWmlsWGhKY2FLMGoybzBxdnVaM2FJd3hxbWJ5TGczYVdmeHBsUHBUdVFYWFhjQWlOLWdWV1pVU3lFR3V6UldxRGJ3aVdBTno0bi1fOExCRnZQX1gwbGE4WlpUTkl5Tm8?oc=5",
-        "source": "The Guardian",
-        "published_at": "2026-08-23T23:16:00+00:00",
-        "summary": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana The Guardian Girl dies from brain-eating amoeba: Lillian Smart likely contracted Naegleria fowleri swimming in Louisiana lake ABC7 Chicago Ruston community rallies for 8-year-old fighting rare infection KNOE Ruston girl dies after brain-eating amoeba infection WDSU Ruston girl, 8, dies from brain-eating amoeba infection Louisiana Illuminator Ruston family asks for prayers after 8-year-old diagnosed with brain-eating amoeba WWLTV.com Louisiana girl, 8, dies after contracting suspected brain-eating amoeba linked to lake"
-      },
-      {
-        "title": "Data on ​Naegleria fowleri ​Infection",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RZXNaT2lyem53TVppNkJOX0JQbzIwcnVoOG52WEdyczRFRzZIZElXbHd0X005NjZXQm5peXJtemd2QXpzbUFjbEtFU3oyYVZNR3BlUjNNWlc?oc=5",
-        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-        "published_at": "2026-05-07T07:00:00+00:00",
-        "summary": "Data on ​Naegleria fowleri ​Infection Centers for Disease Control and Prevention | CDC (.gov)"
-      },
-      {
-        "title": "Louisiana girl, 8, dies after contracting suspected brain-eating amoeba linked to lake swim",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQUmpfeXBYa2NBZDRrQUVycXZkeDQ0RU13UlZQS2pKZlBoUlJ2RTNUT1ZxdnVsak9KQmdYOVBTeG9sak1pYm9pejJ6N0k2MDVpWE5HZ29RYllYLXR5aXZ0Z0E0enZ4ZTFLMlhNTG9mZXRlZGFuemtiUG9JaTg3dGI5aWxxcVZidU13cHBYdDdXVGJXc3VjM01PQ084aHU0YWRYQTdoeC0zb1lxRzZBUktaV0d3ekI0Ykll0gG-AUFVX3lxTFBERTc3dVd2TnoxZEYwbnMzVlFtVE9HeGpfVnc0M0xUcTkyd0dXQ0Y3U3N2Z3ItN1BscHRYQXpsaUFYcTR0bWM3MmYyVHp5Ukc5VkkyWWU0UU9qWHVjOWFmOFRndy1ZUExNbGhnNmZmQXVDNFZvSFU4RGZUZER4SzNJQ3V6WEt1ZDJCeFc2SDZDM1BVRlRTcDJSa1NYRVkwVEFkSFZFeFYwU3BqT1RaMWdnaHhnRVlrbVh0N0lKOFE?oc=5",
-        "source": "Fox News",
-        "published_at": "2026-08-24T00:50:29+00:00",
-        "summary": "Louisiana girl, 8, dies after contracting suspected brain-eating amoeba linked to lake swim Fox News"
-      },
-      {
-        "title": "Louisiana confirms Naegleria fowleri brain infection in resident who swam in Lake Claiborne",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGVLd01wRXNDakoyT2UzcFZuRmdyS1E4VHBUdzR1OFhjUVk2b0MyZDJuNGRfd1MyRm9iaTVpMGxPN01PaVEwckFmNkZTbFk3WHVUeEk5WV85eWJFVENWdGJRbXgwdDVRcGgtUUhlWjFXLXQwYlVhM3prRk1lbUdnSHhFLXpwakMxR08ySExvVXBnTHpicU1IMlBmN2hEVkpKajQyc2NUMG9YME9manRHc2JNWFBhRlNETDc2WmZnaDk?oc=5",
-        "source": "CIDRAP",
-        "published_at": "2026-08-20T19:49:00+00:00",
-        "summary": "Louisiana confirms Naegleria fowleri brain infection in resident who swam in Lake Claiborne CIDRAP"
-      }
-    ],
-    "related_queries": [
-      "8-year-old dies from rare brain-eating amoeba likely contracted while swimming in Louisiana lake",
-      "8-year-old Louisiana girl dies from a rare brain-eating amoeba found in warm freshwater",
-      "Ruston community rallies for 8-year-old fighting rare infection"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "naegleria Live Trend Tracker | HantaUpdates",
-      "description": "naegleria is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
-      "canonical": "https://hantamap.online/trend/naegleria",
-      "keywords": [
-        "naegleria",
-        "naegleria tracker",
-        "naegleria updates",
-        "naegleria live updates",
-        "naegleria outbreak",
-        "naegleria symptoms",
-        "naegleria public health",
-        "naegleria source links"
-      ]
-    },
-    "first_seen_at": "2026-08-24T18:33:46+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "21befb1a03c245c6eb",
     "slug": "england",
     "keyword": "england",
@@ -2721,6 +2648,79 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "4bf77caa3c84746e21",
+    "slug": "naegleria",
+    "keyword": "naegleria",
+    "title": "naegleria trend tracker",
+    "description": "naegleria is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Guardian.",
+    "category": "public-health",
+    "geo": "ES",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-08-24T20:40:00+00:00",
+    "updated_at": "2026-08-24T21:24:31+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=ES",
+    "sources": [
+      {
+        "title": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTHc3LVpFMTBNX0ZKWEVPNHpmSVgwOXRKc1hDa2VEaGx3bWlWM3huZFJTN25pSzB6ejFySFdNQ0RYWmlsWGhKY2FLMGoybzBxdnVaM2FJd3hxbWJ5TGczYVdmeHBsUHBUdVFYWFhjQWlOLWdWV1pVU3lFR3V6UldxRGJ3aVdBTno0bi1fOExCRnZQX1gwbGE4WlpUTkl5Tm8?oc=5",
+        "source": "The Guardian",
+        "published_at": "2026-08-23T23:16:00+00:00",
+        "summary": "Eight-year-old dies after contracting rare brain-eating amoeba in Louisiana The Guardian 8-year-old girl dies from suspected brain-eating amoeba in Louisiana FOX Weather Ruston community rallies for 8-year-old fighting rare infection KNOE Ruston girl dies after brain-eating amoeba infection WDSU Ruston family asks for prayers after 8-year-old diagnosed with brain-eating amoeba WWLTV.com Ruston girl, 8, dies from brain-eating amoeba infection Louisiana Illuminator Louisiana girl, 8, dies after contracting suspected brain-eating amoeba linked to lake swim New York Post Ruston girl dies after bat"
+      },
+      {
+        "title": "Data on ​Naegleria fowleri ​Infection",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9RZXNaT2lyem53TVppNkJOX0JQbzIwcnVoOG52WEdyczRFRzZIZElXbHd0X005NjZXQm5peXJtemd2QXpzbUFjbEtFU3oyYVZNR3BlUjNNWlc?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-05-07T07:00:00+00:00",
+        "summary": "Data on ​Naegleria fowleri ​Infection Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "Louisiana confirms Naegleria fowleri brain infection in resident who swam in Lake Claiborne",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOOGVLd01wRXNDakoyT2UzcFZuRmdyS1E4VHBUdzR1OFhjUVk2b0MyZDJuNGRfd1MyRm9iaTVpMGxPN01PaVEwckFmNkZTbFk3WHVUeEk5WV85eWJFVENWdGJRbXgwdDVRcGgtUUhlWjFXLXQwYlVhM3prRk1lbUdnSHhFLXpwakMxR08ySExvVXBnTHpicU1IMlBmN2hEVkpKajQyc2NUMG9YME9manRHc2JNWFBhRlNETDc2WmZnaDk?oc=5",
+        "source": "CIDRAP",
+        "published_at": "2026-08-20T19:49:00+00:00",
+        "summary": "Louisiana confirms Naegleria fowleri brain infection in resident who swam in Lake Claiborne CIDRAP"
+      },
+      {
+        "title": "Girl dies from brain-eating amoeba: Lillian Smart likely contracted Naegleria fowleri swimming in Louisiana lake",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORUdVRENqdkY0clBKYWMyUkphMVlyS29BaTBkdEtzcVlPYjNBU1h6SVByT2NoeHp1ZGZMeXFIaXpZVTZTWHdReE9naTFPWmRYTXRQX0ZnbWFNeTNCNnI3SkxlZENRTU5neUFGeHQ5TVlEdi1aQjdJaDhYVV9xTDZ1dEhZRDZJTFUwcTVNeEc2eGx3MGUyZzZiMXd1ZERmcm1OejhGbEtpNnBmcFdZc21WZ0o1YzBRZXhmYVdWMXVqOHRHSS1IUzNnUFk4NkpzUDTSAc8BQVVfeXFMTkVHVURDanZGNHJQSmFjMlJKYTFZcktvQWkwZHRLc3FZT2IzQVNYeklQck9jaHh6dWRmTHlxSGl6WVU2U1h3UXhPZ2kxT1pkWE10UF9GZ21hTXkzQjZyN0pMZWRDUU1OZ3lBRnh0OU1ZRHYtWkI3SWg4WFVfcUw2dXRIWUQ2SUxVMHE1TXhHNnhsdzBlMmc2YjF3dWREZnJtTno4RmxLaTZwZnBXWXNtVmdKNWMwUWV4ZmFXVjF1ajh0R0ktSFMzZ1BZODZKc1A0?oc=5",
+        "source": "ABC7 New York",
+        "published_at": "2026-08-24T15:59:49+00:00",
+        "summary": "Girl dies from brain-eating amoeba: Lillian Smart likely contracted Naegleria fowleri swimming in Louisiana lake ABC7 New York"
+      }
+    ],
+    "related_queries": [
+      "8-year-old dies from rare brain-eating amoeba likely contracted while swimming in Louisiana lake",
+      "Girl, 8, dies from brain-eating amoeba infection in Louisiana, family says",
+      "Ruston community rallies for 8-year-old fighting rare infection"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "naegleria Live Trend Tracker | HantaUpdates",
+      "description": "naegleria is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
+      "canonical": "https://hantamap.online/trend/naegleria",
+      "keywords": [
+        "naegleria",
+        "naegleria tracker",
+        "naegleria updates",
+        "naegleria live updates",
+        "naegleria outbreak",
+        "naegleria symptoms",
+        "naegleria public health",
+        "naegleria source links"
+      ]
+    },
+    "first_seen_at": "2026-08-24T18:33:46+00:00",
     "views_hint": 0
   },
   {
