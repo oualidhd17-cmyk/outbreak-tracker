@@ -803,6 +803,79 @@
     "views_hint": 0
   },
   {
+    "id": "b233f523b92a0e606b",
+    "slug": "legionnaires-disease-outbreak",
+    "keyword": "legionnaires disease outbreak",
+    "title": "legionnaires disease outbreak trend tracker",
+    "description": "legionnaires disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CBC.",
+    "category": "public-health",
+    "geo": "CA",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-08-26T06:10:00+00:00",
+    "updated_at": "2026-08-26T06:40:51+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=CA",
+    "sources": [
+      {
+        "title": "TTC cooling tower is source of legionnaires' disease outbreak: Toronto Public Health",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNWFKckhSeW1ycXVPNXQ2UVFFajAwRlpYUm5odEZGNlhPSnJZeWxsZE9UdENmb0FsM0EzdXVUcjVxUEc4OENLVVZUTEVlMmRqM1Mxa2U4bE9DSlZaRlNxQzBodTFPNG9PdHNNdDhDbXhmSHRNYTVWbk1JNENaa28tYkVsRC1HYk83Q0RVd3pSY3ZtWkk?oc=5",
+        "source": "CBC",
+        "published_at": "2026-08-25T22:36:35+00:00",
+        "summary": "TTC cooling tower is source of legionnaires' disease outbreak: Toronto Public Health CBC"
+      },
+      {
+        "title": "TTC cooling tower source of legionnaires' disease outbreak in Toronto: public health",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZDg4ekdjeW5PTlVGRVNqQkVIQ1lIb212VExNc2E0ZFVRVlBBSzM5MWtncTBnNWdQeEJPLVFfRi0xc0RvRHhJbk51OUxVZGhTaUdUTUg4MjFHYnAxMG9BaTVLaEpybDA2ZnkyMmZPS09pUV83QVRUMEpXdjhQOXhzNlhhRnN4Zw?oc=5",
+        "source": "Yahoo Lifestyle Canada",
+        "published_at": "2026-08-25T15:37:22+00:00",
+        "summary": "TTC cooling tower source of legionnaires' disease outbreak in Toronto: public health Yahoo Lifestyle Canada"
+      },
+      {
+        "title": "The Legionnaires’ Disease Outbreak: Symptoms and Spread",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUFhkT3pIRGtMWGVnMFh0dEhocFdYeEtSWndXQU5RaWlSZ01mRWlLaEVhaEItUUlWMDNGalJyN1ZUc2puUGFDenp5OXNwbnNFNnJyaVc0anFVem9NYUIyZlVkT3RmSE9PV2xTbF9XbWdwcXhSR2FKQzluOExPY29BUWlmRVdjN0FTV3VCYzdSZ0diOWs?oc=5",
+        "source": "Manhattan Times News",
+        "published_at": "2026-08-23T04:25:37+00:00",
+        "summary": "The Legionnaires’ Disease Outbreak: Symptoms and Spread Manhattan Times News"
+      },
+      {
+        "title": "NYC Health Department investigates source of Legionnaires' disease outbreak",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMmdMOXBQOUhYUVJ0TkEtY2ZyTmVMa0hhTno3dllfNjhMQlB4V0R2cDkyWnBrN2pObmhpUUxpcHFBb1gxNzdGV295dkQ4WGpGR2lROV9Kb0dJMGxHWTI0TXF4OTVXTGpoZ3VGbW03bGtwTXllSWtfVDI0RVkwVEJKQWEwN2lMWjhUU3dvUDJHVkdBX1NVeVBuZXgzSE9xS1psN0QwRVhrek1NUHZyV0xCUktwNHRqY2hzNFZ6dEUwZ0Z2NklZT2VQNVRXazlUUnPSAdcBQVVfeXFMTWE4SHlKejNIYkdwd25NdzVCTHlOS29INVlBNXJYaUZRamtRY0U4aHEyRGF4TXozcm9MWUJFZkdGMms3QlBLZEhjZmZrcU54cGpFSVVhRllJaWhZN3ZUV09Na1JvVUd4VTB3U05NTmdqNU9wd2R0ZDVjSUlwQndSLUFrd0pMY0lwTEtiOUpzYlZyRWYtWFdad1ZJc1NzcHRKOWQweEdCWkVrM2hYaU5qckI0QXIwRW12Zk13NUc4bUl3S1V1RjhucW5BOTNnYXVWTEZ1cTBzcVU?oc=5",
+        "source": "NBC New York",
+        "published_at": "2026-08-22T00:56:55+00:00",
+        "summary": "NYC Health Department investigates source of Legionnaires' disease outbreak NBC New York"
+      }
+    ],
+    "related_queries": [
+      "TTC cooling tower is source of Toronto legionnaires’ outbreak: public health",
+      "TTC cooling tower is source of legionnaires' disease outbreak: Toronto Public Health",
+      "TTC cooling tower source of legionnaires’ disease outbreak in Toronto: public health"
+    ],
+    "map_focus": {
+      "label": "Canada",
+      "lat": 56.1304,
+      "lng": -106.3468,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "legionnaires disease outbreak Live Trend Tracker | HantaUpdates",
+      "description": "legionnaires disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and s",
+      "canonical": "https://hantamap.online/trend/legionnaires-disease-outbreak",
+      "keywords": [
+        "legionnaires disease outbreak",
+        "legionnaires disease outbreak tracker",
+        "legionnaires disease outbreak updates",
+        "legionnaires disease outbreak live updates",
+        "legionnaires disease outbreak outbreak",
+        "legionnaires disease outbreak symptoms",
+        "legionnaires disease outbreak public health",
+        "legionnaires disease outbreak source links"
+      ]
+    },
+    "first_seen_at": "2026-08-26T06:40:51+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "5985c139c3952640b3",
     "slug": "deadly-disease-outbreak",
     "keyword": "deadly disease outbreak",
