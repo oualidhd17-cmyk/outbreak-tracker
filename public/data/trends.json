@@ -5458,6 +5458,79 @@
     "views_hint": 0
   },
   {
+    "id": "86bf244f35cb7e194b",
+    "slug": "chikungunya",
+    "keyword": "chikungunya",
+    "title": "chikungunya trend tracker",
+    "description": "chikungunya is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Centers for Disease Control and Prevention | CDC (.gov).",
+    "category": "public-health",
+    "geo": "FR",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-08-25T21:50:00+00:00",
+    "updated_at": "2026-08-26T01:03:20+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=FR",
+    "sources": [
+      {
+        "title": "Chikungunya in the United States",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5iRVpZak5ncjlnN0F4Uzczd05KdE0tM3dDZ2pnaGNzanByOEZKU05uVFlWbjVidWl5YVlyUVplSFJPQVJzeU5mLU1LZnJUc1pyUG1lZ0dkWTV0OXZCY1BGam5jeUlNcEZWUFlna1B3?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-08-18T07:00:00+00:00",
+        "summary": "Chikungunya in the United States Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "Chikungunya virus disease worldwide overview",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qUUFCZVp5WTFvZm1SV3ZOM0dkWUI2S2c3M1hOWDJoWVVCbUJYZ1VrYTJqNjFQVWNhTko4ZVhmN0JvTGNHbHJlZTNWY2VpTFBBU0JZaDlrSlBNY05EUnc?oc=5",
+        "source": "European Centre for Disease Prevention and Control (ECDC)",
+        "published_at": "2026-08-10T07:00:00+00:00",
+        "summary": "Chikungunya virus disease worldwide overview European Centre for Disease Prevention and Control (ECDC)"
+      },
+      {
+        "title": "Development of stable, serum-free suspension HEK293T cells for continuous Chikungunya VLPs production",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NdFp3UlgzYkViN1RFTWtfV19GTmNLb1hwMjJROUlwZUU4SzJVYkxjaHZiLUNrbkg5MGxITmZYRm03dks1d1REa1h1N0o0N1JyQmtWZEtrODBMci1wSkVB?oc=5",
+        "source": "nature.com",
+        "published_at": "2026-08-24T22:28:59+00:00",
+        "summary": "Development of stable, serum-free suspension HEK293T cells for continuous Chikungunya VLPs production nature.com"
+      },
+      {
+        "title": "Chikungunya-Associated Acute Respiratory Distress Syndrome: A Rare Fatal Case",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQU3lMOUxkS2ZfaDlRUUpaUTR1VmMzSTVmQXB4OHgwZTVnYWRON2VmUHJtS2tQeHFhNlJRMUtLMTlpaTJMNFlyRjZtUWdDS2F6QUR6V3lnRnQ1aE15MWhzZW4zdFhSMmYwbENZOWpTaG4wNmF5UFdMY1JIY2lDV0RJZ1Jad2ZvVDJjY3NwcENVYk5VdHZXMUlPLXNKYjdoT2lXMThzTXdER2hFQy1zOWVWNjlfM1Etdw?oc=5",
+        "source": "Cureus",
+        "published_at": "2026-08-24T09:30:14+00:00",
+        "summary": "Chikungunya-Associated Acute Respiratory Distress Syndrome: A Rare Fatal Case Cureus"
+      }
+    ],
+    "related_queries": [
+      "Nogent-sur-Marne : un habitant positif au chikungunya, premier cas autochtone en Île-de-France en 2026",
+      "Avec 23 cas identifiés, la vague de chikungunya se poursuit en Gironde",
+      "Moustique tigre à Nogent-sur-Seine : une première identification confirmée cet été 2026"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "chikungunya Live Trend Tracker | HantaUpdates",
+      "description": "chikungunya is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/chikungunya",
+      "keywords": [
+        "chikungunya",
+        "chikungunya tracker",
+        "chikungunya updates",
+        "chikungunya live updates",
+        "chikungunya outbreak",
+        "chikungunya symptoms",
+        "chikungunya public health",
+        "chikungunya source links"
+      ]
+    },
+    "first_seen_at": "2026-08-26T01:03:20+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "44681ac9f4268c4178",
     "slug": "silicosis",
     "keyword": "silicosis",
