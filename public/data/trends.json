@@ -5458,6 +5458,79 @@
     "views_hint": 0
   },
   {
+    "id": "b074860efca6eff36b",
+    "slug": "rotavirus",
+    "keyword": "rotavirus",
+    "title": "rotavirus trend tracker",
+    "description": "rotavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: HealthyChildren.org.",
+    "category": "public-health",
+    "geo": "ZA",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-09-01T04:50:00+00:00",
+    "updated_at": "2026-09-01T08:17:02+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=ZA",
+    "sources": [
+      {
+        "title": "Rotavirus in Children: Symptoms, Treatment & Why the Vaccine Matters",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRTgxMkl2c2dyc0ZzaGhIMVRYSEVlR2lFZTNBNDJxZ2pEODJrSnlJclRmVXFrV2dKcTF1aWd3RENwRVl1X0EzWjBscjhfcVVOT1FVUkZYcTdnUHZ5anRoczBuNG5qMzd5UkFoQ2stb2M0MnB4ZkNLTTQ4em1keUFFdHFKbjhGSWN6S0FYRWFQaEQzRlFubUlQbHk3OUY1ZGtTd0RpMDd3?oc=5",
+        "source": "HealthyChildren.org",
+        "published_at": "2026-03-02T08:00:00+00:00",
+        "summary": "Rotavirus in Children: Symptoms, Treatment & Why the Vaccine Matters HealthyChildren.org"
+      },
+      {
+        "title": "Rotavirus cases are rising: The warning signs parents should know",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNN19PRUo0VFRGR0w5RUxGVzhJMmFqX2t4ODF2VTJqd1dQR2R6X1lFbGdMdW1sOG1yaTA1cmxZZGxhOFJlYVMwRU5PNDhleHh6NDVaUWk2bDlKb0VhUlVBT1NkT2tBS2t1ZU5mRTBlNzVsdm04c25oT21PQmVVWW1CQkdBM1FCZjZQZlBHUTdPVV9aWWVnd1FGcjczRmEyZw?oc=5",
+        "source": "EWN",
+        "published_at": "2026-09-01T07:56:45+00:00",
+        "summary": "Rotavirus cases are rising: The warning signs parents should know EWN"
+      },
+      {
+        "title": "Peripheral rotavirus-specific T-cell responses following monovalent oral rotavirus vaccine in infants | npj Vaccines",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5aV2J4dXBGTkoybjZLZTJqanVkN0NTa05OR2lFdDA1QXJyVm1SZkFsSlRBN2xFMHAwY3VqNnNkOExMZlhXb3U0Qm5GVUllSWx1Ymd3VGRuVlZNTXRaVncw?oc=5",
+        "source": "Nature",
+        "published_at": "2026-03-05T08:00:00+00:00",
+        "summary": "Peripheral rotavirus-specific T-cell responses following monovalent oral rotavirus vaccine in infants | npj Vaccines Nature"
+      },
+      {
+        "title": "Life-threatening virus that causes vomiting and diarrhea at high levels in the U.S., CDC says",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONEd4REV4V1RKS21XV3UzUWFQc2JleVFtNUY1U0FrOGhKNzhnUnhfRGp3RGVCTFpTMm5rakQzT3VXV2UtOW1HNVY5WjhQSVpFNEJXLV9Jc29Kc255UzM0VHRXb2E0WTd4SDVtQ1JISnZVTnVuMWdzdHJ0akwwcHU0cV94NlJmbnBkVUxsZEd3RFE2eXhna2dtVllBWlVZZUx4YlNSdmN1VkV4a1RUcXRDTXpn?oc=5",
+        "source": "NBC News",
+        "published_at": "2026-04-15T07:00:00+00:00",
+        "summary": "Life-threatening virus that causes vomiting and diarrhea at high levels in the U.S., CDC says NBC News"
+      }
+    ],
+    "related_queries": [
+      "Rotavirus cases are rising: The warning signs parents should know",
+      "NICD warns parents as Rotavirus cases rise in Pretoria",
+      "It’s Rotavirus season – protect your child by vaccinating them and watching for signs of dehydration"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "rotavirus Live Trend Tracker | HantaUpdates",
+      "description": "rotavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without ",
+      "canonical": "https://hantamap.online/trend/rotavirus",
+      "keywords": [
+        "rotavirus",
+        "rotavirus tracker",
+        "rotavirus updates",
+        "rotavirus live updates",
+        "rotavirus outbreak",
+        "rotavirus symptoms",
+        "rotavirus public health",
+        "rotavirus source links"
+      ]
+    },
+    "first_seen_at": "2026-09-01T08:17:02+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "dd8673e3acb38c817f",
     "slug": "trend",
     "keyword": "فيروس",
