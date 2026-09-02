@@ -2724,6 +2724,79 @@
     "views_hint": 0
   },
   {
+    "id": "8a23965cd1579f720e",
+    "slug": "ruhi-enet",
+    "keyword": "ruhi çenet",
+    "title": "ruhi çenet trend tracker",
+    "description": "ruhi çenet is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: TMZ.",
+    "category": "public-health",
+    "geo": "TR",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-09-02T11:20:00+00:00",
+    "updated_at": "2026-09-02T13:12:30+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=TR",
+    "sources": [
+      {
+        "title": "YouTuber Catches Heat After Attending Wedding Amid Hantavirus Outbreak",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5Rb3BIRUxmenZvWFB2LTdrNXdEY0JHM3NyeTBLRkk1cWxCZlA4SUJob0tITVRQU2hYcmEwa2lQWWN4VHptalotTFRfb18wd0FHX2dMRW5iSnREVGlTOEhELU5MMjJmZXJyZkJHMw?oc=5",
+        "source": "TMZ",
+        "published_at": "2026-05-09T07:00:00+00:00",
+        "summary": "YouTuber Catches Heat After Attending Wedding Amid Hantavirus Outbreak TMZ"
+      },
+      {
+        "title": "Watch: Passengers told virus-hit ship 'not infectious' after first death",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA1Q3VENXJsVl9MUmFSSjlNNDRrdWNRYzhsNnBBSzJaLWVyUWt2Y0h3NHVzbVBoMmxMR0FKcUExUGpybTJ3ZUVUNVI5Q2FQY19wSkhad0V0RQ?oc=5",
+        "source": "BBC",
+        "published_at": "2026-05-07T07:00:00+00:00",
+        "summary": "Watch: Passengers told virus-hit ship 'not infectious' after first death BBC"
+      },
+      {
+        "title": "Captain of Hantavirus-Hit Cruise Ship Told Passengers Disease Was ‘Not Infectious’ After First Death",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPai1ibjFmRzg2TUdfNWVOZkRndjd1V3Q0TDJJb3lEUE9HVnJJbmxhQTZoQm5fc3hwaHA1WGg5bGhsNGhINlFhUmV5clJ3NEJYLVB6ZjdmdzU1Q3prQ2hSMkhVZWFISHVlNUxha3JxbS0tUkpTdUJJd2Fnd3BhWjQ3ZllYc0JKZkxBNmR1aTNEQkpxdzdWZl9GS2ZxNnFPYWhWZWNyYnFtelFUUm5DRW9LOEtCVVFRLWtXQ3ZaZndxVXY?oc=5",
+        "source": "People.com",
+        "published_at": "2026-05-07T07:00:00+00:00",
+        "summary": "Captain of Hantavirus-Hit Cruise Ship Told Passengers Disease Was ‘Not Infectious’ After First Death People.com"
+      },
+      {
+        "title": "Ruhi Cenet says he is in quarantine after ship hantavirus scare",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRmRVcnpkd2N3VkdvakJ1a2VCNjZlYkhBbEVTZEk2SGRPcXZONXBvaHhwZnhJOU92bkppS2IzYW9fOUtBdy1qaU1FYlltQzJhRDlMb3ZrejREbVZ2cUYxc00teGtRNFRPX0poMnpkR0xBTjNYeG95MVh2OU9RMmNZemRxMVRnQ3lmYlNkYXBUT0xiWW5KQnNGMXoxWmpOVWtNempCZHE4Z2VfMnkxZ2c?oc=5",
+        "source": "FTN news",
+        "published_at": "2026-05-12T07:00:00+00:00",
+        "summary": "Ruhi Cenet says he is in quarantine after ship hantavirus scare FTN news"
+      }
+    ],
+    "related_queries": [
+      "Hasidik Yahudileri görüntüleyen Ruhi Çenet CNN TÜRK'te - CNN TÜRK Son Haberler | Video",
+      "ABD'li Yayıncı Asmongold Ruhi Çenet'in Hasidik Yahudiler Belgeseline Övgü Yağdırdı",
+      "Yahudiler: İnterneti şeytan icadı diye kendilerine yasaklıyorlar ama dünyaya pazarlıyorlar!"
+    ],
+    "map_focus": {
+      "label": "Multi-country / cruise travel",
+      "lat": 16.5388,
+      "lng": -23.0418,
+      "zoom": 3
+    },
+    "seo": {
+      "title": "ruhi çenet Live Trend Tracker | HantaUpdates",
+      "description": "ruhi çenet is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without",
+      "canonical": "https://hantamap.online/trend/ruhi-enet",
+      "keywords": [
+        "ruhi çenet",
+        "ruhi çenet tracker",
+        "ruhi çenet updates",
+        "ruhi çenet live updates",
+        "ruhi çenet outbreak",
+        "ruhi çenet symptoms",
+        "ruhi çenet public health",
+        "ruhi çenet source links"
+      ]
+    },
+    "first_seen_at": "2026-09-02T13:12:30+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "4bf77caa3c84746e21",
     "slug": "naegleria",
     "keyword": "naegleria",
