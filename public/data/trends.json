@@ -2724,6 +2724,79 @@
     "views_hint": 0
   },
   {
+    "id": "fb88bc3ab9df14e112",
+    "slug": "banjir",
+    "keyword": "banjir",
+    "title": "banjir trend tracker",
+    "description": "banjir is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: ReliefWeb.",
+    "category": "public-health",
+    "geo": "ID",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-09-07T05:30:00+00:00",
+    "updated_at": "2026-09-07T07:51:24+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=ID",
+    "sources": [
+      {
+        "title": "Situation Report 3 - Aceh Flood (Sunday, November 30, 2025)",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQU3BlWElhQmFYQjlPN0JXaHIwWkhSb3dQZXlwejdnMVgyb05YOVBORzZ4ZXNxWFl3UEE5dFNsNVJNRktmbExoRElMWEF4aEN5eGhTeU9VajdPVGJrMS1QNE9sYnpjRGpTdzE0M21FTFF0eTZRZHRuNFpRSjBGRjFpV2dYOTNGMzFNendxSVZaRDh0UUxJX0o0?oc=5",
+        "source": "ReliefWeb",
+        "published_at": "2025-12-01T08:00:00+00:00",
+        "summary": "Situation Report 3 - Aceh Flood (Sunday, November 30, 2025) ReliefWeb"
+      },
+      {
+        "title": "Flood-associated disease outbreaks and transmission in Southeast Asia",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVNTRWlrZU4ya05PMTBFbEJtR1NUb3h5SWJ5VDNxMlhuZ2NQbDBLelI1ZElWcWUxSS03T3YwMUZEZ2xBUjliOEROZElRYWFhYmRUY2NrYXI5ZVJZVWd4WGRnd3FjMG94NXBJVTJGVjA5cTg1STdiZC1iTUlpN1JJTkxLX0FJZVpPYjdqQWVRMEpyU2lw?oc=5",
+        "source": "Frontiers",
+        "published_at": "2025-10-21T07:00:00+00:00",
+        "summary": "Flood-associated disease outbreaks and transmission in Southeast Asia Frontiers"
+      },
+      {
+        "title": "Centene Foundation invests in Texas flood relie...",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTG8xelBnd1ktWVV6UVFncTlORno3N0s1NFZIdzZRSndWV2ViTmhPM0M1Y2IwVGc0bk1GTjFFa0xVRDJzWUtLWXVGcWJ2d0hCM1lvcEc0VnphZFdEakF6RF9WcEhzdkpFT18tR0l2TE5hN1hQUTBDbi1yb2RXYlhLenQtRnh0eHRQc1hxRFNfTERYVFlPZG0yRlJqbkdKQklMVUJYN01JY3M?oc=5",
+        "source": "Pluang",
+        "published_at": "2026-08-05T07:00:00+00:00",
+        "summary": "Centene Foundation invests in Texas flood relie... Pluang"
+      },
+      {
+        "title": "Sumatra’s flood crisis: How deforestation turned a cyclonic storm into a likely recurring tragedy",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMDFaX0E2QmRZR2lMc3hrZzI1NWhGN0Q0TFZWUkt4UFFta0I4dEx6WlhtQVFXYzhEMTFWSFNid0ZNdnBpM2hseTNtWUc3aXNqc1dzTTNpUjlyaS1KNEdEM3ZQcjV1OVVrWWs3SnVEenRUd1lEQkN0TFJFMk1vakdrdFdNYURwSHZUcGtRTUFtVjk5Wk1KUVRFTUxRakEydVJwR3dMSW1FRkQ5SEd3LVpubmNBU2k4R2xtc2lWYm4tTG5rQklNd2FRbV9R?oc=5",
+        "source": "The Conversation",
+        "published_at": "2025-12-04T08:00:00+00:00",
+        "summary": "Sumatra’s flood crisis: How deforestation turned a cyclonic storm into a likely recurring tragedy The Conversation"
+      }
+    ],
+    "related_queries": [
+      "Meratapi Korban Himalaya: Ketika Atap Dunia Menjelma Kuburan Lumpur",
+      "Mukjizat di Balik 2 Orang Selamat Usai Nepal Dihantam Banjir Dahsyat",
+      "Evakuasi Korban Banjir Nepal usai 9 Hari Terjebak di Terowongan"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "banjir Live Trend Tracker | HantaUpdates",
+      "description": "banjir is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pro",
+      "canonical": "https://hantamap.online/trend/banjir",
+      "keywords": [
+        "banjir",
+        "banjir tracker",
+        "banjir updates",
+        "banjir live updates",
+        "banjir outbreak",
+        "banjir symptoms",
+        "banjir public health",
+        "banjir source links"
+      ]
+    },
+    "first_seen_at": "2026-09-07T07:51:24+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "990f540e8ce170ad14",
     "slug": "kaapverdi",
     "keyword": "kaapverdië",
