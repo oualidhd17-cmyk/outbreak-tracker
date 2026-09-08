@@ -5750,6 +5750,79 @@
     "views_hint": 0
   },
   {
+    "id": "66c1fbee28e61223f5",
+    "slug": "bundibugyo-ebolavirus",
+    "keyword": "bundibugyo ebolavirus",
+    "title": "bundibugyo ebolavirus trend tracker",
+    "description": "bundibugyo ebolavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CEPI.",
+    "category": "public-health",
+    "geo": "IT",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-09-08T07:20:00+00:00",
+    "updated_at": "2026-09-08T07:47:26+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=IT",
+    "sources": [
+      {
+        "title": "African Bundibugyo ebolavirus vaccine candidate to be advanced to clinical trials",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPek5DdUNpNVc1V0tOcHh4eEhLS2VWSjF4clNRUDRFWjczR1Y4ZGdpeHlITEV0UUxDWUdVUWhpdEhpbjRBcjByRTFVNnFNaGhPeng0OXh2NzFjR0RhSzBTUTJ5Zk4tTHdkWl9mRWFuUnlRdWNSSmowLTdrUXB1dmpIWDFpc1R5eVR5ejBBOWU4ZU91dEVaTlBF?oc=5",
+        "source": "CEPI",
+        "published_at": "2026-08-26T07:00:00+00:00",
+        "summary": "African Bundibugyo ebolavirus vaccine candidate to be advanced to clinical trials CEPI"
+      },
+      {
+        "title": "Bundibugyo ebolavirus from the 2026 Ebola outbreak in Uganda and DR Congo: a new variant",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTTU5LTk2UWxZcmlRYVZjQ1B3bWRTQUF0OEYybFdxVzRlYkI1VUt2TE5aZU5UMUhNZnM2eWdZZ0RfMUFvUUg4OXlGYTVwVWxIMXRRTWNxNzg5OTZsbC1IS1doX2VTblpMUG9vdHN3UmJFVUF5cjR4MURJY2tlMUhHRldtaDVkb21JcUY0?oc=5",
+        "source": "The Lancet",
+        "published_at": "2026-07-24T01:50:18+00:00",
+        "summary": "Bundibugyo ebolavirus from the 2026 Ebola outbreak in Uganda and DR Congo: a new variant The Lancet"
+      },
+      {
+        "title": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE42cEY2SzNPVkpaMDI3Y3dmWVMzbTlNTEcxQUdZM0JrT3BGR3pTNTI4OC1GMUhQOGFXc1VTNTVCdnFTR1g4RmsxVml3SndFUUNtd19ybUV2ekFOSDJlSnAwZHRCZzlyVE5ZLW1JYnRQWUE1QVlHYTdUemZR?oc=5",
+        "source": "World Health Organization (WHO)",
+        "published_at": "2026-08-01T07:00:00+00:00",
+        "summary": "Ebola disease caused by Bundibugyo virus - Democratic Republic of the Congo World Health Organization (WHO)"
+      },
+      {
+        "title": "How Uganda ended its Bundibugyo Ebola outbreak",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbTYtQTUwc1NQVTdUdk0zc3FlZGUyS2pNbl9JSTRra1hZZkhZd0RzX0VLbmg4Y29uZUpJbl8yTXZFa01vUzRQVVpBRUtEUkE0MnhDNUh4U3kxQTQ2eS1MY2h6cHlhRUI3cnhUMndxZFNDSl9qZnJKVy1OdnNQT21kcHp3d2E5T05CMVhXYWFPRQ?oc=5",
+        "source": "gavi.org",
+        "published_at": "2026-09-07T13:43:59+00:00",
+        "summary": "How Uganda ended its Bundibugyo Ebola outbreak gavi.org"
+      }
+    ],
+    "related_queries": [
+      "WHO coordinates expansion of Ebola treatment centre in DR Congo as death toll climbs",
+      "Germany fights Gaza genocide claims at the top UN court",
+      "Trauma of DRC Ebola outbreak doesn’t stop, as burial teams battle on"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "bundibugyo ebolavirus Live Trend Tracker | HantaUpdates",
+      "description": "bundibugyo ebolavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source li",
+      "canonical": "https://hantamap.online/trend/bundibugyo-ebolavirus",
+      "keywords": [
+        "bundibugyo ebolavirus",
+        "bundibugyo ebolavirus tracker",
+        "bundibugyo ebolavirus updates",
+        "bundibugyo ebolavirus live updates",
+        "bundibugyo ebolavirus outbreak",
+        "bundibugyo ebolavirus symptoms",
+        "bundibugyo ebolavirus public health",
+        "bundibugyo ebolavirus source links"
+      ]
+    },
+    "first_seen_at": "2026-08-07T15:52:40+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "7e0d42190ffd14cf3b",
     "slug": "ajax-vs-psv",
     "keyword": "ajax vs psv",
@@ -6331,79 +6404,6 @@
       ]
     },
     "first_seen_at": "2026-07-20T21:59:26+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "66c1fbee28e61223f5",
-    "slug": "bundibugyo-ebolavirus",
-    "keyword": "bundibugyo ebolavirus",
-    "title": "bundibugyo ebolavirus trend tracker",
-    "description": "bundibugyo ebolavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Reuters.",
-    "category": "public-health",
-    "geo": "IT",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-08-07T15:40:00+00:00",
-    "updated_at": "2026-08-07T15:52:40+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=IT",
-    "sources": [
-      {
-        "title": "Moderna begins first human trial of Bundibugyo Ebola vaccine",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRUpseTBiVk8zUzYtaks3RkJCeTlJYURDTllpNy0yZGJjRXg2MnJGWkxiLXhHRW84YXByOG1zZXlsdk16c3Bkdmd4VUl6QVZTSHktX3dnZkctUnZvX01BT2NNSTM4UkZlaHlxbVlmRzE0SHY0NnZjTXVQN1U2U3lfV1h1djNXYmkyaXZNS2Z0UjFmMUNNY25ZRk5fcGhEOUVEYXhVNFcyR1g0alpSZE9xSWdKZk1DRnJsSjZWWm5oZ2JELXhoNkVVTA?oc=5",
-        "source": "Reuters",
-        "published_at": "2026-08-04T15:07:33+00:00",
-        "summary": "Moderna begins first human trial of Bundibugyo Ebola vaccine Reuters"
-      },
-      {
-        "title": "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak - ABC News",
-        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUHZVVU52ZV9BME5XeURYMmFnb0ZvWldaTFVwMWw5STBBRmx2MVVBVnpKZHk3WndvbUR5SEEtSkNMaE5naHE0c2pFaVMtdTU4NFo3N2ItR0FHUENZWE51M0RGT1R1QjNvSXBvbWRRWjhXdlBnRzJxZERFMFAyc1FmYlQ5WWxUOHdwNzhULTh4RG42TXpSMklHand2X196QdIBowFBVV95cUxPVXgzVUE1ZndSbTNFTTdHTXJvZkM0QnVHa2xMV1FJUzRsTkwtb0gyeXlyMjM2blVSXzVSaXNNb0x4RUZZWHBmM1ZxaTlFa0JZU0JLbVpJUTVMZ0lnd2NacnpDaDVJeGptTjNJZ3lTb3pzRjdscWw3UkpobHRXLTl0T1ZWaFgxb05HZHlvUDByamxmMEJfeGIzVVMyUzJ6RDkxalpN?oc=5",
-        "source": "Breaking News, Latest News and Videos",
-        "published_at": "2026-08-04T20:57:19+00:00",
-        "summary": "Moderna begins Phase 1 clinical trial of Ebola vaccine against strain behind DRC outbreak ABC News - Breaking News, Latest News and Videos"
-      },
-      {
-        "title": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TMlRXMTFSYkpLaDdURzA5cnF3V2p3U2hkcVNvejdaMjlhZkszb3NHd3RlTXoxSlk1cDV3dGdaTE1FX2J6TmtrdlRVS0tWQnJ2d0thY21UdXV3UQ?oc=5",
-        "source": "BBC",
-        "published_at": "2026-08-01T16:16:16+00:00",
-        "summary": "Ebola Bundibugyo strain outbreak worst ever in DR Congo, WHO says BBC"
-      },
-      {
-        "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
-        "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxOLWc5YmNSd040d0pkM2czRzRXWmNBdk9NemR2MjE0RFF3eUg4TmpqQWNpYUpvbjdfbXRQVi1LUC1nbWdBQXRJaE9obE9oSGZ4M0lFY0VpOFVwb3ZLWjVnY3BjZkc1eERKOC1IbGt4cXZBX1lXVGxHZ3Q5c0RESnFTelNETGE4VW0tdnNNTjBRMEgzaFAzNVFPZ29INDN1MzN4MmM3SkhWSHJQUENwN21GbDhNLUdUOUhsbEpDS3VJMDhxWHBDZmt1THQwSzg0ZzZIdC0xRnFZT1VRRFNDaFZ1ZjhhR25wTW9jem5nWGJoX0Zzd29Yb3hGUTVaV1lyRVFPc2gwNUxzUVFrME0?oc=5",
-        "source": "World Health Organization (WHO)",
-        "published_at": "2026-05-17T07:00:00+00:00",
-        "summary": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern World Health Organization (WHO)"
-      }
-    ],
-    "related_queries": [
-      "Despite quick rollout of trials, Ebola outbreak outpaces response efforts in DR Congo",
-      "Singapore's Hilleman Labs to develop and produce CEPI-backed Bundibugyo ebolavirus vaccine doses for clinical trials",
-      "Ebola Response Turns to Merck Vaccine, Gilead Drug as Congo Outbreak Worsens"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "bundibugyo ebolavirus Live Trend Tracker | HantaUpdates",
-      "description": "bundibugyo ebolavirus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source li",
-      "canonical": "https://hantamap.online/trend/bundibugyo-ebolavirus",
-      "keywords": [
-        "bundibugyo ebolavirus",
-        "bundibugyo ebolavirus tracker",
-        "bundibugyo ebolavirus updates",
-        "bundibugyo ebolavirus live updates",
-        "bundibugyo ebolavirus outbreak",
-        "bundibugyo ebolavirus symptoms",
-        "bundibugyo ebolavirus public health",
-        "bundibugyo ebolavirus source links"
-      ]
-    },
-    "first_seen_at": "2026-08-07T15:52:40+00:00",
     "views_hint": 0
   },
   {
