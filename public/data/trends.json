@@ -5823,6 +5823,79 @@
     "views_hint": 0
   },
   {
+    "id": "c1eca84936cbd31c2f",
+    "slug": "cyclosporiasis",
+    "keyword": "cyclosporiasis",
+    "title": "cyclosporiasis trend tracker",
+    "description": "cyclosporiasis is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNBC.",
+    "category": "public-health",
+    "geo": "CA",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-09-11T17:30:00+00:00",
+    "updated_at": "2026-09-11T18:08:51+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=CA",
+    "sources": [
+      {
+        "title": "Record U.S. cyclosporiasis outbreak is over, CDC says",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOaHJVNS1jcUpoVndhdDkzU3ZaODVId2NkTVhublVQS0VVT2ZzYXR3YXltNjliVHdGNW5sOVhSMkFBZXI5bkxaOVFrelVIb3l6WkFJcEpWNm8zXzlDakkzS0dLdXU2T2lyNVpxNGZlMGRaT2tVNzd2d1RiMEFZSk1PRDJn0gGHAUFVX3lxTFBoRzZiQ2QyU2w5dVVaNDZiRU1sRnFVVG5ZNUFNN2laZG8wdF9zUFJvVmRGcE5zVGVYR3BtUTdMUmZqcHN3OHpEdTJEbUJzYkxpRkwtLUYteHc5V1BNWWRCMndtVER6dDZlY0FOSTNFVHkzOHVpR1ZpWWdlWEFtUGZPbURNZEs4VQ?oc=5",
+        "source": "CNBC",
+        "published_at": "2026-09-11T14:56:44+00:00",
+        "summary": "Record U.S. cyclosporiasis outbreak is over, CDC says CNBC Massive cyclospora outbreak linked to lettuce declared over USA Today Parasite Outbreak That Roiled Meals and Food Sales Declared Over Bloomberg.com US declares end of largest recorded cyclosporiasis outbreak Reuters Federal officials poised to declare end of U.S.’s largest known cyclosporiasis outbreak The Washington Post Cyclospora outbreak declared over by the CDC CNN Cyclosporiasis Outbreak Over After Parasite Sparked Mass Lettuce Angst forbes.com US officials declare an end to record-setting cyclospora outbreak, but its origin is"
+      },
+      {
+        "title": "In Ohio, new cases of illness caused by cyclospora parasite down again",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNdjV5Z0lwR1ZHcHdTSG1rVklEbDZ3MmVmS2RHd2xnSFdTaHJ5UVBvQUQ1WFVNSDNqNnpUcnpqbkc5S1hwSmxBeDRvZDl2Wll5MnJHUmdZaHRCT0hwUHdJQUVmTDExRDVYenVwajFMRFhkRGtjTjcwS0lqMU02T1NGVldDNEVrLTdOSkh1VVhPWW1uOFNlbFAySzhYY3lJeTdzaW8taW4yUThtZTNRM0VaU0NVcUJFT3lpVjZLTzNVNGVoN0h5ekZHOGp0ZURlS2xYRXVUdk5acw?oc=5",
+        "source": "The Columbus Dispatch",
+        "published_at": "2026-09-10T19:00:00+00:00",
+        "summary": "In Ohio, new cases of illness caused by cyclospora parasite down again The Columbus Dispatch"
+      },
+      {
+        "title": "Risk and Cyclospora",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1xNDBDRFk3NDNPNDZ2ZkpuNzRQdWZLVXIza1dmbmo3NXpuQmw5cVdfQ2gtWThZejViVWJLamY1eUprWmoxMmpmWGpYdHJPT2RwN1lCZXdtSXRmUVYzWVgxbWp5SlJfeXlPRlE?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-09-11T15:31:35+00:00",
+        "summary": "Risk and Cyclospora Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "Sen. Warren demands answers from RFK Jr. over 'calamitous' response to cyclosporiasis outbreak - ABC News",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxON1lTTWZvaGJOSml0MVludlNkZnN5UFd1Yk5yZXQ3ZlB2ZVo2amh2cHB4VTB4Z3JOMHpLd1ROZTUtUF9tNmxVRjl5Z0owT05kNm92VE1oajJITllsTzJYQlZpYTdKZVlucTJCTGdBZzdJQWtZMkd1a2hadkJrbjZfQk8xaTJNLUdiT19fNWtFZlRmcG9CdWRKNmFnTWNxeUZ0TGQ40gGoAUFVX3lxTE1lRmtaZDdVdE9Cd0cwNkhOQklBM0QxX2hNMnVfVGw0aktwOW96XzJHQWhxelF1M3lFeGhPNkVzOEh1WGs5N1F4S2FtSmx0a2E3VWR1cTQ3cDQydlFLUlNBVk5Nby1QbDR6eGdoUlRFY3FzdDFlaWw4Z3VnMkRIUzh2Ri02bE5DUjBxckV2QXdzd1U0LU8wclFUdi03d0M1aTVoTTREZTlhSA?oc=5",
+        "source": "Breaking News, Latest News and Videos",
+        "published_at": "2026-09-11T05:49:46+00:00",
+        "summary": "Sen. Warren demands answers from RFK Jr. over 'calamitous' response to cyclosporiasis outbreak ABC News - Breaking News, Latest News and Videos"
+      }
+    ],
+    "related_queries": [
+      "U.S. federal officials declare end to cyclospora outbreak that sickened thousands in 21 states",
+      "Record U.S. cyclosporiasis outbreak is over, CDC says",
+      "US lettuce prices chopped as costs for other goods remain stubbornly high"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "cyclosporiasis Live Trend Tracker | HantaUpdates",
+      "description": "cyclosporiasis is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links wit",
+      "canonical": "https://hantamap.online/trend/cyclosporiasis",
+      "keywords": [
+        "cyclosporiasis",
+        "cyclosporiasis tracker",
+        "cyclosporiasis updates",
+        "cyclosporiasis live updates",
+        "cyclosporiasis outbreak",
+        "cyclosporiasis symptoms",
+        "cyclosporiasis public health",
+        "cyclosporiasis source links"
+      ]
+    },
+    "first_seen_at": "2026-09-11T18:08:51+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "66c1fbee28e61223f5",
     "slug": "bundibugyo-ebolavirus",
     "keyword": "bundibugyo ebolavirus",
