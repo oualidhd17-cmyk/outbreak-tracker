@@ -438,6 +438,79 @@
     "views_hint": 0
   },
   {
+    "id": "1f1b6ac536f0037dcf",
+    "slug": "trend",
+    "keyword": "집단 감염",
+    "title": "집단 감염 trend tracker",
+    "description": "집단 감염 is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: 조선일보.",
+    "category": "public-health",
+    "geo": "KR",
+    "search_volume": "2000+",
+    "traffic_label": "2000+",
+    "published_at": "2026-09-16T14:00:00+00:00",
+    "updated_at": "2026-09-16T16:02:27+00:00",
+    "score": 2000,
+    "source_url": "https://trends.google.com/trending/rss?geo=KR",
+    "sources": [
+      {
+        "title": "Cruise Ship Hantavirus Outbreak Exposes Treatment, Vaccine Gaps",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRDJsSTRqRWtSNXRUbzBnN0pySzFObzd3QVpHbXVzQTBkeWRWTmhpb3FOM0lBamU4MXlWR05LeEdDdkVzdXdlSjhLdEttWTByRnJhQnpLaVFOclhoOXdPSnpyLUZMejJvQVlHaWQzZ2R3Z0tqQkJCYW9KRTVpaDBtLTU3eG1RLVVK?oc=5",
+        "source": "조선일보",
+        "published_at": "2026-05-12T07:00:00+00:00",
+        "summary": "Cruise Ship Hantavirus Outbreak Exposes Treatment, Vaccine Gaps 조선일보"
+      },
+      {
+        "title": "From 1 to 1,108 in 37 Days: Why is the COVID-19 Outbreak at Dongbu Detention Center Still Spreading?",
+        "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ma1djOU9XdjNENVRBUFM1UFlaUTl2c1puTmwwc1pId0ZESVpMR2Y4SFpYdE14ejlpckpsc0o2bGc1ZlF6WXR5Mml6YmtqdE9XcEd6bg?oc=5",
+        "source": "DongA Science",
+        "published_at": "2021-01-03T08:00:00+00:00",
+        "summary": "From 1 to 1,108 in 37 Days: Why is the COVID-19 Outbreak at Dongbu Detention Center Still Spreading? DongA Science"
+      },
+      {
+        "title": "Concerns grow over possible mass infections among young people",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSkJLcTNyQ2dXVFp1T0dfYjhIMi1PVW1HOEdraEZiY3dzZ3ByQjc5d1E2aDZQUVRpS1NzWFBGSFltcnlFeUVfTEFSaDl1VzJpOVBfaXNzWFJZUmxYWXJKc0VYYUstSjR1XzdienZzdjhiUUNCbEVybDIyQ1hOOUZVNzJzbnhDUm5ZSDN5U0FLNlUzTG44aFpyTkpyRWRlQnl1R0NZMjdwLTZZWUpYbGhVNlBCWmE0N1R3UDU4Q2p5MVc0R2fSAcgBQVVfeXFMUHA0WlJKa3hYS0RxRDRRZHpoSU9qcVN3a3hWMlJLZ2ZLdzZaMUhUOF9SQmkzZkl4TWYzWUV3bHZrQzBka0pyV0VCbzRLalZTcktIRjlHcU5pZ0huYlRmNkRWcmNySVpQSFlldThKcmZJVnIwdGl4aFQ2UzhvUnd0MmYtSUl4bUZDOGFobW9Bc0lLTjFlNm9KdHA4a0FTN3NFcXhKd1h1MHpCSTB5NXhkMjB6TmJoQzBRZjdxQlg4cFZsNnh4dWcyUFI?oc=5",
+        "source": "koreatimes.co.kr",
+        "published_at": "2020-10-18T07:00:00+00:00",
+        "summary": "Concerns grow over possible mass infections among young people koreatimes.co.kr"
+      },
+      {
+        "title": "Ethiopian Youth’s “Ascites” Revealed as 20-Liter Hydatid Cyst",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DX1d5TnFtd243RVB5OGxCUXJVWXhLZFNlS0JBb2xwTlBobVhmRFlMczB6V2dld1BqcFR6M09wOGZCS0NqUmFLZS15eUxVTl9oTXB5YnhsZ003dHpDMU0yaDFOU27SAWhBVV95cUxPLXJ0c1Q4X3lUY3NLa0I4YWk3LURrbVVzbFZGbjg0LUV3WHhmdkdING5MX2xsRlJSRm9RU3NZTW1SejYxTWdJNlREM1VGSHh3WjlvLWNPUGtSR1hQa1pWV3RZVGVkeG1MRg?oc=5",
+        "source": "최보식의언론",
+        "published_at": "2025-06-10T07:00:00+00:00",
+        "summary": "Ethiopian Youth’s “Ascites” Revealed as 20-Liter Hydatid Cyst 최보식의언론"
+      }
+    ],
+    "related_queries": [
+      "'환자 4명 사망' 정형외과 집단감염…병원장·간호조무사 송치",
+      "강릉 정형외과 집단감염 4명 사망…병원장 검찰 송치",
+      "'환자 4명 사망' 정형외과…위생 관리 미흡으로 '집단 의료감염'"
+    ],
+    "map_focus": {
+      "label": "Multi-country / cruise travel",
+      "lat": 16.5388,
+      "lng": -23.0418,
+      "zoom": 3
+    },
+    "seo": {
+      "title": "집단 감염 Live Trend Tracker | HantaUpdates",
+      "description": "집단 감염 is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/trend",
+      "keywords": [
+        "집단 감염",
+        "집단 감염 tracker",
+        "집단 감염 updates",
+        "집단 감염 live updates",
+        "집단 감염 outbreak",
+        "집단 감염 symptoms",
+        "집단 감염 public health",
+        "집단 감염 source links"
+      ]
+    },
+    "first_seen_at": "2026-05-10T09:16:13+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "b7c7735856ecbe8752",
     "slug": "temps",
     "keyword": "temps",
@@ -6112,79 +6185,6 @@
       ]
     },
     "first_seen_at": "2026-09-01T08:17:02+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "dd8673e3acb38c817f",
-    "slug": "trend",
-    "keyword": "فيروس",
-    "title": "فيروس trend tracker",
-    "description": "فيروس is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: facebook.com.",
-    "category": "public-health",
-    "geo": "SA",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-08-31T23:00:00+00:00",
-    "updated_at": "2026-09-01T00:22:01+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=SA",
-    "sources": [
-      {
-        "title": "DW News. . Three people have been medically evacuated from the cruise ship at the center of a deadly hantavirus outbreak. Authorities have confirmed that the Andes strain, which can be spread among people, killed three passengers on board. #dwnews",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxORkFmUmlZUDQyM08wSTRoNEJEelhzMFVJc19sSzJWY0JrUktrVy1YUmZ2OWNLNWdKdUVOT0tVTjhwRk1VM1Nxa0IwdTY1WUJDU0lMVXNXaDlMWVRVQV90bmJ4clZfMlVycFhxbHdHeEZRajVoUW05SDRTay00cks0ekJIeXhtMl9aYTFnX215M1hzbTRCaWh5MzgwUFlISmVsSGV4Vm5oQ3VFU3VESFplM1NzN1RQcG9aN0FNemxGaEFRRVFxUWowbjh1cmZJTkU1dUMwUFBzdHpmWXVQYVNJdw?oc=5",
-        "source": "facebook.com",
-        "published_at": "2026-05-06T07:00:00+00:00",
-        "summary": "DW News. . Three people have been medically evacuated from the cruise ship at the center of a deadly hantavirus outbreak. Authorities have confirmed that the Andes strain, which can be spread among people, killed three passengers on board. #dwnews facebook.com"
-      },
-      {
-        "title": "The New York Times. . Three passengers with symptoms of hantavirus were evacuated from the MV Hondius cruise ship where an outbreak of the disease has killed three people and sickened five others since April 11. Read more: https://nyti.ms/4tivRfO",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQN0ZCdzE2TEp3WWdxVDBKTGxlU2dpa3M3eF9pVUY0Wkx2WWR1MC1uSGNpZUZMLXp3NGcxVVlTZTJrdzhBMWVpU193ZS11aVo3dU85MHRWZUhEbW5pWkhuWS12VXhJU21Oc1lmUDVvVXlMSWdXRG1oQzdBQVpFUEVnTzJTcnVZTEtVdGxlYnJRbW5fWC1JcDNjRnVaaGVQQkUyckc4c211NXYtVzdPYnpMRllWUlFhdG5J?oc=5",
-        "source": "facebook.com",
-        "published_at": "2026-05-06T07:00:00+00:00",
-        "summary": "The New York Times. . Three passengers with symptoms of hantavirus were evacuated from the MV Hondius cruise ship where an outbreak of the disease has killed three people and sickened five others since April 11. Read more: https://nyti.ms/4tivRfO facebook.com"
-      },
-      {
-        "title": "أفغانستان: تدني الوعي حول فيروس نقص المناعة البشري بين المهاجرين في إيران",
-        "url": "https://news.google.com/rss/articles/CBMi1gRBVV95cUxNT0k5LWE3alhDaS1TaUltbzFyRWxyc2xLdmQ0U3JVNG1NcEsyVXg2Mlp4aWQ4a082MFV6b3U5WkFQZ0hRaGhaWnpyc1FUeDJnTTh2MXlEVm9KbFBZZHplMUlmblI5WmsyX0wxRU8zV1RCX0ZLU19PVnpGVVRjLVQ2c21uVU11LU0xTndkTXhKbDM1ekFaM3lYWGZPbkpVWVlNbmpVQnVEMzlFTHhhaFIzOU92cTJxbkVUNllzOUZiTHUtQ3NES29RcVJEVEZCbW9kamRYT1NQcHhjZDdsWDBnNWgyM2RkMk9scnhaNFVpcm9EOHVOQjE2VlpmRGtlaVAzMWNLNGhZNEJMZE1DZXVOMHVucEduM2o0alF5a245OG80RXBCckdJZWR6T0ZGQnZNNFpNNUxYb2VvX1hoWXJoLVRlNXU2ZUxuM3dpT1pibktadURnRVVfS2VtamhDNGV5N3RuMlFkbTY5TW5Rb2NEQTZLczFud0lJU0ZISGNFUzlyQkw1UGFBUUlmUHNrX2dwZlRLeGNWekZIb2pRb0tnd2oyV2dFMURHSTBxb2gyS2tjeF9OOG0wWWtmWGFWbHBPOERjUVh2QW85bUYtNTRpRENxcGJjdGxxWGpTVXZ1N0JLelNQcWtaeExZZGxLekhqUFBvaXFOdlVINXBYeFN0VkI4QjlWYnpjc1lUUE1UelpFTmZnV0ZBZ2pVMWRtVm1uUXpOY1hvVG5UYmRENWlDWDJJaWlUaHpWUFFQam42dzhhN1BVenNVUmI5cXV2UXVBU3NnWkxB?oc=5",
-        "source": "The New Humanitarian",
-        "published_at": "2016-06-06T07:00:00+00:00",
-        "summary": "أفغانستان: تدني الوعي حول فيروس نقص المناعة البشري بين المهاجرين في إيران The New Humanitarian"
-      },
-      {
-        "title": "Women are leading the fight against Coronavirus in Kuwait",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNU0U2YzZhR2h2SENEZ1R1czVobFZSa1dWNGVMQ1h5YlViSHRKdjlndHRNSl9mbzYxZ20tQ2xjS0ZKd2poYmZLUDdMZGF0VmJVRktocnJ3bXVDNzBGVUZ2YnN3dDJuWjZ1blJHY2paVGNwYjFlbXVIX0U4dmpZZzJaTjNfYV9Db2h2dHdMUW10T1JQMk9JZ080?oc=5",
-        "source": "World Bank Blogs",
-        "published_at": "2020-05-19T07:00:00+00:00",
-        "summary": "Women are leading the fight against Coronavirus in Kuwait World Bank Blogs"
-      }
-    ],
-    "related_queries": [
-      "رعب في الأوساط الصحية: فيروس جديد يقتل نحو نصف المصابين",
-      "تفشي فايروس قاتل.. «الصحة العالمية» تحذر: خطر مرتفع للغاية",
-      "تفشي بوتيرة متسارعة.. 2500 وفاة جراء إيبولا في الكونغو الديمقراطية"
-    ],
-    "map_focus": {
-      "label": "Multi-country / cruise travel",
-      "lat": 16.5388,
-      "lng": -23.0418,
-      "zoom": 3
-    },
-    "seo": {
-      "title": "فيروس Live Trend Tracker | HantaUpdates",
-      "description": "فيروس is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/trend",
-      "keywords": [
-        "فيروس",
-        "فيروس tracker",
-        "فيروس updates",
-        "فيروس live updates",
-        "فيروس outbreak",
-        "فيروس symptoms",
-        "فيروس public health",
-        "فيروس source links"
-      ]
-    },
-    "first_seen_at": "2026-05-10T09:16:13+00:00",
     "views_hint": 0
   },
   {
