@@ -3089,6 +3089,79 @@
     "views_hint": 0
   },
   {
+    "id": "72f17cd7e9d94d5cf2",
+    "slug": "perthnow",
+    "keyword": "perthnow",
+    "title": "perthnow trend tracker",
+    "description": "perthnow is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: PerthNow.",
+    "category": "public-health",
+    "geo": "AU",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-09-19T13:50:00+00:00",
+    "updated_at": "2026-09-19T17:44:52+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=AU",
+    "sources": [
+      {
+        "title": "REVEALED: Iconic food and drinks only found in WA",
+        "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNdy1UT0xHNkdBbWhaTXRPb01SbHdIRWpNRUs0VnpvdWlsNFhaa0RLXzk1NVRLT0pfNUczdVZ4a1BoTDFkZ0txbW1OcHFZMzNLYmV6elUzeHJfTjYtTEVXaDl4dFdUSnFsLTMyY2lPdXpwenZUTWU3a0FMeHpUdGR5YU1ETTVPOFpvUTFlRmx2TTJvY2VzTlU1dnQ2VGFiX2lNRld5cldENFN6WUF2eWZFdUluNHVFSDJkaGJ4QWI2RTJQOXNjZDNpQ2xKMUhBN1NXZEI1OUQ2Sy1DanBO?oc=5",
+        "source": "PerthNow",
+        "published_at": "2026-09-19T17:41:00+00:00",
+        "summary": "REVEALED: Iconic food and drinks only found in WA PerthNow"
+      },
+      {
+        "title": "Perth traffic: Kwinana Freeway blocked as duck, ducklings make thriller crossing",
+        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPVl9iUC1EdzJQOTA1dVkzVUQ3NUtjTkR4LVRXenhQS096aVhmRE9tVmxManN0dXBpclVLemM2NUxUaXdlSXFGaE0xOFFNZXVBOVRYcUk3Yzl3SFBYMzgwcTZjbF82eW9NMS00MUh0QkpoT3NhdWpUZllIS1NJTmxlNnpyUzM3Vkg2MFJRWXJPeTFLRFF3TzNCVVpzVWhSV0Y4RFFETk9uWVpsbGhXU0NraUVydnV3dnR1ZGhGMGpReXF3Y2l0dUEwRVU4UmNqNl9leG9B?oc=5",
+        "source": "PerthNow",
+        "published_at": "2026-09-19T11:53:00+00:00",
+        "summary": "Perth traffic: Kwinana Freeway blocked as duck, ducklings make thriller crossing PerthNow"
+      },
+      {
+        "title": "West Aussie scoops entire $6.4 million Saturday Lotto prize",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNa0xlYW9wVWtjN2xEVnJNWW9fZlBxZXh3UXRUR2xveURxX0lmbUxxRXlYUzNhWEstbGFmUGZ2NEdyYmJGb0NvXzRJSTdweENNNGhqVUw1WkR4VHJkVkJ3aXRuYzl4dVVNRzhZNVM5a194OTdvRkRSMG1MTUxPYkYtejZab3NyVWhqaldLTEZQUWExSXpVM1RhQWxpRVM0Vm9YcG9pYzJSbVZJeG0ydHgtcWY0c0xNOFItN1pVaklhbjBOSUZ2cTVPVnQ1QQ?oc=5",
+        "source": "PerthNow",
+        "published_at": "2026-09-19T11:20:00+00:00",
+        "summary": "West Aussie scoops entire $6.4 million Saturday Lotto prize PerthNow"
+      },
+      {
+        "title": "Health alert after second WA child sick with deadly disease",
+        "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPNXQtRWhFNDVXTzR1RmpVWWl3RGlnd1lCV3JwUEYyX2o1VlQteEZQTDZHeWVOajQ2Smx6eHBjbEZRTlRJdXV6ZUNKcnFvQU5MMTVtV093ZWZvcmVKZFA5TVY2X2VrRmYzcDRVS3pvZlByeml1a3JVUi1EY2FxTTBxbWs5bDNIY1ZnNF83clhoOHhjcGtYZHZxMnUtUVlVeWpIbGtUUDBjaXAwNldRb0FvLVNkV1FpOThEOEN2dHpLV1JFWXByTjFidDdyTFRLdnJGMGc0RkdmU1NsLUpWWTdV?oc=5",
+        "source": "PerthNow",
+        "published_at": "2026-09-19T05:22:00+00:00",
+        "summary": "Health alert after second WA child sick with deadly disease PerthNow"
+      }
+    ],
+    "related_queries": [
+      "Perth shark attack: Rare kill order issued as victim identified as Greg O'Neill",
+      "‘Catch and kill’ order after great white shark fatally attacks swimmer",
+      "Swimmer killed in shark attack in front of horrified beachgoers in Australia: \"I could see a pool of blood\""
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "perthnow Live Trend Tracker | HantaUpdates",
+      "description": "perthnow is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without p",
+      "canonical": "https://hantamap.online/trend/perthnow",
+      "keywords": [
+        "perthnow",
+        "perthnow tracker",
+        "perthnow updates",
+        "perthnow live updates",
+        "perthnow outbreak",
+        "perthnow symptoms",
+        "perthnow public health",
+        "perthnow source links"
+      ]
+    },
+    "first_seen_at": "2026-09-19T17:44:52+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "e5f70da11a1e84a44e",
     "slug": "hospital-central-de-la-defensa-g-mez-ulla",
     "keyword": "hospital central de la defensa gómez ulla",
