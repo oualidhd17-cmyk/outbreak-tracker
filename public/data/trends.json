@@ -949,6 +949,79 @@
     "views_hint": 0
   },
   {
+    "id": "224e161db9cfed0b80",
+    "slug": "bouches-du-rh-ne",
+    "keyword": "bouches-du-rhône",
+    "title": "bouches-du-rhône trend tracker",
+    "description": "bouches-du-rhône is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Riviera Radio.",
+    "category": "public-health",
+    "geo": "FR",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-09-24T13:10:00+00:00",
+    "updated_at": "2026-09-24T13:59:23+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=FR",
+    "sources": [
+      {
+        "title": "Bouches-du-Rhône on orange fire alert after several blazes across the region",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOX3lhX0xWWDFqd3V6eE5MeU4tNmJ1QXhCbkI1elJxVXB4Wkt4aFlHLXdQaUJ4aFVaaENEOGJUdjFBSzZVYl8xSmtta29HaTNEZ0xNUUtUX0NNRkNnWTA1QWRtSXFTVGlHY3M1RHRWSnJQQjNoem5VQUpCTEZ1cXJwbTR6dEVyY0NTaGZHYlR1Yl9JdEgzWFM1MGo3Yk5LY204TV9iamxBQXdLaVVBWjZBRVJtb01WSWJzcldOUTgwdDM?oc=5",
+        "source": "Riviera Radio",
+        "published_at": "2026-09-21T06:36:50+00:00",
+        "summary": "Bouches-du-Rhône on orange fire alert after several blazes across the region Riviera Radio"
+      },
+      {
+        "title": "Weather Forecast and Conditions for Marseille, Bouches-du-Rhône, France - The Weather Channel | Weather.com",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCSFRjcnJkTmt3OHhCcU9BUlNQcV92d0MzX05ta3hEbnRVdGJTbFJ5SDVkY0pES3pfcThybG9OSFFxeWhzYV81THdDS3g0dVk2cEV6ZTV1bnJVQ0hoS0dPcWJMbHdmQkt5RVludg?oc=5",
+        "source": "The Weather Channel",
+        "published_at": "2026-08-28T08:52:48+00:00",
+        "summary": "Weather Forecast and Conditions for Marseille, Bouches-du-Rhône, France - The Weather Channel | Weather.com The Weather Channel"
+      },
+      {
+        "title": "France: Local transmission of dengue, chikungunya and West Nile virus",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdENmQ202Y1VYQ3cwaDFKN3B4SlZSdTZNdVE1U3BvWU0tQzlTczRvR1k0aURvaEdJZVdzWl9CTWVadlJkQURTenh2TkN3NTJjQnhlczVhTEJKNjQ3YTY4ZDl2QktlNWZvX2wtWXlJNDN0c0VOQnBGeENZSXgzT3BKOVJn?oc=5",
+        "source": "Outbreak News Today",
+        "published_at": "2026-07-29T07:00:00+00:00",
+        "summary": "France: Local transmission of dengue, chikungunya and West Nile virus Outbreak News Today"
+      },
+      {
+        "title": "Stade Vélodrome, Bouches-du-Rhône, France Weather Forecast",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObXZZdVpsYjdTcklkS25LY08tcW12RVlOZkQzbDd6YktkdlJ1NUhucURZOXdKVFFRQjFqazdLQTdzU3JQWDIwODB3SmE4ZEJZZ1AyTUl1X0s0djJINlVTbnpZbFdoQkh0a1YyU09Ja0RUVU8ySW1MSWxsNUxOLW85ZUlQaTJnQ0hMcDNVeUpRN182dw?oc=5",
+        "source": "AccuWeather",
+        "published_at": "2026-06-18T20:48:50+00:00",
+        "summary": "Stade Vélodrome, Bouches-du-Rhône, France Weather Forecast AccuWeather"
+      }
+    ],
+    "related_queries": [
+      "Deux morts dans un choc frontal cette nuit sur la RN 568 entre Port-de-Bouc et Fos-sur-Mer",
+      "Deux personnes sont mortes ce mercredi soir dans un accident sur la N568 à Fos-sur-Mer",
+      "Accident de la route : deux conducteurs meurent dans les Bouches-du-Rhône dans un violent choc frontal entre leurs voitures"
+    ],
+    "map_focus": {
+      "label": "France",
+      "lat": 46.2276,
+      "lng": 2.2137,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "bouches-du-rhône Live Trend Tracker | HantaUpdates",
+      "description": "bouches-du-rhône is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links w",
+      "canonical": "https://hantamap.online/trend/bouches-du-rh-ne",
+      "keywords": [
+        "bouches-du-rhône",
+        "bouches-du-rhône tracker",
+        "bouches-du-rhône updates",
+        "bouches-du-rhône live updates",
+        "bouches-du-rhône outbreak",
+        "bouches-du-rhône symptoms",
+        "bouches-du-rhône public health",
+        "bouches-du-rhône source links"
+      ]
+    },
+    "first_seen_at": "2026-09-24T13:59:23+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "9eaf2257969beca603",
     "slug": "mpox",
     "keyword": "mpox",
