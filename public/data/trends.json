@@ -1994,6 +1994,79 @@
     "views_hint": 0
   },
   {
+    "id": "98a55da644f76a21f1",
+    "slug": "ebola",
+    "keyword": "ebola",
+    "title": "ebola trend tracker",
+    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Reuters.",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-09-26T20:00:00+00:00",
+    "updated_at": "2026-09-26T20:37:04+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "WHO says Congo Ebola outbreak spreads to two new health zones",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOeWRrVWMzX3I0aFlwNVc2Zy1fY2N0VXk0akJHMXRDQjJfOGptb29EcVJJT1l3b1NOM0ZiZUVSZGdUMG56LXJzdmNuc2FNS05VdzZZRjVHaGZwNlViaVY4RmJpeEl2NmUtVFVYV09ZN0U1V3VaQm5WVDhpWGF3Mm5xVXkweFF5QUduZHQtOU9IMzRSRktDVXVqQkxMM2ZqVks0MnhweHNlQXhrV24wMzJadXBuRzd4c1oyZmd1M0lZbnBXVlJaVFJNZ2JB?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-09-25T19:14:13+00:00",
+        "summary": "WHO says Congo Ebola outbreak spreads to two new health zones Reuters Moving target: How mistrust is fueling a deadly Ebola hotspot in east Congo Reuters Congo faces health worker shortage as Ebola remains out of control, WHO says PBS DR Congo’s Ebola outbreak spreads to two new health zones, WHO says aljazeera.com DR Congo: Young doctor dies of Ebola as cases surge beyond epicentre africanews.com DR Congo Ebola outbreak toll exceeds 3,700 deaths UN News Congo Ebola contact tracing falls far short as outbreak spreads, Africa CDC chief says Reuters DR Congo short of health workers as it battles"
+      },
+      {
+        "title": "U.S. pledges an additional $267 million to contain fast-spreading Ebola",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRG1RcEFIRGNOemN3eVQwTmVlRUpiV2RkcE9tcnR1RGJUa0w5ZldRNnNUbFl5Q1lES3JzRmx6dTVZNWkxY1JGTVVybktTMmVKdVJ0bjJFdE1YUkhUbWY2bUlVSjdlR2prZ0c1OXFPSld2eEZ3TXlSZ25NTC1UTFFrTUNGeElXOXcwMzRuMUxFdmgzZUF6MFJBYTNOTDBPdFpWYnBuelRUcXhPR1B4UFFPQkp6SjQ?oc=5",
+        "source": "The Washington Post",
+        "published_at": "2026-09-25T04:25:54+00:00",
+        "summary": "U.S. pledges an additional $267 million to contain fast-spreading Ebola The Washington Post"
+      },
+      {
+        "title": "Ebola, twins and women-led conservation: Reporting on gorillas for World Gorilla Day - news",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTTh2Vm9SNFBrN2ZZMjBMM3F6OVlJeTBRenRuNk9tWjBvUjZ2elZfVGswd1d5UThuZ0xkQmREWkJINlE5eFVZTDJFbnlCZE9RTkNOeTVaOWdwTzNMZTdPc21KbUVyLXBhWnlPQmR6aUVUTVJpVEtha0drbkNJOWhhTlhCZHRwdjFpclU2TnlicWZqN0owbzF0dDRyUll6VldVZzE5ZWZtWnozSFc3RlV1SjRrTmllb1FRWnhQdG1nczQ?oc=5",
+        "source": "Mongabay",
+        "published_at": "2026-09-24T17:26:28+00:00",
+        "summary": "Ebola, twins and women-led conservation: Reporting on gorillas for World Gorilla Day news - Mongabay"
+      },
+      {
+        "title": "Ebola Outbreak: Current Situation",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-09-24T07:00:00+00:00",
+        "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)"
+      }
+    ],
+    "related_queries": [
+      "Ebola spreads in DR Congo, putting neighbouring nations at risk",
+      "Health worker shortage strains DRC Ebola response",
+      "Ebola cases, deaths in DR Congo outbreak near 7,900 and 3,800 as virus spreads to 2 more health zones"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "ebola Live Trend Tracker | HantaUpdates",
+      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/ebola",
+      "keywords": [
+        "ebola",
+        "ebola tracker",
+        "ebola updates",
+        "ebola live updates",
+        "ebola outbreak",
+        "ebola symptoms",
+        "ebola public health",
+        "ebola source links"
+      ]
+    },
+    "first_seen_at": "2026-05-15T10:02:45+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "86eb8be8880b9a46d9",
     "slug": "brain-eating-amoeba",
     "keyword": "brain-eating amoeba",
@@ -6623,79 +6696,6 @@
       ]
     },
     "first_seen_at": "2026-08-23T09:23:44+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "6f6002f6ab0291131d",
-    "slug": "ebola",
-    "keyword": "ebola",
-    "title": "ebola trend tracker",
-    "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Reuters.",
-    "category": "public-health",
-    "geo": "FR",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-08-22T06:00:00+00:00",
-    "updated_at": "2026-08-22T06:32:41+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=FR",
-    "sources": [
-      {
-        "title": "Ebola spreading exponentially in Congo as death toll tops 2,500, UN says",
-        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVFlxeFAyUWRzRllpVGluQjZlYlUwZjROV2w1TFphQmN4MjFISnNyZTBPaDlzYk15Y25XWUViOG1ZcU0yNHRTa2NydHlVWS1NSnVUTEJ3LTJOX2I2VmpfMDJ3ejhKR2tNV3g2MWR2OEZuVWdQbWIweko4dEc2cVAtUURQUlNad0tJNzdsQjZ0eUVuWEJ1MFdPMEtrWGlhYVZxNmVHemRmQ2xNYXdOTE1fNG91Q0htUUYyRTE1TElhVEpsdWtveXVIcVBQMTJCUnUwdlVWUVA4ZUtwNkVKNnc?oc=5",
-        "source": "Reuters",
-        "published_at": "2026-08-21T12:56:45+00:00",
-        "summary": "Ebola spreading exponentially in Congo as death toll tops 2,500, UN says Reuters Ebola outbreak in DR Congo growing 'exponentially' as death toll passes 2,500 France 24 Ebola outbreak: five big questions The Guardian"
-      },
-      {
-        "title": "Ebola in DR Congo: Vaccine trial to start as WHO warns about speed of infections",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2WUZmV0dFcjdMTngxNEw3QWg5QWkzU1YwQ012RnRicHo2Vmw4VVhIWTMzZzhwR3p5aktJR0xUdElIRzM4SUNVSUJ1amVjNFRYLTRFZmtkdFdadw?oc=5",
-        "source": "BBC",
-        "published_at": "2026-08-21T13:44:43+00:00",
-        "summary": "Ebola in DR Congo: Vaccine trial to start as WHO warns about speed of infections BBC"
-      },
-      {
-        "title": "WHO and Africa CDC welcome the allocation of Ebola vaccines to the Democratic Republic of the Congo",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOMS14ODc3QnBsU3pCSGxBYnN6OGdKQXJ0LWlpWVRycTkyUlJYQjRiTVE4MlVSNFdWS2ZGSnNVcHNRZElsdGt3dXRmd2d1Y1RJM3FxNlFlUUZ5VzctdVUwS2ZDYk50MEhKU0lnNmZOdnFEdjlkd3J3S25tYWdINmw3bWhxa1dERjZuV3JIRGowZjdLNHN6MmxDd25GWFprdTFhZ0xEMUp6eXRtdUgyV0RVQmpGQTl0QlZpUGFYMWVEQXlaOU5xbkFmdFJwUEtiZmRaYUg5ODJVSQ?oc=5",
-        "source": "World Health Organization (WHO)",
-        "published_at": "2026-08-20T11:08:19+00:00",
-        "summary": "WHO and Africa CDC welcome the allocation of Ebola vaccines to the Democratic Republic of the Congo World Health Organization (WHO)"
-      },
-      {
-        "title": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVWhRWkNBcVQxUkpTRGdXaVdtOG1DRWs5RHRBZ2FNazBEX3NRcmNIc2g2OWxLZnZXbUlQdG9DLVE4SHhZaVZiRnRYY3dWeVAtQld1bWZfRlJkTzlQZ2dUVWFINjFrai01XzBLOVRPLWY5aU5rSm8zMnhFUXdQVTdJUjYxc2ZvTVNGYlVNRUhpeW5zVkhneW9EWGhBcUVpRWkzOVBWYnIxQmlqUWVLdk9zYnVodmQ3UzjSAbwBQVVfeXFMTWZDYmEwSDB5dlRRWUYyM2hhRHdjcWhuOHFHeXBKUGttNTFfZTBJTzlIRUVpMU1rTXdqZS1ZOHFidTJSdWhhcFQxZlVWaUdPUXA2WkNqdTZWQ2tJRUJpWGhFaTZxbWh6dV9Kb3BlWERGM0Utc3N3ZTEwb1RUSTFBVnNDTHp3YjhRQi02enA2QmVTZkNLakNDRUFMZjJZYWFreGh4NzN4ZGxDWDZYNENua213enhmcXhOU3JjQk8?oc=5",
-        "source": "Al Jazeera",
-        "published_at": "2026-08-20T20:13:11+00:00",
-        "summary": "DR Congo to receive 70,000 doses of Ervebo vaccine as Ebola infections surge Al Jazeera"
-      }
-    ],
-    "related_queries": [
-      "Ebola en RDC : l’épidémie progresse « de façon exponentielle » et dépasse 2 500 morts, alerte l’ONU",
-      "Epidémie d’Ebola: les guérisseurs congolais veulent rejoindre la lutte",
-      "Pourquoi l’épidémie d’Ebola est-elle la pire qu’a connue la RDC ?"
-    ],
-    "map_focus": {
-      "label": "France",
-      "lat": 46.2276,
-      "lng": 2.2137,
-      "zoom": 5
-    },
-    "seo": {
-      "title": "ebola Live Trend Tracker | HantaUpdates",
-      "description": "ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
-      "canonical": "https://hantamap.online/trend/ebola",
-      "keywords": [
-        "ebola",
-        "ebola tracker",
-        "ebola updates",
-        "ebola live updates",
-        "ebola outbreak",
-        "ebola symptoms",
-        "ebola public health",
-        "ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-15T10:02:45+00:00",
     "views_hint": 0
   },
   {
