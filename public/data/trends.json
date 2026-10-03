@@ -3235,6 +3235,79 @@
     "views_hint": 0
   },
   {
+    "id": "a345dc98cee0224bd5",
+    "slug": "hepatitis-a",
+    "keyword": "hepatitis a",
+    "title": "hepatitis a trend tracker",
+    "description": "hepatitis a is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Infectious Disease Advisor.",
+    "category": "public-health",
+    "geo": "GB",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-10-03T08:40:00+00:00",
+    "updated_at": "2026-10-03T11:01:49+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=GB",
+    "sources": [
+      {
+        "title": "Low Hepatitis A and B Immunity Persists Among High-Risk Adults in the US",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUTU2SmZkRWhtbHQ3UkdJUFF5MXJMQXllODRRU0FNMEtyYzlPYm90WmFrSlZGYjNrbUdhQXUtLUpqdktENDNWRk9UMXA0SXgyNS10YkRNVlFacXR1SlhzajVqTGJXQV9INXBJczRGXzR5RVZhcWhkMFlzaVh0aE1HTklvYw?oc=5",
+        "source": "Infectious Disease Advisor",
+        "published_at": "2026-10-02T04:00:00+00:00",
+        "summary": "Low Hepatitis A and B Immunity Persists Among High-Risk Adults in the US Infectious Disease Advisor"
+      },
+      {
+        "title": "CDC confirms 37-case multistate hepatitis A outbreak linked to frozen clams",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPa2VQNVA2aC1Cc2dBZ0xqTnhsRW10Zk0tMDdPZUNQN1VUZVl2bUdvb2ZDcm1PT1ZKRG56UDl6RF9JeFhOTTJyOWxxTkd3UWF5NkYzQndNcVAyQUFZWE1ycW9xYVVTQ21PVEs0WU5vRk5oQkRHUmJ3VnBhSGFLWFRObkdlSzMwSGJwZWswSHppdW1vT21rZjZwWnZWMUZxdkFFM2FyU1hKZF9oZVk?oc=5",
+        "source": "CIDRAP",
+        "published_at": "2026-09-22T07:00:00+00:00",
+        "summary": "CDC confirms 37-case multistate hepatitis A outbreak linked to frozen clams CIDRAP"
+      },
+      {
+        "title": "Hepatitis A",
+        "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kTWlNQ21QV0IzRzBHVFp5eV9qUTNzUHo3SXlSa3hhYVU2MzREZG1NbU1XUk5pTWFudkdIMEo3SFk5N3REd1psaldQYklRQQ?oc=5",
+        "source": "Washtenaw County",
+        "published_at": "2026-06-25T18:54:26+00:00",
+        "summary": "Hepatitis A Washtenaw County"
+      },
+      {
+        "title": "Global Viral Hepatitis",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UV21IZ3doUHcwTG1TRTZBMGd6SGNSRGV4MTdqSkZqSEdINW5hSHpza3l5c1BXR0pJcFkwWnRLeEMtLTd1OHhsYURwaGpnbU9HVjFqMG1kTnRKYTA?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-07-21T07:00:00+00:00",
+        "summary": "Global Viral Hepatitis Centers for Disease Control and Prevention | CDC (.gov)"
+      }
+    ],
+    "related_queries": [
+      "Hepatitis A cases confirmed at Newcastle primary schools with warnings issued to parents",
+      "Vaccinations offered after Hepatitis A outbreak linked to primary school",
+      "Hepatitis A cases confirmed at TWO primary schools in UK city as warning sent to parents"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "hepatitis a Live Trend Tracker | HantaUpdates",
+      "description": "hepatitis a is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/hepatitis-a",
+      "keywords": [
+        "hepatitis a",
+        "hepatitis a tracker",
+        "hepatitis a updates",
+        "hepatitis a live updates",
+        "hepatitis a outbreak",
+        "hepatitis a symptoms",
+        "hepatitis a public health",
+        "hepatitis a source links"
+      ]
+    },
+    "first_seen_at": "2026-10-03T11:01:49+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "72f17cd7e9d94d5cf2",
     "slug": "perthnow",
     "keyword": "perthnow",
