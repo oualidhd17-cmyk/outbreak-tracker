@@ -3306,6 +3306,79 @@
     "views_hint": 0
   },
   {
+    "id": "d0d6086985d927c646",
+    "slug": "kazakistan",
+    "keyword": "kazakistan",
+    "title": "kazakistan trend tracker",
+    "description": "kazakistan is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
+    "category": "public-health",
+    "geo": "TR",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-10-06T19:10:00+00:00",
+    "updated_at": "2026-10-06T19:58:32+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=TR",
+    "sources": [
+      {
+        "title": "Kazakhstan vs Faroe Islands: UEFA Nations League stats & head-to-head",
+        "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtTmRnZ2dINmhOellPYlNKSEFLVjcxNjRhbnkzdzk3elUxZFg5aVpfbVprdjlFTUg2cThqT2VpMnRJeU1FZ2lsTHdwd0VqMVRiUUpkYi1vOFpadkRHdDBudEs1WQ?oc=5",
+        "source": "BBC",
+        "published_at": "2026-10-06T15:45:00+00:00",
+        "summary": "Kazakhstan vs Faroe Islands: UEFA Nations League stats & head-to-head BBC"
+      },
+      {
+        "title": "Kazakhstan, Uzbekistan, UAE back railway linking Central Asia to Pakistan’s seaports",
+        "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBxUTNkWUlWcTRXcWs4MVFUMV9nTGx4MFpWM3NTY1hKZUFNUmJSdnB2dmgzN1pMTHlIcUJzc3pqMVFxekFKUmVSR1lhcWFlMnJlbFJJY193bGFoY3Y3YWRpNm5WcFlJYmwwVk0tUw?oc=5",
+        "source": "The Jerusalem Post",
+        "published_at": "2026-10-05T09:09:22+00:00",
+        "summary": "Kazakhstan, Uzbekistan, UAE back railway linking Central Asia to Pakistan’s seaports The Jerusalem Post"
+      },
+      {
+        "title": "Kazakhstan Steps Up Border Checks Over Health Alert in Russia's Irkutsk",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOc2tmOWJYSWRRSVpvcXpPemFObjM2RW9ZR21CWE8zakhrWnBNV1daSXlRR2JRMl8xVEJTXzloaThrUDBVdkxXOEV2S2FYc2VObDRoTkt2czI2aDR1Q21aZ2p3WVZjSUlJNlMxZmo3RGYtcDlsTWVoRzN6Q1RCR3laa1Q2UEw3aDZGR05ncWp0R0VQdEdPQ2o5SWhrWEFKeG1OYVNwN1NRTnh1QQ?oc=5",
+        "source": "Caspian Post",
+        "published_at": "2026-10-05T13:40:30+00:00",
+        "summary": "Kazakhstan Steps Up Border Checks Over Health Alert in Russia's Irkutsk Caspian Post"
+      },
+      {
+        "title": "How traditional Chinese medicine is shaping Kazakhstan’s health system",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbTVpMHZUQk00MGE5QTJSeUUwSmo4dFc0NDNKWWZnQmYxZnBiU1FWUFJJQkJia2lHTWswcjMxcnZoVTFuNDdWWnNTYktxcXlpeWxpS1hoX1RpS3JZVE1vVnoyQTN4OVhhYTMyUnViOXQycTRzSkNMVGtHRGpTTk1pUS1vOXlrWFgyeWtfSE13dlpyNGs4TlpQWWcxRzBIMTd2eVdYVlRKTS1PNDdTLUQtT29fTm5YWDd6VUVGWElsWFZTZ9IBwgFBVV95cUxNRzRzNk82N0txTUdOZXdEbkIxTVVtN00wYVJFbTVLeUZ5b2s4UXVlN0dJbVJnZWFzMzVqT0lDYjdYVmxWN2t1OUpqT1VvdVhrXzFfcm9WTWRBaUdoUjhHT09VX2pqb0I4aUNBTDRkV19kQjNrR0F0TXR6NXh0V1dHNVFGeEtSa0ltcy1KeTgtTGdwaWRQUTI2Z2tzRFBfdmVSOEZWdlVyYlJ5LUFhWFB6SmlSbHAxY0ZDVVc4RmhtQ2FSUQ?oc=5",
+        "source": "South China Morning Post",
+        "published_at": "2026-10-06T12:04:16+00:00",
+        "summary": "How traditional Chinese medicine is shaping Kazakhstan’s health system South China Morning Post"
+      }
+    ],
+    "related_queries": [
+      "Kazakistan'daki askeri tatbikat faciası sonrasında eski Deniz Kuvvetleri Komutanı tutuklandı",
+      "Kazakistan'da tatbikatta 14 asker öldü, Savunma Bakanlığında 13 ceza davası açıldı",
+      "Tatbikatta 14 asker yaşamını yitirmişti Kazakistan’da üç üst düzey asker görevden alındı"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "kazakistan Live Trend Tracker | HantaUpdates",
+      "description": "kazakistan is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without",
+      "canonical": "https://hantamap.online/trend/kazakistan",
+      "keywords": [
+        "kazakistan",
+        "kazakistan tracker",
+        "kazakistan updates",
+        "kazakistan live updates",
+        "kazakistan outbreak",
+        "kazakistan symptoms",
+        "kazakistan public health",
+        "kazakistan source links"
+      ]
+    },
+    "first_seen_at": "2026-10-06T19:58:32+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "a345dc98cee0224bd5",
     "slug": "hepatitis-a",
     "keyword": "hepatitis a",
