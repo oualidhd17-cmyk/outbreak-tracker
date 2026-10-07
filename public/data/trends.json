@@ -6478,6 +6478,79 @@
     "views_hint": 0
   },
   {
+    "id": "4c9afd1124c6edcb41",
+    "slug": "hk-hongkong",
+    "keyword": "hk hongkong",
+    "title": "hk hongkong trend tracker",
+    "description": "hk hongkong is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Bakchormeeboy.",
+    "category": "public-health",
+    "geo": "ID",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-10-07T16:20:00+00:00",
+    "updated_at": "2026-10-07T18:21:41+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=ID",
+    "sources": [
+      {
+        "title": "Arts of Hong Kong: Chubb Life Hong Kong Celebrates 50th Anniversary with Life Chapters at Art Basel Hong Kong 2026 Connecting Art, Wealth and Legacy",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOdDl2SE9FUTJreDVlc1pwQkRLQ0pqRnlVUDZZZ1BZY083TzNDWDlKSG9HcGtkdXFXWkxuTzdZYURUQjlLUTNvbEMwdmpFZXQ2ci1Bb2lLZEVFNWxTNTlEbzcxQV92bXdPamQ1VXM4SEwyUG9EdXVUWVBDLWM3ZUhvcC1paXVkUlotbU04M1dONlJFbEFEb2l4M3dGZDFJbk85WmtZbjVULXZTWnVMakNwdEpWOWJFOUYybFlhWXp6OEtpMDR4ZFdzU1JHTGRXYVJPTU5xNDh4REhQM1ZPZlEteEJwcXdGZFhJaUZ4eF9OZ0d2QmQ2eHVKOGhvNHpwcU1BVnhhUzdmeXkxQXcxYTBFOUp3?oc=5",
+        "source": "Bakchormeeboy",
+        "published_at": "2026-03-19T07:00:00+00:00",
+        "summary": "Arts of Hong Kong: Chubb Life Hong Kong Celebrates 50th Anniversary with Life Chapters at Art Basel Hong Kong 2026 Connecting Art, Wealth and Legacy Bakchormeeboy"
+      },
+      {
+        "title": "Hong Kong Disneyland closes again after new coronavirus outbreak",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMVc4XzM4T0FaMDIwMDY1cWphcVA4S1ZjdHJJcFZGQmNvUTNBOXFDa2c4ekgyc3hQODhPcDBod1E5dlYtZTVIakFUZ1ByQk0zdW9CR3BVQ3FDQ3dpOTlEb1NlWi05SUl5R2Q5Tzk1VF9SZF9GSEE2THZnUC1HRDczOEtaVmxrZFl2aTM3a2d5MkpWX09JeWE3WUFPbk1EOWpiOGM0S2xldDM2WjNn?oc=5",
+        "source": "WKMG",
+        "published_at": "2020-07-13T07:00:00+00:00",
+        "summary": "Hong Kong Disneyland closes again after new coronavirus outbreak WKMG"
+      },
+      {
+        "title": "Harbour lights up with largest fireworks display since 1997",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU1B2U0NfOWFqZ3NuS0NYNGV6aW9IZkJwa1FOS0h2Skt6TnpPSTVqbld4R2NtVmxpQkdabjJFeElSTE9TbHBzcFBDWXl6NUFET0dUMVk5b0sxOFFHYm1xazRidUhGY2ZQMDhQT1ZBZ0JQZHFfX0ZNQzBDTXRuMVd1OERuUHFnakpoQ21aeVBnV29lQVR0OWxqelRaaDRSekpEeTJhMWVRMUoyVTFJUkpSekFzR0N3a1hJc0HSAboBQVVfeXFMTnlmazZ2RXo1Z1R6M09mdWFnU0NINldiZHFhSUQtZGQ0NVo0VGlKYVo0M2Y0MlVSRGhCR21PNE1oRG9hdTh2Ri1wYS1reFlXLUN0R2p0VUk1bnNJWldrMFVJdVlpbi13MTZ2ejBtdUh5ajJFbG5va2NwcXJUcUhRTFctdjhzTUQ0cDFhbFdWWmVPRlVCT1lRaDQ5WXhUZXRvdEZDZ3RYc2RsTEF0UkN0UzhfQWF6M0s1dk5B?oc=5",
+        "source": "South China Morning Post",
+        "published_at": "2017-07-01T07:00:00+00:00",
+        "summary": "Harbour lights up with largest fireworks display since 1997 South China Morning Post"
+      },
+      {
+        "title": "Is Hong Kong Disneyland Preparing to Reopen?",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVWx6cHNQLTNSRC1iS3lTSDZ0cm1nVDR5ZmpWcDYxVFMwUXNjQ3oycXB3NGpfcUJlM3o2T0hnWlNZdXp1UEEyYUFpOE85NjRVc1liSHhnbU9KUUZZamp2Z1JaTzc0N0tHVGlmWDFIUUlhMFBSdE1ZTlhzR2VtNk5oWi1TVGRsOXZxTkpzaC1DUQ?oc=5",
+        "source": "Disney Food Blog",
+        "published_at": "2020-05-19T07:00:00+00:00",
+        "summary": "Is Hong Kong Disneyland Preparing to Reopen? Disney Food Blog"
+      }
+    ],
+    "related_queries": [
+      "Hong Kong police open child abuse probe after video of 10-year-old carrying beer goes viral",
+      "Parents of girl lugging beer held for possible neglect",
+      "Police child abuse unit follows up on case of Tuen Mun girl seen carrying bags of beer"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "hk hongkong Live Trend Tracker | HantaUpdates",
+      "description": "hk hongkong is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
+      "canonical": "https://hantamap.online/trend/hk-hongkong",
+      "keywords": [
+        "hk hongkong",
+        "hk hongkong tracker",
+        "hk hongkong updates",
+        "hk hongkong live updates",
+        "hk hongkong outbreak",
+        "hk hongkong symptoms",
+        "hk hongkong public health",
+        "hk hongkong source links"
+      ]
+    },
+    "first_seen_at": "2026-10-07T18:21:41+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "c1eca84936cbd31c2f",
     "slug": "cyclosporiasis",
     "keyword": "cyclosporiasis",
