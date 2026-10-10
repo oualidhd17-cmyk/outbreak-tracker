@@ -949,6 +949,79 @@
     "views_hint": 0
   },
   {
+    "id": "042e061ec51b97773d",
+    "slug": "pandemi",
+    "keyword": "pandemi",
+    "title": "pandemi trend tracker",
+    "description": "pandemi is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: NewVision.co.ug.",
+    "category": "public-health",
+    "geo": "NO",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-10-10T19:50:00+00:00",
+    "updated_at": "2026-10-10T21:06:40+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=NO",
+    "sources": [
+      {
+        "title": "Health: WHO chief urges countries to complete pandemic agree",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcEUtRUJFZUVCSHc0SjhHcV9USW90cjFrNFhCWGZlV1YyRWMtaDhqMGZHTVdHblFYWmplRkNvb1AtSmFYanV6TWFhZHhwc3JVamczVXZkYjBiTmNRREtoX3N6UXhXZUVDd18zYXdGWkJBQjlWTndhMGxrQ3R1VEhNeDM4TXRuOFNWVGkydi1OLVZWV0RVMjY4XzZsU2FoTzZpaUQ5SjlqUXRHZw?oc=5",
+        "source": "NewVision.co.ug",
+        "published_at": "2026-10-02T14:00:05+00:00",
+        "summary": "Health: WHO chief urges countries to complete pandemic agree NewVision.co.ug"
+      },
+      {
+        "title": "Could the hantavirus spark the next pandemic?",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4ydUU3UzVvM2EzMWdkTENPZko3eTM1RnpINWVPZFctQUJ5c1lvY1AtUExGZ1MxYW1wU1RwWl9pemhLSXdhc3JCVHhTRkstZkNRT0ljMGdWeWJZdUhaOGVSaHNoa3Z0SWRtUDFIWXNObmlnc3hxNmRHZUpWVW0?oc=5",
+        "source": "Saw Swee Hock School of Public Health",
+        "published_at": "2026-05-18T07:00:00+00:00",
+        "summary": "Could the hantavirus spark the next pandemic? Saw Swee Hock School of Public Health"
+      },
+      {
+        "title": "Aircraft wastewater can detect viruses weeks before a pandemic strikes, scientists say",
+        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOM19DR0VpVzZoUTk4WnFDa2NzczE2S0VZOGFFcnRkN0FvOVV6bTZqXzFveFdreURmbTM1TDFZaTNwS3V1MjdaTkw0RzJqTkVSVUZYVkJKdVVfN0xpczItdmUyRXlXMHRnWWcyUVFnQkpEMXF3X1FsQ3ptRGwzUVVrZ0V3?oc=5",
+        "source": "RTV21",
+        "published_at": "2026-08-07T23:19:49+00:00",
+        "summary": "Aircraft wastewater can detect viruses weeks before a pandemic strikes, scientists say RTV21"
+      },
+      {
+        "title": "For Bangladesh's Struggling Garment Workers, Hunger Is A Bigger Worry Than Pandemic",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeXR0UU5NQTFyempPSUdiTF9KN2VKTWl2b0lIa0doNDVBOGh4ODU5T01SQnJtMjRHal9lQnYzcVNwbnBtNG4ySUtlYzR5N2hHZWxRVVJJYVVvcVZMeHNMZVdaTks2aS05bE1VbWtyTE9IRmN2d0pEdkpnMDRqZzBWOHA4UklYUE96ZFVLbFdGVV9LOTFLVk5xZG9tRGJ1R1NucXhaNUVfbFphM0xKMkN0TS1rczljUDRHMkRFajhB?oc=5",
+        "source": "NPR",
+        "published_at": "2020-06-05T07:00:00+00:00",
+        "summary": "For Bangladesh's Struggling Garment Workers, Hunger Is A Bigger Worry Than Pandemic NPR"
+      }
+    ],
+    "related_queries": [
+      "9 Ekim Sağlık Haberleri Güncellemesi: Vietnam, Rusya'da görülen olağandışı bir hastalık salgını raporlarının ardından durumu erken aşamada proaktif olarak izlemeye başladı.",
+      "Sibirya'nın altında uyuyan tehlike! 10 bin yıllık salgın korkusu",
+      "Dünya bu gizemli karantinayı konuşuyor: ABD'den vatandaşlarına 'acil kaçış planı' çağrısı"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "pandemi Live Trend Tracker | HantaUpdates",
+      "description": "pandemi is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pr",
+      "canonical": "https://hantamap.online/trend/pandemi",
+      "keywords": [
+        "pandemi",
+        "pandemi tracker",
+        "pandemi updates",
+        "pandemi live updates",
+        "pandemi outbreak",
+        "pandemi symptoms",
+        "pandemi public health",
+        "pandemi source links"
+      ]
+    },
+    "first_seen_at": "2026-10-10T21:06:40+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "73ed01b5c8263d033e",
     "slug": "norovirus",
     "keyword": "norovirus",
@@ -8555,79 +8628,6 @@
       ]
     },
     "first_seen_at": "2026-05-10T09:16:17+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "128654f668de07b43e",
-    "slug": "la-provincia",
-    "keyword": "la provincia",
-    "title": "la provincia trend tracker",
-    "description": "la provincia is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Fathom Journal.",
-    "category": "public-health",
-    "geo": "ES",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-05-10T00:10:00+00:00",
-    "updated_at": "2026-05-10T02:24:58+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=ES",
-    "sources": [
-      {
-        "title": "Central De Noticias - Gobierno De La Provincia De Córdoba (7hs2T4fqOU)",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lMVJLeWREVEZlbktYZjJFS2xtS2RQX2tHUUtpLTh1X1FhWDlsQkw1S0h6clR1aE5hZlgyLVI4STl1enZvY216clAyQjJjOFJETzIweTNKVTN1UGhFYmF6S3l5VkRxRmRRUHhGN2ZacVdmOVJJVGc?oc=5",
-        "source": "Fathom Journal",
-        "published_at": "2026-05-08T07:46:00+00:00",
-        "summary": "Central De Noticias - Gobierno De La Provincia De Córdoba (7hs2T4fqOU) Fathom Journal"
-      },
-      {
-        "title": "La provincia argentina evalúa nuevas licitaciones de energías renovables y amplía la energía solar distribuida.",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNV0I4RHIzMG45S2lQTXNFSFdrS2tFemVWQW9QRV9pTUlodGt5RVZ5SDdQY0FCZC1MdzMxLUJqRGhFOWdaWVdaY3JOZzl5di1pUmg4QnR1UWRaU1EwSmMzUWZVM0VUV0tXRmZIWXN6WW4tdVk5Q3dfOXpnM1JtRTgtczJSeHhGOTRsU1RQX0FNeTJPY1c2MEowYjJPTFlYUllWLUdSaHpTZndWa1YybV91RTZXbw?oc=5",
-        "source": "Energía Estratégica",
-        "published_at": "2026-04-30T12:28:06+00:00",
-        "summary": "La provincia argentina evalúa nuevas licitaciones de energías renovables y amplía la energía solar distribuida. Energía Estratégica"
-      },
-      {
-        "title": "Middle East : Fragile US-Iran talks hinge on nuclear and Hormuz disputes",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaGMyck1rYTluNUQ5dG5OUkZFUVVSVFU5aC1DdTJKZzB3SFFMUlpDd0FMczkzWlFtcmU5UW4xdnJTS2EtU2tyYzVWOGhRSmpCZkJlTzdfdnVFMEtvbmJIdTRmblY0N2l1NVdLbXNiY095RUl4RXdGb29GNlBPQjNiOWxleDNCRkNtNklRV01nd3hSUnBxTTkyb0xFamZUZmM?oc=5",
-        "source": "France 24",
-        "published_at": "2026-04-18T07:00:00+00:00",
-        "summary": "Middle East : Fragile US-Iran talks hinge on nuclear and Hormuz disputes France 24"
-      },
-      {
-        "title": "Primer Caso De Hantavirus En La Provincia (OlQxgN4uER)",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yZGF2azhGWEhPTmVmQlAxNTlPaGtwNmpLdmJMMFhrdTR0U2RVVmxTYm54NlV4aWJqNWhOYURURUhEMkxZSTd5UG9BZUk0aUtCM25LS3M0SndLMWE2QkNrUWloakdDakpTX3pvRXhwdWpCakFtNmc?oc=5",
-        "source": "Fathom Journal",
-        "published_at": "2026-05-08T09:27:21+00:00",
-        "summary": "Primer Caso De Hantavirus En La Provincia (OlQxgN4uER) Fathom Journal"
-      }
-    ],
-    "related_queries": [
-      "En busca y captura por dar una paliza a un empresario para robarle en un centro comercial del sur de Gran Canaria",
-      "Las tormentas dejan coches atrapados, rescates e inundaciones en el Mediterráneo",
-      "Los vídeos que deja la tormenta en la provincia de Alicante: calles convertidas en ríos y balsas de agua en plena ciudad"
-    ],
-    "map_focus": {
-      "label": "France",
-      "lat": 46.2276,
-      "lng": 2.2137,
-      "zoom": 5
-    },
-    "seo": {
-      "title": "la provincia Live Trend Tracker | HantaUpdates",
-      "description": "la provincia is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links witho",
-      "canonical": "https://hantamap.online/trend/la-provincia",
-      "keywords": [
-        "la provincia",
-        "la provincia tracker",
-        "la provincia updates",
-        "la provincia live updates",
-        "la provincia outbreak",
-        "la provincia symptoms",
-        "la provincia public health",
-        "la provincia source links"
-      ]
-    },
-    "first_seen_at": "2026-05-10T02:24:58+00:00",
     "views_hint": 0
   }
 ]
