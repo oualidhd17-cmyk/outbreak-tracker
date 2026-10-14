@@ -2138,6 +2138,79 @@
     "views_hint": 0
   },
   {
+    "id": "ca76f0c4a31805e383",
+    "slug": "disease-outbreak",
+    "keyword": "disease outbreak",
+    "title": "disease outbreak trend tracker",
+    "description": "disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: MedPage Today.",
+    "category": "public-health",
+    "geo": "US",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-10-14T18:40:00+00:00",
+    "updated_at": "2026-10-14T19:08:45+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=US",
+    "sources": [
+      {
+        "title": "Congo's Confirmed Ebola Cases Exceed 9,000 as Containment Efforts Falter",
+        "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9qZ3UxNDVYVHdWM2lDMlJxQTQwc0J5QnFsaFhIaUI3dXljUjlmNTNxd3dMLU1objl1SmVRZGt6QVJMdFFNYnRLRTlGUUg4eDJIcnBZMFc5MVhIUFZQNE1Rejg0STdCZnd3OHMw?oc=5",
+        "source": "MedPage Today",
+        "published_at": "2026-10-14T14:18:12+00:00",
+        "summary": "Congo's Confirmed Ebola Cases Exceed 9,000 as Containment Efforts Falter MedPage Today"
+      },
+      {
+        "title": "Opinion | Ebola Has Never Spread This Quickly Before",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSkRUWHU0TDhyZEFDQ0swYVVvTmJBcVJqWnVuLTZNcHhOQWJqR0FKZTl5WkFRYjJaTDBialEybTNaUEg5WWVhWU9ONzg4emtBdkhBM1M3Z2Q4UXJMNEZ0cDJSYmZ4VENZdXd4czJZdkt0T1R1ZFVfZ01kNlZ6SUwwZEZDeXYza0g3UDV0ZVFVRks0QQ?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-10-14T09:03:13+00:00",
+        "summary": "Opinion | Ebola Has Never Spread This Quickly Before The New York Times"
+      },
+      {
+        "title": "Fastest growing Ebola outbreak has 9,144 cases, 4,410 deaths in Congo",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTkY2ZzRXdU5JZXhnZ3ZudGs2WWFRRmlMNnBmd3BQTHdfRUhFemZCOFFINkU1OXp3VVhvWnN5ZEtsM3RCVWRJdWhPZkFtVUlkVWhNbEJOaDlXV2FWZWhNaDRJRVk5ZnlkQWdSWURTbHJRVExFb2RMNnVOQTV6ZXZuYUJSMTdyOWFnOEFDUXZGSktTbHM?oc=5",
+        "source": "Yahoo",
+        "published_at": "2026-10-14T13:03:41+00:00",
+        "summary": "Fastest growing Ebola outbreak has 9,144 cases, 4,410 deaths in Congo Yahoo"
+      },
+      {
+        "title": "NY measles outbreak more widespread than official count, health officials say",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZEEwNlJkd3c0SXVMeUNMZy13dUFhSTc1SFdrUUl3SlFBVUlmakNacWxtdVNHREl5eUJOYjNyeHpqRmxzV3lVR3hDUUJiOTRaLTRwZ096V3NpeWZyWVduejdsRlZaQzk2djN4WHotNzFQNU12aVkwOVpNTlJlX3c3NEtoUTRQVkNRVHdVLS1NUWtNTk1kd1BGSFR5RjVfc1hjakxIZ0pR?oc=5",
+        "source": "Gothamist",
+        "published_at": "2026-10-14T16:52:00+00:00",
+        "summary": "NY measles outbreak more widespread than official count, health officials say Gothamist"
+      }
+    ],
+    "related_queries": [
+      "World Bank announces $93M to reinforce Ebola response in Africa",
+      "Ebola outbreak: World Bank boosts funding for Congo and Africa",
+      "Canada commits C$80 million to tackle Ebola outbreak in DR Congo"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "disease outbreak Live Trend Tracker | HantaUpdates",
+      "description": "disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links w",
+      "canonical": "https://hantamap.online/trend/disease-outbreak",
+      "keywords": [
+        "disease outbreak",
+        "disease outbreak tracker",
+        "disease outbreak updates",
+        "disease outbreak live updates",
+        "disease outbreak outbreak",
+        "disease outbreak symptoms",
+        "disease outbreak public health",
+        "disease outbreak source links"
+      ]
+    },
+    "first_seen_at": "2026-06-25T11:38:56+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "98a55da644f76a21f1",
     "slug": "ebola",
     "keyword": "ebola",
@@ -4398,79 +4471,6 @@
       ]
     },
     "first_seen_at": "2026-08-15T15:16:17+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "ca76f0c4a31805e383",
-    "slug": "disease-outbreak",
-    "keyword": "disease outbreak",
-    "title": "disease outbreak trend tracker",
-    "description": "disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Fox News.",
-    "category": "public-health",
-    "geo": "US",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-08-12T15:40:00+00:00",
-    "updated_at": "2026-08-12T15:55:36+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=US",
-    "sources": [
-      {
-        "title": "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPN2sxT1VsMjFqTjJnM2l5M0FBb2FIel9MZTJtSkl6ckFmUU1HZGFialB3NmJWZXh1RlRGa21vZEtXWTdrX2pYTmd5QUxHNjcwQWJpT2pWZlBScU1sMXFYczZHaXZzLTdZNDNMNnNnT3Q2ZENuMVNKUmMyQTRxeHJFWGxBaUpMb1ZaWDhuTkNJMFpxLUU3SWNrVUZZVWkyLXdjVHN3TWpVRldESGvSAbABQVVfeXFMUDNCVEg4bE1EdnFLZTZ2TjJrN0lHUDJ2Q1VaYkluTkhMYnc2dm51V3ppN00wUndDTWtnRzdGcGF4OHEtWHhHOEpXMGp3UERCbFE2Tk9HVDNfMk1ubnVid1VXT09qcnFITDlYb1JFVDh6NFE2bFlYMWlpZnctMkNkcDk2U2RhOHNmSVo5QkU3RXBiWC1MYTBQdi1JUEtpZXhZem9ZcXlFLUMxcXo5ZDJqcGw?oc=5",
-        "source": "Fox News",
-        "published_at": "2026-08-12T11:00:32+00:00",
-        "summary": "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know Fox News Ebola virus behind massive outbreak in DRC could be mutating, officials say The Guardian Ebola: Over 2,000 dead in DR Congo as virus gathers pace dw.com Congo says 2,000 people have died in its Ebola outbreak, the fastest growing on record NBC News Fastest-growing Ebola outbreak in history has claimed 2,000 lives. Here's why it is hard to contain PBS Ebola deaths top 2,000 as scientists race to develop vaccine UN News 2,000 people have died in fastest-growing Ebola outbreak, Congo says New York Post Congo"
-      },
-      {
-        "title": "13 National Grocery Chains Recall Jalapeño Products Over Salmonella Risk. See the Full List",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeDM2cXZoTC1Tdk5ySkJSZXh5WU9jRGtlaUZTLTIzN282MmhyOWRfNHpwaUZrZzZYOWo4TUk2OC12Y3ltVGo4eFhnQ0xweThrdFFWbVdKMDlyVTJWX0QxX295dVJxVFNOZEZNNkY2YzAyWDVOUjVLYTZxdndjOHBaTmE3ZnVFWjJLUm1YZXhiNzNQU3NXemQyMTViRGdvWW8tNmxyUjVIZUFhR2laME1TUVRJNGVPdw?oc=5",
-        "source": "TODAY.com",
-        "published_at": "2026-08-12T13:53:55+00:00",
-        "summary": "13 National Grocery Chains Recall Jalapeño Products Over Salmonella Risk. See the Full List TODAY.com"
-      },
-      {
-        "title": "What to do as Maine reports first cases of cyclosporiasis tied to national outbreak",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNN08yUzIyaWxMakdnTkpEYnBVTVBLTm1TWGl1X0JPWUN6cTlqcGdpNTNaZmpMak5YNDRzbFFPQ3RRNEdIbDY1NEwyMFZvZDlLSmp2Q0VZeUstTmxMbWJGUnVHWGxRSTdVRVQ3Uk1iaUdwZ2ZqYnZEclBfYXowdVNDSU5CSGRpTUJTTEVBUTV4X0tveG1KWURhSkpoRmFEendkcTVkN1lUR2dGdUpqOGY5VXFzMklBdXhfTDFDYkl1eXo?oc=5",
-        "source": "The Portland Press Herald",
-        "published_at": "2026-08-11T21:08:51+00:00",
-        "summary": "What to do as Maine reports first cases of cyclosporiasis tied to national outbreak The Portland Press Herald"
-      },
-      {
-        "title": "Ebola Outbreak: Current Situation",
-        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1Xb2M3MTlzZjZoNFc5QlFXTkhpcDIxTFBQc050QnBtQkQwczJnM2daRUZGQzFfcl80RmZGYy1qLXRXeUF0Y1hmejlfemVQVk5uNldZclZscUpiQ1hSX1FsdXB1MG4?oc=5",
-        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-        "published_at": "2026-08-07T11:58:09+00:00",
-        "summary": "Ebola Outbreak: Current Situation Centers for Disease Control and Prevention | CDC (.gov)"
-      }
-    ],
-    "related_queries": [
-      "Deadly disease outbreak kills 2,000 as experts reveal what Americans should know",
-      "WHO says Congo’s Ebola outbreak is on track to eclipse the deadliest one in history",
-      "Congo says 2,000 people have died in history’s fastest-growing Ebola outbreak"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "disease outbreak Live Trend Tracker | HantaUpdates",
-      "description": "disease outbreak is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links w",
-      "canonical": "https://hantamap.online/trend/disease-outbreak",
-      "keywords": [
-        "disease outbreak",
-        "disease outbreak tracker",
-        "disease outbreak updates",
-        "disease outbreak live updates",
-        "disease outbreak outbreak",
-        "disease outbreak symptoms",
-        "disease outbreak public health",
-        "disease outbreak source links"
-      ]
-    },
-    "first_seen_at": "2026-06-25T11:38:56+00:00",
     "views_hint": 0
   },
   {
