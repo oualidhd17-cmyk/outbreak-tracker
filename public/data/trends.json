@@ -3379,6 +3379,79 @@
     "views_hint": 0
   },
   {
+    "id": "5f3a9da0ca50c38f42",
+    "slug": "sophie-hermans",
+    "keyword": "sophie hermans",
+    "title": "sophie hermans trend tracker",
+    "description": "sophie hermans is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: NL Times.",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-10-14T07:00:00+00:00",
+    "updated_at": "2026-10-14T08:21:55+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "Netherlands to drop 13-week ultrasound for pregnant women from 2028",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjhUQ2RHUGZSelRkc3lwRlExczRaT0VHcTFnNDRaN1RHZXVOWUZ4T3oyeFBvNTRQV0JXV1pOQ21oWG9Jay0zQl9iNnJLRWdRcGlKVXNDM3Z0YnJKejA5MVNCMDJpWlpzQUVtYmdid1dsRXlKLUx3cmZNb0NnTG1CZDR6NURCNTJUVTVNWGR3?oc=5",
+        "source": "NL Times",
+        "published_at": "2026-10-13T10:00:00+00:00",
+        "summary": "Netherlands to drop 13-week ultrasound for pregnant women from 2028 NL Times"
+      },
+      {
+        "title": "Child Under 12 Euthanized in the Netherlands, Dutch Government Confirms",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YU3JUWlFqVFhIaEFIZXRXNUlxYTh6N1BHQkZ4SzVKeVMyY2ZqNWVqWllkZXczVlBiSS13R1pnMmhQbTJiV1l0dTZHUFhMQXV5M2tWNVpWMDd4dF9xWWJrRDZOVVFHeWhKM1EyLXI3bnpBVDRJV1c2SDdXbEg?oc=5",
+        "source": "People.com",
+        "published_at": "2026-06-23T07:00:00+00:00",
+        "summary": "Child Under 12 Euthanized in the Netherlands, Dutch Government Confirms People.com"
+      },
+      {
+        "title": "Hantavirus protocol breach at Dutch hospital as medics race to curb spread",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMEF5MjdobEQ3Ri1HRVZsdkRHUXRldWZfYmpTcGMxTjRVa3JQamwyLThuOHp0dUNFWkt2ODVZS2dKS3R4MW9ETE1vdVoxa2U5VTAyWkkyU3llMnY0OHNMOWN1eEpuQmNXQ24yS0dzemlrWFdsdFpOMmpkem9ZMTBoX0lWa0R5OWxBWWRYYnVUVnhySFVVMU5Ec2k3SmlZT0tlRkd5ZllkWlBjWmZHYThZU2h1ZWkyYTdQUU1YWVJBSzNxeWxIU2MwdzQtLTZRMm9tT0F6ZWpNb0tNT19FRndRS0h6TFQ?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-05-12T07:00:00+00:00",
+        "summary": "Hantavirus protocol breach at Dutch hospital as medics race to curb spread Reuters"
+      },
+      {
+        "title": "Netherlands records first euthanasia death of child under 12 after law expansion",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOREh4X19uTklTT05PeUwwRkZKb25sOXo0RXFweWQyWU1DUk5xUGk4Z01yS2gydG9oUnBCNnE5NnhPWXI2TkpwVHQtSmJLU1dTOGxWSlo0VWRIaTdhNWhEeWNpRGsySnpwVTN6UEQ2OFA0amgtUG04a1R4VS1NU291XzlWcW0ySkl3amQ4bmM0czhfcWhzNTJUaUM0eGJTYnc?oc=5",
+        "source": "EWTN News",
+        "published_at": "2026-06-26T07:00:00+00:00",
+        "summary": "Netherlands records first euthanasia death of child under 12 after law expansion EWTN News"
+      }
+    ],
+    "related_queries": [
+      "Sophie Hermans geeft patiënten met post-acute infectiesyndromen een klap in het gezicht",
+      "Excuses en steun voor Q-koortspatiënten na epidemie",
+      "Q-koorts als sluipmoordenaar: mensen zijn soms besmet zonder het te weten"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "sophie hermans Live Trend Tracker | HantaUpdates",
+      "description": "sophie hermans is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links wit",
+      "canonical": "https://hantamap.online/trend/sophie-hermans",
+      "keywords": [
+        "sophie hermans",
+        "sophie hermans tracker",
+        "sophie hermans updates",
+        "sophie hermans live updates",
+        "sophie hermans outbreak",
+        "sophie hermans symptoms",
+        "sophie hermans public health",
+        "sophie hermans source links"
+      ]
+    },
+    "first_seen_at": "2026-10-14T08:21:55+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "f363a51a61f95677f6",
     "slug": "australian-bat-lyssavirus",
     "keyword": "australian bat lyssavirus",
@@ -8562,79 +8635,6 @@
       ]
     },
     "first_seen_at": "2026-05-10T09:17:58+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "4165a5a4406d1017a2",
-    "slug": "andes-virus",
-    "keyword": "andes virus",
-    "title": "andes virus trend tracker",
-    "description": "andes virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: USA Today.",
-    "category": "public-health",
-    "geo": "ES",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-05-10T08:40:00+00:00",
-    "updated_at": "2026-05-10T09:16:53+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=ES",
-    "sources": [
-      {
-        "title": "CDC says US faces 'extremely low risk' of hantavirus infection. Updates.",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbUtqUlBHRm10WjlISm1aY1Y5VnY5WWFaNHNYZ25xcTR5dVNVT243cGd4RkxtaWNIUEVMSFJfQUpsTGxRendQdjR0NFNHTm5vTUZMZVFoUGJ5dVVNWUpudFNod0J3MW1xUkpYT1pWS25naXhfNHpuTE02R0ZmQXUtVWpScFViMnBkNjc4T0RMYVd4Mm51cGU5SzBiZi03VVZaOHc?oc=5",
-        "source": "USA Today",
-        "published_at": "2026-05-08T23:40:14+00:00",
-        "summary": "CDC says US faces 'extremely low risk' of hantavirus infection. Updates. USA Today What the numbers tell us about hantavirus CNN Opinion | We’re focusing on the wrong aspects of the hantavirus outbreak MS NOW Hantavirus: Current Situation Centers for Disease Control and Prevention | CDC (.gov) You're probably safe from the Hantavirus outbreak, but here's what you absolutely must not do, experts say Fortune Health officials monitoring two NJ residents possibly exposed to hantavirus New Jersey Monitor The Hantavirus Outbreak Is Serious. But It's No COVID, Health Officials Say Time Magazine Why H"
-      },
-      {
-        "title": "Hantavirus Vaccines and Treatments Are in the Pipeline",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQMkhqQTc1Q2d6anBaeDZ4UDlfZ2d5S3R1RkVraGxHVFhUclFoaGZHZjdSY1VKcTJSemRmWVNUWHNtN3RIUXFzUVpfbFIydTJKcWF4UUVnMkJyd2U3eDZDRHhPcS05LW9zOTR5NkdtRGpKVXdaazBuUXNqMS1sVUlHSmxNQQ?oc=5",
-        "source": "The New York Times",
-        "published_at": "2026-05-09T13:41:13+00:00",
-        "summary": "Hantavirus Vaccines and Treatments Are in the Pipeline The New York Times"
-      },
-      {
-        "title": "Hantavirus outbreak on cruise ship raises transmission concerns",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZUUwUEZnbloxa1VESjh1aTV3OExWTmtHZjBhRHViVk1zUjkyUE96YzBVR0FXQ0pkSXo2Nlo1MjAtZnFMZUF2RHVETDRxZXMyNW1KcmhwYlY1N29zaXRqejhLQmNXMDUxZzZtYTB6X1JjeGhMT1NYWkVRRngtaFRxYzlzbVRtaVBOaE1uWXhacHYxOWVaSjFveWFxQlRqSF9HcE9n?oc=5",
-        "source": "University of California, Riverside",
-        "published_at": "2026-05-07T19:51:37+00:00",
-        "summary": "Hantavirus outbreak on cruise ship raises transmission concerns University of California, Riverside"
-      },
-      {
-        "title": "Andes hantavirus update",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtYWV1MmM1d2M3QndWZEZzcnlXdUFlanExSXBXelJJQl9HMGFqY3FHbHkxR1pFOG53MVZSV3VCUEd3bHNzTmxvdW1zTTRZNnl5R1RQc25HTDN1UWxlMjFLWXptNWoyU3g0UHJfMF84N19vQQ?oc=5",
-        "source": "Outbreak News Today",
-        "published_at": "2026-05-09T14:58:15+00:00",
-        "summary": "Andes hantavirus update Outbreak News Today"
-      }
-    ],
-    "related_queries": [
-      "Virus-hit cruise ship arrives in Tenerife as medics await passengers",
-      "Hantavirus-hit cruise ship arrives in Tenerife with Spanish passengers to be evacuated first – Europe live",
-      "Cruise Ship Linked to Hantavirus Outbreak Arrives in Spain’s Canary Islands for Disembarking"
-    ],
-    "map_focus": {
-      "label": "United States",
-      "lat": 37.0902,
-      "lng": -95.7129,
-      "zoom": 4
-    },
-    "seo": {
-      "title": "andes virus Live Trend Tracker | HantaUpdates",
-      "description": "andes virus is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links withou",
-      "canonical": "https://hantamap.online/trend/andes-virus",
-      "keywords": [
-        "andes virus",
-        "andes virus tracker",
-        "andes virus updates",
-        "andes virus live updates",
-        "andes virus outbreak",
-        "andes virus symptoms",
-        "andes virus public health",
-        "andes virus source links"
-      ]
-    },
-    "first_seen_at": "2026-05-10T09:16:53+00:00",
     "views_hint": 0
   }
 ]
