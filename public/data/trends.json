@@ -2138,6 +2138,79 @@
     "views_hint": 0
   },
   {
+    "id": "b9e693311cfe4e5274",
+    "slug": "pamela-rendi-wagner",
+    "keyword": "pamela rendi-wagner",
+    "title": "pamela rendi-wagner trend tracker",
+    "description": "pamela rendi-wagner is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: European Centre for Disease Prevention and Control (ECDC).",
+    "category": "public-health",
+    "geo": "AT",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-10-15T12:40:00+00:00",
+    "updated_at": "2026-10-15T13:55:14+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=AT",
+    "sources": [
+      {
+        "title": "Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQM2k2VTZVSl9hQ2VaTlBwNDZ0U0tkRE5wOWVCRVZEdVBHMnRCS1JvSU5zVzBQVkdtZFRmbmNaNExWZDdxYUROWnFjamFpR19vZ0tDeXRMZ0Nic0QwYU5QNzllcTNrcm8xcXJfZ0JlX0ZxSS1taTk5Q2cxY0tYT1VicW9vY0F6c3EtSERmU0M0azdjbGtWX1RreUJUNTk3R2JNd1FfU1M1MzRTZG1xUjNUcmdjcjFKTDBfUUYzTXdMa3FQMnM?oc=5",
+        "source": "European Centre for Disease Prevention and Control (ECDC)",
+        "published_at": "2026-05-11T07:00:00+00:00",
+        "summary": "Andes hantavirus outbreak: ECDC continues working on the frontline to support EU Member States European Centre for Disease Prevention and Control (ECDC)"
+      },
+      {
+        "title": "Disease agency defends ‘European teamwork’ on hantavirus after French jibe",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkNlVmNFUzdGSWt0bEprNldLWU9UWnQxWnZMcFlCNS1FSHFMbjhZNzBGcW9vbHIxQTB0ZjhjMW1oc3JXUWc1aml0R01tWDJfY3o3M3Q4TlJNSmlHeXNta25rV1FJc0VnTUZ2UUJYQnQ3ZzJZclQteEtoQWV4TjFfV010UVZrc1lsQTNOeERHcHVYTENJZ3ctenJ4WQ?oc=5",
+        "source": "POLITICO.eu",
+        "published_at": "2026-05-13T07:00:00+00:00",
+        "summary": "Disease agency defends ‘European teamwork’ on hantavirus after French jibe POLITICO.eu"
+      },
+      {
+        "title": "New ECDC Director Pamela Rendi-Wagner emphasises importance of restoring and reinforcing public trust in science after pandemic, in editorial for Eurosurveillance",
+        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1HR2dOQWFxSGRTa1BxNVdhNl9aX0t5MmN0ZzVBX1VEMDRRMmxEeWVxc0Z0cnQ3M21Rakl3MHpRRDZHRjZmS3Bzc2kyVG56cXRJYmhwSVE2ZHB5cFVB?oc=5",
+        "source": "EurekAlert! Science News Releases",
+        "published_at": "2024-07-18T07:00:00+00:00",
+        "summary": "New ECDC Director Pamela Rendi-Wagner emphasises importance of restoring and reinforcing public trust in science after pandemic, in editorial for Eurosurveillance EurekAlert! Science News Releases"
+      },
+      {
+        "title": "Director of ECDC - Dr Pamela Rendi-Wagner",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Mc1djZlF5Wkt1UmdLc29wdHQyMHVza25pU25wVWQ0RHZBSXpveTNlb1hOWHJ1c2dIS0xMaXZhNFF2V1lLQzZheC1YV2UxUzZaRTRaNWlxalgwOHZZb3d5WF8yS3RzMlRJT3o4am9jbWU?oc=5",
+        "source": "European Centre for Disease Prevention and Control (ECDC)",
+        "published_at": "2018-05-05T16:16:33+00:00",
+        "summary": "Director of ECDC - Dr Pamela Rendi-Wagner European Centre for Disease Prevention and Control (ECDC)"
+      }
+    ],
+    "related_queries": [
+      "Politikerpuppen: Polizei prüft Fall",
+      "Sexpuppen-Skandal - Polizisten droht jetzt dienstrechtliches Nachspiel",
+      "Wirbel um Schießevent in Kennelbach: Jetzt spricht der Verantwortliche"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "pamela rendi-wagner Live Trend Tracker | HantaUpdates",
+      "description": "pamela rendi-wagner is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source link",
+      "canonical": "https://hantamap.online/trend/pamela-rendi-wagner",
+      "keywords": [
+        "pamela rendi-wagner",
+        "pamela rendi-wagner tracker",
+        "pamela rendi-wagner updates",
+        "pamela rendi-wagner live updates",
+        "pamela rendi-wagner outbreak",
+        "pamela rendi-wagner symptoms",
+        "pamela rendi-wagner public health",
+        "pamela rendi-wagner source links"
+      ]
+    },
+    "first_seen_at": "2026-10-15T13:55:14+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "ca76f0c4a31805e383",
     "slug": "disease-outbreak",
     "keyword": "disease outbreak",
@@ -8591,50 +8664,6 @@
       ]
     },
     "first_seen_at": "2026-05-10T23:40:22+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "b7d993ca0a362ee18f",
-    "slug": "vad-r-hantavirus",
-    "keyword": "vad är hantavirus",
-    "title": "vad är hantavirus trend tracker",
-    "description": "vad är hantavirus is being tracked as a public-health related search trend. This page provides source links, context, and a calm summary for awareness only.",
-    "category": "public-health",
-    "geo": "SE",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-05-10T07:10:00+00:00",
-    "updated_at": "2026-05-10T09:18:03+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=SE",
-    "sources": [],
-    "related_queries": [
-      "Jagade fågeln – blev första offret",
-      "Experten avfärdar ledande teorin: ”Inte the smoking gun”",
-      "Virusdrabbade fartyget framme vid Teneriffa"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "vad är hantavirus Live Trend Tracker | HantaUpdates",
-      "description": "vad är hantavirus is being tracked as a public-health related search trend. This page provides source links, context, and a calm summary for awareness only",
-      "canonical": "https://hantamap.online/trend/vad-r-hantavirus",
-      "keywords": [
-        "vad är hantavirus",
-        "vad är hantavirus tracker",
-        "vad är hantavirus updates",
-        "vad är hantavirus live updates",
-        "vad är hantavirus outbreak",
-        "vad är hantavirus symptoms",
-        "vad är hantavirus public health",
-        "vad är hantavirus source links"
-      ]
-    },
-    "first_seen_at": "2026-05-10T09:18:03+00:00",
     "views_hint": 0
   }
 ]
