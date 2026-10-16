@@ -949,6 +949,79 @@
     "views_hint": 0
   },
   {
+    "id": "5f3a9da0ca50c38f42",
+    "slug": "sophie-hermans",
+    "keyword": "sophie hermans",
+    "title": "sophie hermans trend tracker",
+    "description": "sophie hermans is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: NL Times.",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "1000+",
+    "traffic_label": "1000+",
+    "published_at": "2026-10-16T11:50:00+00:00",
+    "updated_at": "2026-10-16T13:44:24+00:00",
+    "score": 1000,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "Netherlands to drop 13-week ultrasound for pregnant women from 2028",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjhUQ2RHUGZSelRkc3lwRlExczRaT0VHcTFnNDRaN1RHZXVOWUZ4T3oyeFBvNTRQV0JXV1pOQ21oWG9Jay0zQl9iNnJLRWdRcGlKVXNDM3Z0YnJKejA5MVNCMDJpWlpzQUVtYmdid1dsRXlKLUx3cmZNb0NnTG1CZDR6NURCNTJUVTVNWGR3?oc=5",
+        "source": "NL Times",
+        "published_at": "2026-10-13T10:00:00+00:00",
+        "summary": "Netherlands to drop 13-week ultrasound for pregnant women from 2028 NL Times"
+      },
+      {
+        "title": "Netherlands Calls for EU ‘Market Freeze’ on New Nicotine Products",
+        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPd3BaS1IyVWxTRGJCUjNSRk9UWkYyRldVSHFJa3k1ZmJhTmEtV2dZSWVNZTFKR3h2YzQ3OGc1WU5nUllUTDJKc0wwc3FBZmxJV2VXN1dXNWJmNU5FZVluYmlpYXdzQ1ZoMUQ4MVZ4My0yX0NUc0RlZFl5WHlDbkVWNjFOY1Z0cmNFWFp3OVN4elloVDRFSmVtalNBTUJ5bUxxWGlLT2lR?oc=5",
+        "source": "Tobacco Reporter",
+        "published_at": "2026-10-06T20:08:46+00:00",
+        "summary": "Netherlands Calls for EU ‘Market Freeze’ on New Nicotine Products Tobacco Reporter"
+      },
+      {
+        "title": "Child Under 12 Euthanized in the Netherlands, Dutch Government Confirms",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YU3JUWlFqVFhIaEFIZXRXNUlxYTh6N1BHQkZ4SzVKeVMyY2ZqNWVqWllkZXczVlBiSS13R1pnMmhQbTJiV1l0dTZHUFhMQXV5M2tWNVpWMDd4dF9xWWJrRDZOVVFHeWhKM1EyLXI3bnpBVDRJV1c2SDdXbEg?oc=5",
+        "source": "People.com",
+        "published_at": "2026-06-23T07:00:00+00:00",
+        "summary": "Child Under 12 Euthanized in the Netherlands, Dutch Government Confirms People.com"
+      },
+      {
+        "title": "Hantavirus protocol breach at Dutch hospital as medics race to curb spread",
+        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMEF5MjdobEQ3Ri1HRVZsdkRHUXRldWZfYmpTcGMxTjRVa3JQamwyLThuOHp0dUNFWkt2ODVZS2dKS3R4MW9ETE1vdVoxa2U5VTAyWkkyU3llMnY0OHNMOWN1eEpuQmNXQ24yS0dzemlrWFdsdFpOMmpkem9ZMTBoX0lWa0R5OWxBWWRYYnVUVnhySFVVMU5Ec2k3SmlZT0tlRkd5ZllkWlBjWmZHYThZU2h1ZWkyYTdQUU1YWVJBSzNxeWxIU2MwdzQtLTZRMm9tT0F6ZWpNb0tNT19FRndRS0h6TFQ?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-05-12T07:00:00+00:00",
+        "summary": "Hantavirus protocol breach at Dutch hospital as medics race to curb spread Reuters"
+      }
+    ],
+    "related_queries": [
+      "Zorgminister Hermans na SGP-motie: ‘Partijen beuken in op abortusrecht, ik blijf voor dat recht staan’",
+      "SGP dient motie van afkeuring in tegen zorgminister over late abortus",
+      "SGP dient motie van afkeuring in tegen minister vanwege late abortussen"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "sophie hermans Live Trend Tracker | HantaUpdates",
+      "description": "sophie hermans is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links wit",
+      "canonical": "https://hantamap.online/trend/sophie-hermans",
+      "keywords": [
+        "sophie hermans",
+        "sophie hermans tracker",
+        "sophie hermans updates",
+        "sophie hermans live updates",
+        "sophie hermans outbreak",
+        "sophie hermans symptoms",
+        "sophie hermans public health",
+        "sophie hermans source links"
+      ]
+    },
+    "first_seen_at": "2026-10-14T08:21:55+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "042e061ec51b97773d",
     "slug": "pandemi",
     "keyword": "pandemi",
@@ -3595,79 +3668,6 @@
       ]
     },
     "first_seen_at": "2026-10-14T14:20:43+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "5f3a9da0ca50c38f42",
-    "slug": "sophie-hermans",
-    "keyword": "sophie hermans",
-    "title": "sophie hermans trend tracker",
-    "description": "sophie hermans is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: NL Times.",
-    "category": "public-health",
-    "geo": "NL",
-    "search_volume": "200+",
-    "traffic_label": "200+",
-    "published_at": "2026-10-14T07:00:00+00:00",
-    "updated_at": "2026-10-14T08:21:55+00:00",
-    "score": 200,
-    "source_url": "https://trends.google.com/trending/rss?geo=NL",
-    "sources": [
-      {
-        "title": "Netherlands to drop 13-week ultrasound for pregnant women from 2028",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTjhUQ2RHUGZSelRkc3lwRlExczRaT0VHcTFnNDRaN1RHZXVOWUZ4T3oyeFBvNTRQV0JXV1pOQ21oWG9Jay0zQl9iNnJLRWdRcGlKVXNDM3Z0YnJKejA5MVNCMDJpWlpzQUVtYmdid1dsRXlKLUx3cmZNb0NnTG1CZDR6NURCNTJUVTVNWGR3?oc=5",
-        "source": "NL Times",
-        "published_at": "2026-10-13T10:00:00+00:00",
-        "summary": "Netherlands to drop 13-week ultrasound for pregnant women from 2028 NL Times"
-      },
-      {
-        "title": "Child Under 12 Euthanized in the Netherlands, Dutch Government Confirms",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5YU3JUWlFqVFhIaEFIZXRXNUlxYTh6N1BHQkZ4SzVKeVMyY2ZqNWVqWllkZXczVlBiSS13R1pnMmhQbTJiV1l0dTZHUFhMQXV5M2tWNVpWMDd4dF9xWWJrRDZOVVFHeWhKM1EyLXI3bnpBVDRJV1c2SDdXbEg?oc=5",
-        "source": "People.com",
-        "published_at": "2026-06-23T07:00:00+00:00",
-        "summary": "Child Under 12 Euthanized in the Netherlands, Dutch Government Confirms People.com"
-      },
-      {
-        "title": "Hantavirus protocol breach at Dutch hospital as medics race to curb spread",
-        "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMEF5MjdobEQ3Ri1HRVZsdkRHUXRldWZfYmpTcGMxTjRVa3JQamwyLThuOHp0dUNFWkt2ODVZS2dKS3R4MW9ETE1vdVoxa2U5VTAyWkkyU3llMnY0OHNMOWN1eEpuQmNXQ24yS0dzemlrWFdsdFpOMmpkem9ZMTBoX0lWa0R5OWxBWWRYYnVUVnhySFVVMU5Ec2k3SmlZT0tlRkd5ZllkWlBjWmZHYThZU2h1ZWkyYTdQUU1YWVJBSzNxeWxIU2MwdzQtLTZRMm9tT0F6ZWpNb0tNT19FRndRS0h6TFQ?oc=5",
-        "source": "Reuters",
-        "published_at": "2026-05-12T07:00:00+00:00",
-        "summary": "Hantavirus protocol breach at Dutch hospital as medics race to curb spread Reuters"
-      },
-      {
-        "title": "Netherlands records first euthanasia death of child under 12 after law expansion",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOREh4X19uTklTT05PeUwwRkZKb25sOXo0RXFweWQyWU1DUk5xUGk4Z01yS2gydG9oUnBCNnE5NnhPWXI2TkpwVHQtSmJLU1dTOGxWSlo0VWRIaTdhNWhEeWNpRGsySnpwVTN6UEQ2OFA0amgtUG04a1R4VS1NU291XzlWcW0ySkl3amQ4bmM0czhfcWhzNTJUaUM0eGJTYnc?oc=5",
-        "source": "EWTN News",
-        "published_at": "2026-06-26T07:00:00+00:00",
-        "summary": "Netherlands records first euthanasia death of child under 12 after law expansion EWTN News"
-      }
-    ],
-    "related_queries": [
-      "Sophie Hermans geeft patiënten met post-acute infectiesyndromen een klap in het gezicht",
-      "Excuses en steun voor Q-koortspatiënten na epidemie",
-      "Q-koorts als sluipmoordenaar: mensen zijn soms besmet zonder het te weten"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "sophie hermans Live Trend Tracker | HantaUpdates",
-      "description": "sophie hermans is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links wit",
-      "canonical": "https://hantamap.online/trend/sophie-hermans",
-      "keywords": [
-        "sophie hermans",
-        "sophie hermans tracker",
-        "sophie hermans updates",
-        "sophie hermans live updates",
-        "sophie hermans outbreak",
-        "sophie hermans symptoms",
-        "sophie hermans public health",
-        "sophie hermans source links"
-      ]
-    },
-    "first_seen_at": "2026-10-14T08:21:55+00:00",
     "views_hint": 0
   },
   {
