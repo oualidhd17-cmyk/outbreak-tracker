@@ -7062,6 +7062,79 @@
     "views_hint": 0
   },
   {
+    "id": "f6f8c1dde7d354fff6",
+    "slug": "shamonda",
+    "keyword": "shamonda",
+    "title": "shamonda trend tracker",
+    "description": "shamonda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Forbes.",
+    "category": "public-health",
+    "geo": "DK",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-10-23T20:40:00+00:00",
+    "updated_at": "2026-10-23T20:57:37+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=DK",
+    "sources": [
+      {
+        "title": "French Patient Dies After Contracting First Known Case Of Shamonda Virus In Humans",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRmxVbXhpcUR3c3VaTTY1Y09GTmVEcDRIV0V1Nnk0MEM2aVhubWl4dDkxNndESFhrM3hTVkVUeElneV9Uai1jX3BKQ2ViN2pxS01CYms3NlVYSUZ6U0hOZUZWMmNuS2wtZER4Wkp3OEtGeS1qc2FvTVJwOGJlbWF3SXRBVGxRTE01VDMwSFBWalhYS2JLbHAyZ3E0MW93Nk00d0VRWmFBRFhfamtTa2tvOWhpUHl4cmVyQk9kWTZsR1F5bXhsVjEzX1FWcUFlZU9o?oc=5",
+        "source": "Forbes",
+        "published_at": "2026-10-22T15:21:13+00:00",
+        "summary": "French Patient Dies After Contracting First Known Case Of Shamonda Virus In Humans Forbes France reports 1st known human case of Shamonda virus ABC News - Breaking News, Latest News and Videos Explainer: What is Shamonda virus and what are the risks to humans and animals? Reuters First human case of Shamonda virus detected in France, officials say BBC France reports first human case of livestock virus Shamonda after patient dies CNN First ever human case of livestock-related Shamonda virus identified in France CIDRAP What to Know About Shamonda Virus Following the First Reported Human Infectio"
+      },
+      {
+        "title": "What is Shamonda, the livestock virus found for the first time in a person in France?",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mRm5DYV9aYW9YNHdXMnJsSEtmRzAtQ2x3emZXVktTSWd0OVhhWk5fZGkwSEVMSzdNUmNlaGo2Nkd5WXB4eTVFSXo5Q29FSFVESzU0a0RBMFBKY1lMV3FyaEFOZXdVNXVtbXZ3SHVMcw?oc=5",
+        "source": "CNN",
+        "published_at": "2026-10-23T07:00:15+00:00",
+        "summary": "What is Shamonda, the livestock virus found for the first time in a person in France? CNN"
+      },
+      {
+        "title": "Shamonda Virus Symptoms Explained as First Human Diagnosed in France",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1NHNnNnNGFGQlpTNkFUZm1kODVIZ0dQT0taY0w1Yk9hUUdxVXR4TGdnU0k3MG1jVkRUd1Bqbi1XakFydEpjTl9PZFlva19DWFVEcHV2ZklCX1puOFpuOW5ON0xWUHJkRGtDOUR2Z3hZb2RUYnZFdThkQTZiMlN5a1JFMVB1N0xSVjhBQlc3eUI4OXJVUTMtb3FnaGdzOE8tLUlmcw?oc=5",
+        "source": "Newsweek",
+        "published_at": "2026-10-23T13:05:00+00:00",
+        "summary": "Shamonda Virus Symptoms Explained as First Human Diagnosed in France Newsweek"
+      },
+      {
+        "title": "First Human Shamonda Virus Infection—What Happens When Animal Diseases Spread To People?",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPVUcyaXhWUFFCZXFhdExzcThPbkRoX3lJWDc2VlJrWGs0T0RKNkV2WHlacmhlNUtaaVJmSmlNOVd3RmQzVy1zM1lranJCVERRYi1TZUxnLXlKVjNib0xuUExYUWdkdGhTNWxLcV9vMURneUFqOHpLcGs2aE5idk5xbUQtOWVSU2gwOXVRenRHR0xVdDRWR01EOXAtbC1nZktwcFgtdElFdEc0d2c0S193WmhLYWVULWhobkhWdFZuSFA?oc=5",
+        "source": "Forbes",
+        "published_at": "2026-10-23T16:04:14+00:00",
+        "summary": "First Human Shamonda Virus Infection—What Happens When Animal Diseases Spread To People? Forbes"
+      }
+    ],
+    "related_queries": [
+      "First human case of Shamonda virus detected in France, officials say",
+      "WHO investigates transmission, public health risks of 1st human case of Shamonda virus in France",
+      "Authorities urge calm after Shamonda virus found on three Girona cattle farms"
+    ],
+    "map_focus": {
+      "label": "France",
+      "lat": 46.2276,
+      "lng": 2.2137,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "shamonda Live Trend Tracker | HantaUpdates",
+      "description": "shamonda is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without p",
+      "canonical": "https://hantamap.online/trend/shamonda",
+      "keywords": [
+        "shamonda",
+        "shamonda tracker",
+        "shamonda updates",
+        "shamonda live updates",
+        "shamonda outbreak",
+        "shamonda symptoms",
+        "shamonda public health",
+        "shamonda source links"
+      ]
+    },
+    "first_seen_at": "2026-10-23T20:57:37+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "4c9afd1124c6edcb41",
     "slug": "hk-hongkong",
     "keyword": "hk hongkong",
@@ -8591,79 +8664,6 @@
       ]
     },
     "first_seen_at": "2026-05-19T17:45:45+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "cb423daa4f9d0bf6be",
-    "slug": "hantavirus-hondius",
-    "keyword": "hantavirus hondius",
-    "title": "hantavirus hondius trend tracker",
-    "description": "hantavirus hondius is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Guardian.",
-    "category": "public-health",
-    "geo": "CH",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-05-13T17:00:00+00:00",
-    "updated_at": "2026-05-13T18:30:47+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=CH",
-    "sources": [
-      {
-        "title": "Evacuated US and French MV Hondius passengers test positive for hantavirus",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNVkdZc2lRVkRBeHBQLVdvYkR5S3VvLXVLZ0NmNTlIb25IX01xOTV3WnFackFhenlnNGxaUzdDQ2hfdkxEVmthRTVaR1JKbi1BOWFQLVo4T3lrOERuTVBmc2FfYlZNSFdaZXE5dGpXdDQ4XzN4Qkc2TXFEMDlTQnNyR3ZCUGtkSjRBNnVmSl90eG1JQTZrN2RDMGUzSmlWZ0tFRTF4eWNaSzFJMHB1anN1Nkd4dHdVd0sxOVFtbFR1QThvLVlkTEtWM2QxQzU?oc=5",
-        "source": "The Guardian",
-        "published_at": "2026-05-11T09:23:00+00:00",
-        "summary": "Evacuated US and French MV Hondius passengers test positive for hantavirus The Guardian"
-      },
-      {
-        "title": "Initial genetic analysis of the ‘MV Hondius’ hantavirus outbreak confirms it belongs to the Andes strain and rules out mutations",
-        "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNRkpsX3BuVUlrYXhkWjhtUVBOQVo3ckpRQTM3bndJbjdoamk2TndFYUNDa3ZJQTBxaWc2ZUJfS09UQ09TLTVncTJITXRoXzN1OHlfYWtlSU9YcFdPaFdpZGREU3pkTGk4ZWxDNjNVcDFBY1VwUXVTbV85bHlXeWE1X2xvU0JBOUdIbWI4U3U3WnRqR0JtS1ZXOW5HRzJ4U1Zrc09ZQ1JyYWtSMncybldJcVRad3gxNmRlMnI5V3VBQ0tSTmRpc19JNTNCSlB6NzlWRU5hQ21PNEFNX2xnRTcydTF4WlotNGk2djR6b0lMclZPVXZ3RkVERFUxM3FLaEhiMVV2UFN6NNIBmwJBVV95cUxOQ0VLR0RrU1luVnJmR29UcFBtVXNUcUxwcUN0Wm9sd0ZXZUpJRl95RTl6SFNQWnB4TW40dUJCRHNoRnpoZDExQUdVVXdUNkJEUnhFNFJlWXR2N1FvU0Q2WUlLRV9HZm5SdTRBSjFKcmFUQ2pCUlR6bExKVndvN2ZMM3FhXzlWVlNSNkRLOFN4Q0RuQW9URkx2YllscGxDZDhPVGtHaUQ1WF9ydWVwSE9TNkRjdGFBUG1YRjdrVUhBdk96UUp1WG9KMHJFdk1YQU41NlVZMlBVNVZ2eGpZYzRvUVBKM1ZHYXdzaTk4VnBQWkp1SGRjbmJKeFowUzI0emU5bWN1ZUZ6QUR6dDZTTmxEbTY5WjE0MmwyWFl3?oc=5",
-        "source": "EL PAÍS English",
-        "published_at": "2026-05-11T18:07:50+00:00",
-        "summary": "Initial genetic analysis of the ‘MV Hondius’ hantavirus outbreak confirms it belongs to the Andes strain and rules out mutations EL PAÍS English"
-      },
-      {
-        "title": "Tragedy at sea: MV Hondius captain praises unity amid hantavirus outbreak.",
-        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQbTJ4dGcxY1BmTjlwWTBZSFBPSlgwYVd1OFAwbXFZc2U2eDl0YUNXZllpSXJGMDRoWXQxM1pmUTZCMTYxM3Y2U3U5OFloaFRLRDc2dUEwSHVZdEpBTVR4WVdzdjdQU3N3d1BDdk5tVjl6eHVQOHk4aFIzdzg2NmpNMkNyajhZNGxZaEdkS0x1VUx2SW9EOW9aaWJCTWk5TTRXa1JRb0lIbkNSQi1UU3REb0tSSGpPa1FWaUJ5VmJxLUtvUEXSAcgBQVVfeXFMT1VPbTFpRURPWnFjcFJaVV9rSTRzUUdtRDlrdUQxWE9LZzZlcWliNHlHeTNKSWZyMzE2dlQyYVpSMXZ0dEU1dkkwZ1F1VDRtUGtGb1ZIZWpIY0dCVGRNOGxZZTdnS2gxc0JVQzVYOW4tVVJ6SWRXRkNxQzBndVVWUVByVllmWm40bkpWZ3dXaVpoNkxyakZITGcyVlJmQTlBMVpMM1FBa0h4VnE5NEtIdFJucmJvcW5mUFJ1MmpBNjVpMEs5M3lxWjI?oc=5",
-        "source": "Al Jazeera",
-        "published_at": "2026-05-11T17:35:52+00:00",
-        "summary": "Tragedy at sea: MV Hondius captain praises unity amid hantavirus outbreak. Al Jazeera"
-      },
-      {
-        "title": "Passengers evacuate MV Hondius cruise ship following hantavirus outbreak",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYVBNLUlScGFKUW5aV3QxbGlsNEdlelFBX1ZrOWZEMF9GQlREeGp5UDVNNERDZkNxNTdSOVpfNUh4eDh1eFFfVS1QQ1ZadjQxNVEtQkNHVWtZeGlpMGw3TFRfcU9oZ0E0LXJDc1hrNXFYamVpZW04MGxJSExNaTBBXzhSd2wtd053TUswR2Y3TVEwYm9lUUgwUkZKZXkyQXIzLU4xRzd5WDVLRTg?oc=5",
-        "source": "PBS",
-        "published_at": "2026-05-10T17:03:05+00:00",
-        "summary": "Passengers evacuate MV Hondius cruise ship following hantavirus outbreak PBS"
-      }
-    ],
-    "related_queries": [
-      "French Hantavirus Patient Is Critically Ill as Outbreak Reaches 11 Cases",
-      "Woman Diagnosed with Hantavirus After Being on Cruise Ship Now on an Artificial Lung in 'Final Stage of Supportive Care,' Doctor Says",
-      "France says mask stock sufficient for 'at least 3 months' amid hantavirus concerns"
-    ],
-    "map_focus": {
-      "label": "Multi-country / cruise travel",
-      "lat": 16.5388,
-      "lng": -23.0418,
-      "zoom": 3
-    },
-    "seo": {
-      "title": "hantavirus hondius Live Trend Tracker | HantaUpdates",
-      "description": "hantavirus hondius is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links",
-      "canonical": "https://hantamap.online/trend/hantavirus-hondius",
-      "keywords": [
-        "hantavirus hondius",
-        "hantavirus hondius tracker",
-        "hantavirus hondius updates",
-        "hantavirus hondius live updates",
-        "hantavirus hondius outbreak",
-        "hantavirus hondius symptoms",
-        "hantavirus hondius public health",
-        "hantavirus hondius source links"
-      ]
-    },
-    "first_seen_at": "2026-05-13T18:30:47+00:00",
     "views_hint": 0
   }
 ]
