@@ -3608,7 +3608,7 @@
     "search_volume": "200+",
     "traffic_label": "200+",
     "published_at": "2026-10-23T20:40:00+00:00",
-    "updated_at": "2026-10-23T23:46:12+00:00",
+    "updated_at": "2026-10-24T03:06:23+00:00",
     "score": 200,
     "source_url": "https://trends.google.com/trending/rss?geo=DK",
     "sources": [
@@ -3617,7 +3617,7 @@
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRmxVbXhpcUR3c3VaTTY1Y09GTmVEcDRIV0V1Nnk0MEM2aVhubWl4dDkxNndESFhrM3hTVkVUeElneV9Uai1jX3BKQ2ViN2pxS01CYms3NlVYSUZ6U0hOZUZWMmNuS2wtZER4Wkp3OEtGeS1qc2FvTVJwOGJlbWF3SXRBVGxRTE01VDMwSFBWalhYS2JLbHAyZ3E0MW93Nk00d0VRWmFBRFhfamtTa2tvOWhpUHl4cmVyQk9kWTZsR1F5bXhsVjEzX1FWcUFlZU9o?oc=5",
         "source": "Forbes",
         "published_at": "2026-10-22T15:21:13+00:00",
-        "summary": "French Patient Dies After Contracting First Known Case Of Shamonda Virus In Humans Forbes First human case of Shamonda virus reported in France as patient dies UN News Explainer: What is Shamonda virus and what are the risks to humans and animals? Reuters First human case of Shamonda virus detected in France, officials say BBC France reports 1st known human case of Shamonda virus ABC News - Breaking News, Latest News and Videos France reports first human case of Shamonda virus after patient dies NBC News First ever human case of livestock-related Shamonda virus identified in France CIDRAP What"
+        "summary": "French Patient Dies After Contracting First Known Case Of Shamonda Virus In Humans Forbes What to Know About Shamonda Virus Following the First Reported Human Infection WIRED Explainer: What is Shamonda virus and what are the risks to humans and animals? Reuters France reports 1st known human case of Shamonda virus ABC News - Breaking News, Latest News and Videos France reports first human case of livestock virus Shamonda after patient dies CNN First ever human case of livestock-related Shamonda virus identified in France CIDRAP First human case of Shamonda virus detected in France, officials"
       },
       {
         "title": "First Human Shamonda Virus Infection—What Happens When Animal Diseases Spread To People?",
@@ -3627,24 +3627,24 @@
         "summary": "First Human Shamonda Virus Infection—What Happens When Animal Diseases Spread To People? Forbes"
       },
       {
-        "title": "What is Shamonda, the livestock virus found for the first time in a person in France?",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mRm5DYV9aYW9YNHdXMnJsSEtmRzAtQ2x3emZXVktTSWd0OVhhWk5fZGkwSEVMSzdNUmNlaGo2Nkd5WXB4eTVFSXo5Q29FSFVESzU0a0RBMFBKY1lMV3FyaEFOZXdVNXVtbXZ3SHVMcw?oc=5",
-        "source": "CNN",
-        "published_at": "2026-10-23T07:00:15+00:00",
-        "summary": "What is Shamonda, the livestock virus found for the first time in a person in France? CNN"
-      },
-      {
         "title": "Shamonda Virus Symptoms Explained as First Human Diagnosed in France",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY1NHNnNnNGFGQlpTNkFUZm1kODVIZ0dQT0taY0w1Yk9hUUdxVXR4TGdnU0k3MG1jVkRUd1Bqbi1XakFydEpjTl9PZFlva19DWFVEcHV2ZklCX1puOFpuOW5ON0xWUHJkRGtDOUR2Z3hZb2RUYnZFdThkQTZiMlN5a1JFMVB1N0xSVjhBQlc3eUI4OXJVUTMtb3FnaGdzOE8tLUlmcw?oc=5",
         "source": "Newsweek",
         "published_at": "2026-10-23T13:05:00+00:00",
         "summary": "Shamonda Virus Symptoms Explained as First Human Diagnosed in France Newsweek"
+      },
+      {
+        "title": "What is Shamonda, the livestock virus found for the first time in a person in France?",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5mRm5DYV9aYW9YNHdXMnJsSEtmRzAtQ2x3emZXVktTSWd0OVhhWk5fZGkwSEVMSzdNUmNlaGo2Nkd5WXB4eTVFSXo5Q29FSFVESzU0a0RBMFBKY1lMV3FyaEFOZXdVNXVtbXZ3SHVMcw?oc=5",
+        "source": "CNN",
+        "published_at": "2026-10-23T07:00:15+00:00",
+        "summary": "What is Shamonda, the livestock virus found for the first time in a person in France? CNN"
       }
     ],
     "related_queries": [
       "Explainer: What is Shamonda virus and what are the risks to humans and animals?",
-      "An Obscure Livestock Virus Has Been Found in a Human for the First Time—and He Didn’t Survive",
-      "French Patient Dies After Contracting First Known Case Of Shamonda Virus In Humans"
+      "French Patient Dies After Contracting First Known Case Of Shamonda Virus In Humans",
+      "What is Shamonda, the livestock virus found for the first time in a person in France?"
     ],
     "map_focus": {
       "label": "France",
