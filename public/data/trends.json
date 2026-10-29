@@ -438,6 +438,79 @@
     "views_hint": 0
   },
   {
+    "id": "1f789fc1e3e0d201bd",
+    "slug": "nigeria",
+    "keyword": "nigeria",
+    "title": "nigeria trend tracker",
+    "description": "nigeria is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The New York Times.",
+    "category": "public-health",
+    "geo": "NG",
+    "search_volume": "2000+",
+    "traffic_label": "2000+",
+    "published_at": "2026-10-29T07:40:00+00:00",
+    "updated_at": "2026-10-29T09:18:00+00:00",
+    "score": 2000,
+    "source_url": "https://trends.google.com/trending/rss?geo=NG",
+    "sources": [
+      {
+        "title": "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMGNYNXMxdzlBUEtISGQ1QlBUbENwNGdzY3NtNGliMVhJMnFtcmtMMDZQeUtuZm1BZzZINEM1WEpyUWoxNnc5bm1wQkFEVWZLOTBSZlN3WXR4d09JUHhxTG5hUHR6R1p1bUVLSkRvMDNibDVMbW14cEkyZXNqMnd2S1lfOHNzSzk2LUZ4dnV6NTBlcjM5cEE?oc=5",
+        "source": "The New York Times",
+        "published_at": "2026-10-28T18:16:55+00:00",
+        "summary": "Nigeria’s Ebola Patient Evacuated as Investigators Press for Answers The New York Times First confirmed Ebola patient in Nigeria evacuated to Switzerland CNN Health Alert: U.S. Embassy Abuja, Nigeria (October 27, 2026) U.S. Embassy and Consulate in Nigeria (.gov)"
+      },
+      {
+        "title": "Akinade Adedeji Raheem: Nigerian man extradited to US from Benin ova $100 million tax fraud",
+        "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8tQlVqNlkxMUdSOG5pLVZ1WFVvY0JYVnRZdkNUQlpfcEliSjYxdE9uMWtnSVQyRmgtT0RLaGtEQ1BhS2ZkeHpzMUw2UHY1TTRkNV9HNEFhOTcwQnNwWnfSAWNBVV95cUxPSkE3SlNXVjRvSFQzYmF6Ym1TWTRJdl9xOWJ3VGo0dHRfOVJqdjVrZmdkdnY1eDRBUnF1aDZDVkJEdVlDeS1nN1FJUHEzdEEtSTg2MWVWelY4TEJsYkg1UXNLbkk?oc=5",
+        "source": "BBC",
+        "published_at": "2026-10-28T14:28:35+00:00",
+        "summary": "Akinade Adedeji Raheem: Nigerian man extradited to US from Benin ova $100 million tax fraud BBC"
+      },
+      {
+        "title": "Google Wallet and Google Pay are now available in Nigeria.",
+        "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMDJLa0syaHkzMTZma0RYVnJEQTZBWHJ2QnhSWUhQNXVSSmNmNlc2VHQ3WWZfZUU4eS1FNlJMUzg4dXhPNHYwUHY0NDZoeUtTUk5DSmVQTi05UGhveVM2bGw1YTVGRlQzRzZWeWcydWlVSmd6NkMtODhNNWtmSXltMEx2eUdob2xGTWJBSWVmUGFSS3hUbkxubEFRQkxldm4xcmJlNWdyRkRPVjVCNGhjcnNXb0N6Y2Q1bjR2TWxBVQ?oc=5",
+        "source": "blog.google",
+        "published_at": "2026-10-28T17:07:22+00:00",
+        "summary": "Google Wallet and Google Pay are now available in Nigeria. blog.google"
+      },
+      {
+        "title": "Nigeria panel says 37 detained miners died from overcrowding and neglect",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOEtWWnRqMkl0WXhPN204Mzk1cndOdjZXdjVudXZoSy1sZU1tSHhpb1lZUVcwUklxdlp4d0hTVW9Uc2ZvcEVoT3ladlJ5SHpSMVNzQmVHVm9qcWtkckxyRTVHZXh3ejEyeVhYWlZEZm9rQXotRnV3ZW9IRzlJbEF4ZmhCcTVRRzJBNUJmdEhWTlk1NzBvWVBURWxYR1lSUzRuRmQxWWxxOFpmM01BSVlTcUNrc3NUVVE?oc=5",
+        "source": "Reuters",
+        "published_at": "2026-10-27T15:05:43+00:00",
+        "summary": "Nigeria panel says 37 detained miners died from overcrowding and neglect Reuters"
+      }
+    ],
+    "related_queries": [
+      "‘No Nigerian asset has been sold to US’ — Alake",
+      "Solid Minerals: FG Inaugurates Nigeria-US Committee On Strategic Cooperation",
+      "Reports of $700bn mineral sale to US false, says FG"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "nigeria Live Trend Tracker | HantaUpdates",
+      "description": "nigeria is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pr",
+      "canonical": "https://hantamap.online/trend/nigeria",
+      "keywords": [
+        "nigeria",
+        "nigeria tracker",
+        "nigeria updates",
+        "nigeria live updates",
+        "nigeria outbreak",
+        "nigeria symptoms",
+        "nigeria public health",
+        "nigeria source links"
+      ]
+    },
+    "first_seen_at": "2026-10-29T09:18:00+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "53387b67ee84cdf730",
     "slug": "fiji-hiv-crisis",
     "keyword": "fiji hiv crisis",
@@ -3595,6 +3668,79 @@
       ]
     },
     "first_seen_at": "2026-05-11T21:42:48+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "45ad5c64e579f797b3",
+    "slug": "sans",
+    "keyword": "sans",
+    "title": "sans trend tracker",
+    "description": "sans is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Doctors Without Borders.",
+    "category": "public-health",
+    "geo": "CA",
+    "search_volume": "200+",
+    "traffic_label": "200+",
+    "published_at": "2026-10-29T06:10:00+00:00",
+    "updated_at": "2026-10-29T09:16:28+00:00",
+    "score": 200,
+    "source_url": "https://trends.google.com/trending/rss?geo=CA",
+    "sources": [
+      {
+        "title": "Ebola disease outbreak 2026: How MSF is responding",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQaHh3TFlDZ05hYUNDR2swZzQxbWtjYnNBQ0tDTEcxT3NpRmtSR19zeTRsVFpuUVBJU2VpTXZFMjRIZlZTMzM5d25EZUFoR21EeVhGUXdYRVhIc3luMHVfd0NBOWJfWUZJbTlTMXZVUHdkTlZtTi1OdlV6Zlhhcy1OUWYyRjllUENBZVdXSEZkT3V1TG1mQ3c?oc=5",
+        "source": "Doctors Without Borders",
+        "published_at": "2026-10-26T15:43:31+00:00",
+        "summary": "Ebola disease outbreak 2026: How MSF is responding Doctors Without Borders"
+      },
+      {
+        "title": "Rockets' Tari Eason: Starting sans Sengun",
+        "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQjd2WkJDdm5lSjRUQWlPclJiUVFReEdtU3l6WlVyNG1jZG5SYVhTQm54RUJuazhwempidVgxbnltbnhONUZMaDdfNnBDZGNmbkFXR29COEgzSWJ3VkR4QVMwczNoOXVmSVBxU0NSSHZJcXFCOTJWMU9JTkNYUTFvcjNwOGJVZVktZ283VFAxNUFzbEFfdEtJNzkyN24yZw?oc=5",
+        "source": "CBS Sports",
+        "published_at": "2026-10-28T23:37:40+00:00",
+        "summary": "Rockets' Tari Eason: Starting sans Sengun CBS Sports"
+      },
+      {
+        "title": "Sans Titre",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5ndzVQcjYyX2U2MkwybWYyLV81QlJtZENSWXppaEktN0VYYVlJN19uSFdtV0lHaWFodnF6STRFWC1oWUxTMHJBN3Y3a2Nab1dPejFLcU1FV0xpZEtIYmROY3kxUWtsdGc?oc=5",
+        "source": "Audacy",
+        "published_at": "2026-10-28T12:00:23+00:00",
+        "summary": "Sans Titre Audacy"
+      },
+      {
+        "title": "Tari Eason News: Starting sans Sengun",
+        "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORWlMUXBiLTRnQkRzc0NXX0hSeUstamd6YWdtTmFMVTFMYjJXNzUxdXI3MWNTNHo4bkhoOUNBeEQyTV91OUJseHI0WXN6d3gwb2hZTE1seHNweUVDOEpBUzlzV3dFdkdYblZfdlJCVlJBRzh1UUJyeUR3UzByaXZ6azg1RHR4QzdIdXp6eTRQUVhwUTA?oc=5",
+        "source": "RotoWire",
+        "published_at": "2026-10-28T23:37:40+00:00",
+        "summary": "Tari Eason News: Starting sans Sengun RotoWire"
+      }
+    ],
+    "related_queries": [
+      "« Ils ne laissent pas de trace » : un collectif dénonce l’invisibilisation des morts sans-abri",
+      "Les décès de personnes sans-abri ont doublé en 14 ans : elles étaient âgées de 49 ans en moyenne",
+      "927 décès : le collectif Les Morts de la Rue alerte sur un \"palier\" de la mortalité"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "sans Live Trend Tracker | HantaUpdates",
+      "description": "sans is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without provi",
+      "canonical": "https://hantamap.online/trend/sans",
+      "keywords": [
+        "sans",
+        "sans tracker",
+        "sans updates",
+        "sans live updates",
+        "sans outbreak",
+        "sans symptoms",
+        "sans public health",
+        "sans source links"
+      ]
+    },
+    "first_seen_at": "2026-10-29T09:16:28+00:00",
     "views_hint": 0
   },
   {
@@ -8518,152 +8664,6 @@
       ]
     },
     "first_seen_at": "2026-06-17T10:49:33+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "8e2d4194a661cfe202",
-    "slug": "robert-f-kennedy-jr",
-    "keyword": "robert f. kennedy jr.",
-    "title": "robert f. kennedy jr. trend tracker",
-    "description": "robert f. kennedy jr. is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: WSJ.",
-    "category": "public-health",
-    "geo": "CA",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-06-17T10:00:00+00:00",
-    "updated_at": "2026-06-17T10:49:04+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=CA",
-    "sources": [
-      {
-        "title": "RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice",
-        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQd0FSc2VIX0dVdEdLcXVJRERsaS14cDJiVmZlLUtNUXQyS1JIUkw5eTVzVXY1OUNNSzhNbEJiYjM3cWxRQV9BOE1EUzc4S0xwd1o5VmpvRGRuam5jOGV2WHdBNEJUdFlIZFdQaGtiRmc2NF9NQjU3UG95dGNjZ09oajZoWTBYWUxVOWRyenpGUkZ6ai1fT0ZUR0xBd2RydnlpYlNLWVZMMDJnenB6V2wzdDlkQ3hOa2ZjVWRjR2R5djNmQ1JhZVkya1I3MHo?oc=5",
-        "source": "WSJ",
-        "published_at": "2026-06-16T21:50:00+00:00",
-        "summary": "RFK Jr. Orders American Exposed to Hantavirus to Stay Quarantined Against Medical Advice WSJ RFK Jr. orders passenger from hantavirus-stricken cruise to remain in quarantine in Nebraska, despite CDC recommendation CNN RFK Jr. overrules experts to keep hantavirus cruise ship passenger in quarantine Pittsburgh Post-Gazette"
-      },
-      {
-        "title": "RFK Jr. Will Oversee Disability Education Policy",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSjhzR0hQOUhkVWNhS28zV3dIcFh5VV9EUU1iWUV0bm95cl9lQ3liTzhIOC1wVkdGeTVTQ0twSDNLdlVfZzJwcWpqc2xKSDlkaDNYYkw0dkJLMXlydUVGYjlIQk5JOWRGS2taWDVCazN0dXZPSkNXNkVObVpsWXhmdDl2T0FCRU01VlRLVWtSUjAtQUlfZ0FjMy16NGNjQkpQOHc?oc=5",
-        "source": "Mother Jones",
-        "published_at": "2026-06-16T21:33:34+00:00",
-        "summary": "RFK Jr. Will Oversee Disability Education Policy Mother Jones"
-      },
-      {
-        "title": "RFK Jr. once terrorized children in a swimming pool with a snake 'chomping on his hand,' sister claims",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNldFek1EZ1F1Tm1sV080dFlPaldtN3M0WVpRWFhYM0tJb1NYMDl6ZHdKV09xYjVYN3lodm1WYjZzWlpZTWZGVVQ3eGM3OTFDb3N5V280RmVpOUhlYUFiRVNsbm0xU3BFeTcxUzNEOE9zd1ZHYzFyV0tPOUZlNW1nNGxZeUwzZXpvNENlZzYwVHpCR1lFSkd6azJud1ZMcDhON0hMNEFBc3VNWlNpaFFGcVctS2pBSUxmVXE4V01INzVlQ3YyamR2ZVFVcndZZ3QxSzNZ?oc=5",
-        "source": "New York Post",
-        "published_at": "2026-06-17T00:52:00+00:00",
-        "summary": "RFK Jr. once terrorized children in a swimming pool with a snake 'chomping on his hand,' sister claims New York Post"
-      },
-      {
-        "title": "Experts Pan RFK Jr.'s Inquiry Into Removal of Flawed Vaccine Study",
-        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE96LUd5dVRNMVNCbDIxYjhqZG9JNGVUV2ljaEtuWXNyVHBZaGFEQjRYTUduNnBtMUoySG1XTEwxTzRrZkNycVFKbVZ2V0tmX2VpVnBxVlJOaTVPU1ZUdDUxejR6TXRVdw?oc=5",
-        "source": "MedPage Today",
-        "published_at": "2026-06-16T21:32:36+00:00",
-        "summary": "Experts Pan RFK Jr.'s Inquiry Into Removal of Flawed Vaccine Study MedPage Today"
-      }
-    ],
-    "related_queries": [
-      "RFK Jr released snake into swimming pool filled with children at birthday party, his sister says",
-      "Kerry Kennedy Says Brother RFK Jr. Released Snake into Pool Full of Children as She Slams His 'Lack of Judgment'",
-      "RFK Jr. once threw a snake into a pool full of kids, sister claims"
-    ],
-    "map_focus": {
-      "label": "Multi-country / cruise travel",
-      "lat": 16.5388,
-      "lng": -23.0418,
-      "zoom": 3
-    },
-    "seo": {
-      "title": "robert f. kennedy jr. Live Trend Tracker | HantaUpdates",
-      "description": "robert f. kennedy jr. is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source li",
-      "canonical": "https://hantamap.online/trend/robert-f-kennedy-jr",
-      "keywords": [
-        "robert f. kennedy jr.",
-        "robert f. kennedy jr. tracker",
-        "robert f. kennedy jr. updates",
-        "robert f. kennedy jr. live updates",
-        "robert f. kennedy jr. outbreak",
-        "robert f. kennedy jr. symptoms",
-        "robert f. kennedy jr. public health",
-        "robert f. kennedy jr. source links"
-      ]
-    },
-    "first_seen_at": "2026-06-17T10:49:04+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "d58535fdc4aa6f4c50",
-    "slug": "what-is-ebola",
-    "keyword": "what is ebola",
-    "title": "what is ebola trend tracker",
-    "description": "what is ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: BBC.",
-    "category": "public-health",
-    "geo": "ZA",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-05-19T17:30:00+00:00",
-    "updated_at": "2026-05-19T17:45:45+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=ZA",
-    "sources": [
-      {
-        "title": "'Ebola has tortured us': Fear as DR Congo outbreak spreads",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9NbUNZMk50Nk5FcGY1ZXVvLUtPN2hwaFlOWmVfWDRQUzFYMDg3aUtpTFhxaFpWQWh5ckRzcG1CV3VqSjViQjJoZEdFRS1QdnpyMUVNdWdMeEt4dw?oc=5",
-        "source": "BBC",
-        "published_at": "2026-05-19T14:20:15+00:00",
-        "summary": "'Ebola has tortured us': Fear as DR Congo outbreak spreads BBC What we know about the latest Ebola outbreak after WHO declares global health emergency CNN As Ebola outbreak spreads in DRC and Uganda, what is risk to US? Good Morning America Why this Ebola outbreak will be so difficult to contain The Washington Post What to Know About the Ebola Outbreak as Cases and Deaths Rise The New York Times Ebola deaths rise sharply as outbreak’s ‘scale and speed’ worry WHO chief NBC News This Ebola outbreak raises questions about when it all began — and the U.S. response NPR The Ebola outbreak started we"
-      },
-      {
-        "title": "Ebola international emergency, hantavirus update, ticks, heat, opioid deaths decline, and more.",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSnFGOGREZzktNnNrc2pYaVc5OG1GVmRzMnB1ZnA5VXdDM29yclFKU0JRWk9YX18za19NRUVLSGhpTlhXcnJ4bUI1OHBwYjFldWttSm1JYmM0TzhHSkgzaUJjS3hwRW1YNlVMcUg4X29TcHBTU3NaNkJjeTViMlhwQ05uXy1kRllVMV9VRGg0WHc?oc=5",
-        "source": "Your Local Epidemiologist",
-        "published_at": "2026-05-19T10:31:36+00:00",
-        "summary": "Ebola international emergency, hantavirus update, ticks, heat, opioid deaths decline, and more. Your Local Epidemiologist"
-      },
-      {
-        "title": "What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'?",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wVERtZkpCMzNrZ1lKNHVlQ1RaS2N1QVcyaVRMT3JTV2puMTVvWm1IUEhVWklQVVFteDkyWEtXbmRiRHY5alpBN0hydEJuZDF6WXhxa003NXRqdw?oc=5",
-        "source": "BBC",
-        "published_at": "2026-05-19T12:24:50+00:00",
-        "summary": "What is Ebola, how does it spread and why is DR Congo outbreak an 'emergency'? BBC"
-      },
-      {
-        "title": "Ebola outbreak in DRC and Uganda: What you need to know",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMFgyVm1mcHUzYV8yX25OeWhvZ2I1WkpCVkpuODdOa0Y0Wks0Skx4U2hpYzJpdnlZZ0dwTUhqd1FiMU5NUFRMTU03bUpXd1hBd1NpZHgzc1lqODNkemlaVm5aZHp5WEpmTVlaZ0d2TTRiVTlQYkVyZ2o4SWJKOVJydkplVWE2dw?oc=5",
-        "source": "International Rescue Committee",
-        "published_at": "2026-05-19T14:08:25+00:00",
-        "summary": "Ebola outbreak in DRC and Uganda: What you need to know International Rescue Committee"
-      }
-    ],
-    "related_queries": [
-      "'Ebola has tortured us': Fear as DR Congo outbreak spreads",
-      "WHO worried about 'scale and speed' of deadly Ebola outbreak",
-      "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "what is ebola Live Trend Tracker | HantaUpdates",
-      "description": "what is ebola is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links with",
-      "canonical": "https://hantamap.online/trend/what-is-ebola",
-      "keywords": [
-        "what is ebola",
-        "what is ebola tracker",
-        "what is ebola updates",
-        "what is ebola live updates",
-        "what is ebola outbreak",
-        "what is ebola symptoms",
-        "what is ebola public health",
-        "what is ebola source links"
-      ]
-    },
-    "first_seen_at": "2026-05-19T17:45:45+00:00",
     "views_hint": 0
   }
 ]
