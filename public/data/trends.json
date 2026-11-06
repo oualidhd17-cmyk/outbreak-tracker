@@ -438,6 +438,79 @@
     "views_hint": 0
   },
   {
+    "id": "10c8699433c594d781",
+    "slug": "mpox",
+    "keyword": "mpox",
+    "title": "mpox trend tracker",
+    "description": "mpox is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Centers for Disease Control and Prevention | CDC (.gov).",
+    "category": "public-health",
+    "geo": "SE",
+    "search_volume": "2000+",
+    "traffic_label": "2000+",
+    "published_at": "2026-11-06T05:30:00+00:00",
+    "updated_at": "2026-11-06T10:20:22+00:00",
+    "score": 2000,
+    "source_url": "https://trends.google.com/trending/rss?geo=SE",
+    "sources": [
+      {
+        "title": "Global Monkeypox: Current Situation",
+        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hN2FwbDA2U3VfUENnOFJ0LTNvTUs2U3VWbzlKYnJpMElxZ05qLVhwRDJBMUxjVGhucGNMa042ODJrVll2bjdOWXlFZ3FHMXA1SVVxSVJqYmlPem5nZnh6WHN4LXF2YmlIelE?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-11-02T08:00:00+00:00",
+        "summary": "Global Monkeypox: Current Situation Centers for Disease Control and Prevention | CDC (.gov)"
+      },
+      {
+        "title": "Russia: New case of Mpox detected in the Moscow Region",
+        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBLVEtBZDY4WllCU2R0TS1adzNxNm91S0RweGRIRTdjUzlyU09PZlRBSURXZGo1dEFVTzVVaS1IRnNNNE9wYjExMnVmTWRVd21wVVVUb1hoLXM5T2E5XzY3RFhDdGI2bUJFYWlqTWZ4eF9idEM3QWNQM3h6RWl2QQ?oc=5",
+        "source": "Outbreak News Today",
+        "published_at": "2026-11-02T20:25:45+00:00",
+        "summary": "Russia: New case of Mpox detected in the Moscow Region Outbreak News Today"
+      },
+      {
+        "title": "HIV, mpox and stigma collide in West Africa: scientists propose integrated syndemic care framework",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNbXdkWTRtQVdIWUZQaDAzcEU5ak1fOXVhbFlJT282TjhhYmVjMHpQQlc1bDRpaFowNDlRcG1zNTZtTXoxRk90eEdRdHFuZjBCYmZjaTc5bmU4TVVuVHZJcmhOTXoxQ2U3dFdDRktWbEtJZHQtM3BFREU1d2J5eUJkVW5zT3RZY1I0Mkc1aTNjaF9UWTZEazh6UUlvbmpHanBvUUNrc0xid2Fid1UydUZJM2VqVndCT2Voa1dkbE5B?oc=5",
+        "source": "Bioengineer.org",
+        "published_at": "2026-11-06T03:30:12+00:00",
+        "summary": "HIV, mpox and stigma collide in West Africa: scientists propose integrated syndemic care framework Bioengineer.org"
+      },
+      {
+        "title": "Clade I Monkeypox Outbreaks",
+        "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9IZXZGczIyczRIMklCMW1aQm1obU53WjlJYUY4bEVBRXJjMHBCcVRtdy1fVk1ZNWg4R3B3ZDNwREQ4TXdvVEw3M1dDZnA4Q0ZPeUtDajBFUGcwTVRObklzbWhzbHM5UQ?oc=5",
+        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
+        "published_at": "2026-11-02T08:00:00+00:00",
+        "summary": "Clade I Monkeypox Outbreaks Centers for Disease Control and Prevention | CDC (.gov)"
+      }
+    ],
+    "related_queries": [
+      "HIV, mpox and stigma collide in West Africa: scientists propose integrated syndemic care framework",
+      "At least 2 cases of mpox confirmed in Stanislaus County, health officials say",
+      "California Reports 4 Cases Of Deadly Clade I Mpox virus: What To Know About Local Transmission Risk"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "mpox Live Trend Tracker | HantaUpdates",
+      "description": "mpox is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without provi",
+      "canonical": "https://hantamap.online/trend/mpox",
+      "keywords": [
+        "mpox",
+        "mpox tracker",
+        "mpox updates",
+        "mpox live updates",
+        "mpox outbreak",
+        "mpox symptoms",
+        "mpox public health",
+        "mpox source links"
+      ]
+    },
+    "first_seen_at": "2026-07-02T13:50:53+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "1f789fc1e3e0d201bd",
     "slug": "nigeria",
     "keyword": "nigeria",
@@ -1236,79 +1309,6 @@
       ]
     },
     "first_seen_at": "2026-09-24T13:59:23+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "9eaf2257969beca603",
-    "slug": "mpox",
-    "keyword": "mpox",
-    "title": "mpox trend tracker",
-    "description": "mpox is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Outbreak News Today.",
-    "category": "public-health",
-    "geo": "ZA",
-    "search_volume": "1000+",
-    "traffic_label": "1000+",
-    "published_at": "2026-09-18T05:30:00+00:00",
-    "updated_at": "2026-09-18T08:03:18+00:00",
-    "score": 1000,
-    "source_url": "https://trends.google.com/trending/rss?geo=ZA",
-    "sources": [
-      {
-        "title": "DRC: Kasai province is facing a mpox epidemic",
-        "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMFlRV2VnMnJqczVWTC0tVzFLeERJejZucmU2TnZFMWl1aUkwbHg3c1plV2lqNmpLTzJaUTdFS0tmWlVvblZFMy1nMVp3UWlLRE0xdmJkZ1ZsdGhOY2FqdFBod0lCSzhGT0h6UTdMb0MwWGJMV2pWVEc5aVkyYzhVQjFn?oc=5",
-        "source": "Outbreak News Today",
-        "published_at": "2026-09-17T20:52:29+00:00",
-        "summary": "DRC: Kasai province is facing a mpox epidemic Outbreak News Today"
-      },
-      {
-        "title": "Monkeypox in the United States and Around the World: Current Situation",
-        "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hN2FwbDA2U3VfUENnOFJ0LTNvTUs2U3VWbzlKYnJpMElxZ05qLVhwRDJBMUxjVGhucGNMa042ODJrVll2bjdOWXlFZ3FHMXA1SVVxSVJqYmlPem5nZnh6WHN4LXF2YmlIelE?oc=5",
-        "source": "Centers for Disease Control and Prevention | CDC (.gov)",
-        "published_at": "2026-08-27T07:00:00+00:00",
-        "summary": "Monkeypox in the United States and Around the World: Current Situation Centers for Disease Control and Prevention | CDC (.gov)"
-      },
-      {
-        "title": "Global initiative launched to improve access to mpox vaccines",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORkMtTl9zWnh2UHQtVmJWT25SQlM0QjFpZnZ4XzNRQ2VnU1hlR21DZVNnMlpLWHBjRzN6LUxBWEZ3LWJlS3lzU01Wa1NQNUhjcEZLOF83ZHBHSTMtTGtkSkZvcGtVQTYyUGc1RWtHQTllc2RFSXhqd2RfZ1lJaTliVkVJb3ZUZGNXSGhUdjVISm5qTkFGcGVoOGQ5OFZXeFZPcENMeA?oc=5",
-        "source": "who.int",
-        "published_at": "2026-09-02T07:00:00+00:00",
-        "summary": "Global initiative launched to improve access to mpox vaccines who.int"
-      },
-      {
-        "title": "Multi-country outbreak of mpox, External situation report #69 - 14 September 2026",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQV9oSVZnM3RxU0xkTGtrOXZSYllkT3VneEttTXk2UnVrYmd4aU5NbnpMdkZFS0RLQVMyNnI3VWFUWXZOaE1hYThHN2tsY2tSZ21QcU1RcmZWYWtlQktzcFhWNEY3M2pKSTFieXN0WVFaRUdZNnpWX1BTUmo1WHJQM3VXWDZpeERlR0FVNlVHa25tUlBWbUN2NEU1TmUyVlNicGJ3MUhfZkNLcVIySUE?oc=5",
-        "source": "ReliefWeb",
-        "published_at": "2026-09-15T04:20:14+00:00",
-        "summary": "Multi-country outbreak of mpox, External situation report #69 - 14 September 2026 ReliefWeb"
-      }
-    ],
-    "related_queries": [
-      "Mpox cases rise to 18, health department calls for vigilance",
-      "Mpox outbreak worsens in South Africa: What you need to know about symptoms and spread",
-      "Mpox cases on the rise, KZN reports probable case"
-    ],
-    "map_focus": {
-      "label": "United States",
-      "lat": 37.0902,
-      "lng": -95.7129,
-      "zoom": 4
-    },
-    "seo": {
-      "title": "mpox Live Trend Tracker | HantaUpdates",
-      "description": "mpox is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without provi",
-      "canonical": "https://hantamap.online/trend/mpox",
-      "keywords": [
-        "mpox",
-        "mpox tracker",
-        "mpox updates",
-        "mpox live updates",
-        "mpox outbreak",
-        "mpox symptoms",
-        "mpox public health",
-        "mpox source links"
-      ]
-    },
-    "first_seen_at": "2026-07-02T13:50:53+00:00",
     "views_hint": 0
   },
   {
