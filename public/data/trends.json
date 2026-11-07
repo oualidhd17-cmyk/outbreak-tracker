@@ -7281,6 +7281,79 @@
     "views_hint": 0
   },
   {
+    "id": "9af7b58e75eed951cb",
+    "slug": "abuja",
+    "keyword": "abuja",
+    "title": "abuja trend tracker",
+    "description": "abuja is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: THISDAYLIVE.",
+    "category": "public-health",
+    "geo": "NG",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-11-07T07:50:00+00:00",
+    "updated_at": "2026-11-07T09:35:39+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=NG",
+    "sources": [
+      {
+        "title": "Presidential CNG Initiative Launches New Abuja Facility as Private Funding Hits $2.6bn",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdGhDVTNCNUR6UE5jbWRIdTRKVUp3dVlHU1NlZFZaSEZQeW5yVTNFdWpCVmpOWXJMYWZ1WnYwVWZkd0ZiWmkycnRjUTRKWFQ5WWd4cGgtc2dnZXZKd2tRSXFxbHVaZDJ3ZFRPWjlFeFkxRlEzVWxmUG52OUFzN2xoNzRmYUtqdTJnREFlM3l1S2ZfdjFjN1ZQTHFUUE5UNlpfQkkwdG1CMThrRm9aU0ltckFHRDBXc2xLaVRDT1M1Yl95eTA?oc=5",
+        "source": "THISDAYLIVE",
+        "published_at": "2026-11-07T03:35:57+00:00",
+        "summary": "Presidential CNG Initiative Launches New Abuja Facility as Private Funding Hits $2.6bn THISDAYLIVE"
+      },
+      {
+        "title": "9ice, Odumodu Blvck thrill Abuja crowd at walk against cancer",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaXhMU3lWcy1RRGh1S3N2TkdDTW5pSHI3V250M3ctWjNhN3pwYW5jOTZScUFyemVNaGJhS3o4NFUtLVlrcVA2UFR3eHYtcHprUk5BLXY2S3hTQmUtV3FPOEdxZ2Vhd1haV05wQlFnX1J5cHJuWDFfaE5DamFadWRVa2J1dEsyZw?oc=5",
+        "source": "The Sun Nigeria",
+        "published_at": "2026-11-07T01:15:55+00:00",
+        "summary": "9ice, Odumodu Blvck thrill Abuja crowd at walk against cancer The Sun Nigeria"
+      },
+      {
+        "title": "Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTWlSaVB0T0dlLWF4VWlMZlhxQThmdjhMaERzQm1FN0drN05JVmFUdEZJMkRLQTZCaGlvVmRrMDhHam41SFI1OHpERHRRQW1ZQnpsWEV5QkowT2xEUUc0RU1oQVI2cjBZcWdMNm9OSFh1VWt4THN4M0RnXzV5YUZYNk9CU3BfTmdfRklYbF9NS2pyUEY3R0NRSTNfeFJQczNhMEQ0NmZpdElGVUwtVzZFNkFhUzl0aThs?oc=5",
+        "source": "NBC News",
+        "published_at": "2026-10-20T07:00:00+00:00",
+        "summary": "Nigeria confirms Ebola case in Abuja as woman who arrived from Uganda tests positive NBC News"
+      },
+      {
+        "title": "Health Alert: U.S. Embassy Abuja, Nigeria (October 27, 2026)",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTC10RGc4akFDUjRabG84Q3ZJSjg2cmR6NnlfOFlPNTNFMmY5WUxMMkl2Z1pBTU9wWTNLRW1PYWlzUmZDTmZrLWxsbkhuTjZ3NnkzZ0w4aEFVR3ZkYnJ6TmYzbFZ2SVJvQXctYWd1U0hSTEc5anFHcl9sQTV0Q0JhMGpUOUNld0U?oc=5",
+        "source": "U.S. Embassy and Consulate in Nigeria (.gov)",
+        "published_at": "2026-10-27T07:00:00+00:00",
+        "summary": "Health Alert: U.S. Embassy Abuja, Nigeria (October 27, 2026) U.S. Embassy and Consulate in Nigeria (.gov)"
+      }
+    ],
+    "related_queries": [
+      "Wike tackles ASUU over UniAbuja land, backs Tinubu’s re-election",
+      "Who will protect Uni-Abuja from untouchable Wike?",
+      "What Is ASUU’s Business With Land Ownership?, Wike Dismisses UniAbuja Strike Threat"
+    ],
+    "map_focus": {
+      "label": "Global",
+      "lat": 20.0,
+      "lng": 0.0,
+      "zoom": 2
+    },
+    "seo": {
+      "title": "abuja Live Trend Tracker | HantaUpdates",
+      "description": "abuja is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without prov",
+      "canonical": "https://hantamap.online/trend/abuja",
+      "keywords": [
+        "abuja",
+        "abuja tracker",
+        "abuja updates",
+        "abuja live updates",
+        "abuja outbreak",
+        "abuja symptoms",
+        "abuja public health",
+        "abuja source links"
+      ]
+    },
+    "first_seen_at": "2026-11-07T09:35:39+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "4c9afd1124c6edcb41",
     "slug": "hk-hongkong",
     "keyword": "hk hongkong",
@@ -8591,79 +8664,6 @@
       ]
     },
     "first_seen_at": "2026-06-20T13:53:54+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "f498b097aafbcb2556",
-    "slug": "alicante",
-    "keyword": "alicante",
-    "title": "alicante trend tracker",
-    "description": "alicante is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Jerusalem Post.",
-    "category": "public-health",
-    "geo": "TR",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-06-17T09:10:00+00:00",
-    "updated_at": "2026-06-17T10:49:33+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=TR",
-    "sources": [
-      {
-        "title": "Marble bust depicting Roman goddess Venus found at Alicante beach in Spain",
-        "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBnTXMtRG5zYURMak5CaVJXS2gtYU54Y21uRzVQbnI4SDdmNzYwUlVkbDR2SVZldGR1YktGNW13cGM1aUpSR1BzNU9TMElvYVFXQUNQYjd0cWFjU2U4?oc=5",
-        "source": "The Jerusalem Post",
-        "published_at": "2026-06-14T00:42:17+00:00",
-        "summary": "Marble bust depicting Roman goddess Venus found at Alicante beach in Spain The Jerusalem Post"
-      },
-      {
-        "title": "Spain bank customers warned after one fake call costs Alicante victim €30,000",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdXlEVTNWYVc1MjFUZUJDNVdWUmIwYlBmZ3NTeHRyNVlBLTNZdG5uMEJFMERtMjZNMHFjMXE3MmpENzUxNHpycFdhaDBOWkRSVF94NFJVUUozT2JuMm5JT2dHejgtRDRLUTE4MmJXaXdtSnNzTF9ja2VCYTcwN1phVkR3cGN4c3NpLUVxeWQzY0dyVS10MVNhd09EekN6ei1OZlRFdTAwem53YjJWYzRaOE5scXVyZw?oc=5",
-        "source": "Euro Weekly News",
-        "published_at": "2026-06-16T08:51:32+00:00",
-        "summary": "Spain bank customers warned after one fake call costs Alicante victim €30,000 Euro Weekly News"
-      },
-      {
-        "title": "Spain tests suspected hantavirus case in Alicante",
-        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNd1FBYU12WlF3dnM2M3lpMU42MUZkTWpDcHRaamp3NjlMNjg5RDV1eEZ4R3JRS2Q3eHVrODgxWTNZN0lqd2I3V0hqMWZqZUM0eUJrYUpRTjJZRGJmZVhLRGJDWHBKVGd6NlNFRlBsVC1yaUxpNnEzenJURDhwYTlKYXFZOTM4b0ZTQzVHa0NSYVQ5U1VSWjZRcnN6T3dXR3o5NFZnMjZUczc0OE10SXZwb1k4QU5GT3o0ZnVncTFVdUNIQ2NnaC03VFE0WGdOdw?oc=5",
-        "source": "Reuters",
-        "published_at": "2026-05-08T07:00:00+00:00",
-        "summary": "Spain tests suspected hantavirus case in Alicante Reuters"
-      },
-      {
-        "title": "Aguas de Alicante will invest more than 30 million euros by 2031 to strengthen the water network",
-        "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBvTDFQUi1ZakREanVtbVg2OWp5SUotU3Q2TjdMOFVCUDdxVnFtbnV6RDNSNl82aXBUbkZaUmpib0daeVpoeVJ0bGJYN1hENUZXeW5CTndiaUNadzdwdDhXOHdOWWlUeFpDaFFjMUVfbVBQZw?oc=5",
-        "source": "Diario de Alicante",
-        "published_at": "2026-06-15T09:30:50+00:00",
-        "summary": "Aguas de Alicante will invest more than 30 million euros by 2031 to strengthen the water network Diario de Alicante"
-      }
-    ],
-    "related_queries": [
-      "Vecinos del Parque del Mar de Alicante exigen una solución al edificio de Interior en el acceso sur",
-      "Bronco debate en el Congreso entre PP y Sanidad por el conflicto del Estatuto Marco: \"Solo le apoya Pedro Sánchez\"",
-      "Los médicos y facultativos de Alicante demandan su estatuto laboral propio con protestas en la calle"
-    ],
-    "map_focus": {
-      "label": "United States",
-      "lat": 37.0902,
-      "lng": -95.7129,
-      "zoom": 4
-    },
-    "seo": {
-      "title": "alicante Live Trend Tracker | HantaUpdates",
-      "description": "alicante is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without p",
-      "canonical": "https://hantamap.online/trend/alicante",
-      "keywords": [
-        "alicante",
-        "alicante tracker",
-        "alicante updates",
-        "alicante live updates",
-        "alicante outbreak",
-        "alicante symptoms",
-        "alicante public health",
-        "alicante source links"
-      ]
-    },
-    "first_seen_at": "2026-06-17T10:49:33+00:00",
     "views_hint": 0
   }
 ]
