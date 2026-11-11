@@ -438,6 +438,79 @@
     "views_hint": 0
   },
   {
+    "id": "4a9400763772b52fe3",
+    "slug": "polar-vortex",
+    "keyword": "polar vortex",
+    "title": "polar vortex trend tracker",
+    "description": "polar vortex is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Weather Network.",
+    "category": "public-health",
+    "geo": "CA",
+    "search_volume": "2000+",
+    "traffic_label": "2000+",
+    "published_at": "2026-11-11T03:20:00+00:00",
+    "updated_at": "2026-11-11T04:29:26+00:00",
+    "score": 2000,
+    "source_url": "https://trends.google.com/trending/rss?geo=CA",
+    "sources": [
+      {
+        "title": "Polar vortex is on the brink of a historic reversal. What now, Canada?",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWHkwUmZUd3U2RE5haGc4bEVDNG9QWEdGQkRNZVdpeWk2Y2gtcGxtWkVDOEpoUjZVOFdoSmQxNGk3M19IV2RwbGpLNGdHMlllcHdkX3ZDQ1h1TGV0bjFlNU94Uy1nOGttc0s1R2R4VVpYUkljZHlGR3R1UzJWLUJxaWlrVmM5SUZOZGYwSVVOdU9TaUdkT0RaUzU4X19FVDVlWXlDSl9veTIwM21JaE9IVERyajV4UU1WLXBFSkR3MlRLdXlqcUE?oc=5",
+        "source": "The Weather Network",
+        "published_at": "2026-11-10T21:55:00+00:00",
+        "summary": "Polar vortex is on the brink of a historic reversal. What now, Canada? The Weather Network Polar vortex faltering weeks earlier than ever recorded Japan Today Wisconsin Weather: Could a polar vortex create cold and snow this week? FOX6 News Milwaukee"
+      },
+      {
+        "title": "Dangerous ozone hole widened by polar vortex in 2026, Boulder researchers say",
+        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zblF1TDZBcnhaY2NGM2VnZmU1RzcwVzd0b0ZBMjdmazdqSkN5M2daY0tVb09wckhZd2R3VHZPaWdtaXE4SEJZUlRYR2RwRkpfLWFueXF0RWVweWpyNTlPclZSaEZ0Q3pSZU9UVTUzczJNUEMzeGd4TjBrWkE?oc=5",
+        "source": "The Colorado Sun",
+        "published_at": "2026-11-10T11:08:00+00:00",
+        "summary": "Dangerous ozone hole widened by polar vortex in 2026, Boulder researchers say The Colorado Sun"
+      },
+      {
+        "title": "The UK Just Got 2 Cold-Health Alerts As Polar Vortex 'Weakens'",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHZyeS1TcU5ncEVfa29CZzltVXpaakFiODZqRzlVQXh1SUdDUlJ6b0NiTFczYTRGdWxYSUZMQURmY0xZaUlTdGp1bF9ReVRud2E0aVRMTTRRTFlPRTZvNWtIMHZVX1M3cm5mY0NtaXFYMHpHLTBHM1p0c2x4U1E0SVBjcGtCdW9iVGJsVkZvZ3hHajdiZ2xOMUpReUdPQ1l6X1RNUXFsZFBSTFE?oc=5",
+        "source": "HuffPost UK",
+        "published_at": "2026-11-10T14:42:24+00:00",
+        "summary": "The UK Just Got 2 Cold-Health Alerts As Polar Vortex 'Weakens' HuffPost UK"
+      },
+      {
+        "title": "The polar vortex is causing trouble at the South Pole",
+        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWt3RFY3bFFaaHg4clc1Y3FYZGpqOHU2TFluUWw5alAyWEx0TWJtM0owWEFGZkpjbklhc1lORVlMYlJ1eE90WkhOc0lKQ051TUt4d0pDRzVBQzdzNTZWNkFDM19hM2Q4SzRnU3NwWkx2MTMtbmllN1Q1Y2lnU0xwckNwZW54RVhfVS1Wd1g5Z2VnSGNzbjlrallhekVSekhKc2xycg?oc=5",
+        "source": "USA Today",
+        "published_at": "2026-11-08T14:53:00+00:00",
+        "summary": "The polar vortex is causing trouble at the South Pole USA Today"
+      }
+    ],
+    "related_queries": [
+      "Polar vortex is on the brink of a historic reversal. What now, Canada?",
+      "The polar vortex is about to go haywire",
+      "The polar vortex just made history: what does this mean Canada?"
+    ],
+    "map_focus": {
+      "label": "United States",
+      "lat": 37.0902,
+      "lng": -95.7129,
+      "zoom": 4
+    },
+    "seo": {
+      "title": "polar vortex Live Trend Tracker | HantaUpdates",
+      "description": "polar vortex is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links witho",
+      "canonical": "https://hantamap.online/trend/polar-vortex",
+      "keywords": [
+        "polar vortex",
+        "polar vortex tracker",
+        "polar vortex updates",
+        "polar vortex live updates",
+        "polar vortex outbreak",
+        "polar vortex symptoms",
+        "polar vortex public health",
+        "polar vortex source links"
+      ]
+    },
+    "first_seen_at": "2026-11-11T04:29:26+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "10c8699433c594d781",
     "slug": "mpox",
     "keyword": "mpox",
@@ -8592,79 +8665,6 @@
       ]
     },
     "first_seen_at": "2026-07-01T03:27:49+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "aa28c0afa27bdfe466",
-    "slug": "dash",
-    "keyword": "ザ鉄腕dash",
-    "title": "ザ鉄腕dash trend tracker",
-    "description": "ザ鉄腕dash is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Mshale.",
-    "category": "public-health",
-    "geo": "JP",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-06-27T21:00:00+00:00",
-    "updated_at": "2026-06-27T22:00:49+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=JP",
-    "sources": [
-      {
-        "title": "ザ！鉄腕DASHはKIRINの提供藤本万梨乃編 Travel (4Lsys96am5)",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1kMGVBbXBZLVBBbWZ4S1pacUJHZFhIaWZheUx1S0YyZ2hhZWV4TlRuQ2hiOG51WmFYeU9Ta09pYkJvV0hZTzhrN1Y4cDVkeE1ySmJUY0VBZG9qTjg?oc=5",
-        "source": "Mshale",
-        "published_at": "2026-06-14T03:42:05+00:00",
-        "summary": "ザ！鉄腕DASHはKIRINの提供藤本万梨乃編 Travel (4Lsys96am5) Mshale"
-      },
-      {
-        "title": "『ザ!鉄腕!DASH!!』出演者の逮捕でファン失望「もう打ち切りでいいんじゃないの」不満相次ぐ Giuseppe Marotta (GKCWQMsHrC)",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JNzgteGFXWEZidmhtWm40RTZRZHNzQjRBb29LcDAxcnlPVzRkdnVZNENRalFfR1hwdWdXSC1VdGRaa3ZrNFNUa3hWaVlyOGVYem1OalJWYmlZeDQ?oc=5",
-        "source": "Mshale",
-        "published_at": "2026-06-10T07:56:29+00:00",
-        "summary": "『ザ!鉄腕!DASH!!』出演者の逮捕でファン失望「もう打ち切りでいいんじゃないの」不満相次ぐ Giuseppe Marotta (GKCWQMsHrC) Mshale"
-      },
-      {
-        "title": "松岡昌宏🌟『ザ！鉄腕！DASH!!』降板へ🚨 約30年の出演に「ここで区切り」💔【全文公開】 Louis Varland (VznUrrh4L6)",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MWkxQQ0pwQzhWaEd2RFNUY182ZHB3SFlEclk3VVdWTWFoRnBiSjBPZU5Ua2Jpa0xURm5SM1lMeXVOeUx0bkVsMFdLM0VCTXpKSUgyWm51Q3FrNGM?oc=5",
-        "source": "Mshale",
-        "published_at": "2026-06-10T08:14:52+00:00",
-        "summary": "松岡昌宏🌟『ザ！鉄腕！DASH!!』降板へ🚨 約30年の出演に「ここで区切り」💔【全文公開】 Louis Varland (VznUrrh4L6) Mshale"
-      },
-      {
-        "title": "松岡昌宏、『ザ！鉄腕！DASH!!』卒業決断 30年の歴史に自ら幕「区切りをつける」 Hantavirus Mascherine (SHN3AGDqO9)",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oR0FrX09QVkxSTzB2UWt6dlhOS0hwMmJqeFhIdHg2cWFtVUVTbDZJZU9TbXQxSzl5S0xNVFZsMVQ3dDhEZC05TEhtZ3lGckVpRjF5NHd4dzMtOUE?oc=5",
-        "source": "Mshale",
-        "published_at": "2026-06-17T13:20:02+00:00",
-        "summary": "松岡昌宏、『ザ！鉄腕！DASH!!』卒業決断 30年の歴史に自ら幕「区切りをつける」 Hantavirus Mascherine (SHN3AGDqO9) Mshale"
-      }
-    ],
-    "related_queries": [
-      "「ザ！鉄腕！DASH!!」新たな無人島の名前がついに決定！3000件を超える視聴者アイデアの中から選ばれたのは？",
-      "次回の「ザ！鉄腕！DASH!!」は6月28日『DASH島 新たな無人島の名前ついに発表！沖縄サバニレースへ出場へ』",
-      "森本慎太郎「日本一になろうぜ」新プロジェクト始動！ 髙地優吾は“ゴミでタイ釣り”に苦戦…"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "ザ鉄腕dash Live Trend Tracker | HantaUpdates",
-      "description": "ザ鉄腕dash is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without pr",
-      "canonical": "https://hantamap.online/trend/dash",
-      "keywords": [
-        "ザ鉄腕dash",
-        "ザ鉄腕dash tracker",
-        "ザ鉄腕dash updates",
-        "ザ鉄腕dash live updates",
-        "ザ鉄腕dash outbreak",
-        "ザ鉄腕dash symptoms",
-        "ザ鉄腕dash public health",
-        "ザ鉄腕dash source links"
-      ]
-    },
-    "first_seen_at": "2026-06-27T22:00:49+00:00",
     "views_hint": 0
   }
 ]
