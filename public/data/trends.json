@@ -438,79 +438,6 @@
     "views_hint": 0
   },
   {
-    "id": "4a9400763772b52fe3",
-    "slug": "polar-vortex",
-    "keyword": "polar vortex",
-    "title": "polar vortex trend tracker",
-    "description": "polar vortex is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: The Weather Network.",
-    "category": "public-health",
-    "geo": "CA",
-    "search_volume": "2000+",
-    "traffic_label": "2000+",
-    "published_at": "2026-11-11T03:20:00+00:00",
-    "updated_at": "2026-11-11T04:29:26+00:00",
-    "score": 2000,
-    "source_url": "https://trends.google.com/trending/rss?geo=CA",
-    "sources": [
-      {
-        "title": "Polar vortex is on the brink of a historic reversal. What now, Canada?",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOWHkwUmZUd3U2RE5haGc4bEVDNG9QWEdGQkRNZVdpeWk2Y2gtcGxtWkVDOEpoUjZVOFdoSmQxNGk3M19IV2RwbGpLNGdHMlllcHdkX3ZDQ1h1TGV0bjFlNU94Uy1nOGttc0s1R2R4VVpYUkljZHlGR3R1UzJWLUJxaWlrVmM5SUZOZGYwSVVOdU9TaUdkT0RaUzU4X19FVDVlWXlDSl9veTIwM21JaE9IVERyajV4UU1WLXBFSkR3MlRLdXlqcUE?oc=5",
-        "source": "The Weather Network",
-        "published_at": "2026-11-10T21:55:00+00:00",
-        "summary": "Polar vortex is on the brink of a historic reversal. What now, Canada? The Weather Network Polar vortex faltering weeks earlier than ever recorded Japan Today Wisconsin Weather: Could a polar vortex create cold and snow this week? FOX6 News Milwaukee"
-      },
-      {
-        "title": "Dangerous ozone hole widened by polar vortex in 2026, Boulder researchers say",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zblF1TDZBcnhaY2NGM2VnZmU1RzcwVzd0b0ZBMjdmazdqSkN5M2daY0tVb09wckhZd2R3VHZPaWdtaXE4SEJZUlRYR2RwRkpfLWFueXF0RWVweWpyNTlPclZSaEZ0Q3pSZU9UVTUzczJNUEMzeGd4TjBrWkE?oc=5",
-        "source": "The Colorado Sun",
-        "published_at": "2026-11-10T11:08:00+00:00",
-        "summary": "Dangerous ozone hole widened by polar vortex in 2026, Boulder researchers say The Colorado Sun"
-      },
-      {
-        "title": "The UK Just Got 2 Cold-Health Alerts As Polar Vortex 'Weakens'",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMHZyeS1TcU5ncEVfa29CZzltVXpaakFiODZqRzlVQXh1SUdDUlJ6b0NiTFczYTRGdWxYSUZMQURmY0xZaUlTdGp1bF9ReVRud2E0aVRMTTRRTFlPRTZvNWtIMHZVX1M3cm5mY0NtaXFYMHpHLTBHM1p0c2x4U1E0SVBjcGtCdW9iVGJsVkZvZ3hHajdiZ2xOMUpReUdPQ1l6X1RNUXFsZFBSTFE?oc=5",
-        "source": "HuffPost UK",
-        "published_at": "2026-11-10T14:42:24+00:00",
-        "summary": "The UK Just Got 2 Cold-Health Alerts As Polar Vortex 'Weakens' HuffPost UK"
-      },
-      {
-        "title": "The polar vortex is causing trouble at the South Pole",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOYWt3RFY3bFFaaHg4clc1Y3FYZGpqOHU2TFluUWw5alAyWEx0TWJtM0owWEFGZkpjbklhc1lORVlMYlJ1eE90WkhOc0lKQ051TUt4d0pDRzVBQzdzNTZWNkFDM19hM2Q4SzRnU3NwWkx2MTMtbmllN1Q1Y2lnU0xwckNwZW54RVhfVS1Wd1g5Z2VnSGNzbjlrallhekVSekhKc2xycg?oc=5",
-        "source": "USA Today",
-        "published_at": "2026-11-08T14:53:00+00:00",
-        "summary": "The polar vortex is causing trouble at the South Pole USA Today"
-      }
-    ],
-    "related_queries": [
-      "Polar vortex is on the brink of a historic reversal. What now, Canada?",
-      "The polar vortex is about to go haywire",
-      "The polar vortex just made history: what does this mean Canada?"
-    ],
-    "map_focus": {
-      "label": "United States",
-      "lat": 37.0902,
-      "lng": -95.7129,
-      "zoom": 4
-    },
-    "seo": {
-      "title": "polar vortex Live Trend Tracker | HantaUpdates",
-      "description": "polar vortex is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links witho",
-      "canonical": "https://hantamap.online/trend/polar-vortex",
-      "keywords": [
-        "polar vortex",
-        "polar vortex tracker",
-        "polar vortex updates",
-        "polar vortex live updates",
-        "polar vortex outbreak",
-        "polar vortex symptoms",
-        "polar vortex public health",
-        "polar vortex source links"
-      ]
-    },
-    "first_seen_at": "2026-11-11T04:29:26+00:00",
-    "views_hint": 0
-  },
-  {
     "id": "10c8699433c594d781",
     "slug": "mpox",
     "keyword": "mpox",
@@ -7497,6 +7424,79 @@
       ]
     },
     "first_seen_at": "2026-05-10T15:38:16+00:00",
+    "views_hint": 0
+  },
+  {
+    "id": "0198530790626915a1",
+    "slug": "polar-vortex",
+    "keyword": "polar vortex",
+    "title": "polar vortex trend tracker",
+    "description": "polar vortex is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: CNN.",
+    "category": "public-health",
+    "geo": "NG",
+    "search_volume": "100+",
+    "traffic_label": "100+",
+    "published_at": "2026-11-12T20:40:00+00:00",
+    "updated_at": "2026-11-12T21:44:20+00:00",
+    "score": 100,
+    "source_url": "https://trends.google.com/trending/rss?geo=NG",
+    "sources": [
+      {
+        "title": "This winter, it’s polar vortex versus El Niño. Round one starts now",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONlV6dUhfbXNHamdIcUNadDc0Y09GaFJqRUVqd0NqaktnQ1BaTmJVWTlSRDY3LTZYblc0Q1NJMklSdkxUbzJVbTlWcnhYYW5GNGl4VUpISm15Z1l3aGtuMGVFb0RQQTNOS192YWFWZ0dPR2RfbW1JSVpZcUttYkZBQzMtZHJ4c0h6WjU1Z01SUQ?oc=5",
+        "source": "CNN",
+        "published_at": "2026-11-12T10:00:15+00:00",
+        "summary": "This winter, it’s polar vortex versus El Niño. Round one starts now CNN The Polar Vortex Is About to Make Weather Weird From the UK to the US WIRED Record-early weak polar vortex could chill US by Thanksgiving week The Weather Channel The polar vortex just made a historic reversal. What now, Canada? The Weather Network Polar vortex faltering weeks earlier than ever recorded Japan Today Canada could be in for a dramatic weather shift after historic polar vortex reversal Time Out Worldwide Polar vortex breaks down in \"sudden\" shift that clashes with El Niño Newsweek Will N.J. get snow from polar"
+      },
+      {
+        "title": "UK weather: Arctic air drops temperatures below zero as UKHSA issues cold health alerts",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nOWNXMG1NOVk3bkNWdE1qYXVEbEQzMkJha19CeGlXX1RUbWNwY1JxYmF0TmdsM3ZwOUlJY05iT09kYXZVMVlYa3lYLUoyRjZLR1B1SzVhbWhfN2h6anJB?oc=5",
+        "source": "BBC",
+        "published_at": "2026-11-12T07:10:33+00:00",
+        "summary": "UK weather: Arctic air drops temperatures below zero as UKHSA issues cold health alerts BBC"
+      },
+      {
+        "title": "New Winter 2026/2027 Forecast: A Snowier Shift and a Mid-Winter Polar Vortex Signal",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNaUxaYWE5OEFuU3pkeGNEdUR4YkVEQTZPUDd0MTIzZVNDQ1R2OXlkUnRlanA1ZEhqdFVRWDlNTmlLbkRrd2VfQkc0Mjd1QTFZWlNVT3dOMGtYRjZFUnI1X2dPY21IZ0NLNUE5em9OOE5HNDR3Uy1DVmhsTEgzdkJXSThMTm9zbTQ5Q1d1dmVNRkZIcVFnNkFuN2lfb2xCLTBPX1FGMlcyNnRzUHMxWGU3YW1qdHFSbW9OYi1LRFphcWNGcUI1eWNXLURaZnIyMWVRaWFSOUtBUkJDWGM?oc=5",
+        "source": "Severe Weather Europe",
+        "published_at": "2026-11-12T08:24:54+00:00",
+        "summary": "New Winter 2026/2027 Forecast: A Snowier Shift and a Mid-Winter Polar Vortex Signal Severe Weather Europe"
+      },
+      {
+        "title": "Polar vortex could disrupt forecast for a warmer El Niño winter",
+        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOM1FzMERENDFhaGdyb1NaNk9Iekh0UjJMbGxUR3NXVWxqQlIwaGZVck0yQXRNcVY2T3N0RFhSZU9sSHR1U1F3TWpoUFlvV1FaUDlXc01IQ2VSd3RJLXlLUkc5ODZHMzBHbm9Fd0Q5cnZ4aHJlY3ZYMGtGYlRQSUl3bWVHQWs5eWtNWFV6WGI5cE11R2NBelZvOWp5VUtPcGhB?oc=5",
+        "source": "Scripps News",
+        "published_at": "2026-11-12T20:05:40+00:00",
+        "summary": "Polar vortex could disrupt forecast for a warmer El Niño winter Scripps News"
+      }
+    ],
+    "related_queries": [
+      "The Polar Vortex Is About to Make Weather Weird From the UK to the US",
+      "Arctic polar vortex breaks down early: Will India's winters be affected?",
+      "Polar vortex explained as Met Office warns of colder weather"
+    ],
+    "map_focus": {
+      "label": "United Kingdom",
+      "lat": 55.3781,
+      "lng": -3.436,
+      "zoom": 5
+    },
+    "seo": {
+      "title": "polar vortex Live Trend Tracker | HantaUpdates",
+      "description": "polar vortex is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links witho",
+      "canonical": "https://hantamap.online/trend/polar-vortex",
+      "keywords": [
+        "polar vortex",
+        "polar vortex tracker",
+        "polar vortex updates",
+        "polar vortex live updates",
+        "polar vortex outbreak",
+        "polar vortex symptoms",
+        "polar vortex public health",
+        "polar vortex source links"
+      ]
+    },
+    "first_seen_at": "2026-11-11T04:29:26+00:00",
     "views_hint": 0
   },
   {
