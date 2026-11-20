@@ -2284,6 +2284,72 @@
     "views_hint": 0
   },
   {
+    "id": "2294e127087ee55d72",
+    "slug": "lichte-vorst",
+    "keyword": "lichte vorst",
+    "title": "lichte vorst trend tracker",
+    "description": "lichte vorst is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Dignity Memorial.",
+    "category": "public-health",
+    "geo": "NL",
+    "search_volume": "500+",
+    "traffic_label": "500+",
+    "published_at": "2026-11-20T10:30:00+00:00",
+    "updated_at": "2026-11-20T10:53:00+00:00",
+    "score": 500,
+    "source_url": "https://trends.google.com/trending/rss?geo=NL",
+    "sources": [
+      {
+        "title": "Patricia Vanderhoeven Obituary - Hughson, CA",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTDgyZ3RCUUROY1B0YnBCTnNELVRzbVpjU2gtRnQ3eHA4Tm9TYVBJc3R5OWtjTi13VWticTJWeW96b0JBcGVkRXBqcGJ2eUtJY3dWSzNDb3pzelUtbk1HcEQwclRjbEkxMFd4U2NMRHVwUENubmExMDZRRVNFcUlLNjA1ejQxNmlSZHQw?oc=5",
+        "source": "Dignity Memorial",
+        "published_at": "2018-04-09T07:23:14+00:00",
+        "summary": "Patricia Vanderhoeven Obituary - Hughson, CA Dignity Memorial"
+      },
+      {
+        "title": "Leo en Mirjam uit Haulerwijk overleden op cruiseschip. Hantavirus mogelijke doodsoorzaak",
+        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMkhxVjhmc2hwZ25fS2pKVDJGM3JMdzFBdWhvNjZCY0lSd3pNUDRWbGVEVVZ2em0zRVowR0dCbjcwQU8ydTNMNmtvX3VWYVNwTERodmtQOWNyQkxYMUhoeW85c0lPc0NFMFhVcERJRG1zNjFWV19pU05pNHpRc2ptR05rNWl6NEZCS2tjeGR0MnpCVWJjaHNsejJibEctS1lBRmgxZ2xqWUFNcEszTlh4YlI0WkIxWG5YRDN3WV9OaXdWdndMVHMzMlA0bEJLdVU?oc=5",
+        "source": "DVHN",
+        "published_at": "2026-05-04T07:00:00+00:00",
+        "summary": "Leo en Mirjam uit Haulerwijk overleden op cruiseschip. Hantavirus mogelijke doodsoorzaak DVHN"
+      },
+      {
+        "title": "Tranen in Groningen bij vrijlating indianenactivist Leonard Peltier. ‘Zo jammer dat Frits dit niet meer kan meemaken’",
+        "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQMUN5M1Z4T0dycDNYeEFnRFNtV0xFYUtTVWlPSWM4cGZlNnhlSmxEXzhJNzl2QVVtejFuT2NTcjlnOFlLeG5iY2t0aEF0ZDdvUW1taUNmaWtMQ1BTT3FPc0tpUlFYcjhhQ3YydnJ6U21kWGJ3XzBLdGRxdUJZZDlkQnlUMmdKLVNDeFllaWk0WUZHTm82bkprMFplbVYtVkFIbFFmRUYwS083aEZoNldXUXhFbFBxUjdjVUU0T0xPcXRhVmlnLUhwdC1TNXprQk9qcHdIRWpGaFVGSU1BUzFTc1dqTS1idElLOHNISWlIM3BhTWVrZmFZU0JFdUYyVjE5?oc=5",
+        "source": "DVHN",
+        "published_at": "2025-02-23T08:00:00+00:00",
+        "summary": "Tranen in Groningen bij vrijlating indianenactivist Leonard Peltier. ‘Zo jammer dat Frits dit niet meer kan meemaken’ DVHN"
+      }
+    ],
+    "related_queries": [
+      "Haal je sjaal maar tevoorschijn: temperatuur duikt volgende week flink omlaag",
+      "Licht winterse week op komst",
+      "Nog even volhouden: zaterdag duidelijke weersverbetering"
+    ],
+    "map_focus": {
+      "label": "Multi-country / cruise travel",
+      "lat": 16.5388,
+      "lng": -23.0418,
+      "zoom": 3
+    },
+    "seo": {
+      "title": "lichte vorst Live Trend Tracker | HantaUpdates",
+      "description": "lichte vorst is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links witho",
+      "canonical": "https://hantamap.online/trend/lichte-vorst",
+      "keywords": [
+        "lichte vorst",
+        "lichte vorst tracker",
+        "lichte vorst updates",
+        "lichte vorst live updates",
+        "lichte vorst outbreak",
+        "lichte vorst symptoms",
+        "lichte vorst public health",
+        "lichte vorst source links"
+      ]
+    },
+    "first_seen_at": "2026-11-20T10:53:00+00:00",
+    "views_hint": 0
+  },
+  {
     "id": "e30f42ab7f8158c3cc",
     "slug": "shamonda-virus-france",
     "keyword": "shamonda virus france",
@@ -8592,79 +8658,6 @@
       ]
     },
     "first_seen_at": "2026-07-03T16:24:34+00:00",
-    "views_hint": 0
-  },
-  {
-    "id": "51f069c717ce6c6ab3",
-    "slug": "jorge-salinas",
-    "keyword": "jorge salinas",
-    "title": "jorge salinas trend tracker",
-    "description": "jorge salinas is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links without providing medical advice. Latest visible source: Barca Universal.",
-    "category": "public-health",
-    "geo": "MX",
-    "search_volume": "100+",
-    "traffic_label": "100+",
-    "published_at": "2026-07-01T03:10:00+00:00",
-    "updated_at": "2026-07-01T03:27:49+00:00",
-    "score": 100,
-    "source_url": "https://trends.google.com/trending/rss?geo=MX",
-    "sources": [
-      {
-        "title": "Racing Santander issue strong response amid Barcelona's interest in Jorge Salinas: 'We don't haggle over our players'",
-        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUFZOUmhOQ0djQUdDUGVGRzZhSjkxSElZa2U0azBlYkpFWElMNVprRnRuUXo0TlVqT2pBUWFpQ0xVOWMwN1hIMjRiMEFwTzBsVWRVTjFwMTkzaGxUTDZKZjlxR3NNNXRxRHhIRDNmQlg3R0RjTnhSekJ6X2Zxd0d6OUdRanpFNnZEXzB5MUJDZDdQV3NsdnpZR2xFa3FGbHlyTUxaTjJFX3o3a09pVGFpVnR1S0RCNGlmbXJwMHVVYlU4THdhQVdUU0tRaWV6RGs3SF96SnpfQQ?oc=5",
-        "source": "Barca Universal",
-        "published_at": "2026-06-30T06:42:57+00:00",
-        "summary": "Racing Santander issue strong response amid Barcelona's interest in Jorge Salinas: 'We don't haggle over our players' Barca Universal"
-      },
-      {
-        "title": "Barcelona finalizes €8M deal for defender Jorge Salinas",
-        "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YcllWaGlIU0RzM3k4T1FYV0Z4S3hyV2ZMenRnZlVUbXFwd3VCazFld2VJWmNVd0NqQjM2SUhEMUVNZHBldGFmTnNlaVhqVDdneXdoaDgtcDV3b25pSktrdGVrWU1mLThYbDZPSWVWMmJSajA?oc=5",
-        "source": "Crypto Briefing",
-        "published_at": "2026-06-25T16:47:06+00:00",
-        "summary": "Barcelona finalizes €8M deal for defender Jorge Salinas Crypto Briefing"
-      },
-      {
-        "title": "Five things to know about hantavirus from a Stanford Medicine expert",
-        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcU9yeGhXN3pfTHZHalRLTGhQUE05YndBQWtzWmZ1b0NHZFVXX0phcVl1ekltS1czSnhXQnFZWnFaU2JEMzBibkdpOTItVkRYb1NyYVd0U2NCTU9yMnNsSG9SSWJndm9uMkZ1WWU2UW5Sa2ZQMVpkaFdFVjZiWGI4czNCS3JxcklSVjhPWTRxNmxUNmE3a2p0Tw?oc=5",
-        "source": "Stanford Medicine",
-        "published_at": "2026-05-12T07:00:00+00:00",
-        "summary": "Five things to know about hantavirus from a Stanford Medicine expert Stanford Medicine"
-      },
-      {
-        "title": "Barcelona eye move for Racing Santander’s rising star Jorge Salinas",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXJabXZnQ0dFOF9qT0FpQ3kxUWZaTHN2VXRYM2dVVXBkUkF6WldaOHAySWVxc1l2aUJpbkx2c0JqOUx1dEQwTUJUSlVlNmRUbUFXcl9MeXdNRkNzU0dhLUNlV0R5enh5b2RyNzFNSU1lZ1BNM25rdU96cUd1YjMzQ1N2VlhiZWpaNU9V?oc=5",
-        "source": "Yahoo Sports",
-        "published_at": "2026-06-19T07:00:00+00:00",
-        "summary": "Barcelona eye move for Racing Santander’s rising star Jorge Salinas Yahoo Sports"
-      }
-    ],
-    "related_queries": [
-      "Dos decisiones sorprendentes que condicionan al FC Barcelona",
-      "Últimas noticias de fichajes del FC Barcelona: Andreas Christensen, Julián Álvarez, Jorge Salinas y más",
-      "Noticias de fichajes del FC Barcelona: Raphinha, Álvarez, Torres, Torrents, Balde y Koundé"
-    ],
-    "map_focus": {
-      "label": "Global",
-      "lat": 20.0,
-      "lng": 0.0,
-      "zoom": 2
-    },
-    "seo": {
-      "title": "jorge salinas Live Trend Tracker | HantaUpdates",
-      "description": "jorge salinas is currently appearing in public-health related search and news signals. This page summarizes context, related updates, and source links with",
-      "canonical": "https://hantamap.online/trend/jorge-salinas",
-      "keywords": [
-        "jorge salinas",
-        "jorge salinas tracker",
-        "jorge salinas updates",
-        "jorge salinas live updates",
-        "jorge salinas outbreak",
-        "jorge salinas symptoms",
-        "jorge salinas public health",
-        "jorge salinas source links"
-      ]
-    },
-    "first_seen_at": "2026-07-01T03:27:49+00:00",
     "views_hint": 0
   }
 ]
